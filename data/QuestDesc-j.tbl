@@ -1,0 +1,2041 @@
+2042
+Let's get to level 5!
+<name>
+[Reach Level 5]<BR><BR>In order to win in battle, it is important to have your attack ability strengthened. Attack the scarecrow in front of you to reach level 5.
+<name>! Stay with me! Don't think about anything else while you're training! Remembered the heroic tale of Deporozhu again?
+Equip your weapon, attack the scarecrow, and reach level 5!
+Well done. That's all the training for today! Lara was looking for you in the village, you should see her.
+questdesc-j.tbl8
+Level 5 Achieved
+\f>Quest Item \f=%s\f>was provided.
+You can \f=auto-attack by clicking on the target with the mouse and \fQdragging it down while attacking.
+Refer to the quest progress information at the bottom left of the screen.  Pressing the "Progress" will display detailed information.
+Good. Press "Finish Quest" in the quest details window. Or press Ctrl+N to complete it.
+skip
+Use Haste Potion
+Nothing better then fighting quicker.  Use the Haste Potion to attack and move faster.
+Nothing better then fighting quicker.
+I'll give you a Haste Potion to drink.  It will make you feel lighter.
+Use Haste Potion
+Polymorph
+Try using the polymorph scroll
+[Use Polymorph Scroll]<BR><BR>In order to move and attack faster, there is a way to polymorph. Let's use the Polymorph Scroll.
+Let me give you some advice on how to fight more effectively this time.
+I'll give you a Polymorph Scroll, you can use.
+Use Polymorph Scroll
+Fighting Monsters
+Defeat Slime
+Come on! It's time to practice. You must defeat the 10 slimes in front of you. You can do it!
+Let's go! It's time for the final drill! You must defeat the 10 slimes in front of you!
+I'll give you your reward when your done. Don't give up!
+Well done! Now, get back to the village and find Lara!
+Defeat Slime
+Do you want to move to the hunting grounds?(Y/N)
+Is this the place where the Earth Dragon Antharas lives? The air is kind of heavy...
+Deporozhu, I feel an unearthly powerful force coming from under the ground.
+Don't let your guard down. The Earth Dragon Antharas is not an easy opponent to fight.
+You've come this far. Way to go, Deporozhu!
+I'll teach you how to navigate. To navigate, click on the location you want to go to.
+Go to the location indicated on the screen. It's not difficult.
+I'll teach you how to use potions. If you want to use potions conveniently, you can register them in the shortcut window.
+You little bastards! I'll grind you up myself!
+The scales of the Earth Dragon Antharas cannot be pierced by ordinary weapons. You need to use the True Dark Lord's Execution Sword.
+I give you the True Dark Lord's execution sword! Use it to attack the Antharas!
+Open the items and double-click on the True Dark Lord's Execution Sword to equip the weapon!
+One last attack! Antharas! This is your grave! Take that!
+How dare a mere mortal harm me...! When I regain my full power, I will destroy Aden once again!
+Suspicious
+Kill Murian in the Spider Cave.
+Defeat Murian who threaten people in the Spider Cave North of Claudia.
+Recently, everyone in the village has been attacked by spiders and is frightened. Could you please investigate?
+The spider is vicious and seems to attack people whenever it sees them. This mail should help.
+You've been dealing with some vicious spiders, haven't you? You're getting pretty good at fighting them, aren't you?
+Kill 5 Murians
+In order to become as strong as Deporozhu, you must listen to me, your master!
+Why the half-fish are going crazy.
+Kill the half-fish and get 5 black shards.
+Defeat the vicious half-fishmen that inhabit the Northeast of Claudia.
+There's something wrong. Not only the spiders, but even the half-fish are becoming more and more violent.
+We have to stop the half-fish from running wild and find out why they've gone crazy.
+Is this...? Was the shard filled with dark energies inside the half-fishman's body?
+This much magic is not the work of an ordinary dark wizard. No way...!
+Obtain 5 Black Shards
+Okay, that's enough chatter. The last exercise for today is to attack that scarecrow over there and get to level 5. Easy, right?
+Suspicion
+Examine the Orcs
+Collect the Orc Totem at the Orc settlement West of Claudia.
+Brave sir! I'm suspicious of the orcs that are performing the totem ritual. Could you please bring me some of their totems?
+Thank you for your help. This totem is full of the spirit of the dead...
+This chi may have something to do with the Castle of the Dead!
+Obtained 10 Fear Totems.
+Obtained 10 Dark Totems.
+Obtained 10 Totems of Destruction.
+Talk to \f=me before you train. \fQI'll cast a spell on you to speed up your attack speed. Good luck then.
+King of the Dead
+Go to the Castle of the Dead to find out what the black chi is.
+Use the Sword of Einhasad to defeat the King of the Dead at the Castle of the Dead, located beyond the Orc settlement.
+This totem is filled with the spirit of the dead. Something terrible must be going on in the castle of the dead.
+Claudia has a weapon that has been blessed by Einhasad. It will be useful if you take this sword with you.
+What the...? The name Kelenis came from the mouth of the King of the Dead?
+Well... that was the work of that dark wizard, wasn't it? Perhaps we'll need the Guardian's help. Let's go back to the village.
+Defeat King of the Dead
+\f=Complete the quest.\fQIf you do, you can accept the next quest.Don't forget to press "Finish Quest". 
+Ginos, Guardian of the Earth
+You must cleanse the underground world of the corrupted guardian Ginos.
+Use the Detection Scroll to defeat Ginos in the underworld south of Claudia.
+I'm sorry to impose on you such a troublesome request. But I'm pretty sure it was Kerenis, and I can't leave it any longer.
+Seeing that there was no response from the guardian gods, Kerenis' magic must have already affected him to that extent.
+You must go to the underground cave south of the village to meet Ginos, the guardian of the earth.
+So...Kerenis's magic power has reached a level where it can corrupt even the guardian of the earth...!
+That means the other guardians are in danger...
+Defeat Ginos
+Don't you dare regret challenging me here! My servant, make them disappear!
+Saku, Guardian of Water.
+You have to purify Saku, the guardian of water, in the swamps east of Claudia.
+Defeat Saku while using the antidote potions.
+There's no response from Saku, the guardian of water! Just like Jinos, Saku must also be experiencing something strange.
+Saku's poison is very dangerous. Take this cyanide potion!
+Brave Master! I haven't been able to reach the elders of my village for days. I've been going to the temple of Einhasad every day to offer my prayers...
+I am worried that I might be involved in some kind of incident there. Please protect the elders. I beg you.
+Take down Saku.
+Drag the potion to the F5 shortcut window at the bottom of the screen.
+Go to the Temple of Einhasad.
+Defeat the spirit kings of the four elements.
+The key to the Einhasad Temple is in the possession of the fallen spirit kings. You have to defeat them to get the key to the Einhasad Temple.
+Wait! The Temple of Einhasad isn't open to everyone. You'll need a key to get there.
+The key is in the possession of the spirit kings who guard the temple. However, it is highly likely that they too have already been corrupted.
+You must put them out of their misery and make your way to the Temple of Einhasad.
+So you got the key! I hope the elders are safe... go to the temple and find them!
+Defeat Earth Spirit King.
+Defeat Water Spirit King.
+Defeat Wind Spirit King.
+Defeat Fire Spirit King.
+Thank you for your help.
+The Temple of Einhasad in the Darkness
+Cleanse the dark air that spreads in the Einhasad Temple.
+The Temple of Einhasad is originally a sacred place dedicated to Einhasad, the God of Life, and his five children. You must cleanse the temple of the darkness caused by the dark wizard Kerenis.
+Damn it! Kerenis why do you want the power of the Temple of Einhasad!
+How dare you defile this place, you dark wizard... ugh!
+Elders! Pull yourself together! Oh, no... why... why would the Elder...
+Ha-ha-ha! You made it this far, didn't you? But I'll take all the magic power here.
+Hey! Kerenis is going to absorb all the power in the Temple of Einhasad! We have to defeat her!
+Even though he's a Death Knight with incomplete power, he's still able to defeat her... that's pretty impressive!
+But I've already gotten all the magic in this place. My last present is waiting for me at Claudia's castle, so stay tuned. Hahahaha!
+Defeat Death Knight.
+This time, I'm going to teach you about magic, a powerful tool that can turn the tide of battle.
+Defend Castle Claudia.
+Destroy the Guardian Tower in Claudia Castle.
+The evil Dark Wizard Kerenis' goal is to corrupt Claudia completely. Her evil hand has reached Claudia Castle. Head to Claudia's castle and destroy the Guardian Tower, which contains her magical power.
+Welcome, my friend. I'm sorry to hear about the elders but you must pull yourself together.
+I didn't know that Kerenis was targeting Claudia's castle as well. I'm not sure how a single soldier can withstand her magic power, which even the guardian gods couldn't withstand.
+Go to Claudia Castle with like-minded heroes and stop the evil plot of Kerenis!
+Well done! Our losses were not small, but we held Claudia Castle!
+It seems that there is nothing more I can teach you. You must leave here and travel to the wider world where a greater challenges awaits you.
+Master Brave, please wait! I will concentrate my power into the divine magic crystal and what is waiting for me.
+Obtained Claudia's proof.
+New Quests
+Quest completed.
+What do you know about the Blood Pledges? No matter what difficulties lie ahead, you can always overcome them if you are with your friends.
+Why don't you try joining a Blood Pledge? You can press (Ctrl+Z) to find a Blood Pledge.
+Hmmm. It would be a good idea to introduce yourself on the Blood Pledge board to your friends who will be walking the same path in the future.
+Press (Ctrl+Z) to join the Blood Pledge. Remember, joining a Blood Pledge will give you an experience bonus.
+Oh, yes! This is a good opportunity to check the condition of the brave warrior-sama!
+Can you kill 20 Alligators, Crabman and Trogs each?
+So, you're Gunther's apprentice, huh? Let's see what you can do.
+A perfect test for a brave warrior like yourself! Kill 20 Alligators, Crabman, and Trogs each. This should be no problem for you, right?
+Hahaha... you're Gunther's apprentice? Can I ask you a favor?
+Kill the giant monsters you see over there and bring me their skin.
+These are the materials I need for my magical research. You can help me, can't you?
+Haha... you are indeed Gunther's apprentice. 
+Now I can continue my research, thank you.
+Haha... you're Gunther's apprentice? I have one favor to ask. You see those huge monsters by the water? Their skins can be used to create the magic I'm working on. How about you help me with that?
+Whoa! There's a dwarf... 
+A little more... whoa! You scared me!
+Not my father, but the elders told me to bring it over, but I can't do it by myself. I was wondering if you could help me.
+Oh, my God! You brought it already? You're are brave!
+Brave warrior, the elders told me to bring dwarf items, but I don't think I can do it alone. I was wondering if you could help me?
+I'm wondering what kind of materials are used to make the equipment those orcs are wearing.
+Do you think we can get it by defeating them? I think you can do it.
+Good job! Watching you grow little by little reminds me of Deporozhu.
+You see those orcs? They're monsters that wear armor like humans and fight in packs. We need to see what kind of technology they use to craft their equipment. Bring me their equipment.
+Do you see the undead resurrected by evil magic...
+We must investigate the true nature of the evil magic that the dark forces have gathered.
+Bring me the equipment they're wearing. We need to see what kind of curse is on them.
+Well done... let's find a spell that can free them from their dark chains.
+It seems that the power of evil magic has become a curse that keeps the dead alive. Please free them from the curse. Perhaps the equipment they are wearing is cursed with magic.
+Well, I see Wild Fang. I remember when I first came to Claudia, the first monster I killed was Wild Fang.
+Wild Fang's skin is light and suitable for equipment.
+Go and collect their skins. I'll make a belt out of the skins and give it to you.
+Hahaha, you're pretty good. Here, let me give you a belt. You can try it on.
+Wild Fang skins are light and suitable for making equipment. Once you've killed them, you can process their skins into belts.
+Whoa!
+Are you surprised? In that forest, Bear and Tiger are fighting for the title of King.
+Can you go take a look and see who's likely to win?
+I'm sure Bear and Tiger will get along well from now on. Thank you very much.
+Bear and Tiger are fighting to see who is more worthy of being the king of the forest. Can you go and have a look at them to see which one is likely to win?
+Shh! This is the cave where the werewolves live. They attack us with their sharp claws.
+I'm thinking of using those claws to make a weapon... what do you think, do you think you can get them?
+They're sharper than I thought they'd be! Well, I liked it. It's going to make a great weapon!
+Werewolves use their sharp claws to deliver powerful blows. I'm thinking of making a weapon out of their claws, do you think I can get one?
+I heard a rumor that a giant Ant Queen has been haunting this area. They are supposed to be living quietly underground, but...
+It's a shame, but... if you find the Ant Queen, can you take her down so she can't come up to the surface?
+You can't miss the danger that is coming to Claudia.
+Thank you for your time. Ant Queen won't be coming to the surface again, will she?
+The giant Ant Queen is the reigning queen of the underworld. We don't know why the Ant Queen has come to the surface, but if we leave her alone, her minions, the Spiders, will also follow the Queen and invade Claudia. Please send the Ant Queen back to the underworld!
+The lizardman over there is also a potential threat to Claudia.
+Remember the training I taught you and fight them off. It won't be difficult.
+Defeat them and bring me the proof.
+Well done. You're better than I thought you'd be.
+Lizardmen are a race that moves in packs like orcs. If their numbers increase, they can become a threat to Claudia. Kill them and bring me the proof.
+You see that alligator in the swamp? The skin of that alligator is light and of good quality.
+I need to remake my current leather shoes...
+Can you take them down and bring me the skins?
+That's all I need, thanks!
+The alligator skins in the swamps are of good quality. I'd like to remake my current leather shoes... can you bring me some of their skins?
+Oh, the spirits...
+He is the Guardian protecting Einhasad.
+In its contaminated state, it would no longer be able to protect Einhazard.
+I need you to... cleanse them.
+How could this happen...Bless them, and thank you.
+This is what happened...the spirits that protect the goodwill have been contaminated...in their contaminated state, they will no longer be able to serve as Guardians of the Temple...defeat them and purify them.
+Defeat 10 Slimes
+Kill the slime at the northern entrance of Claudia.
+To make magic easier to use, register it in the shortcut window. Open the Magic window and drag the Blizzard to the F6 shortcut window.
+Hello, <name>! I'm "Lara". I've been looking for you for a while now.
+I heard that Master Gunther has been training you. Ehehe, but practice is not the same as the real thing!
+First, go unwind against the slime outside the village! Well then, have a good day!
+You did more than I thought! But no time to relax just yet, it's only the beginning!
+Defeat 10 Slimes
+Ruthless Fur Seal
+Defeat Nixes at the northern entrance of Claudia.
+Now, press F6 and use your magic!
+Hmm... you're Gunther's apprentice, <name>, aren't you? I heard that one of Gunther's apprentices is gaining strength but...
+Hmmm... you, would you be so kind as to discourage Nixes from causing trouble around the village?
+He may look charming, but he's a scary guy, so never let your guard down.
+Thank you for your efforts. Gunther is training his apprentices well, isn't he? I'm looking forward to seeing more of you.
+I'm looking forward to seeing more of you. Whatever the case, I'm sure the Nixes have learned their lesson.
+Kill 10 Nixes
+Wild power 1
+Defeat the Alligator deep north of Claudia.
+Naturally, the number of alligators has increased recently, and it has become a threat to the village. We need to reduce some alligators.
+<name>, did your body loosen a little? Recently, the number of alligators has increased, and everyone is scared.
+I have to get rid of some alligators. But there are people everywhere you can ask ...
+Hmm! I thought I was two years old, but  I think I'll do it a little.
+Defeat 10 alligators
+Destroy the crab epidermis
+Defeat the Clubman deep north of Claudia.
+Train in battle with big scissors and a clubman with a hard shell.
+Accumulating practical experience is the best training.  You can't be strong just by hitting Kakashi.
+On the northern hills of Claudia, there are clubmen with large scissors and hard shells.
+It looks like I've become a little stronger. Don't forget this feeling.
+Defeat 15 clubmen
+Evil sign 1
+Collect the black pieces after defeating the trogs in the trogg habitat.
+Trogg, who had a good relationship with humans, suddenly became ferocious. Find out about troggs in your area.
+<name>, is the training going well? Everyone has been complimenting you lately. It looks like you're doing your best.
+Recently, strange signs have appeared in Claudia. Trog, who had a good relationship with humans, suddenly became violent.
+How about investigating the area where the troggs live, also as a training?
+Mu? What happened? Did something come out of Trog's body?
+Obtain 10 black pieces
+Evil sign 2
+Collect black pieces in Trog's habitat and defeat their bosses.
+Someone who controls the trogg must be lurking behind. I have to reveal its true identity!
+This piece is filled with the evil feelings I had felt before in Claudia ...
+I need a little more sample for my research. Can you collect more of this piece?
+Mu? Did you mean that the Merman was behind them?
+Anyway, don't feel bad. I'll have to look it up in person. It was hard work.
+Obtain 15 black pieces
+Defeat one Merman
+Suspicious
+Defeat Murian in the Spider Cave north of Claudia.
+It seems that the mild Murians have recently begun to attack people. Defeat Murian.
+<name> -san! It seems that the villagers are being attacked by a terrifying spider!
+Would you like to defeat the spider? Yes, take this. I think it will be useful for <name>!
+Thank you for your hard work, was it difficult? But being able to defeat it means that you've become stronger!
+Thank you for your hard work, <name>.
+Defeat 10 Murians
+Dirty Bakuk
+Defeat Bakuk with Spider Cave and collect Bakuk's legs.
+Spider Cave has a lot of horrifying creatures, but the worst is probably the cockroach-like monster called Bakuk. Defeat them for Lara.
+Oh! Hey, now ... over there ... go, go ... cockroaches!
+Is there anything so unpleasant? I hate cockroaches the most in the world!
+Kill all the cockroaches around here!
+Kyaa! I asked you to defeat the cockroaches, but didn't you bring your feet?
+Hmm! <name> is terrible!
+Obtain 15 Bakuk's legs
+Magic ball material 1
+Defeat Giant Murian with Spider Cave and collect spider silk.
+The sticky giant Murian thread helps to connect the pieces of magical crystal together.
+How about training, <name>? I have a request. I noticed it while investigating the evil spirit.
+It's been peaceful here for so long that I've never needed a magic crystal ...
+So, first of all, can you bring the thread created by the giant Murian? I asked.
+well done. However, it is still not enough to fully put the magical power into the crystal.
+Obtain 5 spider silks
+purification
+Clean up dirty debris at Claudia Falls.
+To the north of Claudia is a sacred waterfall blessed by Einhazard. Use the water from the waterfall to cleanse the dirty debris.
+I've come often, <name>! I checked the ingredients of the evil spirit that you brought me the other day ...
+Oh! That's right! I forgot. Please clean up the fragments.
+Thank you. It seems that we can investigate in earnest with this.
+Obtain 1 Purified Fragment
+Don't be fooled by the appearance
+Defeat Fangs on the hill north of Claudia.
+Beyond Claudia's Spider Cave, the beautiful rainbow-covered hills are home to small, hard-to-attack Fangs. Learn how to fight small enemies.
+<name>! There are various enemies in this world. If you continue to practice in the future, you may be fooled by the appearance of the other party.
+If you can feel the "killing" hidden in the opponent without being confused by the appearance of the opponent, you will not be distracted in front of the enemy.
+Fangs inhabiting the northern hills of the village will help in this practice.
+well done! Looking at you, don't remember the old Depoloju.
+However, there is still more. I hope you will continue to devote yourself.
+Defeat 15 Fangs
+Don't be fooled by the appearance 2
+Defeat the Turtle Dragon on the hill north of Claudia.
+There are enemies in this world like Fangs, but there are also huge enemies like the Turtle Dragon. Now train yourself to fight big enemies.
+How do you feel about fighting an enemy smaller than you?
+There are small enemies like Fangs in this world, but you can also meet enemies that are many times larger than you.
+How was it different from when you fought an enemy smaller than you?
+<name>! Don't forget this feeling. More enemies are waiting for you.
+Defeat 20 turtle dragons
+What is the identity of the skeleton?
+Defeat Crustacean on the hill north of Claudia.
+There is a rumor that the shell of Crustacean, a huge monster, is a skeleton if you look closely. Find out if this is true.
+Hello, <name> 's. Is the training going well? I heard a scary story a while ago and I can't sleep at night ...
+What's the story ... on the northern hills of Claudia ... It's about the shell of a monster called "Crustacean".
+The shell of Crustacean is a huge skeleton! It's amazing, isn't it?
+Ho ... ho ... was it true? Hmm, scary!
+Defeat 20 Crustacean
+Enemy in the air
+Summon the Wyvern at the top of Claudia and then defeat it.
+The highest point of Claudia is the wyvern that controls the sky. Invite with a wyvern-stimulating wand and then fight enemies in the air.
+Did you come <name>? I'm looking forward to seeing you getting stronger little by little through training.
+Now, receive this "Wyvern Summon Wand".
+Learn how to fight against enemies attacking from the air against the Wyvern!
+The enemies in the air would have been different from the enemies on the ground. It was hard work. Take a break.
+Defeat 3 Wyverns
+Goblin Subjugation
+Defeat the goblins west of Claudia.
+If you want to break the guard's nose, you have to beat the goblins easily.
+This Aoni Production! What's your name?  Did the fact that you are alive have escaped from the battle?
+Recently, goblins have begun to make noise outside the village ...
+Defeat the goblins and calm the turmoil! I wonder if it was possible!
+Huns! It ’s just a goblin! Don't worry!
+Defeat 20 Goblins
+Defeat 10 Hobgoblins
+Dwarf Subjugation
+Defeat the dwarves west of Claudia.
+The guard captain still doubts your power. Defeat the dwarves and show off your strong appearance.
+Stop it, guard captain! <name> is doing his best for everyone!
+Lara ... but I still can't trust the power of this guy.
+Have you seen it? This is the power of <name>!
+Defeat 20 dwarves
+Defeat 10 Dwarf Warriors
+Knoll subjugation
+Defeat Noor Kobold, west of Claudia.
+Defeat Noor and Kobold inhabiting Claudia and show your strength to the guard captain this time.
+Certainly I was looking at you sweetly. I apologize for that.
+But I'll show you your power again!
+Hmm ... I think I'll do it.
+Hmm ... <name>, don't feel bad about the guard captain. That person is also working hard for Claudia.
+Defeat 20 Kobolds
+Defeat 10 Noor
+Magic Crystal Material 2
+Defeat the wolf in the Claudia Forest.
+A terrifying wolf is devouring the herbs needed to restore the magic crystal. Defeat the wolf.
+How are you Thanks to the help I received last time, the restoration of the crystal has progressed.
+However, it is necessary to collect the herbs necessary for restoration in the forest, but the wolf suddenly begins to rampage ...
+Would you like to squeeze the wolf in the forest?
+Huh. Originally it wasn't such a wild creature ... Why did this happen ...
+Defeat 30 wolves
+Magic Crystal Material 3
+Defeat the bear in the Claudia Forest.
+Following the wolf, even the calm bear has begun to rampage. Please make the bear quiet.
+Hmm ... It seems that Wolf wasn't the only one who went crazy. It is said that even the calm bears have begun to attack people.
+Can you make the bear quieter this time?
+The reason why the animals went wild is probably related to the case of the Merman.
+Defeat 30 bears
+Magic Crystal Material 4
+Defeat Tiger in the Claudia Forest.
+The strongest beast, Tiger, seems to have lost control. If you leave it as it is, people will be attacked. Please stop the tiger.
+It seems that it wasn't just Wolf and Bear. Even the tiger who didn't show up in public ...
+I heard that it has recently begun to attack people. Don't underestimate the power of Tiger, please be careful.
+What is the reason why wild animals have become like this ...? Anyway, I had a hard time, <name>. I'm in a hurry, so excuse me for this.
+Defeat 20 tigers
+Wild power 2
+Collect wild leather in the Claudia Forest.
+No matter how much equipment you wear, it doesn't make sense if you don't have the power. Bring wild leather to make good quality equipment.
+<name>! Haven't you neglected to practice? Today I'll tell you the importance of equipment for you.
+One action is more important than one hundred words. Bring a variety of boar skins to the forest in Claudia.
+How is it? Armor made from this tough leather should help you practice.
+questdesc-j.tbl368
+Obtain 50 pieces of wild leather.
+Wild Power 3
+Defeat Wild Magic and Wild Venom in Claudia's Forest.
+The variant boar is terrifying because it fights with a combined force. You have to withstand its attacks.
+It's easy enough to deal with them one by one.Some enemies become more troublesome as their numbers increase.
+Wild Fang, Magic, and Venom are just a few of them.
+I'm sure that this experience will help me climb to a higher level.
+You can get materials and trainings.
+That's what I call killing two birds with one stone. Hahaha!
+Kill 20 Wild Magic.
+Kill 20 Wild Venoms.
+Helm Production
+Make a leather helmet in the Orc Village.
+Somewhere in the Orc settlements, there is an Orc craftsman who can craft equipment that transcends the barriers of race. Find him and ask him to make you a Helm.
+The wild leather you brought with you is too hard for ordinary people to process.
+It means that the processing of this skin requires the power of a different species, one that is not human.
+From what I've heard, there are some skilled craftsmen among the orcs...
+You've succeeded. Do you understand the minds of other species a little better now?<BR>Haha, you're right.
+questdesc-j.tbl387
+Obtain 1 Leather Helmet of a Practitioner
+Signs of Death
+After defeating the orcs in the orc settlement, gather the totems.
+There must be a connection between the recent outbreak of evil spirits and the orc's suspicious totem ritual. Examine the orc's totem.
+Hello, <name>! Apparently, the reason why the monsters around the village have become so violent is because of the evil chi.
+Lady Lara. I have recently received information that orcs have been performing suspicious rituals with totems.
+Are you sure? If so, that means the orcs are suspicious. <name>, could you please go check on the orc totem?
+Is this their totem? I sense a creepy chi...
+This is...! I can sense the spirit of black magic in this totem!
+Obtained 10 Fear Totems.
+Obtained 10 Dark Totems.
+Obtained 10 Destruction Totems.
+Orc Scouting Party
+Kill the orcs in the orc village.
+Orcs are a fearsome race that combines strength and intelligence. The only way to bring them to their knees is to instill fear deep into their hearts.
+<name>! I heard that the orcs are up to something fishy. Do we have to fight orcs? They are powerful and intelligent at the same time.
+This is a tough opponent. The only way to bring the orcs to their knees is to make them fear you with overwhelming power.
+The only way to win against an enemy without fighting is to instill fear! Do you understand?
+You look awfully tired. You've done well.
+questdesc-j.tbl407
+Kill 50 Orcs.
+Orc Scouts 2
+Kill the Orc Archers and Orc Fighters in the Orc settlement.
+You have yet to bring the Orcs to their knees. Defeat the Orc Archers and Orc Fighters to instill more fear in them.
+After killing a few Orcs, they don't seem to be afraid of us.
+To instill fear in them, we must defeat the stronger Orcs.
+questdesc-j.tbl414
+Do you have some understanding of how important psychological factors like fear are in combat?
+questdesc-j.tbl416
+Kill 30 Orc Archers.
+Kill 30 Orc Fighters.
+Suspicious Orc Settlement
+Gather Orc gear at the Orc settlement.
+If the Orcs are tainted with evil, then the equipment they wear must be tainted as well. Examine the Orc's equipment.
+It's still suspicious. There must be someone behind the orcs who is manipulating them.
+To find out for sure, we need to examine the equipment that the orcs are wearing.
+I need your help, <name>!
+This chi is also the chi of black magic!
+What? Was there another large castle beyond the Orc settlement?
+Obtained 20 Orchish Helm
+Obtained 20 Orchish Ring Mail.
+Obtained 20 Orchish Cloaks.
+Obtained 10 Orchish Shields.
+The power of Orcs
+Kill the orcs in the orc village.
+Even though they were terrified, the orcs are still gathering materials. It seems that something is pushing and supporting them.
+I was able to instill some fear in the orcs, but I still couldn't bring them to their knees.
+Perhaps there is a presence that is the heart and soul of the orc.
+Then we must find its presence in the orc settlement and smash it!
+You've done well! You should get some rest.
+questdesc-j.tbl438
+Kill 20 Orc Warriors.
+Kill 20 Orc Pikemen.
+Kill 20 Orc Swordsmen.
+Numerous enemies
+Kill more Orcs in the Orc settlement.
+After all, there were more powerful Orcs deep inside the Orc settlement. You must defeat those orcs and expose their schemes.
+I knew there were more powerful ones in the depths of the village.
+There may be something the orcs are hiding... or protecting.
+We have to defeat them and find out what they're up to!
+Did you gain anything from your fight with the orcs?
+You look like you've peeled your skin off.
+Kill 30 Orc Warriors.
+Kill 30 Orc Pikemen.
+Kill 30 Orc Swordsmen.
+The Watchman of Death
+Kill the skeleton knights that guard the gates of the castle of the dead.
+What the orcs were hiding and guarding was the Castle of the Dead. It is hard to believe that only orcs were guarding such an important place. I sense a powerful presence behind it.
+Elder, you are here?
+Was that castle what the orcs were protecting and hiding? Perhaps a dark wizard with considerable power has given Claudia an evil
+They will be plotting to spread the chi. I'm sure you'll be able to handle the investigation of that castle.
+What... undead?
+How powerful is this black magic... So much for resurrecting the undead!
+Kill 1 Skeleton Knight.
+Buddhism
+Defeat the wandering spirits on the first floor of the Castle of the Dead.
+On the first floor of the Castle of the Dead, there is a wandering spirit that has not been able to attain Buddhahood. Let these souls rest in peace and get some information about the Castle of the Dead.
+This castle was originally the tomb of an ancient Claudian warrior. One day he just disappears.
+Now, under the influence of black magic, it has become a place infested with the spirit of the undead. Mr.<name>, can you go check it out?
+I'm begging you!
+Did you say that the souls are the kings of the dead...?
+I can't believe I couldn't sleep when I was dead. Rest in peace for now.
+Kill 1 Hatred Spirit
+Kill 1 Grudging Soul
+Kill 1 Wandering Spirit
+Kill 1 Weeping Spirit
+Magic Crystal Materials 5
+Defeat Zombies in the Castle of the Dead and collecting their rotting meat pieces.
+In order for the restored magic crystal to withstand the evil energy, it needs to be something imbued with the energy of the undead. Zombies would be a good choice.
+That cemetery has become a castle for the undead... Magic Crystals are great aganist the evil energy.
+We need to make them immune to undead energy.
+If you ever go to the Castle of the Dead, bring me something with undead energy in it.
+You're a nasty piece of work, too. A piece of zombie flesh... Well, thanks for the help.
+<name>... that thing again... You're a tease.
+Obtain 30 Rotten Meat
+Overcoming the Undead 1
+Kill the Skeletons and Skeleton Pikemen in the Castle of the Dead.
+Unlike your previous training, this time your opponents are emotionless undead. You must fight them.
+When it comes to fighting the undead, it's going to be a whole lot different than the fights we've been having.
+The undead are emotionless beings... which means they don't feel fear or dread. This is a tough opponent.
+It will be a good experience for you to fight such an enemy. Well, go ahead.
+They're terrifying, the ones that come at you without fear.
+Looks like it was a good experience.
+Kill 20 Skeletons
+Kill 20 Skeleton Pikemen
+Overcoming the Undead 2
+Defeat the Skeleton Axeman and Skeleton Archer in the Castle of the Dead.
+You're not done yet. Overcome your fear of the undead by defeating the Skeleton Axeman and the Skeleton Archer.
+No, not yet!
+Get used to the undead, fight them all over again!
+questdesc-j.tbl498
+You're no longer afraid to fight the emotionless ones, are you?
+That confidence is going to help you. You've done it!
+Kill 20 Skeleton Axemen
+Kill 20 Skeleton Archers
+Bone Equipment Collection
+Collect bone equipment in the Castle of the Dead.
+Are you getting over your fear of fighting the undead? To find out, bring me a trophy made of bones.
+Fear of the undead can only be overcome through repeated combat!
+You may not be aware, but when your killing undead, your accumulating great experinces.
+Your training this time is to defeat the undead and deliver the spoils to me!
+This should help you get over your fear of the undead pretty well.
+Remember. There are countless beings in the world that are more terrifying than the undead! Whatever situation you find yourself in, don't turn away from your fear!
+Obtained 100 Bone Helm
+Obtained 100 Bone Armor
+Obtained 100 Bone Shields
+King of the Dead
+Defeat the King of the Undead at the Castle of the Dead.
+The time has come to defeat the King of the Undead. No ordinary weapon will work against him. Let's find that weapon.
+The spirits tell me that the King of the Undead has returned and is leading the undead.
+If they were that big, attacking them with ordinary weapons would not do much damage.
+Legend has it that a sacred weapon, blessed by Einhasad, lies dormant in the Castle of the Dead.
+That's fantastic!
+I can't believe you defeated such a huge opponent! You are the hero of Claudia!
+Obtained 1 Sword of Einhasad
+Defeat King of the Undead
+Guardian of the Earth Ginos
+You must defeat Ginos, the guardian of the earth, in the underground world.
+Claudia has a guardian deity who has protected Claudia since ancient times. First, you must find Ginos, the guardian of the earth, and ask him for advice on how to overcome the evil spirits.
+We may need the help of the guardian who have been protecting Claudia.
+Go find Ginos, the guardian of the earth, in the depths of the underground.
+questdesc-j.tbl529
+What? I heard that Ginos was corrupted? No...
+And... did the name "Kerenis" come up?
+Kill Ginos
+Enemies in the Dark
+Defeat the Werewolves and Lycanthropes in the underworld.
+South of Claudia there is an underground cave where Werewolves gather and live.  In the darkness, you will not be able to see them.
+In the dark, fighting in the abyss. Imagine such a battle.
+How can I fight my enemies in the dark?
+Actions over words. The werewolves of the underworld will give us the answer.
+Have you gotten to the point where you can feel the kill and react to it?
+But remember, there are some people in the world who can approach you while hiding their murderous intent.
+Kill 30 Werewolfs
+Kill 30 Lycanthropes
+Cursed being
+Defeat the trolls in the underground world.
+In the underground world filled with darkness, there are brutal trolls who like darkness. Defeat the trolls as a practice in the dark.
+Werewolves aren't the only ones living in the underground world
+Like the werewolf, it has a darkness-loving nature. However, the troll is more vicious.
+Defeat the trolls and be able to respond perfectly to the darkness.
+The quickness of werewolves and the strength of trolls are natural. But with more training, you can beat them.
+You could understand the importance of training.
+Defeat 50 trolls
+Underground treasure
+Look for the blessings of the earth in the underground world.
+The "Blessing of the Earth" with the sacred power of Claudia is said to be deep in the underground world. Please search all over and find out.
+As far as I know, there is only one Dark Wizard who can easily manipulate the undead.
+In order to prevent the fall of the whole of Claudia, we need a treasure called "Blessing of the Earth".
+You need to secure the treasure before it gets polluted by the evil demon's hands ... I asked!
+Fortunately, it seems that the existence of the blessing of the earth was unknown.
+It was hard work.
+Earn 1 Blessing of the Earth
+Angry cyclops
+Defeat Cyclops in the underground world.
+Cyclops seems to misunderstand the blessing of the earth as their own. Please correct their misunderstanding.
+It seems that a monster called Cyclops has misunderstood that his treasure has been stolen.
+The blessing of the earth was originally for Einhazard, who protects Claudia!
+Correct the misunderstandings of those monsters.
+Hard work. Let's tell everyone in the village that the danger is gone.
+dummy
+Defeat 10 Cyclops
+Black magic servant
+Defeat the Lizardman in the swamp.
+Kerenis's black magic has also affected the swamp lizardfolk. You can't reach Kerenis's whereabouts without breaking through them.
+Well ... I'm sure a dark wizard named Kerenis is using black magic to put Claudia in danger.
+In that case, the Tsuji 褄 of the events so far will match ...!
+It seems that a lizardman who gained power by black magic is attacking the village! <name>, please help!
+Unless you break the roots of black magic, these threats will continue ...
+Please continue to help, <name>.
+Defeat 40 Lizardfolks
+Lizard's natural enemy
+Defeat Lizardfolk after transforming into Cockatrice in the swamp.
+The natural enemy of the lizard, it is a bird of prey. Wouldn't it be best to transform into a natural enemy and defeat it in order to dismiss Lizardfolk?
+Didn't you have a hard time like Lizardfolk?
+That's what happens because you only have a very simple way of fighting!
+For me, don't choose a way to transform into their natural enemy, Cockatrice, and instill the greatest fear in Lizardfolk.
+how was it? Did it work?
+The guard captain will teach you how to do that ... You may have liked <name>!
+Defeat 15 High Lizardfolks
+Defeat 15 Mad Lizardfolks
+Defeat 15 Heavy Lizardfolks
+Transform into cockatrice
+Magic Crystal Material 6
+After defeating the Bluetail in the swamp, collect the Bluetail's tail.
+You know the identity of the enemy. The power of magical crystals is also needed to prevent the Kerenis plot. Collect the bluetail tails.
+Dark Wizard Kerenis! Was that dark wizard all the masterminds!
+The power of magical crystals is absolutely necessary to prevent his plot.
+Restoration of the crystal requires a highly regenerative bluetail tail. Can you bring it?
+It's a very lively tail.
+After all, this regenerative power is wonderful!
+Obtained 30 Bluetail Tail
+Magic Crystal Material 7
+Put magical power into the empty runes in the swamp.
+The day when the magic crystal can be completely restored is near. The next thing you need is a rune. Claudia's swamp is a region with a lot of magical power, but ...
+Most of the crystals have been restored.
+However, it lacks the most important element, magical power.
+Take the empty runes here and bring in the magic of Claudia's swamps.
+Power with ancient magical power ...
+This is the source of the mysterious magical power of Claudia.
+Obtain 1 glowing magical rune
+Obtain 1 shimmering magical rune
+Obtain 1 rune of terrifying magical power
+Joint attack training
+Defeat Ant Queen in the swamp.
+In Claudia's Swamp, there is Ant Queen, a powerful monster that can only be won by several people. Realize the importance of fighting your peers.
+In the process of training, you may come across a huge opponent that you can never win.
+In such a case, never try to overdo it alone.
+The power of friends to fight with you! I feel it in the battle with Ant Queen.
+Did you understand the importance of the power of your friends?
+Those who will be with you no matter what. That is a companion.
+Defeat 1 Ant Queen
+Water Guardian Statue Saku
+Defeat Saku, the guardian of water in the depths of the swamp.
+Meet Saku, the guardian deity who protects Claudia. It may be dominated by black magic. Please be careful.
+The fall of Zinos does not tell us what happens to the water guardian "Saku".
+Please look for Saku and ask for help. If Saku is also corrupted ... Only <name> can save Saku.
+I hope Saku is safe ...
+Even Saku was corrupted ...
+Dark Wizard Kerenis! I can't forgive you!
+Defeat one Saku
+Quick opponent
+Defeat the Killer Bee in the depths of the swamp.
+The swamp entangles your legs and immobilizes you as you wish. Complete the training to fight the killer bee without being able to move quickly.
+Not all battles take place on level ground as they have in the past. Have you ever thought about this?
+Where the battle takes place is also an important factor.
+Fighting a fast-moving killer bee in a swamp where movement is constrained should be a good experience.
+You have to gain various experiences to become a hero.
+No success without effort!
+Defeat 40 killer bees
+I want a bag
+Collect swamp crocodile leather in the depths of the swamp.
+Another thing to watch out for in swamps is the swamp crocodile that hides and attacks you. The goal of this training is to be able to respond to surprise attacks.
+The swamp alligator attacks while hiding himself, aiming for the opponent's gap.
+In particular, it is bad to be hit by an unpredictable attack with your foot in the swamp.
+If you can overcome the training that assumes that situation, no one will attack you.
+There is something that you can never find a chance.
+It's a terrifying opponent who can't make any surprise attacks. Haha!
+Acquired 40 Swamp Crocodile Leather
+Magic Crystal Material 8
+Collect pendant pieces in the depths of the swamp.
+Swamp Lamia has a Claudia day and night pendant. Bring it as it is the material needed to restore the magic crystal.
+The characteristics of Claudia's day and night are clearly separated. That spirit also changes from region to region.
+It is said that Lamia in the swamp has something with the feelings of Claudia's day and night.
+If there really is such a thing, it should help restore the magic crystal.
+What a mysterious pendant! Well done!
+dummy
+Obtained 30 pieces of pendant (sun)
+Obtain 30 pendant fragments (month)
+Key to the Temple of Ein Hazard
+Defeat the Spirit King and get the key to the temple.
+Unauthorized persons cannot enter the temple dedicated to Ein Hazard. It seems that the spirit king standing in the temple has the key.
+Dark Wizard Kerenis is likely to be targeting the Temple of Einhazard.
+The temple of Einhazard is full of the spirit of Einhazard who protects Claudia.
+To get there, you have to get the key from the spirit king who guards the temple!
+What was the fall of the spirit king ...
+So Kerenis may have already invaded the Temple of Einhazard!
+Obtain 1 key to the Temple of Ein Hazard
+Magic Crystal Material 9
+Collect the spirit souls after defeating them in the spirit area.
+It is the last material to make a magic crystal. We need the spiritual soul of Claudia.
+<name>! It's almost finished. After that, if there is a soul with a spirit hidden in it, the crystal will be completed.
+Originally I was asking the spirits, but now that they have fallen, there is no way to defeat the spirits.
+dummy
+Alright! Now you're ready!
+dummy
+Obtain 20 Fire Spirit Souls
+Obtain 20 Ice Spirit Souls
+Acquire 20 souls of the spirits of the earth
+Acquired 20 Wind Spirit Souls
+Completion of magic crystal
+Make a magic crystal in the village of Claudia.
+Thank you for your hard work. All the ingredients are ready. Make a magic crystal in the village of Claudia.
+I've done my best so far. Ask me to make a magic crystal in the village.
+I go to the Temple of Einhazard and stop Kerenis's plot at all costs.
+dummy
+Hmm ... Thanks to <name>, the magic crystal has been completed!
+thank you very much! By the way, where is the elder?
+Obtain 1 magic crystal
+Achieved level 50
+Do free training to reach level 50.
+Isn't it training just to be taught by a master all the time? This time, please complete the training with your own strength.
+He has followed me well until now. Thank you. You did it really well.
+This time, I will train alone without my teaching.
+Training alone will bring new discoveries.
+How about training alone?
+Did you miss this master? n/a…
+Achieved level 50
+Saiha altar
+Purify the altar of Saiha at the Temple of Ein Hazard.
+The altar dedicated to Saiha, the god of the wind, must be purified. Reject the evil beings.
+… The elder's sacrifice cannot be wasted!
+You must cleanse the Temple of Ein Hazard and absolutely stop the evil plot of Kerenis!
+First is the altar of Saiha, the god of the wind. Please be careful!
+Thank you for your hard work. Let's go to the next altar!
+dummy
+Defeat one nue
+Mahr altar
+Purify the Mahr altar at the Temple of Einhazard.
+The altar dedicated to Mahr, the god of the earth, must be purified. Reject the evil beings.
+Next is the altar of the earth god Mahr. It is a god who is said to have created a gnome.
+This is also full of evil. Please purify!
+dummy
+Thank you for your hard work. Let's go to the next altar!
+dummy
+Defeat one basilisk
+Altar of Faagrio
+Purify the altar of Faagrio at the Temple of Einhazard.
+The altar dedicated to Faagrio, the god of fire, must be purified. Reject the evil beings.
+Next is the altar of Faagrio, the god of fire. A god who is said to have created an orc.
+It's hot ... I feel the power of existence that seems to burn everything!
+Please be careful, <name>!
+Thank you for your hard work. Let's go to the next altar!
+dummy
+Defeat 1 Ifrit
+Siren's altar
+Purify Siren's altar at the Temple of Einhazard.
+The altar dedicated to Siren, the god of water, must be purified. Reject the evil beings.
+All that remains is the altar of the water god Siren. Now Eva is the goddess of water ...
+A god who is said to have created a beautiful race, the elf.
+The story has become long. Let's cleanse the unpleasant feelings here!
+Thank you for your hard work. Let's go to the next altar!
+dummy
+Defeat one Shelman
+Ein Hazard Altar
+Purify the altar of Ein Hazard at the Temple of Ein Hazard.
+It is the innermost part of the Ein Hazard Temple. The subordinates who are most trusted by Kerenis will interfere. Are you ready?
+The last altar is the altar of Ein Hazard, the god of creation. All the altars were stained with evil ...
+The altar of Ein Hazard may be the same. Are you ready for your heart?
+dummy
+It was a strong enemy ...
+The altar of Ein Hazard is dyed in the darkness ... The magical power of Kerenis is terrifying ...
+Defeat one Death Knight
+Defeated soldier processing
+Defeat the defeated soldiers in the Temple of Ein Hazard.
+I heard that the defeated soldiers of Kerenis are still in the Temple of Einhazard. Defeat the defeated soldiers to rebuild the Holy Temple.
+The remains of Kerenis's magical power still remain in the Temple of Einhazard.
+To completely purify the Temple of Ein Hazard, <name>! Please help me again!
+dummy
+Thank you very much. I hope Claudia can regain her original beautiful appearance ...
+dummy
+Defeat 5 Nue
+Defeat 5 basilisks
+Defeat 5 Ifrit
+Defeat 5 Shelman
+An enemy stronger than you
+Defeat Death Knight at the Temple of Ein Hazard.
+The knight of luck, Death Knight, was said to have had unparalleled strength before the war. Let him sleep peacefully.
+Death Knight ... He used to have a high reputation as a knight.
+However, he gradually lost his sanity due to the curse of the evil dragon, and eventually became a monster.
+Let him sleep peacefully as someone like him who strives for endless discipline.
+Death knight, peacefully ...
+dummy
+Defeat 5 Death Knights
+Get rid of Claudia's nuisance, Nix. Contrary to its cute appearance, it has a mean personality.
+Elder. Nyx is making a fuss outside the village.
+You could have heard the voice of mayhem. I'll show you your power only with your own eyes.
+It was hard work. Gunter is raising his disciples well.
+Lara-sama. Do you have any problems? Please say anything to this guy.
+What are you standing on? Can you run quickly?
+If you don't want to see painful eyes, be quiet.
+[Kill 10 slimes] <BR> <BR> Defeat slimes to understand the basics of battle.
+Oh, elder! My intuition is that <name> will be stronger in the future!
+Hmm ... <name> ...
+Uh ... I feel ominous ...
+Is there a half-fisherman? That should be ...
+<name>! Receive this. I hope it will be useful for training.
+Spiders have never attacked people ...
+Spiders pose a human threat.
+In any case, some material is needed to infuse the crystal with magical power again.
+It's awkward because it's not just a matter of mind.
+Elder, Claudia has a holy waterfall! The waterfall may be able to purify this spirit!
+As expected, it is holy water that contains the blessing of Ein Hazard! The evil spirit has disappeared like a lie.
+Now I'll show you how to fight when you meet someone bigger than you.
+Can you check if this rumor is true? I wish it was a lie ...
+If you do what you have done so far, this training should not be difficult.
+I disagree ... <name> I have a feeling that there are endless possibilities!
+Okay, then I should show you more of <name>'s power, right?
+If you're up to that point ... Hey! You'll also defeat dwarves similar to goblins.
+Is this before breakfast?
+Yes ... (I'm still ...)
+Stop the Kobolds and Knolls who are domineering. Remind yourself that Claudia doesn't belong to them.
+But <name> should be able to satisfy the guard captain.
+The animals seem to feel different than usual ... This ominous feeling ...
+Elder, elder! What's wrong? In such a hurry ...
+Don't smell weird ...
+I'll look into other suspicious places. Please leave the report as Lara.
+Wait, this is full of danger. Receive this.
+It will prolong your life, albeit a little.
+Look for that weapon. It's the perfect weapon to fight the undead, with holy power.
+Hard work. And thank you! <name>!
+... I thought I was dead. Bad luck guy ...
+That's a good way! If it's a makeover scroll, there was something I made last time ... oh!
+Thank you, Guard Captain!
+Death knight is not an easy opponent. But <name>, you could give him a rest.
+Therefore, gain experience with clubmen. Gaining experience through battle will help you.
+You will probably need the power of magical crystals.
+Use this wand at the top of Claudia and you'll be magically drawn to the Wyvern.
+<name>! come on!
+Finally, let me tell you how to fight more effectively. Now, try using this \f= transformation scroll \fQ.
+If you can transform, \f= quick attack speed and movement \fQ will be possible. It's always a good idea to transform yourself if possible.
+Haha! You've transformed into a pretty cool figure!
+This is the end of all training. It's time to leave the village! \f= Claudia \fIt's been a while since I returned to Q.
+The Merman attacks with a powerful poison. You should use it because you will be given a cyan potion.
+Try using the confirmation scroll provided as a reward for the item. You should read the explanation about the item as well.
+Press \f= Ctrl + N \fQ to complete the quest. A complete list is displayed.
+If you talk to me, I'll send you to where Lara is.
+Hahahaha! You've come this far so often! When I resisted, death is just waiting!
+Shall I show you where the Elder Claudia is dying?
+Are you going to get in the way? It's useless. I'm going to take power here and take over the will of my Lord.
+Come on, faithful soldiers! Kill those in front of you!
+Dedicate their bodies to me!
+My husband, Kerenis! Everything is for you…
+Hahaha! Must be so! Claudia also has a child with bones!
+I have to go looking for "power", so I'll leave it to you.
+As you say, my husband ... Now ... soldiers ... I'm going to kill them ...
+The enemy has already lost his soul to Kerenis ...!
+Unfortunately, they have no choice but to sleep peacefully. I have to break through the castle gate anyway!
+Charge!
+Press Ctrl twice to turn on PVP Mode to proceed with the defensive battle!
+Alternatively, click the PVP button with the mouse to turn it on. Did you understand?
+Feel the power of darkness from inside the gate ... Focus on destroying the gate! Let's go inside!
+They ... stop ...
+well done. I was able to destroy the castle gate! Now you can enter the castle and destroy the Guardian Tower!
+Are there any insane soldiers in the castle ...! Defeat without leaving any one ... No ... I have no choice but to give a rest.
+You succeeded in invading! Can you see a huge tower in front of you?
+That is the Guardian Tower with an evil spirit. \f= Use Magic Wand \fQ to destroy the Guardian Tower!
+Uh ... I'm going to get in the way until the end! My minions, go! Stop them!
+It was hard! The Guardian Tower, the source of evil power, was destroyed. But Kerenis missed it ...
+I'll be waiting for you at Claudia. <BR> Lara and you have a story.
+Eat practitioner's herbs
+[Eat 3 herbs] <BR> <BR> Eat herbs to restore your hungry cage.
+Now, I have to eat breakfast. Open the possession item column and try eating herbs.
+Press the Tab key to open the inventory field. Did you know without bothering to teach?
+If you eat about three, you will get bloated.
+How is it? Have you finished eating? Keep in mind that a full hunger gauge has its advantages.
+Uh ... what the hell ... couldn't you stop Kerenis ... Retreat!
+Use of combat consumables
+[Use Combat Consumables] <BR> <BR> The combat health recovery potion restores reduced HP, and the speed-up potion lightens your body. Herbs also fill your hunger gauge and increase your natural recovery.
+Now let's teach you how to fight more efficiently.
+Try using the item I gave you. Did you know that you can open the possessed item field by pressing \f= Tab key \fQ?
+Combat health potions restore your HP in an emergency, and speed-up potions increase your speed. Will be useful in combat.
+Herbs fill your hunger gauge and increase your natural recovery. It's good to remember.
+Uses health recovery potions for combat
+Use speed-up potions
+Use herbs
+You can go back to the village by using the \f= village return scroll \fQ you received as a reward or by talking to me.
+Do you want to \f= move to the area around the quest immediately \fQ? (Y / N)
+To reach level 5
+[To reach level 5] <BR> <BR> Attack Kakashi to become \f= level 5 \f>. You can also perform an automatic attack by dragging the mouse off the screen during the attack.
+<name>！
+<name>! come on! Don't think about anything else during training! Did you remember the hero Tan of \f= Depoloju \fQ again?
+\f= Depoloju \fTo be as strong as Q, listen to my master's words!
+That's all for chatting. Attack Kakashi there and become \f= level 5 \fQ. Can you do it?
+\f= Talk to me before training. \fQ I'll use magic to speed up the attack.
+To reach level 5
+You can \f= automatic attack \fQ by clicking the target with the mouse and dragging it down during the attack.
+It's good. Press \f= Ctrl + N \fQ to complete the quest.
+Please note that the next quest will not occur unless you complete the quest.
+Use of combat consumables
+[Use Combat Consumables] <BR> <BR> The combat health recovery potion reduces \f= HP recovery \f>, and the speed improvement potion \f= lightly \f> the body. Also, eating herbs will fill your hunger gauge and allow you to use \f= Cry of Survival \f> to restore your strength.
+Now let's teach you how to fight more efficiently.
+I'll pass \f= item \fQ so use it. Do you know that you can open the possessed item column by pressing \f= Tab key \fQ?
+The combat health potion will restore \f= HP \fQ in an emergency, and the speed-up potion will \f= speed up \fQ quickly, which will be useful in combat.
+Transform Scroll makes the figure \f= Transform \fQ so that you can fight more effectively. If you transform, it will look better, haha.
+I won't learn here anymore. All you have to do is learn in practice. \f= Talk to me. \fQ
+Uses health recovery potions for combat
+Use speed-up potions
+Purchasing herbs for practitioners
+Use transformation scroll
+Practical training
+[Practical training] <BR> <BR> The waterside is a good place for beginner heroes to practice in Claudia. Walk freely through the hunting ground to \f= level 25 \f>, pass through \f= Spider Cave \f>, and defeat \f= 10 wyverns \f> that appear overhead.
+To reach level 25
+Defeat the wyvern
+Spider Cave Survey
+[Spider Cave Survey] <BR> <BR> Spider Cave is home to more powerful monsters than waterside areas. Defeat the monsters there and collect the black pieces.
+Collecting black pieces
+dummy
+Don't do it more than you think. Hard work. I've come to the village, and I'd like to introduce the manager here.
+Hello, <name> san! Nice to meet you! I'm Lara \fQ, the good messenger of \f= Claudia!
+\f= Mr. Gunter \fQ is listening to the story. If you have any questions about Claudia, please feel free to talk to us.
+Now, let's say hello. \f= Adena \fQ will be given to you, so \f= General store in the west of the village \fQ should buy what you need.
+Resurrected Dark Ruler
+[Resurrected Dark Ruler] <BR> <BR> \f= Claudia \f> is guarded by \f= Black Witch Kerenis \f>. This has revived \f= Anaklen in the grasslands south of Claudia, the King of the Castle of the Dead, and the Underworld Dragon Zinos. \f= Eliminate the crisis of Claudia while Lara, the messenger of goodness, casts protective magic.
+It's hard! and ... Suddenly \f= Black Witch \fQ appeared and broke the barrier magic!
+Hahaha! \f= Claudia \fQ is over. Can you guys stop me?
+This is ... If the barrier is broken, the monsters sealed in \f= Claudia's Southern Meadow \fQ will be resurrected!
+<name>! Get ready for battle! \f= Head to the Southern Meadow \fQ and defeat the resurrected monsters!
+Give \f= Return Amulet \fQ so that you can return to the village in case of a crisis during the battle. Hurry up and have no time!
+Defeat Anakren in the Meadow
+Defeat the King of the Dead
+Defeat the underground dragon Zinos
+Collect oak totems
+[Collecting Oak Totems] <BR> <BR> \f= Oak \f> is different from other monsters in that it builds a society and lives. This seems to have been formed in developing the magical culture of \f= totem \f>, but further investigation is needed. Defeat the orcs in the \f= orc settlement \f> and collect the \f= totems they have \f>.
+Orc Warrior Totem Collection
+Oak Pikeman Totem Collection
+Orc Warrior Totem Collection
+True animal king
+[True Animal King] <BR> <BR> \f= Bear \f> and \f= Tiger \f> have begun to fight to decide which is more suitable for Claudia's True Animal King. It's better to see which one wins.
+Defeat Bear
+Defeat the tiger
+Fine skin collection
+[High quality skin collection] <BR> <BR> \f= Wild Fang \f> \f= Skin \f> is soft and durable, so it is said to be the material most preferred by Claudia residents. It's hard to get, but it's a good quality skin, so it's a good idea to get \f= collect \f>.
+Wild leather collection
+Revenge for sharp wounds
+[Revenge of sharp wounds] <BR> <BR> \f= Claudia \f> residents have been injured after being attacked by monsters appearing in the underground world. Defeat the monsters in \f= Underground World \f> to prevent such an incident.
+Defeat the werewolf
+Defeat the lycanthrope
+Defeat the troll
+Defeat Cyclops
+Defeat the resurrected corpse
+[Defeat the resurrected corpse] <BR> <BR> \f= With the resurrection of the King of the Dead \f>, \f= Undead \f> Monsters are beginning to resurrection. If nothing is done, Claudia will be under the control of the messenger's king. Defeat them and collect \f= bone piece \f> to prevent further resurrection.
+Skeleton bone piece collection
+Make the ghost a Buddhahood
+[Ghost to Buddhahood] <BR> <BR> \f= Castle of the Dead \f> was originally a tomb for those who died in Claudia. However, \f= Resurrection of the King of the Dead \f> has caused \f= Undead \f> monsters to appear in the tomb. As a result, \f= ghost \f> that has been resurrected with powerful power appears around \f= tomb \f>. Defeat them before they get any more power.
+Defeat the ghost
+Find the legendary sword
+[Find the Legendary Sword] <BR> <BR> \f= Castle of the Dead \f> Somewhere there is a sword that can seal \f= King of the Dead \f>. Find it.
+Find the legendary sword
+well done. Time is scarce, go back to \f= village \fQ. I'm waiting.
+To reach level 45
+Thank you, <name>! Thanks to that, the threat that threatened \f= Claudia \fQ has disappeared.
+However, I cannot be alert yet. \f= Kerenis \fQ must be plotting another plot.
+I don't know when I'll be in crisis again. Find the consumables and look for \f= Guard Captain \f> in the village to see if you saw Kerenis.
+It's hard! Hey ... Kerenis is at the Ein Hazard Temple where the elders came!
+And dad ... Hey ... the elder is dangerous! <name> -san! Find \f= Elder \fQ!
+\f= Elder \fQ should be in the temple \f= Prayer Room \fQ. \f= I need a blessing to go to the prayer room \fQ ...
+\f= Saku in the Swamp, Defeat the Spirit King \fQ, and their souls should be \f= Key \fQ to enter the prayer room.
+<name>! I will strengthen the security of the village with \f= Lara \fQ. Now defeat \f= Swamp Saku and Spirit King \fQ and go to the prayer room!
+Defeat Saku in the swamp
+Defeat the Spirit King
+To reach level 53
+Defeat Lizardman
+[Defeat Lizardman] <BR> <BR> \f= Lizardman \f> is a clever monster that moves in groups. The \f= Lizardman \f>, which became stronger with the advent of \f= Kerenis \f>, seems to be plotting to invade the village of Claudia. Defeat them and protect the village.
+Defeat Lizardman
+Defeat High Lizardman
+Defeat Mad Lizardman
+Defeat the Heavy Lizardman
+Defeat Ant Queen
+[Defeat Ant Queen] <BR> <BR> \f= Ant Queen \f> suddenly appears in \f= Swamp \f>. At this rate, other spiders will rise to the ground to follow \f= Ant Queen \f>, and \f= Claudia \f> will be in danger. Defeat \f= Ant Queen \f> and protect the peace on earth.
+Defeat Ant Queen
+Very poisonous Lamia
+[Very poisonous Lamia] <BR> <BR> \f= Lamia \f> is a beautiful monster that appears in \f= Swamp \f>. However, it is a terrifying monster that devours an opponent who has been fascinated by its beautiful appearance. \f= Claudia \f> needs to be defeated to save it from the crisis.
+Defeat Green Lamia
+Defeat Blue Lamia
+Evil alligator subjugation
+[Brutal Alligator Subjugation] <BR> <BR> \f= Kerenis \f> has made \f= Alligator \f> more ferocious. If nothing is done, the ecosystem of \f= swamp \f> will be destroyed. Defeat \f= Alligator \f> to protect the ecosystem.
+Swamp alligator subjugation
+Spirit test
+[Spirit Test] <BR> <BR> \f= Ein Hazard \f> is protected by the attributes \f= Spirit \f> of soil, water, wind, and fire. When you're ready to enter the temple, defeat them and prove your abilities.
+Defeat the spirit of fire
+Defeat the spirit of water
+Defeat the spirits of the earth
+Defeat the spirit of the wind
+Appearance of the Great Spirit
+[Appearance of the Great Spirit] <BR> <BR> \f= Great Spirit \f> is \f= Senior Spirit \f> who was reborn more strongly after the disappearance of \f= Spirit \f>. You need to defeat many \f= spirits \f> to meet them. Keep defeating \f= Spirit \f> to defeat \f= Great Spirit \f>.
+Defeat the spirit of flame
+Defeat the spirit of snow and ice
+Defeat the spirit of the earth
+Defeat the spirit of the storm
+\f= The key to the prayer room \fQ has been handed over. Please go to \f= prayer room \fQ as soon as possible. <BR> If something happens to \f= Elder \fQ ...
+Elder in crisis
+[Elder of Crisis] <BR> <BR> \f= Kerenis \f> has invaded \f= Temple of Einhazard \f> \f= Prayer Room \f>. Perhaps it was aimed at \f= elder \f> who is praying in it. In order to enter the prayer room, you must defeat \f= Saku and the Spirit King \f> that appear in the swamp to prove your qualification. Defeat them as soon as possible.
+Training supplies supply
+[Supply of training supplies] <BR> <BR> We will provide the necessary items for training.
+Have you reached level 15? will give you a present. Please do your best!
+Wow, congratulations! I will continue to support you!
+Achieved level 30
+[Achieved Level 30] <BR> <BR> Congratulations on achieving Level 30. We will give you a better gift when you reach level 45.
+Have you reached level 30? will give you a present. Please do your best!
+Achieved level 45
+[Achieved Level 45] <BR> <BR> Congratulations on achieving Level 45. We will give you a better gift when you reach level 55. <BR> <BR> Trainer's Japanese beef steak: Damage reduction +2, short-range damage +2, etc. <BR> <BR> Trainer's salmon boiled: Damage reduction +2, long-range damage +2 etc. <BR> <BR> Trainer's turkey grilled: Damage reduction +2, SP +2 etc. <BR> <BR> Trainer's chicken soup: Damage reduction +2, experience value bonus + 4%
+Have you reached level 45? will give you a present. Please do your best!
+Achieve level 55
+[Achieved Level 55] <BR> <BR> Congratulations on achieving Level 55. Please keep doing a good job.
+Have you reached level 55? will give you a present. Please do your best!
+Thank you for your hard work! That's amazing!
+This is the end of the gift. I'm sorry, but I've been supporting you all the time!
+Join Blood Pledge
+[Join the clan] <BR> <BR> Press the community window (Ctrl + C) button to join the clan.
+Join the clan! You can enjoy various benefits!
+Congratulations! Enjoy your adventure with your clan members from now on!
+Blood Pledge
+Defeat bats
+Defeat Bakuk
+Defeat Murian
+Defeat the Merman and Trogg
+[Kill the Merman and the Trogg] <BR> <BR> \f= The Merman \f> and \f= the Trogg \f> are said to attack people at the water's edge. Show your pain before it causes damage to the village.
+Defeat the Merman
+Defeat Trog
+Defeat Fangs
+[Defeat Fangs] <BR> <BR> Small and cute \f= Fangs \f> has been growing recently. Defeating them may drop \f= cyan potion \f>. You can use it when you get poisoned.
+Defeat Fangs
+Anacren's Claw Acquisition
+Acquiring the Heart of the King of the Dead
+Ginos Blood Acquisition
+Meadow Anakren
+[Anakren in the Meadow] <BR> <BR> \f= Anakren \f> is a giant spider queen whose upper body is in the shape of a woman. After being attacked by \f= Gunter \f>, he has been hiding for a long time, but with the advent of \f= Kerenis \f>, \f= Anaclen \f> appears again in \f= Claudia \f>. Revealed. Defeat him.
+Defeat Anaclen
+Ginos in the Underworld
+[Ginos in the Underworld] <BR> <BR> \f= Zinos \f> is a \f= dragon \f> who lives quietly in the meadow \f= cave \f>. However, it became evil under the influence of \f= Kerenis \f> and became a threat to \f= Claudia \f>. Defeat him.
+Defeat Ginos
+King of the dead
+[King of the Dead] <BR> <BR> \f= Claudia \f> The huge \f= Castle \f> in the southern grasslands is home to the king who once ruled \f= Claudia \f>. It was a castle that was out. However, he was blinded by greed and fell into \f= undead \f>, and was sealed by the success of \f= Gunter \f>. Recently revived under the influence of \f= Kerenis \f>. Seal him again.
+Defeat the King of the Dead
+Dragon holy water collection
+[Dragon's Holy Water Collection] <BR> <BR> \f= Lara \f> is in the prayer room to tell the story that \f= Kerenis \f> is in danger of \f= Claudia \f>. = I said I had to tell the elder \f>. You need \f= Lara's Blessing \f> to enter the prayer room. You must defeat the \f= Dragon Saku and Cashew \f> that haunt the swamp to obtain holy water.
+\f= Gunter \fQ! \f= Kerenis \fQ contains information that headed for Claudia Castle!
+Ah! \f= Claudia Castle \fQ is not Dad ... but \f= Elder \fQ is praying. I have to tell you this!
+<name>, you have to make a key to enter the castle. You need the holy water of the swamp Saku and Cashube.
+<name>! Immediately go to \f= South Swamp \fQ and defeat \f= Saku \fQ and \f= Cashew \fQ to bring holy water!
+I have to devise a strategy to defeat \f= Kerenis \fQ. <BR> You should be able to do it!
+Now go to \f= Claudia Castle \fQ and look for \f= Elder \fQ. <BR> Please be safe ...
+Saku's Holy Water Acquisition
+Acquiring Holy Water from Cashube
+Defeat Saku in the swamp
+[Defeat Saku in the Swamp] <BR> <BR> \f= Saku \f> is a \f= Dragon \f> that lives in the Swamp, and \f= Magic that causes the opponent to temporarily lose their recovery ability. It is a powerful monster that uses. Be careful.
+Defeat Saku
+Defeat the lightning cashew
+[Defeat the lightning cashew] <BR> <BR> The swamp \f= cashew \f> is a dragon with the ability to manipulate lightning.
+Defeat Death Knight
+[Defeat Death Knight] <BR> <BR> \f= Kerenis \f> invades the castle, injuring \f= Elder \f>. Defeat the monster summoned by \f= Kerenis \f>, go to the last \f= Dark Room \f> and defeat \f= Death Knight \f>.
+The elder is the innermost room of the prayer room. <BR> I hope nothing happens ... Kusun.
+Hahaha! It's true that you'll come this far! <BR> As expected, he is a disciple of Gunter ... Kukuku ... But the temple is already under my control!
+Kerenis! Dad ... I won't forgive you if you touch the elder instead!
+Is that old man? Haha ... It was a hindrance, so I asked him to shut up a little.
+Was it late? Huh! <BR> <name>! Defeat Kerenis!
+Hahaha! You don't have to wait for you anymore. Death knight! <BR> Do it with them!
+Defeat Death Knight
+Thank you for saving Claudia. <BR> Fortunately, the elder was not seriously injured.
+This is all thanks to <name>. Thank you very much. <BR> Kerenis will also be plotting another plot in a place we don't know ...
+Let's see what's going to happen through this crystal. Please approach ...
+<name>! What happened? Be firm!
+I'll start training. Get in good condition!
+Herbs and speedup
+[Herbs and Speed ??Up] <BR> <BR> Try using one herb and one haste potion.
+Eat herbs
+Drink Haste Potion
+Information is displayed on the left side of the screen when a new quest occurs. <BR> After checking, try using herbs and potions.
+thumbs up. Eating herbs can fill your hunger gauge and increase your natural resilience. Drinking speed-up potions will speed up movement and attack.
+To reach level 5
+[To reach level 5] <BR> <BR> Attack Kakashi to reach level 5.
+Now attack Kakashi in front of you.
+Now, check the contents of the quest and proceed as before.
+Achieved level 5
+Defeat waterside monsters
+[Defeat waterside monsters] Defeat monsters around the waterside.
+here we go! I'm going to the hunting ground. You can go to the hunting ground by opening the quest information and pressing move.
+thumbs up! Next, go north to Spider Cave.
+Defeat Nix
+Defeat the clubman
+Defeat Trog
+Defeat the Merman
+From here on, it's practice. If you run out of potions, come to me. Give me a new potion.
+Next time I'm going to the cave. The cave is in the north.
+thumbs up! Take the north exit and proceed with the next quest.
+This is Spider Cave. Be careful because there are many spiders.
+Oops ... there's a big guy over there. If you can beat him, you're good. Try it.
+Defeat a huge monster
+[Defeat a giant monster] <BR> <BR> Defeat Crustacean and Turtle Dragon.
+Fight against that huge monster.
+thumbs up. Next time, fight against a small opponent. Fangs and so on.
+Defeat Crustacean
+Defeat the Turtle Dragon
+Now, defeat Fangs. Those little guys sometimes drop cyan potions.
+thumbs up! Finally, cross the north bridge and defeat the boss Wyvern.
+Defeat the Wyvern over the bridge.
+Defeat the wyvern
+[Defeat the Wyvern] <BR> <BR> Defeat 3 Wyverns.
+It's the final touch. Defeat 3 Wyverns.
+thumbs up. I'll give you a return amulet, so come back to the village.
+Attack training
+[Attack Training] <BR> <BR> Attack the training Kakashi to achieve \f= Level 5 \f>.
+Welcome to the basic training ground. <BR> Let's start training from now on!
+Attention! First of all, training to attack the opponent. Attack the surrounding \f= Kakashi \fQ!
+That should be enough. Receive rewards when you complete your mission!
+It's pretty good. There is a highlight.
+Achieved level 5
+Use the item
+[Use Item] <BR> <BR> \f= Trainer's Strengthening Speed ??Up Potion \f> and \f= Trainer's Hero Transformation Scroll \f>.
+Let's start the next training. <BR> In this training, I will teach you how to use items.
+You will be given a potion to improve the speed of strengthening the trainee and a hero transformation scroll, so press \f= F6 \fQ and \f= F7 \fQ to use it.
+That's fine. Did you get to move faster? <BR> Remember, it's very important to attack quickly.
+Uses potions to improve the speed of strengthening trainees
+Trainer Hero Transformation Scroll Use
+Practical training
+[Practical training] <BR> <BR> Defeat Nix and Clubman who appear on the waterside of Claudia.
+Now that the basics are over, let's put it into practice.
+Move to the waterside area and defeat the monsters. <BR> \f= Move position \fYou can move to the hunting ground by pressing the Q button.
+All right. Receive a reward.
+It's good.
+Defeat Nix
+Defeat the clubman
+Defeat Trog
+Defeat the Merman
+Collecting black pieces
+[Collect Black Fragment] <BR> <BR> Defeat the monsters that appear in Spider Cave to get \f= Black Fragment \f>.
+Now, let's raise the difficulty a little. <BR> Now open the quest list and go to Spider Cave.
+Recently, a black fragment was found on Spider Cave. <BR> Investigation is needed.
+Get black pieces
+Defeat a huge monster
+[Kill a giant monster] <BR> <BR> Defeat the giant monster that appears north of Spider Cave.
+By the way, defeat the monsters that appear in the north of the cave!
+Defeat Crustacean
+Defeat the Turtle Dragon
+Defeat Fangs
+Defeat the wyvern
+[Defeat the Wyvern] <BR> <BR> Defeat 5 Wyverns and show your courage to the training instructor.
+It's an interesting guy. I want to try your limits. <BR> Have you ever fought the Wyvern? Haha.
+If you get injured, I'll see you directly. You're at the entrance to the village.
+Defeat the wyvern
+To Claudia Village
+[To Claudia Village] <BR> <BR> Use the Return Amulet to go to Claudia Village.
+Great! It's not inferior to Claudia's elite soldiers. Return to Claudia Village and meet Lara.
+\f= Return Amulet \fQ can be used to return to Claudia Village.
+Use Claudia Return Amulet
+Achieved level 23
+Quest progress completion notification message
+Claudia Siege
+[Claudia Siege] <BR> <BR> Destroy the Claudia Gate and Guardian Tower to defeat Kerenis.
+Destruction of the castle gate
+Guardian Tower Destruction
+Defeat Kerenis
+From now on, the Claudia siege battle will begin!
+When attacking, click the target with the mouse and drag it to \f= automatic attack \fQ.
+This is a beginner hunting ground suitable for training. <BR> Defeat the \f= monster \fQ around you.
+Don't do it. <BR> As expected, you have something to see.
+Growing up through hunting can make you stronger, but <BR> I'll show you a slightly easier way.
+I'll give you a scroll that can improve the performance of your armor, so use it for <BR> \f= armor \fQ.
+That's it! That's fine. <BR> This is the end of this mission. Let's get the reward.
+Would you like to try a little difficult training? <BR> Go to \f= Spider Cave \fQ this time.
+Don't forget that you can easily move with \f= move position \fQ.
+You've arrived at Spider Cave. <BR> Defeat the monsters here and collect \f= black pieces \fQ.
+You can easily pick up the dropped items by pressing \f= F4 \fQ.
+If you feel dark, use the \f= lantern \fQ you have. Press <BR> \f= Tab key \fQ to open the possessed item column.
+Have you already collected it? When you receive <BR> \f= Helm \fQ, press \f= Tab key \fQ to equip it.
+This will allow you to defeat a little stronger monster.
+It was hard work. You can move to the next area with \f= move position \fQ this time as well.
+The basic training is about to end. <BR> A little more, do your best!
+Can you see the huge monsters around you? <BR> This time, defeat that huge monster.
+Haha is wonderful. As expected. <BR> It seems that you were a little underestimated.
+If your HP drops, use potions. You can use it easily by pressing <BR> \f= F5 \fQ.
+Haha, it seems that this mission was also easy. <BR> \f= Boots \fQ should also be equipped. Press the \f= Tab key \fQ, right?
+Now, let's do \f= last training \fQ here.
+After crossing the northern bridge, \f= Wyvern \fQ will be infested. <BR> This is the last time, get enthusiastic.
+I've finally finished the basic training. <BR> I believe you can overcome the challenges ahead.
+It was really hard work. I don't feel like I saw my face after a long time.
+Now, let's give it a full-fledged mission. Are you ready for your heart?
+You arrived safely! I will continue to use the return amulet in crisis situations. It is convenient to use the \f= mouse \fQ and drag it to the \f= shortcut slot \fQ.
+Enchant the armor
+[Enchant Armor] <BR> <BR> \f= Use the Trainer's Armor Enhancement Scroll \f> to enchant \f= Trainer's Armor \f>. \f= Double mouse click \f> to use for the item.
++1 Armor production of practitioners
+Uh ... Kerenis seems to have occupied Claudia Castle! <BR> Talk to \f= Theon \fQ in the temple and come to the castle!
+Return to the village
+[Return to Village] <BR> <BR> Use the Return Amulet to return to Claudia Village.
+Use Claudia Return Amulet
+Use the practitioner's armor-enhanced scroll
+Come to the village using the \f= Return Amulet \fQ you received as a reward.
+I've prepared a present for you, receive it. <BR> It should be useful in battle.
+Good luck to the next level.
+A beautiful waterfall that Claudia is proud of. <BR> Try to get closer. Your physical strength will recover.
+Receive this too. <BR> It will be useful when dealing with Kerenis.
+Don't forget to talk to me and receive \f= supplies \fQ when you arrive at Claudia Castle.
+Use the practitioner's armor-enhanced scroll
+Wizards should use magic rather than direct attacks. <BR> \f= energy volt \fQ registered in \f= F8 \fQ would be good.
+Elves can use bows to attack from a distance. <BR> But don't neglect the check as you will need \f= arrow \fQ.
+\fEvil Blood \fQ will allow you to attack faster. <BR> \f= True Target \fQ is a magic that specifies the opponent.
+\fBrave Potion \fQ turns your fears into courage, <BR> allowing you to attack and move quickly.
+The \fElven Waffle \fQ with the power of the elf makes the body lighter. <BR> \f= Body to Mind \fQ is a magic that restores MP.
+\f= Fireball \fQ can be used at level 16. <BR> \f= Fireball \fQ is a wide area magic that can attack many enemies at once.
+Dark Elves use \f= Dark Stone \fQ for a variety of purposes. <BR> \f= Bring Stone \fQ is a magic that transforms black magic stones into dark stones.
+\f= Dragon Skin \fQ makes your body stiff like dragon scales. <BR> \f= Burning Slash \fQ to burn your enemies with a single blow!
+Illusionists have the ability to freely use \f= cube \fQ and \f= illusion \fQ. <BR> Learn the basics with the crystal of memory you got.
+Warriors can equip \f= Ax \fQ in both hands. <BR> \f= Slayer \fQ is learned and Ax is attached to both hands!
+You can easily use the magic by clicking the magic in the shortcut slot, hovering the mouse over the enemy, and then pressing <BR> \f= wheel button \fQ.
+Oops, once you've learned the magic, press \f= Ctrl + S \fQ to see the magic you've learned, and don't forget to register it in the <BR> \f= shortcut window \fQ?
+Welcome and welcome to Claudia Village. <BR> The ones in front of you are the good messenger Lara and the captain Lars.
+Hello. I'm Lara, the messenger of goodness in the village of Claudia. <BR> I'm listening to you. Thank you!
+Hi, I'm happy. <BR> You're a warrior famous for rumor, hahaha.
+Do you want to go around the village once? I heard that a good product has arrived at a general store the other day. <BR> Why don't you go?
+Mmm! Haven't you joined the clan yet? Hmm ... people like you should join the clan.
+Blood Pledge Joined
+[Join the clan] <BR> <BR>Find a pledge that you can join! Joining pledges will give you benefits and make the game more fun.
+Use \f= Ctrl + C \fQ to find your favorite clan. <BR> If you belong to a clan, you can receive various benefits. You should join.
+Haha, if I were a monarch, I would join you now. <BR> Now, write a greeting on the clan bulletin board.
+Blood League Creation
+[Clan Creation] <BR> <BR> Let's create a clan. If you create a clan and gather clan members, you can enjoy various activities such as siege battles.
+What is your dream? <BR> Do you know that the prince must have a clan member who believes in himself and follows him?
+Create a clan and find a clan member who shares your ambitions. <BR> You can find it.
+Haha looks good. You can be a good monarch someday. <BR> Don't feel like that. If you have a clan member, please introduce me.
+Defeat the Oak Fighter
+Defeat the Orc Archer
+It's hard, captain! A large number of monsters have infested the southern grasslands, and the <BR> village is in danger!
+Damn it...<name>! I need your help!  Kill monsters in the southern grasslands.
+I'll work with the captain of the guard and Lady Lara to formulate a countermeasure.<BR>Well, I'm counting on you!
+Respond to Combat
+[Respond to Combat]<BR><BR>Relax your body before taking on a big mission. Hunt the monsters in the vicinity to reach level 27.
+The southern grasslands are very large, so take your assignments in sequence.
+First you need prepare for the mention and then feel the combat!<BR>Hunt monsters in the grassland to get Level 27!
+Well done. That's good enough for me.
+Mutant Fish
+[Mutant Fish]<BR><BR>Defeat the Mutant Fish, Trogs, and Mermans.
+This time, you'll have to fight a Mutant Fish.<BR>As well as Trogs and Mermens.
+That's pretty good. Take your reward.
+Materials needed for armor
+[Materials Required for Armor] <BR> <BR> Collect the wild leather and kiwi parrot hair required to make armor.
+Wild leather collection
+Kiwi parrot hair collection
+Are you ready? Give the first mission. <BR> You need solid armor to strengthen the security of the village.
+The armor we wear is made of \f= wild leather \fQ and \f= kiwi parrot hair \fQ. <BR> Hunt them and collect the production materials!
+It's good! I made \f= Trainer's Gloves \fQ from the materials you have collected, so <BR> you should equip it.
+Meadow Anakren
+[Kill the Meadow Anakren] <BR> <BR> The Meadow Anakren is a highly poisonous monster that appears when it rains. If you are poisoned by Anacrene, you can detoxify it with a cyan potion.
+Defeat Anaclen
+thumbs up. Let's give it a second mission. <BR> \f= Poison \fQ is the spider monster Arakunen that uses Q.
+Arakunen is said to appear when \f= rain \fQ falls. By the way, if you get \f= poison \fQ, you can detoxify it by using \f= cyan potion \fQ.
+I can't believe it, it's wonderful! <BR> You can do any task.
+Balance between beasts
+[Balance between beasts] <BR> <BR> The balance between beasts is about to collapse. Defeat the unordered beast and restore the balance of power.
+Defeat Dier Bear
+Defeat the tiger
+Defeat Dire Wolf
+Then it is the third mission. <BR> A terrifying beast appears as you go deeper into the grasslands.
+They were restraining each other and coexisting, but <BR> recently the balance of power is about to collapse. Let me be quiet.
+This has restored the balance of power to some extent. <BR> Great, get paid. Let's give the next mission.
+Ancient giant
+[Ancient Giant] <BR> <BR> It seems that an ancient giant has appeared in the meadow. The village is dangerous if left as it is. Please defeat it immediately.
+Defeat the giant
+Give it a fourth mission. According to reports, <BR> \f= ancient giant \fQ, which was hidden in the cave, appeared in the meadow.
+It's important if the giant enters the village. <BR> Defeat it right away!
+You've defeated them, great! <BR> Even if all the guards took it, I wouldn't have been able to beat it ... well done!
+Collecting pieces of darkness
+[Collect Dark Fragments] <BR> <BR> Go to the Underground World, defeat the monsters that appear there, and collect Dark Fragments.
+Collecting pieces of darkness
+There must be a reason why the ancient giants came out of the cave. <BR> An underground world survey is needed.
+It's the fifth mission! Defeat the monsters in the underground world and collect <BR> \f= Dark Fragment \fQ.
+This piece of darkness ... Hmm ... I have to report it to the captain. <BR> Now, \f= receive the practitioner's belt \fQ. It should be useful.
+Underground Ruler Zinos
+[Defeat Zinos] <BR> <BR> Zinos, the dragon who once ruled the underground world, has awakened from a long sleep under the influence of Kerenis. Defeat Zinos before it's too late.
+Defeat Ginos
+Can't you hear the screaming from somewhere? <BR> This voice is ... Zinos, the ruler of the underground world?
+It's hard! I have to prevent Zinos! <BR> It should be at the bottom of the basement. Be careful!
+Really great! <BR> To defeat that powerful dragon!
+Lara and Lars are looking for it in the village. <BR> \f= Return to the village using the Return Amulet \fQ.
+I've heard that it's been a great success. <BR> While I was away, I was investigating this situation.
+The reason why many monsters suddenly appeared <BR> seems to have something to do with evil spirits.
+First, collect the \f= totem \fQ that the orcs have in the orc settlement in front of the castle of the dead. There should be a hint ...
+Oak totem collection
+[Oak Totem Collection] <BR> <BR> Collect totems in the Orc Village and investigate their relationship with the Castle of the Dead.
+Oak totem collection
+Oak Pikeman Totem Collection
+Orc Warrior Totem Collection
+Go to the Orcish settlement right now. <BR> Make sure you don't run out of what you need for battle.
+You have collected enough numbers. <BR> Please wait a moment while checking the totem.
+Investigate the castle of the dead
+[Investigate the Castle of the Dead] <BR> <BR> Defeat the skeletons that appear in the Castle of the Dead and collect bones.
+Collect bones
+Defeat the ghost
+Achieved level 43
+I read the spirit of the totem's magic ... It seems that the purpose is to awaken the king sealed in the castle of the dead.
+Defeat the orcs
+[Defeat the Orcs] <BR> <BR> Go to the southern meadows and defeat the infested Orc Fighters and Orc Archers.
+Defeat the Orc Archer
+Defeat the Oak Fighter
+I can only say that it is wonderful. <BR> I'm completely good at hunting.
+Did you reach the southern meadow? It's a very large area, so you'll meet various monsters.
+First, defeat \f= Orc Fighter \fQ and \f= Orc Archer \fQ. <BR> They are infested throughout the grasslands and are easy to find.
+Then defeat Noor, Garst, Hobgoblin, and Dwarf Warriors that are rampaging in the area.
+It's good. This should be enough.
+Problem child in the meadow
+[Problem child in the grassland] <BR> <BR> Defeat Noor, Garst, Hobgoblin, and Dwarf Warrior that appear around you.
+Achieved level 28
+Defeat Noor
+Defeat Garst
+Oh, it's a really cute monster. I like kiwi parrots and wild fangs. Round and round ~.
+It's a place with a gloomy feeling. <BR> Looks very dangerous ... <name> -san! Please be careful!
+First of all, let's defeat the following to weaken the power. <BR> Defeat the skeleton and collect \f= bone \fQ.
+Were you scared? You have the courage. <BR> \f= Silver ring \fQ will be given to you, so please equip it.
+Thorough preparation
+[Thorough preparation] <BR> <BR> Defeat zombies and ghosts to reach level 44 for the final battle with the King of the Dead.
+Achieved level 44
+Defeat zombies
+Defeat the ghost
+Not only skeletons, but also \f= zombies \fQ and \f= ghost \fQ. <BR> It's a good idea to reduce their number as well.
+Defeat zombies and ghosts and put them to sleep again. <BR> Would you like to do it?
+You did it, did not you? <BR> Now you are ready to defeat the King of the Dead!
+Defeat the King of the Dead
+[Defeat the King of the Dead] <BR> <BR> Defeat the King of the Dead on the 2nd floor of the Castle of the Dead.
+The King of the Dead will be in a tomb located northeast of the second floor. <BR> It seems that someone has resurrected the cursed king and left.
+Seal the King of the Dead and return to the village. I pray for <BR> <name>'s safety.
+This should be safe for the time being. Please come back to \f= village \fQ first. <BR> \f= Magic Doll \fQ has been created, so please summon it with \f= Crystal \fQ.
+I heard that there is a legendary sword that sealed the King of the Dead somewhere here. <BR> You might be able to handle it ...
+You're already at level 30. <BR> I have prepared a present for you, receive it.
+\f= Haste \fQ is an indispensable magic to lighten the body and enable quick movements.
+Also, \f= Wisdom Potion \fQ accelerates the natural recovery of MP, so you should use it frequently.
+\f= Cole Clan \fQ is a useful magic that summons clan members around.
+If you haven't created a clan yet, go to the <BR> village and meet \f= clan executor \fQ.
+\f= Learn Moving Acceleration \fQ. <BR> The movement speed will be faster.
+\f= Blood Last \fQ will be able to move quickly with the power of a powerful dragon.
+Also, \f= Force Layer \fQ is a powerful technique to slash enemies in a row. <BR> I feel like I'm stronger.
+Now, eat \f= Yggdra Fruit \fQ. <BR> Your body will be lighter and you will be able to move faster.
+Also, \f= Cube [Shock] \fQ can install a cube that increases the wind attribute resistance of allies and reduces the MR of the enemy.
+\f= You can attack from a greater distance with the Trainer's Spear \fQ. <BR> Use it when fighting strategically.
+\f= Trainer's Crossbow \fQ allows you to attack from a greater distance. <BR> \f= Triple Arrow \fQ is a technique to shoot 3 times at once.
+\f= Use the seal (Howl) \fQ. <BR> It is a powerful technique that damages the surrounding area.
+Thank you for your hard work! Would you like to return to the village? <BR> \f= Please use the return amulet \fQ.
+Did you get injured? I was worried.
+Skeleton keeper
+[Skeleton Keeper] <BR> <BR> Defeat the guardian guarding the entrance to the Castle of the Dead.
+Defeat the skeleton keeper
+The Castle of the Dead is guarded by a powerful guard. <BR> It is a mountain that must be crossed to enter the castle.
+Thank you for your hard work! You can now enter the castle!
+Oops, elves can choose one of four attributes. <BR> Go back to the village and talk to \f= Elion \fQ.
+You're already at level 45. <BR> I have prepared a present for you, receive it.
+\f= Summon Lesser Elemental \fQ is a magic that \f= spirits of the selected attribute are summoned \fQ. <BR> However, it is necessary to do \f= attribute selection \fQ before that.
+\f= Uncanny Dodge \fQ is a magic that allows you to move quickly and avoid enemy attacks \f= avoid \fQ. Try it once.
+I found out why the King of the Dead awoke. <BR> Probably because someone with evil power came to Claudia.
+Claudia is protected by the blessings of Ein Hazard, so <BR> it's a sacred place that no one can enter ...
+The power of Ein Hazard? There was nothing. I'm Kerenis! <BR> I'll transform this into a land full of evil powers!
+It's hard! A large number of monsters are appearing in the southern swamps! <BR> This is ...!
+Lizardman suppression
+[Suppress Lizardman] <BR> <BR> Defeat the lizardman that appeared in large numbers in the swamp.
+Kerenis! Evil imitation! <name>! Go to the swamp as soon as possible and defeat the monsters!
+It will be enough. The number of lizardmen has visibly decreased.
+Defeat High Lizardman
+Defeat Mad Lizardman
+Defeat the Heavy Lizardman
+Swamp monsters are \f= untransformed \fQ, \f= attack first and \fQ. be careful.
+Queen Ant and Escort Ant
+[Queen Ant and Escort Ant] <BR> <BR> Defeat Ant Queen and Escort Ant.
+Kerenis seems to be trying to spread evil spirits throughout Claudia.
+The first to be affected will be the ants who live on the ground. <BR> Handle Ant Queen and his followers.
+well done. <BR> This will prevent Ant from coming to the ground.
+Defeat the giant ant
+Defeat the Giant Ant Soldier
+Defeat Ant Queen
+Can't you hear the strange insects around here? <BR> There may be a huge Ant Queen.
+Leaning swamp
+[Skinny Swamp] <BR> <BR> Defeat the Dragon Fly and Bluetail that live in the Swamp.
+If the dragon fly and bluetail eat up the grass that lives in the swamp, the ecosystem will be destroyed.
+If the swamp becomes thin, it can affect the village. <BR> I have to collect and threaten some of their body parts.
+For those who don't know the fear, I should do this much. <BR> It was hard work. Receive this.
+Dragon fly feather collection
+Bluetail tail collection
+Thunder Dragon Cashew
+[Thunder Dragon Cashew] <BR> <BR> Defeat the Thunder Dragon Cashew that controls lightning.
+I received a report that even Kuku ... \f= Thunder Dragon Cashewbe \fQ appeared. <BR> It's important that the monster appeared ...
+Cashew is free to manipulate lightning. Be careful.
+I did it really well. The wounds when I once fought him are aching ...
+Defeat the Thunder Dragon Cashew
+My whole body is numb ... The thunder dragon Cashube is nearby ...
+Ah! You got closer to the habitat of Saku, right? <BR> Please note that crispy may appear if it rains.
+Defeat Crocodile and Killer Bee
+[Defeat Crocodile and Killer Bee] <BR> <BR> Defeat Crocodile and Killer Bee.
+The influence of Kerenis has become a serious problem. <BR> A killer bee with a poison needle and a ferocious crocodile are attacking people.
+We need to put an end to the turmoil before things get worse. <BR> I ordered it!
+It ’s really good. Seems to be looking at me in the old days.
+Defeat the crocodile
+Defeat the killer bee
+Proof of Lamia
+[Proof of Lamia] <BR> <BR> Defeat Lamia and collect pendants.
+Have you ever seen a monster with a female upper body and a snake lower body? <BR> That is \f= Lamia \fQ.
+Defeat Lamia in the swamp and collect testimonies.
+I thought you could do it, haha. <BR> Don't leave anything to you.
+Pendant fragment (sun)
+Pendant fragment (Monday)
+Water Dragon Saku
+[Water Dragon Saku] <BR> <BR> Defeat the Water Dragon Saku in the swamp.
+\f= Water Dragon Saku \fQ is a dragon that controls swamps. <BR> However, it is now ferocious and dangerous.
+I think you can defeat the water dragon Saku. <BR> Defeat him and protect the peace of the swamp.
+As expected! I thought you could do it. <BR> Are you injured? This will also make the swamp peaceful.
+Defeat the water dragon Saku
+The swamp seems to have settled down. <BR> Let's go back to the village.
+It was really hard work. I was worried.
+It's hard! The black witch Kerenis ...! <BR> It seems that it is attacking Claudia Castle!
+Kukuku ... I hope the whole of Claudia falls in the shadow of evil darkness! <BR> Can you guys stop me?
+Claudia Castle will be attacked! What a hell! <BR> You have to go through the temple to get back to the castle ...
+However, the temple is protected by spirits, so it is not easy to go through. <BR> But if <name> -san ...
+I will soon prepare to recapture Claudia Castle. <BR> You find a way through the temple.
+Certification of spirits
+[Certification of Spirit] <BR> <BR> Defeat the spirits of each attribute.
+It is said that spirits will reappear when a person who should prove their qualifications appears.
+<name> should be able to accomplish it. <BR> I continue to pray.
+Thank you for your hard work. It seems that the spirits also acknowledged <name>.
+Defeat the spirit of fire
+Defeat the spirit of water
+Defeat the spirit of the wind
+Defeat the spirits of the earth
+King of Spirits: Tel Elerone
+[King of Spirits: Tel Elerone] <BR> <BR> Achieve level 53 and defeat Tel Elerone. Elelone is a powerful enemy that performs all elemental magic attacks.
+This is the last barrier to enter the temple. <BR> The King of Spirits \f= Tel Elerone \fQ must be defeated.
+He is a very powerful being, unlike ordinary spirits! <BR> I think it's hard, but fight him and win!
+You've done it! I was thrilled and waited for a long time! <BR> You can now enter the temple!
+Defeat Tel Elerone
+Ein Hazard Temple Purification
+[Purification of the Temple of Ein Hazard] <BR> <BR> Defeat the Terra Dragon at each altar of the Temple of Ein Hazard.
+It's bad! Kerenis's men dominate the temple! <BR> The sacred power of the temple is a must for Claudia!
+You can't be robbed of the temple! <BR> According to reports, the inside of the temple is dominated by evil dragons.
+Defeat their \f= parent ball \fQ and push forward!
+All that remains is to leave the last altar, the Einhazard altar! <BR> It seems that a powerful person named \f= Death Knight \fQ is waiting there ...
+Defeat the Wind Terra Dragon
+Defeat the Earth Terra Dragon
+Defeat the Fire Terra Dragon
+Defeat the Water Terra Dragon
+You can move to the next room by defeating the Terra Dragon. Be careful!
+Defeat Death Knight
+[Defeat Death Knight] <BR> <BR> Defeat Death Knight, the last subordinate of Kerenis in the deepest part of the temple.
+What did you come to here? <BR> Death knight! Kill them!
+Great! Go inside through that \f= magic circle \fQ! <BR> Are you ready to advance to Claudia Castle?
+Defeat Death Knight
+Head to Claudia Castle! <BR> Talk to me when you're ready. The captain is waiting.
+You're here! I have to recapture Claudia Castle from Kerenis! <BR> \f= Mr. Lars \fQ \f= Items required for siege battle \fQ.
+Have you reached level 55 yet? It's wonderful. <BR> I have prepared \f= last gift \fQ for you.
+Give the \f= Golden Stick and the Monarch's Majesty \fQ, which only the true monarch can handle. I did my best.
+Give \f= Death Blade and Brave Belt \fQ that only true knights can handle. I did my best.
+Pass \f= Flame Sword and Flame Bow \fQ, which only true elves can handle. I did my best.
+Pass the \f= mana crystal and mana cloak \fQ that only true wizards can handle. I did my best.
+Give \f= Finger of Death and Shadow Boots \fQ that only true dark elves can handle. I did my best.
+Pass the \f= extinct chain sword and dragon scale girder \fQ that only true dragon knights can handle. I did my best.
+Give the \f= sapphire keylink and the illusionist's spellbook \fQ that only true illusionists can handle. I did my best.
+Give the Warrior's Helm and the Blacksmith's Ax \fQ, which only true warriors can handle. I did my best.
+Items dropped by monsters can be easily obtained by pressing \f= F4 \fQ. Remember.
+Maybe you're only attacking with weapons, right? Do you know an effective method of <BR> \f= magic \fQ?
+If you have time, visit the village's \f= magic teacher \fQ. <BR> You can get cool magic!
+Visit Claudia
+[Visit Claudia] <BR> <BR> Visit Claudia to complete basic training.
+Hello! I am Lara, the good messenger of Claudia. <BR> <name> seems to still need training.
+How about practicing in Claudia Village? <BR> We are waiting for you at Claudia!
+Visit Claudia
+Move to general store
+[Move to general store] <BR> <BR> Find a general store, buy herbs from the practitioner, and eat them. Filling your satiety with herbs will allow you to use the cry of survival in an emergency.
+\f= Go to the general store \fQ and buy and eat the herbs of the practitioner. Herbs can satisfy \f= fullness \fQ.
+Once \f= fullness \fQ is met, you will be able to escape the crisis using \f= cry of survival \fQ in an emergency.
+Dialogue quest
+The progress notification window at the bottom left of the screen shows the progress of the mission in progress. It is good to refer to it.
+Oops, it's more convenient to set the \f = one-click \fQ option. <BR> \f= Ctrl+D \fQ should be activated.
+Dissolving agent used
+[Use Dissolving Agent] <BR> <BR> Purchase \f= Dissolving Agent \f> at a general store and use it for Battle Ax to make crystals.
+<name>, items that have no use can be converted into \f= crystals \fQ with \f = solvent \fQ.
+\f= Crystal \fQ is required when summoning \f= Magic Doll \fQ.
+You're good! Now you can summon a cute magic doll at any time.
+Dissolving agent purchase
+Trainee consumables cannot be used from \f= level 56 \fQ. <BR> \f= Level 56 \fQ and beyond should be planned.
+If you have any questions, press \f= Ctrl + Z \fQ. <BR> You can get various information.
+Congratulations! You've reached level 51. <BR> From now on, you can select \f= status \fQ to increase with each level up.
+The status can be initialized later with the desired candle. <BR> You don't have to think too seriously.
+Do you have enough shortcut windows? You can switch the shortcut window with \f= F1, F2, F3 \fQ. Please make use of it.
+Ah ... ah ... I feel ...
+Achieved level 53
+Defeat Hobgoblin
+Defeat the Dwarf Warrior
+It's tough! Kerenis's men have occupied the temple!
+You should go to the temple right away and defeat Kerenis's men.
+I have to prepare to defeat Kerenis. <BR> The situation is at stake!
+Let's hurry! I'll send it to the temple. Come over here.
+Defeat all the enemies that appear. A magic circle will appear and move on to the next room.
+\f= Enter the temple with a huge old book \fQ!
+Achieved level 51
+Achieved level 52
+I'll give you the special power of the Red Knights. <BR> You should now be able to fight powerful enemies.
+Do you have enough supplies? Are you ready? <BR> Kerenis is a strong enemy.
+You can buy battle supplies with Colosseum coins. <BR>The competition will start in 50 seconds. It's best to prepare ahead of time.
+Keep in mind that the competition will start in <BR>3 seconds after both team members press the [Ready] button.
+==================== Beginner Zone Modification ===========================
+Use Item
+[Use Item]<BR><BR>\fQUse the \f=Knight's Haste Potion
+You're the new trainee. <BR>Now, let's get you trianed up.
+Open your inventory.<BR>\f=Use the \fQKnight's Haste Potion
+Haste potions increases movement speed and attack speed.
+Use Knight's Haste Potion
+Attack Training
+[Attack Training]<BR><BR>Attack the training scarecrow. \f=Achieve \fQlevel 5.
+Let me show you how to attack.
+Try to hit \f=the scarecrow \fQin the training center!<BR>You can attack by clicking on the target.
+That's enough for now.<BR>Well done. I'll give you a reward.
+You have a gift.<BR>Let's move on to the next training.
+Level 5 Achieved
+Basic Training
+[Basic Training]<BR><BR>Learn the basic.
+Items can be \fQpicked up by pressing the \f=f4key.
+The shortcut \f=F5~F12 \fQ can register items and skills.
+Now let's practice in a real world.
+Pick up items and learn how to use shortcuts
+Food Gathering
+[Gathering]<BR><BR>Hunt \fQWild Boars, and gather \fQfood bags.
+I want you to get rid of the \fQwild boars that are messing up my vegetable garden and get my \fQfood bags back.
+You can move on from Training Instructor trainee.
+If there is an item on the ground, you can use the shortcut key "F4" to pick it up. <BR>This will be very useful.
+Polymorph
+[Polymorph]<BR><BR>\f=Use the Polymorph Scroll \fQ to transform.
+\f=I'll give you a polymorph scroll \fQso you can try to transform.
+Transformation can cause a variety of effects.
+It's about time we took on a more challenging mission.
+Use Polymorph Scroll
+Battle
+[Battle]<BR><BR>\f=Hunt through the ara and \fQkill the monsters that the \fQBlack Knight has unleashed.
+The Black Knights have been unleashed monsters.<BR>The mission is to exterminate the monster.
+Talk to the training instructor to head to the Spider Cave.
+Well done.<BR>You have the basic technique.
+It's getting easier and easier.
+Use of shop NPC
+[Shop]<BR><BR>\fQBuy and eat the \f=herbs at the General Shop to \fQincrease your \f=hunger gauge.
+Let me tell you how to use the shop. <BR>Click on the NPC that runs the shop.
+Go to the general shop and buy some \f=herbs\fQand try them.
+When you eat food, your hunger level increases. <BR>Keep it at 100% for a certain amount of time...
+You can use Survival Shout. <BR>This is a skill that restores a lot of HP when in danger.
+Take the Order's herbs.
+Use of teleport NPC
+[Teleport]<BR><BR>Let's show you how to use the teleportation NPCs.
+We need to know how to get to our destination.
+Here, you can talk to the \f=training instructor and \fQhe will take you to your destination.
+Use a \f=teleporter on the \fQcontinent.
+How to use teleportation.
+Black Knight Scout
+[Scout Retreat]<BR><BR>\f=Hunt through the area and \f=exterminate the \fQBlack Knight scouts.
+We have reports of Black Knight scouts entering our secret passages.
+I need you to take them down and, if possible, find out how they got in.
+You have defeated all your enemies. Well done.
+We're safe for the time being, but stay sharp!
+I got some important information from the scouts.
+Defeat Black Knight Scouts.
+Important Information
+[Information]<BR><BR>Let's hear what the Black Knight scouts have to say.
+It looks like you were instrumental in getting rid of the Black Knight scouts. <BR>Thanks to you, we have gained important information.
+They're going to send an apprentice <BR>\f=Black Knight to \fQattack us.
+I want you to head to the island where we can talk and defeat them.
+Defeat Apprentice Black Knight
+[Search-and-Destroy]<BR><BR>\f=Travel to the island where you can speak through \fQDoorman and <BR>complete the mission to \f=defeat the \fQApprentice Black Knight.
+The enemy has found our base.
+Go to the \f=island where you can talk and defeat the \fQApprentice Black Knights.
+Well done.<BR>Their strength and morale will be diminished by this.
+Defeat Dire Wolf
+Talking Island
+[Talking Island]<BR><BR>Head to \f=Talking Island through \fQDoorman.
+You've done better than I thought.
+They all completed their training here with flying colors.
+Every mission from here on out will be a real battle.<BR>There is no room for failure.
+I look forward to your future activities.<BR>So, good luck.
+Teleport to Talking Island
+Area Information
+[Area Info]<BR><BR>Listen to an explanation of normal zones, safety zones, and comeback zones.
+\f=Hello. I'm \fQLara. <BR>Let me tell you about the area.
+Do you know about Normal, Combat, and Safety zones?<BR>If you are killed in the Normal Zone, you will be penalized.
+EXP will be reduced, and depending on the state of your alignment, you may lose items.
+Unless you're in a safe area like a villages and towns, it's better to be careful, right?
+I'll tell you about the rest later.
+Check area information
+Use of solvents
+[Solvent]<BR><BR>Use \f=solvent to make \fQcrystals.
+They've developed a \fQdissolver that can <BR>create \f=crystals from equipments
+Try to dissolve the leather armor <BR>with the \f=solvent to create a \fQcrystalline form.
+Well done.<BR>Crystals are used as catalysts for various kinds of magic.
+Creating crystals with solvents
+Talking Island Village
+[Village Info]<BR><BR>Teleport to talking island.
+\f=Talking Island is located in the \fQsouth.<BR>You can see it if you go down south from here.
+Come \f=south along the \fQcoastline.
+\f=Master Theon is waiting for you, \fQhero.<BR>See you at the village.
+blank
+Understand the village.
+Item Enhancement
+[Item Enhancement]<BR><BR>Enhance your equipment.
+You haven't forgotten, have you?<BR>Your equipment won't get stronger unless you strengthen it.
+You remember what you learned at the training center, don't you?<BR>Use the enchantment scroll to enhance your equipment!
+You can enhance weapons, armor, and even accessories.<BR>Don't forget that!
+Armor Enhancement
+Magic Doll Summoning
+[Magic Doll]<BR><BR>\f=Double-click the \fQMagic Doll to summon it.
+\f=Let me tell you about the \fQMagic Doll.<BR>Magic Dolls can help summoners with their unique abilities.
+You can summon a doll by double-clicking on it in your inventory.<BR>Yeah, they \f=consume \fQcrystals, so keep a close eye on it!
+Well done.<BR>Dolls have time limits, after the time as passed you can re-summon them.
+Black Knight Party Invasion
+Defeat the Dwarfs-1
+[Dwarf Extermination]<BR><BR>Travel to \f=Theon and exterminate the \fQDwarfs who betrayed the Red Knights.
+We were only found by the \f=treachery pack of \fQDwarfs.
+They have allied themselves with the Black Knights and put us and the inhabitants of the island in danger.<BR>You have to get rid of them.
+We're safe for now. <BR>Keep an eye on them.
+Defeat Dwarf Swordsman.
+Defeat Dwarf Shaman.
+Defeat Dwarf Archer.
+Defeat Dwarfs-2
+[Gathering]<BR><BR>Exterminate the \f=Dwarfs and gather the \fQweapon drawings.
+Did you know that there is a horrible undead lair on this island?<BR>We have to be ready to take them down.
+Dwarfs have excellent weapon making skills.<BR>Get the \f=drawings for the \fQsilver weapon.
+I'm sorry for your loss.<BR>I'll let you analyze the drawing you brought me.
+gather Weapon Drawings
+Weapon Drawings
+gathering Flames
+Silver Weapon
+[Silver Weapon]<BR><BR>Use the dwarf blacksmith to craft a silver weapon.
+Analysis of the drawing is complete.<BR>Use the \f=anvil in the center of \fQDwarf Village to craft weapons.
+I need the \f=energy of a \fQcondensed flame.<BR>I studied Dwarf's drawings and can produced them.
+You're done.<BR>Now it's time to get rid of something evil.
+Silver Weapons Crafting
+Craft dagger from silver material
+Craft arrows from silver material
+Craft axe from silver material
+Talking Island Dungeon
+[Exploration]<BR><BR>Kill the \f=skeletons in the \fQTalking Island Dungeon
+In the Island's Dungeons, there is Baphomet that has herds of followers.<BR>At night, they are a threat to the village.
+If they join forces with the Black Knights, it could be dangerous.<BR>Investigate the dungeon.
+It was more than I expected.<BR>I'm sorry for your troubles.
+Defeat Corroded Skeleton Fighters.
+Defeat Corroded Skeleton Guard.
+Defeat Corroded Skeleton Marksman.
+Equip Silver Weapon
+[Attribute Weapons]<BR><BR>Attach a \f=silver weapon that deals \fQextra damage to undead.
+This is the entrance to the Talking Island Dungeon.<BR>It's a horrible den of undead.
+You can do more \f=damage to undead with \fQsilver weapons.<BR>You didn't forget, did you? Make sure you equip it!
+I'm looking forward to your adventures!
+Equip a silver weapon.
+gather the food bag
+Mysterious Bone Piece
+[Gathering]<BR><BR>Slay the \f=skeletons in the \fQTalking Island Dungeon.<BR>\f=gather the \fQmysterious bone pieces.
+After receiving the patrolman's report, I investigated.<BR>They found something suspicious on the bone piece.
+He said that besides Baphomet, he had the power to control them.<BR>Can you \f=gather bone pieces for me for my research?
+I'm sorry for your troubles.<BR>I'll let you know when I get the results of my investigation.
+I've got something for you.
+Mysterious Bone Piece Gathering
+Accessory Enhancement
+[Accessory Enhancement]<BR><BR>Strengthen the practitioner's ring.
+I created ornaments with the magical power extracted from the bone pieces you collected.<BR>I erased the dark power and used pure magic.
+Would you like to enhance the ring?<BR>Try \f=using the \fQScroll of Accessory Enhancement.
+The more types of accessories you have, the more abilities you have.<BR>It will help you if you utilize it according to the conditions of the battle.
+Strengthening the Practitioner's Ring
+Defeat the Dwarfs-3
+[Eradication of Dwarfs]<BR><BR>Exterminate the \f=dwarfs that have attacked the inhabitants of \fQTalking Island.
+We received information that the dwarfs, who had been robbed of their blueprints, were attacking the villagers.
+You can't talk them out of it. You've got to stop them.
+Well done. <BR>Thanks to you, I feel safer.
+Defeat Dwarf Swordsmans.
+Defeat Dwarf Archers.
+Defeat Dwarf Pikemans.
+Defeat Dwarf Shamans.
+Defeat Undead.
+[Undead Extermination]<BR><BR>Kill the \f=skeleton on the \f=1st floor of the \fQTalking Island Dungeon.
+There are reports that skeletons from the dungeon have invaded the village.<BR>There seems to be some kind of unseen force driving them.
+For the safety of the villagers, I want you to defeat them.<BR>We will do our best to finish the investigation soon.
+It's not going to stop easily.<BR>We need a full survey of the island.
+Let's talk about it in the village.
+Orc Horde
+[Orc Slaying]<BR><BR>Kill the \f=Orc hordes in the \fQnorthwest part of the island.
+Did you know that there is a pack of orcs in the northwest part of the Talking Island?<BR>We need to take them down to clear a safe path.
+I need you to do it again this time.<BR>Kill the orcs and clear a path for them to travel.
+It's getting a little more livable, thanks to you.
+Defeat Orcs
+Defeat Orc Fighters
+Defeat Orc Archers
+Orc Horde
+[Orc Slaying]<BR><BR>Kill the \f=Orcs and gather the \fQmysterious trinkets.
+The energy we discovered while investigating the bone piece was also found in the orc's trinkets.<BR>We need your help.
+Slay the \f=Orcs and gather their \fQstrange trinkets. <BR>I have faith in you.
+After all, there are dark forces at work...<BR>There is no doubt that something evil is controlling them.
+Oh, right, there was something I should have told you.
+gathering Mysterious Ornaments
+Dragon Gems
+[Dragon Gems]<BR><BR>Listen to the explanation about the \f=Dragon's Jewel, <BR>which increases the amount of \fQexperience you gain.
+The leader of the search party has found the \f=Dragon's Jewel Box. <BR>It contains many items that are useful for \fQbrave warriors.
+This gem is for the brave warrior.<BR>\f=Use it when you run out of \fQEinhassed's Blessing.
+\f=Einhassed's Blessing increases the amount of \fQexperience you gain.<BR>It speeds up the growth rate.
+Dragon Gem Description
+Orc Horde
+[Orc Slaying]<BR><BR>\f=Exterminate the \fQOrc hordes that have attacked the village.
+We received a report of a pack of Orcs attacking passers-by.<BR>Again, I need your help.
+I want you to defeat the Orcs.<BR>The village needs your help.
+It's growing on you.<BR>Again, well done.
+Please eat the food prepared by the villagers.
+Defeat Orc Fighters.
+Defeat Orc Shamans.
+Defeat Orc Pikemans.
+Effect of cooking
+[Cooking]<BR><BR>Taste the \f=food prepared by \fQthe villagers.
+What do you know about the effects of cooking?<BR>Just as there are many different flavors, there are many different abilities.
+Eat foods that are appropriate for your profession and combat situation.<BR>You can refer to it to get the effect of increasing the ability value.
+Now, let's begin a new mission, shall we?
+Cannibalistic Spider
+[Spider Control]<BR><BR>\f=Exterminate the swarm of \f=spiders \fQsouth of the village that are \fQabducting the villagers.
+The spider's behavior has been strange lately.<BR>They are indiscriminately abducting people and making them into cocoons.
+A hungry spider may attack, but<BR>This is the first time this has happened to us. Please help us.
+The spider also seems to be controlled by some kind of force.<BR>We need to investigate.
+Defeat Arachnevil
+Defeat Arachnevil Elder
+Curious Eyeball
+[Curious Eyeball]<BR><BR>Exterminate the \f=spiders and gather the \fQcurious eyeballs.
+The spiders are also being controlled by dark forces.<BR>I need you to bring me some of their body parts for my research.
+It seems to be the \f=power that resides in their \fQred eyes.
+This time, you killed it again.<BR>It's been a really big help.
+Yes, I've got new research results.
+gathering Mysterious Eyeballs
+Scroll of Combat Enhancement
+[Enhancement Spell]<BR><BR>Enhance combat power<BR>\f=Get a Combat Enhancement Scroll.
+With the magic extracted from the materials collected by the brave warrior...<BR>I \f=created a \fQcombat enhancement scroll.
+You can use it when you need a powerful boost.
+So that the heroes can kill the Black Knight.<BR>I'll do my best to assist you!
+Spider Thread Removal
+[Spider Eradication]<BR><BR>\f=Exterminate a swarm of \fQcannibalistic spiders to find their victims.
+If they don't get enough food, they can attack people.<BR>This is the first time I've collected them as cocoons.
+It must be the effects of the dark forces you discovered...
+The young men of the village are trying to gather their corpses. <BR>You can help stop the devouring spiders.
+Thank you so much. <BR>Thanks to you, the victims can rest in peace... Thank you.
+Master Theon would like to speak with you.
+Item Enhancement
+[Enchantment]<BR><BR>\f=Enhance your armor with an \fQArmor Enhancement Scroll.
+Let me tell you about \fQequipment \f=enhancement.
+Just \f=double-click on the \fQArmor Enhancement Scroll and select the equipment to be enhanced.<BR>Make the armor stronger.
+That's right.<BR>Always be careful with your equipment.
+Armor Enchanting
+Underworld
+[Exploration]<BR><BR>Travel through the \f=Glaive and exterminate \fQmonsters in the underworld.
+I want to test your courage.<BR>Of course you're confident, aren't you?
+Slay the undead in the castle of the dead.<BR>\f=gather the bone pieces of the \fQskeleton.
+Cleared.<BR>Return home and move on to the next training ground.
+Black Knight Group Camp
+[Black Knight Camp]<BR><BR>\f=Southeast of the \fQvillage<BR>\f=Investigate \fQBlack Knight Camp.
+We've lost contact with the scouts at the Black Knight group camp.<BR>Maybe he got beat up.
+I need you to investigate the whereabouts of that soldier.<BR>He's apparently located southeast of the island where the Black Knight group camp is located.
+I'm sorry you couldn't find the soldier.<BR>I'm sorry for your troubles.
+Um... there's something I need to tell you.
+Defeat the Black Knight
+Defeat the Dire Wolf
+The Dark Hunter
+[Dark Hunter]<BR><BR>\f=Exterminate monsters that are active only at \fQnight.
+Did you know that on Talking Island, there are monsters that are only active at night? <BR>There are werewolves, ghosts, orcs and zombies.
+They appear in the dark of night and hunt anything that is alive. <BR>They are a major threat to the village.
+They won't appear near the village for the time being.<BR>I will have to tell the villagers as soon as possible, thank you.
+I will give you more information when that time comes.
+Defeat Werewolf
+Orcs. Kill the zombies.
+Defeat Wandering Ghost
+Defeat the Ghost of Resentment
+[Sub]-Sturdy Thread
+[Sturdy Thread]<BR><BR>gather \f=spider silk and \fQproduce \f=sturdy threads in the \fQpond.
+Many spiders live on Talking Island.<BR>They are dangerous, but they also produce useful resources.
+It's an excellent, durable spider silk.<BR>But it's not easy to make use of sticky threads.
+There is a mysterious pond on this island.<BR>That clear, clean water is the answer.
+I'm going to get some spider silk and wash it in the pond.<BR>This will make the thread less sticky and more durable.
+What do you think? Looks like a strong thread, right?
+He's making something with your thread. <BR>I'll give it to you when it's done.
+Sticky Spider Silk
+Sturdy Thread Crafting
+The Fallen Sage
+[Elimination]<BR><BR>\f=Exterminate the corrupt \fQElders.
+There was a famous wise man in our village, though he cannot be seen now.<BR>When challenges arose, he solved them with amazing wisdom.
+But somehow, he has fallen into the dark forces.<BR>Now he's trying to bring down the island and its inhabitants.
+If he is going to attack the village, I can't keep quiet any longer.<BR>I want you to take him down.
+Thank you. <BR>I'd be curious to know what your limits are.
+There's a different story.<BR>We'll talk about it when the time comes.
+Level 50 Achieved
+[Lv50 Training]<BR><BR>\f=Achieve \fQLevel 50.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 50.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Training to level 50
+Level 50 Achieved
+[Lv50 Training]<BR><BR>\f=Achieve \fQlevel 50.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 50.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Training to level 50
+Use of lanterns
+Defeat the Elder
+Take down the Floating Eye
+questdesc-j.tbl1772
+questdesc-j.tbl1773
+questdesc-j.tbl1774
+Level 33 Achieved
+[Lv33 Training]<BR><BR>\f=Achieve \fQlevel 33.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 33.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 33
+Level 40 achieved
+[Lv40 Training]<BR><BR>\f=Achieve level \fQ40.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 40.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 40
+Level 44 Achieved.
+[Lv44 Training]<BR><BR>\f=Achieve level \fQ44.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 44.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 44
+Level 45 achieved
+[Lv45 Training]<BR><BR>\f=Achieve level \fQ45.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 45.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 45
+Level 48 achieved
+[Lv48 Traing]<BR><BR>\f=Achieve level \fQ48.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 48.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 48
+Gemstone Recovery 
+[Battle]<BR><BR>gather the offering \f=jewel from the \fQBlack Knight group.
+The Black Knight Group has looted the resident's jewels.<BR>It seems to be a dedication to the Einhasad Altar.
+It seems that the villagers who resisted are missing.<BR>I want you to retrieve the jewels and return them to the people.
+Are we finally going to get our hands on an offering to God?
+I will report this to Master Gunther.
+Gemstone Recovery
+Defeat Dire Wolf
+Defeat Black Knights
+[Battle]<BR><BR>You must \f=exterminate the \fQBlack Knight Group.
+To the enemy, you seem to be a threat.<BR>I want you to continue to break their spirits.
+Again, I trust you.<BR>You must \f=exterminate the \fQBlack Knight Group.
+Finally, we have a way to break into the enemy battleship.
+I'll give you information on the enemy general.
+Defeat Black Knight
+Defeat Dire Wolf
+Lieutenant Kurtz
+[Boss]<BR><BR>\f=Exterminate \fQLieutenant Kurtz
+Due to the war on the mainland, he was being commanded by his lieutenant, not Kurtz.<BR>Now is the perfect time to bury your enemies.
+You and your friends must march into the \f=Black Battleship and exterminate \fQLieutenant Krutz.
+You've finally defeated the enemy general of the Black Knight.<BR>I knew you could do it.
+But it looks like we still have a lot of work to do.
+To Mainland
+[TPower of Darkness]<BR><BR>Get information about the dark forces.
+The \f=dark energy you've collected.<BR>It turned out to be from \fQKerenis.
+The horrific war on the mainland must be a tactic of the Anti-King and her.<BR>The place we need heroes now is the mainland.
+To meet a hero like you...<BR>Perhaps it was fate.。
+Our mission is not over.<BR>\f=Hero of the Red Order.
+Kerenis
+Defeat Murian
+Defeat Dillo
+Defeat Bats
+gathering Bone Pieces
+Defeat the Apprentice Black Knight
+Open your eyes.
+[Lantern]<BR><BR>\f=Use the \fQlantern.
+If the area is dark, use the \f=lantern provided by the \fQtraining center.
+Magic: Can be used to make light as well<BR>I'll tell you about that later.
+That's right. That's how you light up the <BR>perimeter so you can see better, right?
+Weapon Enhancement
+[Weapon Enhancement]<BR><BR>Enhance your weapon.
+In order to become stronger, it is essential to manage your equipment.
+\f=Use the \fQScroll of Weapon Enhancement<BR>It can enchance your weapon.
+Successful enhancement will increase attack power.<BR>If you fail, your weapon may disappear, so be careful.
+Use Scroll of Weapon Enhancement
+Theon
+[Threat]<BR><BR>Hear about the Black Knight Group.
+Master Gunther has been singing your praises. It's good to see you.
+I am \f=Theon, the man in charge of the \fQsafety of this island.
+It's our mission to exterminate the Black Knight Group.<BR>I look forward to your success.
+Theon of Talking Island
+Level 52 Achieved
+[Lv52 Training]<BR><BR>\f=Achieve \fQlevel 52.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 52.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 52
+Level 54 Achieved
+[Lv54 Training]<BR><BR>\f=Achieve \fQlevel 54.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 54.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 54
+Level 55 Achieved
+[Lv55 Training]<BR><BR>\f=Achieve \fQlevel 55.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 55.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Your next assignment.
+Trained to level 55
+[Sub]-Wolf Skin Gathering
+[Gathering]<BR><BR>Kill \f=Dire Wolf and <BR>gather their \fQskins.
+In order to face the Black Knights, we, the Knights, need to be upgraded.
+We are running out of skins for armor production.<BR>I want you to kill the \f=Dire Wolf and gather the \fQskins.
+I'm sorry for your troubles.<BR>This will allow me to maintain the equipment of my friends.
+gather Wolf Skins
+I've prepared some \f=items for you to use, <BR>have a \fQlook at them.
+Level 35 Achieved
+[Lv35 Training]<BR><BR>\f=Achieve \fQlevel 35.
+Strength is gained through constant effort.<BR>You are no exception to this.
+Do not neglect your training.<BR>Make sure you hit \f=level 35.
+I'm amazed at how fast you're growing.<BR>I'm looking forward to seeing more of you.
+Hear about the Blood Pledge<BR>You can use the NPCs in the village.
+Trained to level 35
+Be sure to use the magic book provided as reweard.
+Be sure to use the spirit stones provided as reward.
+Be sure to use the dark spirit crystal provided as reward.
+Be sure to use the dragon knight tablet provided as reward.
+Be sure to use memory crystals provided to you as reward.
+Be sure to use the Warrior's Seal provided as reward.
+Daily Quest
+[Daily Quest]<BR><BR>Use Geren's \f=magic bag to complete the \fQdaily quests.<BR>gather \f=100 soul shards from the \f=2nd of the \fQTalking Island Dungeon and the \fQBlack Battleship and report them to Geren.
+This is a \f=magic bag made by \fQGeren.<BR>You can get \f=1 crystal ball \fQevery day.
+I need you to \f=seal a piece of your soul in a \fQcrystal ball and take it to him.<BR>You'll find them on the \f=2nd of the \fQTalking Island dungeon and on the \fQBlack Battleship.
+I don't need to gather any more soul fragments.<BR>I'm sorry for your troubles.
+Daily Quest: gathering Soul Shards
+Defeat Lieutenant Kurtz.
+Defeat the Dwarfs-4
+[Dwarf Eradication]<BR><BR>Exterminate the \f=dwarfs and gather the \fQenergy of the small flames.
+In order to craft silver weapons, you need the energy of fire.
+If you can gather the fiery engery from the dwarfs.<BR>Let's condense it into Lulu's magic.
+You're here.<BR>You should be able to craft a silver weapon by now.
+Small flame engery Gathering
+I'm sure you'll complete your next mission as well.
+Theon's Supplies
+[Supply Items]<BR><BR>\f=Pick up a box of \fQsupplies from \fQTheon.
+I've prepared a gift for you to fight the Black Knight Group.
+A box that can be opened once every hour.
+Can be opened up to three times daily.<BR>Hope that helps.
+Practitioner's Supply Box
+Step 1: Create Runes
+[Elemental Gathering]<BR><BR>\f=Gather \fQElemental of Earth (small) stones.
+gather Element of Earth (small)
+Step 1: Create Runes
+[Elemental Crafting]<BR><BR>\f=Use the dwarf anvil to create the \fQElemental of Earth (large).
+Crafting Elemental of Earth (large)
+Step 2: Create Runes
+[Elemental Gathering]<BR><BR>\f=Gather \fQElemental of Fire (small).
+gather Element of Fire (small)
+Step 2: Create Runes
+[Elemental Crafting]<BR><BR>\f=Craft the Element of Fire (Large) through the \fQOrc Crafters.
+Crafting Element of Fire (Large)
+Step 3: Make Runes
+[Elemental Gathering]<BR><BR>\f=Gather \fQElemental of Water (small)
+gather Elemental of Water (small)
+Step 3: Make Runes
+[Elemental Crafting]<BR><BR>\f=Create Elemental of Water (large) in the \fQmagic pond
+Crafting Elemental of Water (large)
+Step 4: Make Runes
+[Elemental Gathering]<BR><BR>\f=Gather \fQElemental of Wind (small)
+gather Elemental of Wind (small)
+Step 4: Make Runes
+[Elemental Crafting]<BR><BR>\f=Create Elemental of Wind (large) through the \fQBlack Knight Craftsman
+Crafting Elemental of Wind (large)
+Step 4: Make Runes
+[Wizard Stone Production]<BR><BR>\f=Create wizard stones and \fQcraft runes at Geren's house.
+Wizard Stone Production 
+Acheive level 70
+Use Scroll of Return
+[Use Scroll of Return]<BR><BR>Use Scroll of Return to return to Talking Island
+So much for the Red Knights' basic training.
+You must train in the larger world. Theon will help you.
+Use Scroll of Return
+Lycanthrope
+[Lycanthrope]<BR><BR>Exterminate the Lycanthropes that pose a threat to the villagers.
+Defeat Lycanthropes
+Black Knights
+[Black Knights]<BR><BR>Exterminate Black Knights on the 1st floor of the battleship.
+It's time to scout out the Black Battleship.<BR>Search the interior of the battleship.
+Our allies are guarding the entrance to the battleship, so we will be able to enter easily.
+Well done.<BR>There don't seem to be as many soldiers inside the battleship as I thought.
+Defeat Black Knight Soldiers
+Elements of Earth (Large)
+Element of Fire (Large)
+Element of Water (Large)
+Element of Wind (Large)
+Seal of Gunther
+[Seal of Gunther]<BR><BR>\f=Visit \f>Gunther.
+Speaking of which, I have something to tell you.
+You should go to your high grandfather first.<BR>I'll tell you afterwards.
+[Seal of Gunther]<BR><BR>\f=Produce a certificate of knighthood through \f>Zinion.
+Looks like we're here.<BR>Let me tell you something.
+Do you have my seal?<BR>You can use it to create and exchange items.
+Now, go ahead and ask your high grandfather to make it for you.
+Is it finished? You did good!
+Move to Gunther's high grandfather's place.
+Produce a certificate of knighthood.
+You can try to make other items with my seal.<BR>It should help you in your future adventures.
+[Go Fishing]<BR><BR>\f=Buy a fishing rod to \f>go fishing.
+Buy a fishing rod
+Did you know that you can enjoy fishing in Aden?
+You didn't know that!<BR>As long as you have a fishing rod and bait, you can enjoy fishing!
+May you have good luck with fishing!
+Let's go fishing.
+[Preparing for Time Travel]<BR><BR>Listen to \f=Yurie talk about time travel and get \f>Yurie's Certificate of Authenticity.
+Obtain Yurie's Certificate of Authenticity
+Do you know about time travel?
+If we had the space-time ball, we could go back in time.<BR>Visit Yurie in Gludio Village
+Make sure you travel to the past with your party members!<BR>Have a good time traveling!
+Prepare for time travel
+[Marvin's Request]<BR><BR>Listen to \f=Marvin and get a copy of \f>Marvin's certification.
+Brave Hero! Have you been to the Oren Snow Mountains?<BR>Just hearing the name makes me feel cold.
+It seems that the Brave Hero needs to be prepared.<BR>Visit Marvin in Oren Villeage.
+So you're ready to go to Oren Snow Mountain.<BR>Well, have a safe trip!
+Marvin's Request
+Earn your Marvin certificate.
+I'm not familiar with them, but I sense a certain power...
+The influence of Grand Cain's power, "black magic," is still strong in Gludio.
+Master... no, Hardin... look at the dark forces he's messed with.
+It is truly amazing to have discovered the psychology of light from the depths.
+How dare you remove its power this time...
+Thanks to you, I was able to protect the crystal ball of black magic.
+You see my poor friends who have been turned into his tools...
+Sacrificing one's own apprentice to remove black magic...
+What is good and what is true?
+I'll get you back on track... just you wait and see, Sema...
+Use play support
+Auto-Hunt
+Check the auto-hunt setting and press start.
+You can use the shortcut [Alt+W]<BR>It's very useful.
+Level 30 Achieved.
+[Lv30 Achieved]<BR><BR>Congratulations on reaching level 30.
+Congratulations on reaching level 30! <BR>You will receive a Knight's Weapon Box.
+Can be enhanced with the Weapon Enhancement Scroll!
+Level 75 Achieved.
+[Lv75 Achieved]<BR><BR>Congratulations on reaching level 75.
+Congratulations on reaching level 75! <BR>You will receive a gift box from the Order.
+You can get one of the following items: Enhanced Dragon T-Shirt, Rumitis, or Snappers Accessories. <BR>I'm curious to see which item you'll get!
+You're too late! It's already too late for you.
+I can't believe that Heine, which was so beautiful, turned out to be such a mess...
+Someone must be controlling these guys.
+Conquering Rosas...I can breathe a sigh of relief thanks to you.
+Do you feel it, too? A terrible, dark presence.
+One day, we must find the source of this power and extinguish it...
+You finally found him! Velez...I didn't know he was here.
+Thank you for your time. We'll take care of the rest and you can go back.
+Whoa. Entering my world without fear...
+If you want it so badly, I'll make you all my slaves.
+Brave warrior, please help me. I want to get out of this never-ending nightmare!
+Defeat the four great spirits that are holding me in bondage.
+Aah! My body won't listen to me. Please... let me...
+It's pure. Now, let me give you a nightmare that will never end.
+The body was extinguished, but at last we had eternal rest.
+I don't know how to repay you for this favor, but I hope that you will be able to escape from this nightmare.
+Don't make the mistake of thinking you've overpowered me with your petty attacks.
+Slave... you will remember me forever.
+Hardin... he's finally revealed himself!
+Getting rid of black magic might have been what he wanted.
+How can you take the precious life of another?
+I'll fight him to the end and I'll get you back! Wait for me, Sema...
