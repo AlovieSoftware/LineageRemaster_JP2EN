@@ -1698,7 +1698,7 @@ Party: Party party can not be delegated (Party party is far away)
 Party: Not currently a member of the party
 Party: only available for parties
 party: %s Has been delegated to the party
-\f3 Water Tornado: Frozen state
+\f3Water Tornado: Frozen state
 STR_DISPLAY_SETTING_ERROR
 Change the game screen to fit the window resolution.
 Do you really want to leave the party?
@@ -1879,10 +1879,10 @@ Lohengrin
 Heine
 Subordinate
 Normal
-%s : stuff %s
-%s : Adena %s
-\aE found
-\aH Leave
+%s: stuff %s
+%s: Adena %s
+\aEfound
+\aHLeave
 [%s]x(%d)
 [ %d ] Adena
 (Elapsed time: %d minute)
@@ -3121,7 +3121,7 @@ Behavior Window (Ctrl + D)
 You can not put any more.
 STR_WEAPON_AUTO_FIXED,
 Mana Recovery: MP Recovery + (Less than WIS 12, WIS 12 or higher WIS-10)
-\fQ " %s " \f> can not be recovered. Are you sure you want to delete?
+\fQ"%s"\f> can not be recovered. Are you sure you want to delete?
 EXP
 Monster Kill
 Acquired Adena
@@ -3132,7 +3132,7 @@ Report: Not reported (less than 10 levels)
 Report: Not self-reported
 Item change details
 I can not recover the pet when I delete it. Are you sure you want to delete?
-\fQ " %s " \f> is a paid product. Do you really want to sell it?
+\fQ"%s"\f> is a paid product. Do you really want to sell it?
 Enchantment: No (Elemental)
 An opponent %s I bet on Adena. Do you want to pay for Adena and book a challenge?
 Cooking: Nutritious dishes, including + 2 remote damage + 1 hit at a distance
@@ -3248,7 +3248,7 @@ Call of the Lord: Join the Clan!
 Call of the Sovereigns: Recruit a blood donor!
 Create a Clan League and make it easy!
 Clan membership request came!
-Personal store: No store open ( \fQ " %s " \f> Adena lack to buy)
+Personal store: No store open (\fQ"%s"\f> Adena lack to buy)
 Personal store: Initializing the store list (Adena deal in the market)
 Sign up to be a member of the clan, and get a recommendation of the member.
 It is already processing.
@@ -3543,8 +3543,8 @@ STR_CASH_SHOP_WRONG_PAYMENT_PASSWORD,
 OTP number is incorrect. Please check and re-enter.
 [Random payment]
 none
-\f < %s\f> items \f < %d time \f> production.^Material items will not be restored upon completion.
-dog
+\f<%s\f> items \f<%d time\f> production.^Material items will not be restored upon completion.
+^pieces
 Production possible
 Unsatisfactory condition
 item
@@ -3912,7 +3912,7 @@ Warrior
 Blessing order: ranged ATK +1, nearby ATK +1, SP + 1, HP + 50, MP + 30, PVP ATK +2
 Double-click to create a new character
 Double click to cancel undelete
-Growth Ring (Mobile): AC-1
+Fruit of Growth 1st stage: EXP +20%, AC-1
 Waiting
 Completed Quest: Next Step - Exchange the spirit of Jean village Hazi
 Fruit of Growth has been applied to %s!
@@ -4113,7 +4113,7 @@ Knights 2
 Knights 3
 Knights 4
 Knight 5
-\fQ " %s " \f> %d I can not recover it when I delete it. Are you sure you want to delete?
+\fQ"%s"\f> %d can not be recovered when you delete it. Are you sure you want to delete?
 %s Please enter quantity to delete. (1-%u, Enter = All, Esc = Cancel)
 Create a blood certificate
 Completion of clan notification
@@ -4177,8 +4177,8 @@ Apply Fruit of Growth to character: %s?
 %s The character's coveted reserve of fruit for growth \n Do you want to cancel?
 Tam
 Click on the character to use the growth fruit.
-Growth Ring (Mobile): AC-2
-Growth Ring (Mobile): AC-3, +2 damage
+Fruit of Growth 2 Stages: EXP +30%, AC-2, Damage Reduction +1
+Fruit of growth 3 stages: EXP +40%, AC-3, Damage Reduction +2
 %s You can cancel later.
 Growth Ring (Mobile) Step 1: AC-1 		
 Growth Ring (Mobile) Step 2: AC-2 		
@@ -4315,8 +4315,8 @@ Continuous production can not be started.
 [Items during Great Success]
 [Other production items]
 blessed
-Blessings of Einhasad: \nEXP + 100% \n + EXP Bonus: EXP + 30%
-Blessings of Einhasad: \nEXP + 100% \n + PC benefits apply \n + EXP Bonus: EXP + 30%
+Blessings of Einhasad: \nEXP +100%\n+ Experience Bonus: EXP +150%
+Blessings of Einhasad: \nEXP +100%\n+ Experience Bonus: EXP +30%
 This skill is not a level that can awaken.
 STR_NOT_USER_TO_ENTER_WORLD
 [China] Oak hunting
@@ -4332,26 +4332,26 @@ Applying N shop buff \n (Right-click contents can be checked)
 [Taiwan] Pandora Manastone: Long Range Damage + 2, HP + 25, MP + 25, DEX + 1, HP Recovery +1, MP Recovery +1
 [Taiwan] Pandora Manastone: Magical Attack + 2, MP + 50, INT + 1, MP Recovery +3
 [Taiwan] Pandora Manastone: AC-5, HP + 30, MP + 30, MR + 10%, Damage Reduction +1
-\f> Receive Defense: Water Attribute Resistance +10
-\f> Wind defenses: Wind resistance +10
-\f> Command defense: Ground resistance +10
-\f> Hwaryun Defense: Fire resistance +10
-\f> Elemental defense: 4 resistance +5
-\f> Strengthening of strength: Str + 1
-\f> Agility enhancement: Dex + 1
-\f> Enhanced Knowledge: Int + 1
-\f> Wisdom: Wis + 1
-\f2 Receive Attack: Water Attack Attack +2
-\f2 Bale Attack: Wind Attack + 2
-\f2 Command Attack: Land Attack +2
-\f2 Hryvnia Attack: Fire Attack + 2
+\f>Receive Defense: Water Attribute Resistance +10
+\f>Wind defenses: Wind resistance +10
+\f>Command defense: Ground resistance +10
+\f>Hwaryun Defense: Fire resistance +10
+\f>Elemental defense: 4 resistance +5
+\f>Strengthening of strength: Str + 1
+\f>Agility enhancement: Dex + 1
+\f>Enhanced Knowledge: Int + 1
+\f>Wisdom: Wis + 1
+\f2Receive Attack: Water Attack Attack +2
+\f2Bale Attack: Wind Attack + 2
+\f2Command Attack: Land Attack +2
+\f2Hryvnia Attack: Fire Attack + 2
 \f2PvP Enhancement: PvP damage / Reduction +1
-\f2 Reinforced: HP / MP + 50, Weight 3%
-\f2 Attack Enhancement: Near / Far damage +1
-\f2 Defense Enhancement: Damage Reduction +1
-\f2 Enchantment Boost: SP + 1
-\f2 Technology Enhancement: Technical Resistance +2
-\f2 Spirit Enhancement: Elemental Resistance +2
+\f2Reinforced: HP / MP + 50, Weight 3%
+\f2Attack Enhancement: Near / Far damage +1
+\f2Defense Enhancement: Damage Reduction +1
+\f2Enchantment Boost: SP + 1
+\f2Technology Enhancement: Technical Resistance +2
+\f2Spirit Enhancement: Elemental Resistance +2
 You can not purchase at your VIP level.
 {0} %s The power of suppression was released and succeeded in awakening.
 You are already awakened.
@@ -4359,10 +4359,10 @@ It is a level that can not awaken yet.
 Can not be reinforced when worn.
 Blessings of growth: \n General: EXP + 20% \nPC room: EXP + 40%
 Strange Blessing Order: \n Attack, Defend, Resilience, Max HP / MP
-\f> PvP Enhancement: PvP damage / Reduction +1
-\f> Energizing: HP / MP + 50, Weight 3%
-\f> Attack Enhancement: Near / Far damage +1
-\f> Defense Enhancement: Damage Reduction + 1
+\f>PvP Enhancement: PvP damage / Reduction +1
+\f>Energizing: HP / MP + 50, Weight 3%
+\f>Attack Enhancement: Near / Far damage +1
+\f>Defense Enhancement: Damage Reduction + 1
 %s From %s I killed you! Current survivor %s persons!
 HP + MP + 20, Medium + Long Range +3, SP + 3, Reduction +2, HP / MP Recovery +2
 Personal: Your subscription is over. Please extend the period of use in "Lineage homepage" -> "Payment of usage fee". PC room: If the usage period expires, please charge the G coin through the PC room homepage (http://pcbang.ncsoft.net). If the temporary connection failure occurs, please contact the customer center (1600-0020).
@@ -4378,7 +4378,7 @@ Inventory payments
 [Attendance] %02d minute %02s remaining.
 Attendance check is completed. Please press the attendance check button to receive the reward.
 Not enough time left to attend
-\f> Magic Enhancement: SP + 1
+\f>Magic Enhancement: SP + 1
 Attendance
 Please enter higher than the current bid price.
 {0} %s Not enough.
@@ -4421,12 +4421,12 @@ The surname owned by the builder \n Begin siege.
 The surname owned by the builder \n End siege.
 Before you click OK, \n Character to apply sanctions \n Rename again \Please check.
 Magic doll synthesis
-\f3 Is not movable. \n \f> Choose the magic doll to synthesize.
-At least two \n You need a magic doll.
+\f3Is not movable. \n\f>Choose the magic doll to synthesize.
+At least two \nYou need a magic doll.
 The probability of synthesis has increased to the maximum.
-You can add more magic dolls \n Press the Composite button.
-\fF composite probability \n significantly increased.
-\The probability of fZ synthesis \n The maximum has been increased.
+You can add more magic dolls\nPress the Composite button.
+\fFComposite probability\nsignificantly increased.
+\fZMaximum probability of the synthesis\nhas been increased.
 Attendance check items can only be acquired in a PC room.
 Now : %d step \n (0: unused, 1: system \n2: chat, 3: system + chat)
 Storage status \n %s\n \n File name \n %s
@@ -4434,7 +4434,7 @@ You can only attend PC room.
 Attendance check (PC room) We received buff.
 Someone %s Synthesis succeeded.
 Successful synthesis of magic doll
-\f3 Magic doll synthesis failed
+\f3Magic doll synthesis failed
 [Japan] Special Chocolate: Maximum HP + 80, Maximum MP + 30, MR Bonus +10
 In the first slot \n The doll is not registered.
 Inventory is full and synthesis can not proceed.
@@ -4447,12 +4447,12 @@ One of Aden's {0} %s It glows brilliantly.
 One of Aden's {0} %s It shines brilliantly in silver.
 One of Aden's {0} %s It glows brilliantly.
 Personal store: Not open (exceeded the expected weight of purchased items)
-\n \f2 Einhasad's warm gaze: \nEXP + 77% \f:
+\n\f2Einhasad's warm gaze: \nEXP+60%\f:
 You can not restart the game while composing a magic doll.
 Someone has grabbed Ainhasad's gift!
 You can not combine magic dolls during certain actions.
-\f> Additional strike: +10 \n \f> Attack Success: +10 \n \f> Damage Reduction: +5 \n \f> sp: +5
-^%s [pure %s%d Additional effects]
+\f>Additional strike: +10 \n\f>Attack Success: +10 \n\f>Damage Reduction: +5 \n\f>SP: +5
+^%s[pure %s %d Additional effects]
 Solo's Tears (Jiran Prison) You have won over 20 pieces.
 Solo's Tears (Gludio Dungeon) You have won over 20 pieces.
 Solo's Tears (Ivory Tower) Obtained more than 20 pieces.
@@ -4499,7 +4499,7 @@ Registering Blood Glossary Statements
 Start fishing.
 [Taiwan] HP + 50 MP + 30 Near / Far Attack +3 SP +3 Reduction +3 HP Recovery +3 MP Recovery +3
 List of alliances:
-Elixir intake quantity^You can take one of them from level 50 to level 5 ^\F1 (10 MAX)
+Elixir intake quantity^You can take one of them every 3 levels from level 50^\fM(up to 16)
 Player kills
 Near-field avoidance force
 Far avoidance force
@@ -4549,8 +4549,8 @@ All Ranking %d top %s , Class ranking %d top %s I did.
 - PVP damage reduction: +2
 - PVP additional damage: +2^- Ranker Transformation
 - Maximum HP: +100^- Weight gauge behavior restriction relaxation^- Can use normal
-[Japan] EXP + 20%
-[Japan] Near-distance damage +1, ranged damage +1, short-range hit +1, ranged hit +1
+EXP +10%
+Near-distance damage +1, ranged damage +1, short-range hit +1, ranged hit +1
 You will not be able to travel for 1 minute after connecting to the server.
 - Str +1 increase
 - Dex +1 increased
@@ -4653,7 +4653,7 @@ General Attack Position (Clan Buff): Attack Success + 2
 Normal Defense Position (Clan Buff): AC-3
 Combat Attack Position (Clan Buff): PvP Damage +1
 Combat Defense Position (Clan Buff): PvP Reduction +1
-Teleport to %s? \n  Requires Adena: %d.
+Teleport to %s? \n Requires Adena: %d.
 Guidance: Try to use "Arnold's Gloves" to prevent experience and item loss at the time of death.
 [Japan] Not available.
 [Japan] There is not enough admission ticket.
@@ -4704,11 +4704,11 @@ We cleared the underground passage. Rankings are available on Monday.
 {0} (The underground passage can be entered after 7 days after the clan membership)
 To open the aisle, you need 9,900 "Aura of Blessing". Do you want to use it?
 * Unknown *
-\f> The battle begins soon. \f2 chief of staff las \Talk to f> \f2 Supply \f>!
-\f> The battle has begun! Paid \f2 magic bar \f> \f3 destroy gates \f> Please!
-\f> All right! \f2 destroy gates \f> has been! The next goal is \f3 Destroy the Guard \f>.
-\f> Great! \f2 Destroy the Guard Tower \You've succeeded! Now the last enemy, \f3 KENNIS \Defeat the f>. \f2 Potion, Antidote, Counter Magic \f>.
-\f> That's great! The witch Karenis and his men went down. Now to town \f2 return \f> to prepare for a new adventure!
+\f>The battle begins soon. Talk to \f2General Lars \f>to receive \f2supplies \f>!
+\f>The battle has begun! Paid \f2magic bar \f>\f3destroy gates \f>Please!
+\f>All right! \f2gates \f>has been destroyed! The next goal is \f3Destroy the Guard \f>.
+\f>Great! \f2 Destroy the Guard Tower \You've succeeded! Now the last enemy, \f>Defeat the \f3 KENNIS. \f2 Potion, Antidote, Counter Magic \f>.
+\f>That's great! The witch Karenis and his men went down. Now to town \f2 return \f> to prepare for a new adventure!
 Teleport Cost
 We cleared the underground passage in {0} minutes {1} seconds. Ranking is available after {2} hours {3} minutes.
 We cleared the underground passage in {0} minutes {1} seconds. Ranking is available after {2} minutes.
@@ -5045,9 +5045,9 @@ At present, the blessing of Ainhasad is amplified in the Tower of Insolence.
 [Taiwan] AC-5, MR + 21, Damage Reduction +9, Stern Resistance + 5, CON + 1, PVP Reduction + 5, EXP + 5%
 [Taiwan] AC-5, MR + 21, Damage Reduction +10, Stern Resistance + 5, CON + 2, PVP Reduction + 6, EXP + 7%
 This is a voucher that is not available on the current server.
-Growth Ring (Mobile): AC-4, +2 damage
-Growth Ring (Mobile): AC-5, Damage +2, EXP + 5%
-%d / 5
+Fruit of Growth 4 stages: EXP +40%, AC-4, Damage Reduction +2
+Fruit of Growth 5 stages: EXP +40%, AC-5, Damage Reduction +2
+%d/5 pieces
 Would you like to expand your slots with 2 million adena?
 Would you like to expand the slot by consuming 30 million adena?
 World entry is delayed, please try again if waiting
@@ -5094,7 +5094,7 @@ Siege: The siege sentence can not be changed while Siege is in progress.
 Siege: You can not withdraw from the Clan during the Siege process.
 Siege: You can not join the Clan during the Siege.
 The blood mark is too transparent.
-Blessings of growth: \n General: EXP + 70% \nPC room: EXP + 93%
+Blessings of growth: \n General: EXP +70% \nPC room: EXP +93%
 [Taiwan] Stern Level 1: Stun Hit +1, HP + 30
 [Taiwan] Stern Level 2: Stern Hits +2, HP + 50
 [Taiwan] Stern Level 3: Stern Hit +5, HP + 100
@@ -5135,21 +5135,21 @@ Instant Movement Ring: \n Random teleport possible
 [EXP Benefits] ^^
 %s Has reached 90th level. I would like to congratulate everyone.
 %s Your 90th Level Achievement Buff Statue will be built in Giran Village for an hour.
-[Rank 181 ~ 200]^^- Blessing EXP + 10%
-[Rank 161 ~ 180]^^- Blessing EXP + 10%^- Maximum HP +50
-[Rank 141 ~ 160]^^- Blessing EXP + 10%^- Maximum HP + 100
-[Rank 121 to 140]^^- Blessing EXP + 10%^- Maximum HP +200
-[Rank 101 ~ 120]^^- Blessing EXP + 10%^- Maximum HP +200^- AC -1
-[Rank 81 to 100]^^- Maximum HP +200^- AC-2^- PVP Damage Reduction +1
-[Rank 61 to 80]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +1
-[Rank 41 to 60]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2
-[Rank 21 to 40]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 1^- Ranker Polymorph
-[Rank 11 to 20]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- STR +1
-[Rank 11 to 20]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- DEX +1
-[Rank 11 to 20]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- INT +1
-[Rank 1 to 10]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- STR +1^- Normal Protection^- Weight Relaxation
-[Rank 1 to 10]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- DEX +1^- Normal Protection^- Weight Relaxation
-[Rank 1 to 10]^^- Maximum HP +200^- AC -3^- PVP Damage Reduction +2^- PVP Damage + 2^- Ranker Polymorph^- INT +1^- Normal Protection^- Weight Relaxation
+[Rank 81-100]^^- Blessing EXP + 10%
+[Rank 61-80]^^- Blessing EXP + 10%^- Maximum HP +50
+[Rank 141-160]^^- Blessing EXP + 10%^- Maximum HP + 100
+[Rank 121-140]^^- Blessing EXP + 10%^- Maximum HP +200
+[Rank 101-120]^^- Blessing EXP + 10%^- Maximum HP +200^- AC -1
+[Rank 81-100]^^- Maximum HP +200^- AC-2^- PVP Damage Reduction +1
+[Rank 41-60]^^- Maximum HP + 50 ^ AC-1
+[Rank 21-40]^^- Maximum HP + 100 ^ AC-1 ^ PVP Damage Reduction +1
+[Rank 11-20]^^- Maximum HP + 100 ^ AC-2 ^ PVP Damage Reduction +2 ^ PVP Additional Damage +1 ^ Ranker Makeover
+[Rank 4-10]^^- Maximum HP + 200 ^ AC-2 ^ PVP Damage Reduction +2 ^ PVP Additional Damage +2 ^ Ranker Transformation ^ STR + 1
+[Rank 4-10]^^- Maximum HP + 200 ^ AC-2 ^ PVP Damage Reduction +2 ^ PVP Additional Damage +2 ^ Ranker Transformation ^ DEX + 1
+[Rank 4-10]^^- Maximum HP + 200 ^ AC-2 ^ PVP Damage Reduction +2 ^ PVP Additional Damage +2 ^ Ranker Transformation ^ INT + 1
+[Rank 1-3]^^- Maximum HP + 200 ^ AC-3 ^ PVP damage reduction +2 ^ PVP additional damage +2 ^ Ranker transformation ^ STR + 1 ^ Top protection available ^ Action restriction relaxation by weight
+[Rank 1-3]^^- Maximum HP + 200 ^ AC-3 ^ PVP damage reduction +2 ^ PVP additional damage +2 ^ Ranker transformation ^ DEX + 1 ^ Top protection available ^ Action restriction relaxation by weight
+[Rank 1-3]^^- Maximum HP + 200 ^ AC-3 ^ PVP damage reduction +2 ^ PVP additional damage +2 ^ Ranker transformation ^ INT + 1 ^ Top protection available ^ Action constraint relaxation by weight
 Quake: A chance to apply near-field damage 1.5 times
 The energy of Quake goes back to nature.
 Sandstorm: Move and attack faster
@@ -5182,21 +5182,21 @@ The resource has been tampered with.
 Increase spells: Near-field damage +3, Near-field hit +5, PVP damage reduction +3
 Increase spells: Distant damage +3, ranged hit +5, PVP damage reduction +3
 Increase spells: SP + 3, magic hit +5, PVP damage reduction +3
-[Blessing Bonus Level 1]^: Blessing EXP + 10%
-[Bonus of Life Phase 1]^: Maximum HP +50
-[Level 2 of Life Bonus]^: Maximum HP + 100
-[Level 3 of Life Bonus]^: Up to HP +200
-[Strength Bonus 1st Stage]^: AC -1
-[Level 2 bonus of armor]^: AC-2
-[Level 3 bonus]^: AC -3
-[Level 1 of survival bonus]^: PVP damage reduction + 1
-[Level 2 of survival bonus]^: PVP damage reduction + 2
-[Assassination Bonus Level 1]^: PVP additional damage + 1
-[Level 2 of assassination bonus]^: PVP additional damage +2
-[Ranker's Bonus Level 1]^: Ranker Transformation
-[Ranker's Bonus 2nd Stage]^: Ranker Transformation^: STR +1
-[Ranker's Bonus 2nd Stage]^: Ranker Transformation^: DEX +1
-[Ranker's Bonus 2nd Stage]^: Ranker Transformation^: INT +1
+[Blessing Bonus 1st Stage]^: Blessing EXP + 10%
+[Life Bonus 1st Stage]^: Maximum HP +50
+[Life bonus 2 stages]^: Maximum HP + 100
+[3 levels of life bonus]^: Maximum HP + 200
+[Iron armor bonus 1st stage]^: AC-1
+[Iron armor bonus 2 stages]^: AC-2
+[Iron armor bonus 3 levels]^: AC-3
+[Survival Bonus 1st Stage]^: PVP Damage Reduction +1
+[Survival bonus 2 stages]^: PVP damage reduction +2
+[Assassination Bonus 1st Stage]^: PVP Additional Damage +1
+[Assassination bonus 2 stages]^: PVP additional damage +2
+[Ranker bonus 1st stage]^: Ranker makeover
+[Ranker bonus 2 stages]^: Ranker transformation ^: STR + 1
+[Ranker bonus 2 stages]^: Ranker transformation ^: DEX + 1
+[Ranker bonus 2 stages]^: Ranker transformation ^: INT + 1
 [Normal Bonus]^: Normal use available^: Weight Gauge Relaxation
 [Class Bonus]^: Ranker Transformation
 only
@@ -5210,7 +5210,7 @@ Wait for the party leader. %d seconds
 The Rift of Domination is closing {0} seconds remaining
 The Rift of Domination is about to close by the power of the Ripper. {0} minutes remaining
 You can not put items into that NPC.
-{0} \f> %s\fU general winning party \f>. Do you accept?
+{0} \f>%s\fUgeneral winning party \f>. Do you accept?
 [Taiwan] [Strength of Dragon] Shattered Seal: Min / Range / Magic Hit + 6, HP / MP Recovery +6, Max HP / MP +60, SP + 2, Reduction +2
 [Taiwan] [Mighty Power] Insulated Seal: Min / Range / Magic Hit + 7, HP / MP Recovery +7, Max HP / MP + 70, SP + 2, Reduction +2
 [Taiwan] [Dragon Power] Seal of Restoration: Heavy / Long Range / Magic Hit + 8, HP / MP Recovery +8, Max HP / MP + 80, SP + 2,
@@ -5221,7 +5221,7 @@ You can not put items into that NPC.
 [Taiwan] Ultimate Defense: Damage Reduction +1000
 (Discount) Do you want to expand the slot by consuming 10,000 adena? 
 %s The server succeeded in attacking the boss.
-\fq current %d People are waiting for connection. \n \fk To limit the number of players to provide a stable play environment, \Please wait a moment. \n (You can connect more quickly when using security service and PC connection.)
+\fQ current %d People are waiting for connection. \n \fK To limit the number of players to provide a stable play environment, \Please wait a moment. \n (You can connect more quickly when using security service and PC connection.)
 Poseidon
 light
 Phrase
@@ -5232,10 +5232,10 @@ Weekness: DMG -5, HIT -5
 %s User: %d persons
 There are no damaged items.
 Einhasad's Blessing:
-- EXP+50%
-Blessing Stats %d / 5000
-- Blessing EXP + %d %%
-- Blessing Efficiency + %d %%
+EXP +100%
+Blessing Stats %d/5000
+- Blessing EXP +%d%%
+- Blessing Efficiency +%d%%
 Insignia
 Rune/Artifact
 T-shirt
@@ -5245,7 +5245,7 @@ Shield/Guarder
 (Blessing boosting %d Minute remaining)
 %d top
 Buff and additional effects
-{0} \f> %s\fu auto distribution party \f>. Do you accept?
+{0} \f>%s\fU auto distribution party \f>. Do you accept?
 Clan Blessing: Einhasad blessing consumption reduction 5% increase
 %s Do you want to change your hunting ground by consuming Adena?
 [Taiwan] HP + 120 MP + 100 Close Combat +50 Magical Attack +15 Reduction +30
@@ -5263,7 +5263,7 @@ Barrier of domination (all levels)
 The 7th to 10th floors of the Tower of Oman
 [Taiwan] CON + 2 Spirit +2 Short Range Hit +7 Long Range Hit +7 Magical Hit +5 Max HP + 120 Max MP + 100
 Would you like to revive your pet by consuming crystals?
-Pride: Max HP Rise (your level / 4)%
+Pride: Max HP Rise (your level/4)%
 Pride effect disappears.
 Blow Attack: Apply a short-range damage 1.5 times with a certain probability
 Blow attack effect disappears.
@@ -5281,12 +5281,12 @@ The stats have risen by ingesting {0}.
 Gaho shines white and protected the pet.
 {0} %s Sales success
 Change pet name
-\F1 Friendship points ^\F0 Thigh gauge 100%^Earn 1 charge^Used for fortification and training
+\f1Friendship points ^\f0Thigh gauge 100%^Earn 1 charge^Used for fortification and training
 Elixir Intake
-\F1 attack speed ^\F0 Number of attacks per second
-\F1 moving speed ^\F0 Number of moving cells per second
-\F1AC ^\F0 Avoidance against physical attack
-\F1MR ^\F0 Damage reduction effect for magic damage
+\f1Attack speed ^\f0Number of attacks per second
+\f1Moving speed ^\f0Number of moving cells per second
+\f1AC ^\f0 Avoidance against physical attack
+\f1MR ^\f0 Damage reduction effect for magic damage
 Wild %d Step open
 Specifying an immediate attack^(Quick slot registration possible)
 retreat^(Quick slot registration possible)
@@ -5318,7 +5318,7 @@ Will you use friendship points and enhanced catalysts to enhance your wildness?
 It can fail from +5 reinforcement. Will you strengthen your wildness?
 I can not strengthen it because of lack of friendship points.
 There is not enough strengthening catalyst to strengthen it.
-\F1? Expansion of wilderness phase ^\F0 Satisfaction condition for expansion of the higher virulence stage
+\f1? Expansion of wilderness phase ^\f0Satisfaction condition for expansion of the higher virulence stage
 ^ 1) All enchantments of lower level +4 or above
 ^ 2) Achieve the required level of upper level
 ^ - %d Steps: Lv %d
@@ -5369,7 +5369,7 @@ hour(s)
 MP
 邏ｯ遨・
 繝・Ξ繝昴・繝磯俣髫・(0・・0遘・
-\F1 Negative experience value status ^\F0 When EXP drops below 0% due to death ^ -Experience value cannot be obtained ^ --Attack / movement speed decrease ^ (Recoverable through pet spirit master)
+\f1Negative experience value status ^\f0When EXP drops below 0% due to death ^ -Experience value cannot be obtained ^ --Attack / movement speed decrease ^ (Recoverable through pet spirit master)
 dummy
 dummy
 Do you want to save?
@@ -5405,9 +5405,9 @@ Blessing of the Hero: Increases defense.
 Pets cannot be stored during battle.
 I can't store my pet now.
 dummy
-\F1 Hunting ability score ^\F0 Physical damage / Physical hit / Physical critical
-\F1 Survival stats ^\F0 Maximum HP / HP recovery / AC / MR / Damage reduction
-\F1 Sacred ability score ^\F0 Skill damage / skill critical / skill activation probability
+\f1Hunting ability score ^\f0Physical damage / Physical hit / Physical critical
+\f1Survival stats ^\f0Maximum HP / HP recovery / AC / MR / Damage reduction
+\f1Sacred ability score ^\f0Skill damage / skill critical / skill activation probability
 The power of hunting
 Viability
 Sacred power
@@ -5415,9 +5415,9 @@ Someone got a% s item from% d in the login stamp reward.
 The use of the game has been restricted due to the fact that your account has been confirmed to have attempted acts that are offensive to public order and morals or fraudulent acts. For details, please contact us from the support on the official website.
 Your account has been restricted from using the game due to acts that are offensive to public order and morals or fraudulent activity. For details, please contact us from the support on the official website.
 You will need% s Adena to recover your pet's experience points. Do you want to recover?
-\ aH reward
-\ aH Additional reward
-\ aH material
+\aHReward
+\aHAdditional reward
+\aHMaterial
 Experience point
 standard
 Less than
@@ -5524,7 +5524,7 @@ Attack speed
 \fHItem\f?: %s Overall Skill Level
 \fHItem\f?: %s %dphase %s%+d
 \fHItem\f?: %s %dphase max enchancement
-^\fA Condition: Level%d,%d stage +%d enhancement
+^\fACondition: Level%d,%d stage +%d enhancement
 Strengthening Possibilities
 Reinforcement is not possible
 https://lineage.plaync.com/powerbook/wiki/%EC%84%9C%ED%81%90%EB%B2%84%EC%8A%A4+%EC%84%9C%EB%B2%84
@@ -5802,7 +5802,7 @@ Stop
 Move Route: OFF
 Move Route: \aeON
 Item Looting: OFF
-Item Looting: \ae Once
+Item Looting: \aeOnce
 Item Looting: \ae3 Times
 Receive village buff before departure: OFF
 Receive the village buff before departure: \aeON
@@ -5815,7 +5815,7 @@ MP 80% or more: OFF
 MP 80% or more: \aeON
 [PSS OFF condition]
 Character Death: OFF
-Character Death: \ae times
+Character Death: \ae1 time
 Character Death: \ae3 times
 Non-Battle: OFF
 Non-combat: \ae5 min
@@ -6115,8 +6115,8 @@ Black Battleship
 81 or more
 Teleport to Hunting Ground
 Reward
-- Item : %s %ddog
-- Exp : %d%(Lvl52 Standard)
+- Item: %s %ddog
+- Exp: %d%(Lvl 52 Standard)
 Material
 Defense (AC)
 Based on current level +%d%
@@ -6962,9 +6962,9 @@ Village return condition: Not Set
 Village Return Conditions: Set
 Random Teleport: Not Set
 Random Teleport: Set
-Dragon's Blessing: \nDamage Reduction + 2 \nWeight Increase + 100
+Dragon's Blessing: \nDamage Reduction +2 \nWeight Increase + 100
 Dragon's Blessing: \nDamage Reduction +3 \nIncreased Weight +200
-Dragon's Blessing・喀nDamage Reduction+4\nAll Tolerances+5\nPVP Damage Reduction+5\nWeight Increase+500
+Dragon's Blessing: \nDamage Reduction +4 \nAll resistance +5\nPVP Damage Reduction +5\nPossession weight increase +500
 victory
 defeat
 Do you want to track "%s"?
@@ -7000,7 +7000,7 @@ Please note that you may only change your clan name once for that reason.
 If you use a clan name that violates the operating policy, you may be restricted from using the service for up to 7 days depending on the cumulative order.
 Please enter the name of the clan you wish to change.
 Please change your clan name
-The clan name has been changed. \ NAfter checking the server, the clan name will be applied.
+The clan name has been changed. \nAfter checking the server, the clan name will be applied.
 Make sure you have a highlight enabled graphics card and experience installed.
 Rose Fragrance Effect: Close Range Damage +1, Close Shot +2
 Sunflower Fragrance Effect: Ranged Damage +1, Ranged Hit +2
@@ -7130,7 +7130,7 @@ dummy9287
 Blessing value %d/8000
 Dragon's Guard:\n Reduce Damage +2\n Increase Possession Weight +100
 Cancel guide
-Hero's Growth Potion:\n EXP + 30%\n Potion Recovery: + 10% + 10\n Damage Reduction + 2\n HP + 100
+Hero's Growth Potion:\n EXP +30%\n Potion Recovery: +10% +10\n Damage Reduction + 2\n HP +100
 Crafting (Alt + C)
 View all
 Produce
@@ -7174,7 +7174,7 @@ Stat Points
 Einhasad Point
 Astrologer's Room
 You can get special stats by selecting cards.
-\f`Keplicea: Hero! You choose one of the \f=%d \f` cards. ^\F`However, you can give me a chance to test your luck by giving me \f=%d \f` points given by Einhasad.
+\f`Keplicea: Hero! You choose one of the \f=%d \f` cards. ^\f`However, you can give me a chance to test your luck by giving me \f=%d \f` points given by Einhasad.
 \f`Keplicea : Unfortunately this choice fails.^\f`But next time the card \f`Choose from \f= %d chapter.
 \f`Keplicea : You are Gods choice..^\f`Bonus points \f= %d \f`Given this, you can upload your own special stats.
 Fast entry
@@ -7434,7 +7434,7 @@ luck
 vitality
 Do you want to upload a stat?
 Dragon damage reduction
-Blessed Land: exp + 100%
+Blessed Land: EXP +100%
 Halfas's Faith: Significantly increased PVP Reduction
 Halfas's Faith: Awaiting Reuse
 Keplysha
@@ -7450,9 +7450,9 @@ Step %d
 Debuff Skill Immunity for Duration
 I feel the energy of the Maphre wraps around me.
 I feel the energy of Mafra disappears.
-21st Anniversary Legendary Growth Potion:\n\nBlessed EXP + 20% (Common)\n\n86 ~ 87 Level: EXP + 50%\n88 ~ 89 Level: EXP + 40%\n90 ~ 92 Level: EXP + 35%\n93-99 Level: EXP + 30%
-21st Anniversary Growth Potion:\nEXP + 20%
-Black Dragon's Eye: +5 Damage Reduction, MR + 10%
+21st Anniversary Legendary Growth Potion:\n\nBlessed EXP +20% (Common)\n\n86 ~ 87 Level: EXP +50%\n88 ~ 89 Level: EXP +40%\n90 ~ 92 Level: EXP +35%\n93-99 Level: EXP +30%
+21st Anniversary Growth Potion:\nEXP +20%
+Black Dragon's Eye: +5 Damage Reduction, MR +10%
 Absolute Eye: Black Dragon, all effects of Life's Eye
 Darkhorse: Increases movement and attack speed when using Jugdra's Fruit
 Poe Slayer Brave: Attack 4 weak points
