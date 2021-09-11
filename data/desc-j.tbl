@@ -1081,9 +1081,9 @@ Quadjin
 Aluminum
 Deplection
 LEV
-Ac
-Hp
-Mp
+AC
+HP
+MP
 Love hand to people who are not blessed!
 Pet bowl
 Stall from this sacred forest! I'm a blessed person!
@@ -1118,31 +1118,31 @@ I will attack with no shot!
 Antiasa
 Carry out
 Do not carry out
-Strike value
+Hit Value
 nutrition
 Brightness
 Degree of damage
-Both-handed weapons
-Short distance
+Two-handed weapon
+Hit Bonus
 Additional damage
-class
+Class
 [Monarch]
 [Night]
 [Elf]
-Wizard
+[Wizard]
 STR
 DEX
-Con
-Wis
-Int
+CON
+WIS
+INT
 CHA
 Max HP
 MP absorption
 SP
-Haist
-Good luck
-weight
-During long distance
+Haste
+Luck
+Weight
+Range Hit Bonus
 There was no seminar of the destination, so it did not receive a handle.
 Map Manufacturer ^ Est
 Literator notebook
@@ -5526,21 +5526,21 @@ Soul who loses shine
 Pet race manager ^ Dopo
 Ice daemon
 Item Manufacturer ^ Elephant Stone Golem
-During long distance
-Magical life
-Dual distance damage
-Magic damage
-Short distance
-Magical critical
-Near distance damage
+Ranged Hit
+Magic Hit
+Ranged Damage
+Magic Damage
+Melee Hit
+Magic Crit-Chance
+Melee damage
 Consumption MP decrease
 Max HP
-Avoidance
+Evasion
 Max MP
-Magic resistance
-HP Nature Recovery
-Maximum possession weight
-MP recovery
+Magic Resistance
+HP Regen
+Weight Capacity
+MP Regen
 Ice daemon bag
 Ice Queen Bag
 Ice Queen Box
@@ -7373,14 +7373,14 @@ Japanese autographed item
 Japanese autographed item
 snake
 Monkey
-HP Nature Recovery
-MP Nature Recovery
-% i pink crystal ring
-% I Blue Crystal Ring
-% i red crystal ring
-% I Green Crystal Ring
-% I yellow crystal ring
-% i White Crystal Ring
+HP Regen
+MP Regen
+%i pink crystal ring
+%i Blue Crystal Ring
+%i red crystal ring
+%i Green Crystal Ring
+%i yellow crystal ring
+%i White Crystal Ring
 Pink present box
 Blue presents box
 Red present box
@@ -8680,13 +8680,13 @@ Tiger
 Bin
 Hong Kong Experience Server Gift Box
 Hong Kong Experience Server Capture Box
-[Near distance damage]
-[Near distance]
-[Distance Device]
-[Long distance]
+[Melee Damage]
+[Melee Hit]
+[Range Damage]
+[Range Hit]
 [SP]
-[Magic Life]
-[Stan resistance]
+[Magic Hit]
+[Stun Resistance]
 [Hold Resistance]
 Sealed was slightly solved. [1/4]
 The seal was solved about half. [2/4]
@@ -9166,19 +9166,19 @@ Strengthening Wizard ^ Nebel
 Breath of magic
 Breath of luxury magic
 Best Magical Blow Blow
-Near distance attacking rune
-Long distance attacking launde
-Magical attacking laun
-Near distance lone
-Long distance
-Magical Life Rune
-Fire defense
-Wind defense launde
-Water defense
-Land defense
-Sealed Sword (Additional Damage)
-Sealed bow (additional damage)
-Sealed staff (magic)
+Melee Damage Rune
+Ranged Damage Rune
+Magic Power Rune
+Melee Hit Rune
+Ranged Hit Rune
+Magic Hit Rune
+Fire Defense Rune
+Wind Defense Rune
+Water Defense Rune
+Earth Defense Rune
+Sealed Sword (Bonus Damage)
+Sealed bow (Bonus Damage)
+Sealed staff (Magic Power)
 Sealed goblinmer
 One of the sealed boots
 Missing Dawvish Sword
@@ -9218,17 +9218,17 @@ Ring replacement bag of physical fitness
 Magical Oath Ring Replacement Bag
 Magic Resistance Oath Ring Replacement Bag
 9th Anniversary Celebration Ring Exchange
-Sealed short distance attack runoon
-Sealed Long-range Attack Rune
-Sealed Magic Attack Rune
-Sealed near distance lives
-Sealed long distance
-Sealed magic lives
-Sealed fire defense
-Sealed wind defense launde
-Sealed water defense
-Sealed land defense
-Enma Double Hands Sword
+Sealed Sealed Melee Damage Rune
+Sealed Ranged Damage Rune
+Sealed Magic Damage Rune
+Sealed Melee Hit Rune
+Sealed Ranged Hit Rune
+Sealed Magic Hit Rune
+Sealed Fire Defense Rune
+Sealed Wind Defense Rune
+Sealed Water Defense Rune
+Sealed Earth Defense Rune
+Enma DoDouble Hands Sword
 Enmaji Sword Double System
 Enmaji Senko Tri
 Enmaji Swords
@@ -9488,7 +9488,7 @@ Cure T-shirt Box (4-piece)
 Meditation T-shirt box (4 clothes)
 Delivery member Mimic: 100 juice
 Delivery member Mimic: 200 juice
-Near distance Birthday Cake
+Melee Birthday Cake
 Long-distance Bath Dice Cake
 Magical Birthday Cake
 Magical life
@@ -15767,7 +15767,7 @@ Motion
 [Appendix]
 Physical attack avoidance
 Killed
-Magical critical
+Magical Crit Chance
 Magical consumption reduction
 3-stage acceleration
 dummy
@@ -16483,7 +16483,7 @@ Survival cry (Ctrl + E)
 Weight gauge
 Potion recovery rate
 Potion recovery
-Damaged
+Damage Reduction
 Probabilistic damage reduction
 Additional defense
 dummy
@@ -18273,14 +18273,14 @@ dummy
 dummy
 dummy
 dummy
-Lv 52 to 64: 2.0% Experience Values ​​Acquisition
-Lv 65-74: 2.2% Experience Values ​​Acquisition
-Lv 75-81: 2.4% Experience Values ​​Acquisition
-Lv 82 or more: 2.8% Experience points acquired
-Lv 52-64: 6.0% Experience Values ​​Acquisition
-Lv 65-74: 6.6% Experience Values ​​Acquisition
-Lv 75-81: 7.2% Experience Values ​​Acquisition
-Lv 82 or more: 8.4% Experience points acquired
+Lvl 52-64: 2.0% Experience Values ​​Acquisition
+Lvl 65-74: 2.2% Experience Values ​​Acquisition
+Lvl 75-81: 2.4% Experience Values ​​Acquisition
+Lvl 82+: 2.8% Experience Values ​​Acquisition
+Lvl 52-64: 6.0% Experience Values ​​Acquisition
+Lvl 65-74: 6.6% Experience Values ​​Acquisition
+Lvl 75-81: 7.2% Experience Values ​​Acquisition
+Lvl 82+: 8.4% Experience Values ​​Acquisition
 dummy
 dummy
 dummy
@@ -20276,8 +20276,8 @@ Spirit of the jewelry box
 Trigger percentage
 Damage reduction
 ER
-Short distance
-Long distance additional damage
+Melee Hit
+Range Bonus Damage
 Attribute resistance force
 MR
 DG
@@ -21754,8 +21754,8 @@ dummy
 dummy
 dummy
 dummy
-Additional damage rate
-Long distance avoid improvement
+Additional Damage Rate
+Range Evasion Improvement
 dummy
 dummy
 dummy
@@ -24778,8 +24778,8 @@ dummy
 dummy
 dummy
 dummy
-Long distance critical
-Near distance critical
+Range Crit Chance
+Melee Crit Chance
 Distortion Dianie
 Mistrust Star Balloon
 Horror alkali
@@ -24991,7 +24991,7 @@ Attribute 3 steps + 7 Dragon Slayer
 Attribute 3-stage + 8 Dragon Slayer
 Attribute 3-stage + 9 Dragon Slayer
 Attribute 3 steps + 10 Dragon Slayer
-Probabilistic short distance damage
+Probabilistic melee damage
 Dragon Slayer
 Attribute 4-stage Dragon Slayer
 Attribute 4-stage + 1 Dragon Slayer
@@ -25514,17 +25514,17 @@ Gold Enhancement Wizard ^ Shear
 Platinum Reinforcement Wizard ^ Sea
 VIP space-time moth
 New VIP coin
-ALTER S Long distance damage TEST
-ALTER S Long distance TEST
+ALTER S Range Damage TEST
+ALTER S Range TEST
 ALTER S SP TEST
 ALTER S Add Damage TEST
-ALTER S short range Test TEST
+ALTER S Melee Test TEST
 ALTER S Magic Granding Test
-ALTER S avoidance TEST
+ALTER S Evasion TEST
 ALTER S 1 shot kill TEST
-ALTER S Magical Critical TEST
+ALTER S Magical Crit Chance TEST
 ALTER S Magical War Decrease Test
-ALTER S fast attack TEST
+ALTER S Fast Attack TEST
 dummy
 Absolute MP Nature Recovery
 Strengthening bonus damage
@@ -27359,11 +27359,11 @@ Earrings extension tickets
 dummy
 (Engraved)
 \aLdecorative jewelry
-status
+Status
 \f<automatic deletion
-Improper
+Not Possible
 Exchange
-delete
+Delete
 Enchantment
 Time limit
 limit
@@ -32065,18 +32065,18 @@ dummy
 dummy
 Hidden dimension hourglass
 dummy
-Near distance critical + 1%
-Long distance critical + 1%
-Magical critical + 1%
-Near distance damage +1
-Long distance damage +1
-Near distance +1
-Long distance +1
-Damage reduction +1
+Melee Crit Chance +1%
+Range Crit Chance +1%
+Magical Crit Chance +1%
+Melee Damage +1
+Range Damage +1
+Melee Hit +1
+Range Hit +1
+Damage Reduction +1
 AC-1
-MR + 3%
-Maximum HP + 30
-Maximum MP + 20
+MR +3%
+Maximum HP +30
+Maximum MP +20
 PVP Additional Damage +1
 PVP Damage Decrease +1
 Fire attribute resistance + 10
@@ -32084,22 +32084,22 @@ Area attribute resistance +10
 Water attribute resistance + 10
 Wind attribute resistance +10
 Holding weight increase +100
-Near distance critical + 3%
-Long distance critical + 3%
-Magical critical + 3%
-Near distance damage +2
-Long distance damage +2
-Near distance + 2
-Long distance +2
+Melee Crit Chance +3%
+Range Crit Chance +3%
+Magical Crit Chance +3%
+Melee damage +2
+Range damage +2
+Melee Hit + 2
+Range Hit +2
 Damage reduction +2
 AC-2
 MR + 6%
 Maximum HP + 60
 Maximum MP + 40
-Near distance avoidance (DG) +3
+Melee avoidance (DG) +3
 HP absolute recovery +30 (32 seconds)
 MP absolute recovery + 10 (64 seconds)
-Long distance avoidance (ER) +3
+Range avoidance (ER) +3
 PVP Additional Damage +2
 PVP Damage Reduction +2
 PVP Magic Damage Decrease + 2%
@@ -32111,19 +32111,19 @@ Fire attribute resistance +20
 Area attribute resistance +20
 Water attribute resistance +20
 Wind attribute resistance +20
-STR + 1
-DEX + 1
-CON + 1
-WIS + 1
-INT + 1
+STR +1
+DEX +1
+CON +1
+WIS +1
+INT +1
 Holding weight increase +200
-Near distance critical + 5%
-Long distance critical + 5%
-Magic critical + 5%
-Near distance damage +3
-Long distance damage +3
-Near distance +3
-Long distance +3
+Melee Crit Chance +5%
+Range Crit Chance +5%
+Magic Crit Chance +5%
+Melee damage +3
+Range damage +3
+Melee Hit +3
+Range Hit +3
 SP +3
 Magical Life + 3
 Damage reduction +3
@@ -32131,10 +32131,10 @@ AC-3
 MR + 10%
 Max HP + 150
 Maximum MP + 100
-Near distance avoidance (DG) +5
+Melee avoidance (DG) +5
 HP absolute recovery +50 (32 seconds)
 MP absolute recovery +12 (64 seconds)
-Long distance avoidance (ER) +5
+Range avoidance (ER) +5
 PVP Additional Damage +3
 PVP Damage Reduction +3
 PVP Magic Damage Decrease + 5%
@@ -32158,10 +32158,10 @@ WIS + 2
 Int + 2
 Holding weight increase + 300
 1 step acceleration
-Near distance damage + 5
-Long distance damage +5
-Near distance +5
-Long distance +5
+Melee damage + 5
+Range damage +5
+Melee Hit +5
+Range Hit +5
 SP + 5
 Magical Life + 5
 Damage reduction +5
@@ -32169,10 +32169,10 @@ AC-5
 MR + 15%
 Max HP + 300
 Maximum MP + 200
-Near distance avoidance (DG) +10
+Melee avoidance (DG) +10
 HP absolute recovery +150 (32 seconds)
 MP absolute recovery +30 (64 seconds)
-Long distance avoidance (ER) +12
+Range avoidance (ER) +12
 PVP Additional Damage +7
 PVP damage reduction +7
 PVP Magic Damage Decrease + 10%
