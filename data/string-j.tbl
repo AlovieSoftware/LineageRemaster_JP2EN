@@ -133,7 +133,7 @@ You cannot restart while in combat.
 You cannot quit while in combat.
 Autosave.
 Select the item you would like to verify from your item box.
-{0}・售mall{1} / Large {2}
+{0}・售mall{1}/Large {2}
 {0}・哂C-({1})
 {0}・哢utrition{1} Weight{2}
 {0}・啅ses available{1} Weight{2}
@@ -603,7 +603,7 @@ dummy602
 dummy603
 dummy604
 Focus: Increase movement and attack speed
-Experience (based on level / 1%)
+Experience (based on level/1%)
 Defense (AC)
 Alignment
 Weight Gauge
@@ -1647,8 +1647,8 @@ Blood Dragon's Blood: 1.5 times the wind resistance, Wind Resistance + 50, HP Re
 Blood Dragon's Blood Strength: 1.5 times of Tongryong Damage, Wind Resistance +50, HP Recovery +3, MP Recovery +1
 Dwarf Blood Stain: 1.5x Fire Dragon's Damage, Fire Resistance +50, Muscle & Long Range Hit +3 (Raid)
 Demon Blood Stain: Hellong Damage 1.5 times, Fire Resistance +50, SP + 1, Magic Critical +1
-Fire Dragon Blood: Improves speed of movement, ground resistance +50, nearby / ranged damage / hit +1 (when applied to raid)
-Fire Dragon Blood: Improves speed of movement, ground resistance +50, damage to nearby / ranged / hit +1
+Fire Dragon Blood: Improves speed of movement, ground resistance +50, nearby/ranged damage/hit +1 (when applied to raid)
+Fire Dragon Blood: Improves speed of movement, ground resistance +50, damage to nearby/ranged/hit +1
 I feel a high and refreshing feeling of eating pumpkin.
 STR_MESSAGE_ITEM_USER_DESC
 dummy(1654)
@@ -1688,7 +1688,7 @@ Party state information window
 Leave the party
 Forced deportation
 Party party delegation
-Metis Blessing Order: Attack, Defense, Resilience, Max HP / MP
+Metis Blessing Order: Attack, Defense, Resilience, Max HP/MP
 Horoscope Message: General's Fortune
 Fortune buff: Max HP + 50, Max MP + 30, AC-2
 Horoscope Message: Ordinary Horoscope
@@ -2131,7 +2131,7 @@ STR_CANT_USE_LEVELUPBONUSTICKET_NOW
 Security Buff: AC-1
 The slot is empty.
 STR_WAIT_FOR_EMAIL_ACTIVATION
-Cooking: Muscle / ranged damage +1, SP + 1, Max HP + 30, Max MP + 30, Damage +3
+Cooking: Muscle/ranged damage +1, SP + 1, Max HP + 30, Max MP + 30, Damage +3
 Have you had a pleasant adventure? Lineage's free trial time has ended.
 Overseas: In a dream, you do not receive a penalty of death.
 Total price %d You can not exceed Adena.
@@ -2148,8 +2148,8 @@ Blessing of Einhasad: Exponent Charging (Dragon's Emerald is not available)
 Blessing of Einhasad: Dragon's jewelery is not available
 Blessing of Einhasad: Dragon can not use duplicate of emerald
 A blood donor %s Enter the rank you want to give to (Guardian, elite, general, water lily)
-Usage: / Rank [Character Name] [Rank (Subordinate, Guardian, Elite, General, Waterlily)]
-Usage: / Rank [Character Name] [Rank (Subordinate, Guardian, Elite, General, Waterlily)]
+Usage:/Rank [Character Name] [Rank (Subordinate, Guardian, Elite, General, Waterlily)]
+Usage:/Rank [Character Name] [Rank (Subordinate, Guardian, Elite, General, Waterlily)]
 STR_NEED_PLEDGE_OWNER_LOGIN
 STR_FAILED_TO_SPELL_BECAUSE_OF_LOW_SPELL_LEVEL
 Titles cannot be granted to bloodpledge members until they reach level 10 or above.
@@ -2543,7 +2543,7 @@ More than the quantity of auction items <BR> You have entered the bid quantity.
 Enter the auction start price and immediate purchase price <BR> Required.
 Immediate purchase is more than auction start price <BR> It should be high.
 This item is expensive. <BR> Please make sure this price is correct.
-Auction fee %s Adena <BR> Consumed. Canceled / Offered <BR> Fees are not refundable.
+Auction fee %s Adena <BR> Consumed. Canceled/Offered <BR> Fees are not refundable.
 The auction item <BR> Are you sure you want to cancel?
 Notice of the auction item <BR> Are you sure you want to delete?
 Auction item registration is completed.
@@ -2764,7 +2764,7 @@ Your account has been restricted from using the game due to abuse of language an
 Your account has been checked for abuse in the game, and your use of the game has been restricted for the period covered by our operating policy. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account is in restricted use of the game service due to illegal program usage. After the period of preparation, it can be canceled by self-certification on the homepage. For more information, please contact the plaync homepage (www.plaync.com).
 Your account is in restricted use of the game service due to illegal program usage. For more information, please contact us at plaync homepage (www.plaync.com) Customer Center.
-Your account has been restricted from using the game service because it has been confirmed that you are illegally creating / distributing programs and modifying or modifying client or server programs. For more information, please contact the plaync homepage (www.plaync.com).
+Your account has been restricted from using the game service because it has been confirmed that you are illegally creating/distributing programs and modifying or modifying client or server programs. For more information, please contact the plaync homepage (www.plaync.com).
 Your account has been restricted for reasons such as public well-being, disruption of order and morality, and fraud. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account has been restricted for reasons such as public well-being, disruption of order and morality, and fraud. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account has been restricted from using the game because it has been confirmed that you have attempted public hiatus, harming order or morals, or fraud. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
@@ -2777,10 +2777,10 @@ You have been limited in the use of the game because it has been confirmed that 
 You have been limited in the use of the game because it has been confirmed that you have acquired quick experience and goods through planning and other unusual play. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your use of the game has been restricted because you have been found to exploit GM services or customer service to interfere with normal game use by other users or your company's game operations. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account has been confined to other users by impersonation of employees, dissemination of false facts, or other fraudulent methods, and the use of the game has been restricted for the period during which it was confirmed to interfere with the Company's game operations. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
-Customers have been limited to using game services because their transactions with cash / server / other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
-Customers have been limited to using game services because their transactions with cash / server / other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
-You have been restricted from using the game service because it has been confirmed that you are attempting to advertise for commercial purposes or to deal with cash / other games. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
-You have been confirmed that you have attempted to deal with cash / server / other games, and the use of game services has been restricted. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
+Customers have been limited to using game services because their transactions with cash/server/other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
+Customers have been limited to using game services because their transactions with cash/server/other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
+You have been restricted from using the game service because it has been confirmed that you are attempting to advertise for commercial purposes or to deal with cash/other games. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
+You have been confirmed that you have attempted to deal with cash/server/other games, and the use of game services has been restricted. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 You have temporarily restricted the use of the service in relation to acquiring an account-hijacking damage item. If you proceed with the identity verification process on the homepage, you can use the game service normally. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 You have restricted the use of the game by acquiring items unfairly without complying with prior arrangement of items during party and group play. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 You have restricted the use of the game by acquiring items unfairly without complying with prior arrangement of items during party and group play. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
@@ -3042,7 +3042,7 @@ Summon: You can not summon additional CHA figures.
 Are you constrained by the lack of weight gauge?
 We succeeded in making the item.
 No cooking
-Cooking: Nutritious dishes including close range damage + 2 / close range hit +1
+Cooking: Nutritious dishes including close range damage + 2/close range hit +1
 The format of the OTP number is incorrect. <BR> Please re-enter only the 6-digit number.
 The OTP number is incorrect. Please re-enter.
 I've been waiting long, the goddess of the moonlight %d I will give a second gift.
@@ -3076,13 +3076,13 @@ All Damage +10, Damage taken is increased by +5%.
 Melee Damage +4, Melee Hit +4
 AC-8
 STR_TROJAN_DETECT,
-It is not game time set by parent / person in order to prevent game and immersion prevention. Games are not available at the current time.
-For game and immersion prevention, the parent / %d Minutes left.
-In order to prevent the game and immersion, the connection will end after the time set by the parent / user.
+It is not game time set by parent/person in order to prevent game and immersion prevention. Games are not available at the current time.
+For game and immersion prevention, the parent/%d Minutes left.
+In order to prevent the game and immersion, the connection will end after the time set by the parent/user.
 The time for our contract is coming to an end.
 The contract with you has ended.
 You are blocked and can not send a letter.
-PVP On / Off: Double-click the Ctrl key
+PVP On/Off: Double-click the Ctrl key
 Open command shortcut function
 Please choose who you want to invite to the party.
 What words to filter?
@@ -3104,7 +3104,7 @@ k
 10k
 Billion
 Trillion
-Usage: / Remember [Place name (15 characters or less)]
+Usage:/Remember [Place name (15 characters or less)]
 Remember: Can not save (list filter must be set to full)
 Current location
 Overseas: You gain 20% of experience with the effect of the manganese.
@@ -3271,12 +3271,12 @@ Call of the Lord: Refusal to join request
 Call of the Lord: Refusal to join request
 Call of the Royals: Not available (already in clan membership)
 You have been registered, and you can change your registration at any time through "Modification".
-Usage: / powerbook [search name]
-Usage: / Ticket [search name]
+Usage:/powerbook [search name]
+Usage:/Ticket [search name]
 This item is not available here.
 Clan Notice: exceeding the maximum number of members
-Call of Sovereigns: Unregistered (Clan Creation, / PowerBook Clan)
-Call of Sovereigns: Not available (Clan Creation, / PowerBook Clan)
+Call of Sovereigns: Unregistered (Clan Creation,/PowerBook Clan)
+Call of Sovereigns: Not available (Clan Creation,/PowerBook Clan)
 Slot extension: no additional wear
 Slot Expansion: Add the item can not be worn
 Call of the Royal: exceeding the maximum number of members
@@ -3314,7 +3314,7 @@ Overseas: Divine power is felt.
 Do you want to expand your slot by consuming 10 million Adena?
 Do you want to expand the slot by consuming 30 million Adena?
 Overseas: Item Drop penalty has not been applied under the protection of Divine Power.
-%d / %d%%
+%d/%d%%
 My %d top
 No ranking
 %d year %d month %d By day
@@ -3324,14 +3324,14 @@ You can learn this spell when you are at {0} level.
 Watch the sentence
 Celadon Watch: %s Are you sure you want to release the clan's sentence?
 Cloak Watch: Can not see sentence, Target Clan and war status
-Please enter your memo content. (Up to 60 bytes / Esc = Cancel)
+Please enter your memo content. (Up to 60 bytes/Esc = Cancel)
 %s(%02d/%02d)
 Undead Undead: Not subject to magic
 Your note is too long. (Up to 60 bytes)
 This item is not an item that can be charged with rechargeable battery.
 This item can not be recharged with this item.
 Only items remaining within 7 days of disappearing can be charged.
-Dante's Energy: Near / Far damage + 2, SP + 1, MP Recovery + 2
+Dante's Energy: Near/Far damage + 2, SP + 1, MP Recovery + 2
 %s You go straight to %d It takes Adena. Are you sure you want to move?
 STR_USER_PLAY_STATS_DUNGEON_TOOLTIP0,
 STR_USER_PLAY_STATS_DUNGEON_TOOLTIP1,
@@ -3446,7 +3446,7 @@ The item has no magic granted.
 This item can not be redeemed.
 NOTICE: We have changed from PC room usage time to general usage time.
 AC-5
-[Remaining time: general medicine %d ( %s ) / PC room medicine %d ( %s ) Is left.]
+[Remaining time: general medicine %d ( %s )/PC room medicine %d ( %s ) Is left.]
 Drag the image you want to move.
 Purchase complete
 Un Kenney Dodge: DG + 30
@@ -3507,7 +3507,7 @@ N coin
 N points
 I have confirmed the purchase conditions (product name, price, period, etc.) of the above products and agree to the Terms of Service of the Game Service.
 Click the 6 ~ 8 digits of the payment password number with your mouse and click the OK button.
-[Japan] Hell's vitality: Minor / ranged damage +20, SP + 5, Damage reduction +50, MR + 50%
+[Japan] Hell's vitality: Minor/ranged damage +20, SP + 5, Damage reduction +50, MR + 50%
 Please click the 6 ~ 8 digit number of payment number to change and click the OK button.
 Your billing email information was not successfully filled out. Please check again.
 Aden Shop
@@ -3534,7 +3534,7 @@ STR_BATTLE_ARENA_CHAMPION_REGISTERED,
 [Class Care 3rd] Fire Weapon Failed Message,
 Master's escort: PvP + 30 additional damage
 The password you entered %d I'm wrong. If you are wrong 5 times, you will not be able to use the Arden store for 8 hours.
-There was an error while using the Arden store. Please try again in a few minutes. ( %d / %d )
+There was an error while using the Arden store. Please try again in a few minutes. ( %d/%d )
 STR_BATTLE_ARENA_YOU_ARE_NOT_REGISTERED,
 STR_BATTLE_ARENA_YOU_CANT_CANCEL_BATTLE_ROOM,
 You have exceeded your purchase limit, or you can not purchase because it does not meet your purchase criteria.
@@ -3544,7 +3544,7 @@ OTP number is incorrect. Please check and re-enter.
 [Random payment]
 none
 \f<%s\f> items \f<%d time\f> production.^Material items will not be restored upon completion.
-^pieces
+  pieces
 Production possible
 Unsatisfactory condition
 item
@@ -3590,7 +3590,7 @@ Prior to September 2013
 [Earring Extension] I already wear earrings.
 Do you want to expand the slot by consuming 2 million Adena?
 Currently, Aden stores are under inspection. Please try again in a few minutes.
-Class: Up to 19 elite classes can be appointed (General / Union Clan)
+Class: Up to 19 elite classes can be appointed (General/Union Clan)
 Quantity
 Price per piece
 total price
@@ -3662,7 +3662,7 @@ Proclaim
 Betting failure: This is not a game currently in progress. STR_BINGO_BETTING_ERROR_GAME_ID
 Betting Failed: Invalid number of bets. Up to 4 STR_BINGO_BETTING_ERROR_BETTING_COUNT
 Betting failure: Adena is out. STR_BINGO_BETTING_ERROR_ADENA
-Betting Failed: Incorrect number configured (duplicate / not 16). STR_BINGO_BETTING_ERROR_BINGO_NUM
+Betting Failed: Incorrect number configured (duplicate/not 16). STR_BINGO_BETTING_ERROR_BINGO_NUM
 Betting Failed: The number of betting allowed has been exceeded. (Mobile limit) STR_BINGO_BETTING_ERROR_BETTING_CHANCE
 Betting failure: An existing betting request is being processed. STR_BINGO_BETTING_ERROR_WAIT
 Betting failure: response time exceeded. STR_BINGO_BETTING_ERROR_TIME_OVER,
@@ -3685,9 +3685,9 @@ Use of a catapult: Failure (only Soulblood Lords can be used to defend the castl
 Catapult Uses: Fail (only available at siege time)
 Azit tax exemption: tax exemption (soul blood)
 Siege proclaim: failure (alliance)
-Siege proclamation: failure (need to use / proclaim message)
-Usage: / proclaim (Kent Castle, Orc Fortress, Giran Castle)
-[China / Taiwan] Do you want to open the slot?
+Siege proclamation: failure (need to use/proclaim message)
+Usage:/proclaim (Kent Castle, Orc Fortress, Giran Castle)
+[China/Taiwan] Do you want to open the slot?
 Party: {0} %s Killed in enemy attack
 Party: Foes {1} die by {0} attacks
 {0} killed {1} enemy enemies
@@ -3696,11 +3696,11 @@ You have exceeded the number of {0} accounts in your account. (Daily at 6 am)
 The time-out dungeon for your account has timed out. (Daily at 6 am)
 The time-out dungeon for your account has timed out. (Every Wednesday at 6 am)
 You have exceeded the number of store openings in your account. (Daily at 6 am)
-VIP buff Step 1: HP / MP +10
-VIP buff Step 2: HP / MP +20, plus / minus extra damage +1, near / far hit +1
-VIP buff Step 3: HP / MP +30, additional nearby / ranged damage +3, nearby / ranged +3, magic attack +1
-VIP buff Step 4: HP / MP +40, +5 additional damage to nearby / ranged, +5 nearby / ranged hit, +2 magic attack
-[Taiwan] Willingness to immortal: ac-3 nearby / ranged damage +3, near / far hit +3, SP + 3
+VIP buff Step 1: HP/MP +10
+VIP buff Step 2: HP/MP +20, plus/minus extra damage +1, near/far hit +1
+VIP buff Step 3: HP/MP +30, additional nearby/ranged damage +3, nearby/ranged +3, magic attack +1
+VIP buff Step 4: HP/MP +40, +5 additional damage to nearby/ranged, +5 nearby/ranged hit, +2 magic attack
+[Taiwan] Willingness to immortal: ac-3 nearby/ranged damage +3, near/far hit +3, SP + 3
 There are {0} more private store openings in your account.
 popular item
 new product
@@ -3787,7 +3787,7 @@ Fortified Paulette Water: Healing Effect
 Strengthening Flute The energy of the water returns to nature.
 Wind prison: No action.
 Wind prison energy returns to nature.
-Wind Attack: Move / Attack speed increased.
+Wind Attack: Move/Attack speed increased.
 The wind of the wind returns to nature.
 Inhalation: Reduced HP due to inhalation. Breathe in using Eva's blessing
 Breathing becomes free.
@@ -3819,10 +3819,10 @@ Welcome to Lineage World.
 (+ 50% bonus from Dragon Valley, Ivory Tower Balok and Yahhi)
 (+ 50% bonus from Dragon Valley, currently in Dragon Valley prison)
 (Current Dragon Valley, Gludio Dungeon + 50% bonus additional bonus)
-Effect: Triple Acceleration, HP + 50, Short-Range Damage / Hit +2, AC + 5
-Effect: 3-speed acceleration, HP / MP + 20, ranged damage / hit +2, AC + 3, MR + 5
+Effect: Triple Acceleration, HP + 50, Short-Range Damage/Hit +2, AC + 5
+Effect: 3-speed acceleration, HP/MP + 20, ranged damage/hit +2, AC + 3, MR + 5
 Effect: 3-speed acceleration, MP + 50, magic damage +2, AC + 5, MR + 5
-Effect: Triple Acceleration, HP / MP + 100, Full Hit +10, AC + 10, MR + 10
+Effect: Triple Acceleration, HP/MP + 100, Full Hit +10, AC + 10, MR + 10
 The divine power has gone out of the body.
 The connection to the server was lost because there was no communication for a long time.
 The connection to the server was lost due to the server check.
@@ -3834,11 +3834,11 @@ Warrior: Combat Type 1 DESC
 Warrior: Combat Type 2 DESC
 Warrior: Combat Type 3 DESC
 This item can not be purchased directly into a special warehouse.
-Order of VIP1 duel: PvP damage +3 / AC -3
-Order of VIP2 duel: PvP only damage +4 / AC -4
-Order of VIP3 duel: PvP only damage +5 / AC -5
-Order of VIP4 duel: PvP only damage +6 / AC -6
-Order of VIP5 duel: PvP only damage +7 / AC -7
+Order of VIP1 duel: PvP damage +3/AC -3
+Order of VIP2 duel: PvP only damage +4/AC -4
+Order of VIP3 duel: PvP only damage +5/AC -5
+Order of VIP4 duel: PvP only damage +6/AC -6
+Order of VIP5 duel: PvP only damage +7/AC -7
 The duel order has disappeared.
 This transaction requires a special warehouse entitlement.
 There is not enough Adena for this transaction.
@@ -3906,7 +3906,7 @@ Unavailable. Please use after a while.
 Growth rings are only available for 5 characters.
 It can be reused only if the remaining time is less than a week.
 One item is already in use.
-Overseas: HP + 30 MP + 30 Short-range / ranged attack +3 SP + 2 Reduction +2 HP Recovery +2 MP Recovery +2
+Overseas: HP + 30 MP + 30 Short-range/ranged attack +3 SP + 2 Reduction +2 HP Recovery +2 MP Recovery +2
 [Remaining time: approx. %d hours %d Minutes remaining.]
 Warrior
 Blessing order: ranged ATK +1, nearby ATK +1, SP + 1, HP + 50, MP + 30, PVP ATK +2
@@ -3917,9 +3917,9 @@ Waiting
 Completed Quest: Next Step - Exchange the spirit of Jean village Hazi
 Fruit of Growth has been applied to %s!
 The use of growth rings has been reserved.
-Periodic: Max HP Rise (own level / 2)%
+Periodic: Max HP Rise (own level/2)%
 The periodic effect disappears.
-Armor Guard: %d (AC / %d ) Damage effect is activated.
+Armor Guard: %d (AC/%d ) Damage effect is activated.
 The armor guard effect disappears.
 Open
 Normal 
@@ -3957,7 +3957,7 @@ Your account has been restricted for reasons such as public well-being, disrupti
 Your account has been restricted from using the game because it has been confirmed that you have attempted public hiatus, harming order or morals, or fraud. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account has been restricted for gaming due to gambling activity in the game. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 Your account has been restricted for gaming due to gambling activity in the game. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
-Customers have been limited to using game services because their transactions with cash / server / other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
+Customers have been limited to using game services because their transactions with cash/server/other games have been confirmed. For more information, please use 1: 1 contact on the plaync homepage (www.plaync.com).
 You can not use that spell here.
 Clan membership
 I already joined the Clan \n state.
@@ -4031,7 +4031,7 @@ Deadline: %s month %s day(s) %s city
 Maximum quantity limit: 500 million
 Maximum transaction amount limit: 800 million Adena
 [China] System Message: You failed the quest.
-[Japan] Hell's vitality: Minor / ranged damage +40, SP + 10, damage reduction +50, MR + 50%
+[Japan] Hell's vitality: Minor/ranged damage +40, SP + 10, damage reduction +50, MR + 50%
 [Japan] Challengers can only be used in the Cursed Dark Elf Holy Land.
 If you enter "/ remember" in the chat window, you can check the added hunting area.
 "Level Up celebration" has been registered in the hunting area of the bookmarks window.
@@ -4066,7 +4066,7 @@ Normal
 No characters selected.
 Add blocking
 Remove block
-[China] Sihon Hep \N Near / Far damage +30 \nSP +30 \N Near / Far Hit +30
+[China] Sihon Hep \N Near/Far damage +30 \nSP +30 \N Near/Far Hit +30
 [China] Sihon Buff will disappear.
 Siege PR Alternative Message [Requesting Correction]
 At present, %s is.
@@ -4120,7 +4120,7 @@ Completion of clan notification
 Please check the selected item. Are you sure you want to delete?
 Despereaux: Strapped (reduced recovery rate, item can not be removed)
 Desperado effect disappears.
-Warrior's Blessing Order: Attack, Defense, Resilience, Max HP / MP
+Warrior's Blessing Order: Attack, Defense, Resilience, Max HP/MP
 Can only be used in PVP Mode.
 reservation
 remaining period
@@ -4129,7 +4129,7 @@ Welcome to Lineage, where the heroes' adventure takes place.
 I am Elf to help you with your adventure.
 character! Meet the novice helper "Cassiopeia" next to you to start your training.
 Use the "Knights Order Return Order" to start a full-blown adventure.
-If you join the Clan, you have a high experience! / Use the Clan Command to immediately search for your affiliate Clan.
+If you join the Clan, you have a high experience!/Use the Clan Command to immediately search for your affiliate Clan.
 Apprentice's armor, weapon spell order can strengthen each other's apprentice items.
 dummy4134
 dummy4135
@@ -4293,16 +4293,16 @@ Isilotte: I'm proud. Defororo
 DEPOROUGH: Everyone was in trouble. I am so proud of you. But, it is far!
 DEFOROUGH: I will come back after the red knight maintenance!
 DEFOROUGH: Until then, everyone should be prepared!
-Beads of growth (sculpture) are protected. ( %d / %d )
-Growth of beads (sculpture) has a little energy. ( %d / %d )
-Growing beads (pieces) are losing power. ( %d / %d )
-One growing bead (piece) can only protect 5 evil spirits seeds. ( %d / %d )
-There are too many seeds of evil spirits! Meet Eckins. ( %d / %d )
+Beads of growth (sculpture) are protected. ( %d/%d )
+Growth of beads (sculpture) has a little energy. ( %d/%d )
+Growing beads (pieces) are losing power. ( %d/%d )
+One growing bead (piece) can only protect 5 evil spirits seeds. ( %d/%d )
+There are too many seeds of evil spirits! Meet Eckins. ( %d/%d )
 individual
 Warehouse password change failed.
 Warehouse password change succeeded.
 Can not be used for items being worn.
-Growth of beads (sculpture) weakens the aura. ( %d / %d )
+Growth of beads (sculpture) weakens the aura. ( %d/%d )
 Rich Blessing of Ainhasad falls on the hill of Gifu.
 Use command: &
 Use command: #
@@ -4345,9 +4345,9 @@ Applying N shop buff \n (Right-click contents can be checked)
 \f2Bale Attack: Wind Attack + 2
 \f2Command Attack: Land Attack +2
 \f2Hryvnia Attack: Fire Attack + 2
-\f2PvP Enhancement: PvP damage / Reduction +1
-\f2Reinforced: HP / MP + 50, Weight 3%
-\f2Attack Enhancement: Near / Far damage +1
+\f2PvP Enhancement: PvP damage/Reduction +1
+\f2Reinforced: HP/MP + 50, Weight 3%
+\f2Attack Enhancement: Near/Far damage +1
 \f2Defense Enhancement: Damage Reduction +1
 \f2Enchantment Boost: SP + 1
 \f2Technology Enhancement: Technical Resistance +2
@@ -4358,13 +4358,13 @@ You are already awakened.
 It is a level that can not awaken yet.
 Can not be reinforced when worn.
 Blessings of growth: \n General: EXP + 20% \nPC room: EXP + 40%
-Strange Blessing Order: \n Attack, Defend, Resilience, Max HP / MP
-\f>PvP Enhancement: PvP damage / Reduction +1
-\f>Energizing: HP / MP + 50, Weight 3%
-\f>Attack Enhancement: Near / Far damage +1
+Strange Blessing Order: \n Attack, Defend, Resilience, Max HP/MP
+\f>PvP Enhancement: PvP damage/Reduction +1
+\f>Energizing: HP/MP + 50, Weight 3%
+\f>Attack Enhancement: Near/Far damage +1
 \f>Defense Enhancement: Damage Reduction + 1
 %s From %s I killed you! Current survivor %s persons!
-HP + MP + 20, Medium + Long Range +3, SP + 3, Reduction +2, HP / MP Recovery +2
+HP + MP + 20, Medium + Long Range +3, SP + 3, Reduction +2, HP/MP Recovery +2
 Personal: Your subscription is over. Please extend the period of use in "Lineage homepage" -> "Payment of usage fee". PC room: If the usage period expires, please charge the G coin through the PC room homepage (http://pcbang.ncsoft.net). If the temporary connection failure occurs, please contact the customer center (1600-0020).
 Immediate use
 Inventory payments
@@ -4382,11 +4382,11 @@ Not enough time left to attend
 Attendance
 Please enter higher than the current bid price.
 {0} %s Not enough.
-An error has occurred. ( %d / %d / %d / %d )
+An error has occurred. ( %d/%d/%d/%d )
 Not available: Blessing of Einhasad Exceeds maximum charge
-[TAIWAN] War of the World's Highest Buffs: HP / MP + 100, HP / MP Recovery +5, All Stats +1, Near Evasion +20, Far Evasion +5, Near / Far Damage +5, SP + 5, Reduced damage +5
-[TAIWAN] Warfare Contender Buff: HP / MP + 30, HP / MP Recovery +2, Near Evasion +10, Far Evasion +2, Near / Far Damage + 2, SP + 1, AC-3, 2
-[Taiwan] Warfare Memorial Buff: HP / MP + 10, HP / MP Recovery + 1, AC-3
+[TAIWAN] War of the World's Highest Buffs: HP/MP + 100, HP/MP Recovery +5, All Stats +1, Near Evasion +20, Far Evasion +5, Near/Far Damage +5, SP + 5, Reduced damage +5
+[TAIWAN] Warfare Contender Buff: HP/MP + 30, HP/MP Recovery +2, Near Evasion +10, Far Evasion +2, Near/Far Damage + 2, SP + 1, AC-3, 2
+[Taiwan] Warfare Memorial Buff: HP/MP + 10, HP/MP Recovery + 1, AC-3
 After you click OK, \n On-screen \Move the mouse to position n \n Click
 Click OK.
 Greyman's Maan: Close range damage +2, ranged damage +2, SP + 1, nearby hit +5, ranged hit +5, magic hit +3, HP + 50, MP + 25
@@ -4395,15 +4395,15 @@ Not available: Sold out
 Personal store: not available (lack of Adena)
 Current screen %s On. You can share snapshots right from App Center> My Screenshots.
 Snapshot
-Usage: / Sight
+Usage:/Sight
 See bookmarks location
-[Japan] Christmas Buff \N Near / Far damage + 1 \nsp + 1
+[Japan] Christmas Buff \N Near/Far damage + 1 \nsp + 1
 [Japan] Christmas buff will disappear.
-VIP buff Step 5: HP / MP +50, nearby + far damage +7, near + ranged hit +7, magic attack +3
+VIP buff Step 5: HP/MP +50, nearby + far damage +7, near + ranged hit +7, magic attack +3
 Possible magic \n All learns. \n \n New builder character \Use when registering
 In Craft.xml \n Make the set \n invalidates it.
 Builder character \n without penalty
-Builder \Make nHP / MP 1
+Builder \Make nHP/MP 1
 Visible on screen \n fallen items \n Clean.
 You have won more than 100 tears of silver.
 You have won over 100 golden tears.
@@ -4411,7 +4411,7 @@ Window mode (1600 * 1200)
 %d Please invite the party again in the second.
 Camp : %s\Step n: %d step \n Number:% .2f %%
 To the specified character \fit n class \n All magic \n Let it learn.
-To the specified character \n Granted Orders / Buffs \n Remove all.
+To the specified character \n Granted Orders/Buffs \n Remove all.
 Attendance Buff (PC room): EXP + 20%, Damage +5
 Armor Destruction Order: Leggings have evaporated.
 [Taiwan] Gaia's Blessing: HP + 25, MP + 20
@@ -4461,7 +4461,7 @@ Solo's Tears (Dragon's Valley) You have won over 20 pieces.
 In the present area, the blessing of Einhasad is amplified.
 The blessing of Ainhasad has been amplified in the current event area (Fatarashi village).
 Party invitation
-HP / MP + 100, nearby / ranged hit +10, nearby / ranged / magic attack +5, strength / agility / knowledge +1
+HP/MP + 100, nearby/ranged hit +10, nearby/ranged/magic attack +5, strength/agility/knowledge +1
 Blessing: ranged ATK +1, nearby ATK +1, SP + 1
 The energy of blessing disappears.
 [Japan] The blessing of Einhasad in the current storm area has been amplified.
@@ -4483,8 +4483,8 @@ I received my own gift because I could not receive the gift.
 [Taiwan] Causes Atun's curse on attacking target.
 [Taiwan] The goddess prayer is effective.
 [Japan] Security buff: Damage reduction +1, MR + 2
-[Japan] Security Buff: Near / Far damage +1, AC-2
-[Japan] Security Buff: HP / MP Recovery +2
+[Japan] Security Buff: Near/Far damage +1, AC-2
+[Japan] Security Buff: HP/MP Recovery +2
 dummy9215
 Vitality are not available.
 Report a bug
@@ -4497,7 +4497,7 @@ ERROR_APP_SERVER_PLAYTIME_ZERO
 APP_SERVER_NO_PAYMENT_INFO
 Registering Blood Glossary Statements
 Start fishing.
-[Taiwan] HP + 50 MP + 30 Near / Far Attack +3 SP +3 Reduction +3 HP Recovery +3 MP Recovery +3
+[Taiwan] HP + 50 MP + 30 Near/Far Attack +3 SP +3 Reduction +3 HP Recovery +3 MP Recovery +3
 List of alliances:
 Elixir intake quantity^You can take one of them every 3 levels from level 50^\fM(up to 16)
 Player kills
@@ -4506,7 +4506,7 @@ Far avoidance force
 Probability Magic Block
 The other party is not using Party Invitation.
 STR_EPAULET_EXP_BUFF_MSG
-[Taiwan] Blacksmith's Horn HP + 120 MP + 100 Near + / ranged attack +50 SP + 15 Reduction +30 Experience experience / item maintenance
+[Taiwan] Blacksmith's Horn HP + 120 MP + 100 Near +/ranged attack +50 SP + 15 Reduction +30 Experience experience/item maintenance
 You have won more than 40 pieces of shining element.
 Someone obtained {1} from {0}.
 REC
@@ -4538,7 +4538,7 @@ Use command: ~
 Use command:%
 Capture folder
 View rankings
-Window mode / full screen is not available while two clients are in use.
+Window mode/full screen is not available while two clients are in use.
 I do not have a candle to recall.
 Curse of Osiris: constant HP reduction
 Osiris Blessing: HP Decrease
@@ -4699,7 +4699,7 @@ Monster Book: %s Add
 Rating
 Ascending
 Descending order
-[Taiwan] Aura of Flame: Near / Far Shot +3, Magical Hit +3, HP / MP Recovery +5, Max HP / MP + 100
+[Taiwan] Aura of Flame: Near/Far Shot +3, Magical Hit +3, HP/MP Recovery +5, Max HP/MP + 100
 We cleared the underground passage. Rankings are available on Monday.
 {0} (The underground passage can be entered after 7 days after the clan membership)
 To open the aisle, you need 9,900 "Aura of Blessing". Do you want to use it?
@@ -4720,7 +4720,7 @@ Stochastic success
 days
 Active
 Growth Buff: Experience bonus + 20%
-[Taiwan] Transformation: Commemorating the 2015 Tournament Win. \n Strength / Dexterity / Stamina / Knowledge / Wisdom / Attraction +1
+[Taiwan] Transformation: Commemorating the 2015 Tournament Win. \n Strength/Dexterity/Stamina/Knowledge/Wisdom/Attraction +1
 [Taiwan] XXX First Class Honor: \nHP + 100, MP + 50, \n Experience bonus: EXP + 3%
 [Taiwan] XXX Second Honor: \nHP + 50, MP + 30
 Entry below 55 is not possible.
@@ -4755,10 +4755,10 @@ Can only be used in hiding state.
 Ancient God Blessing: Damage Reduction +3
 The mysterious power of impact disappears.
 Can only be used in Blind Haiding status.
-Another My Favorite: Damage Reduction +5, Near / Far Damage +5
-Bounces of re-start: Damage reduced +3, near / far damage +3
-New starting point: Damage reduction +2, near / far damage +2
-Born of birth: Damage reduced +1, Near / Far damage +1
+Another My Favorite: Damage Reduction +5, Near/Far Damage +5
+Bounces of re-start: Damage reduced +3, near/far damage +3
+New starting point: Damage reduction +2, near/far damage +2
+Born of birth: Damage reduced +1, Near/Far damage +1
 Someone
 Impact: Skill, Fear, Elemental
 System message: Teleports after 60 seconds.
@@ -4806,7 +4806,7 @@ Monster I
 Before the trap
 dummy9219
 Colosseum game room creation failed.
-[Taiwan] Attack of the new king: near-distance / ranged damage +10, PvP damage +5
+[Taiwan] Attack of the new king: near-distance/ranged damage +10, PvP damage +5
 [Taiwan] New King's Defense: Decrease damage +10, Decrease PvP damage +10
 All servers
 gold
@@ -4855,7 +4855,7 @@ We could not start the game because it was the wrong room number.
 I can not start because it is not a guesthouse.
 All players can start when they are ready.
 Selected team members are full and can not be moved.
-Ready / failed to start
+Ready/failed to start
 Chat blocking change failed
 %s Has declined your invitation. (Automatic cancellation other than Safety Zone)
 The invitation does not exist.
@@ -4946,7 +4946,7 @@ The match will be canceled due to incorrect number of players.
 Monster, 4 vs 4, 5 minutes
 Before defense, 4 vs 4, 5 minutes
 [LFC] Solo Exhibition, 2 minutes per Round
-[LFC] Individual / Group Exhibition, 5 minutes
+[LFC] Individual/Group Exhibition, 5 minutes
 [LFC] Before defense, 5 minutes
 [LFC] Trap, 5 minutes
 [LFC] Monster, 5 minutes
@@ -4956,9 +4956,9 @@ Before defense, 4 vs 4, 5 minutes
 [LFC] Before transformation, 5 minutes
 When all players return to their room, they are automatically teleported.
 Colosseum game room creation failed. (Arena map setting failed)
-[Taiwan] Rebellion Transformation: revealing the appearance of rebellion. HP / MP + 100, AC-5, MR + 10
-[Taiwan] Temple Participants Buff: HP / MP + 30, HP / MP Recovery +2, Near Evasion +10, Far Evasion +2, Near / Far Damage + 2, SP + 1, AC-3,
-%d Minute / %d minute
+[Taiwan] Rebellion Transformation: revealing the appearance of rebellion. HP/MP + 100, AC-5, MR + 10
+[Taiwan] Temple Participants Buff: HP/MP + 30, HP/MP Recovery +2, Near Evasion +10, Far Evasion +2, Near/Far Damage + 2, SP + 1, AC-3,
+%d Minute/%d minute
 RITO Invitation
 You have acquired more than 17 magic beans.
 Quest Completed: Next Step - Report of Extermination
@@ -4968,13 +4968,13 @@ This item can only be used to grant new life.
 Hero's token sign activated^You receive 40% additional experience points.
 The token mark of the king^You can get 20% additional experience points.
 VIP Green Buff: HP + 10, MP + 10, SP + 1, additional damage
-VIP Green Buff: HP + 20, MP + 20, SP + 1, additional damage (min / hp) +1
+VIP Green Buff: HP + 20, MP + 20, SP + 1, additional damage (min/hp) +1
 VIP Green Buff: HP + 30, MP + 30, SP + 2, Additional Damage (approx.
 VIP Green Buff: HP + 50, MP + 50, SP + 3, additional damage
 VIP Green Buff: HP + 70, MP + 70, SP + 4, Additional Damage (approx.
 Blessings of growth: \n General: EXP + 30% \nPC room: EXP + 40%
 Your account is restricted from access to all game services due to account hijacking. For more information, please contact us through the plaync homepage (www.plaync.com).
-[Taiwan] Full Body Horn: HP + 120, MP + 100, Near / Far damage +15, SP + 5, Reduced damage +8
+[Taiwan] Full Body Horn: HP + 120, MP + 100, Near/Far damage +15, SP + 5, Reduced damage +8
 ^ material^- Item: 1 diamond of the dragon
 ^ material^- Item: 1 diamond of the finest diamond
 Book Concept Quest: You can proceed.
@@ -4999,8 +4999,8 @@ Myopia's defense blessings:^MR + 10%, Damage Reduction +2, HP + 100, HP Recovery
 The attacking blessings of MISIA:^Nearby damage +3, ranged damage +3, SP + 3, MP + 50, MP recovery +2
 reward^- Experience: Based on 52 levels
 ^ - item : %s%d dog
-[Taipei] Transformation: Turns into different shapes. +10, Near + ranged attack +7, Magical attack +5, Strength / Dexterity / Knowledge +1, HP + 120, MP + 100
-[Taiwan] Dark Dragon's Attack: Medium / ranged attack +2, magic attack +1, HP + 150, MP + 5
+[Taipei] Transformation: Turns into different shapes. +10, Near + ranged attack +7, Magical attack +5, Strength/Dexterity/Knowledge +1, HP + 120, MP + 100
+[Taiwan] Dark Dragon's Attack: Medium/ranged attack +2, magic attack +1, HP + 150, MP + 5
 Rune (Artifact): Artifact of Rune (Artifact)
 The NC OTP service has been terminated (Wed. Games that are subscribed to the NC OTP service are not available. Please close the account's NC OTP service and log back in.
 NC OTP expires in 2017-02-15. Please sign up for the new OTP service in the 'Security page' on the homepage.
@@ -5051,16 +5051,16 @@ Fruit of Growth 5 stages: EXP +40%, AC-5, Damage Reduction +2
 Would you like to expand your slots with 2 million adena?
 Would you like to expand the slot by consuming 30 million adena?
 World entry is delayed, please try again if waiting
-[Taiwan] HP + 55 MP + 30 Short-range / ranged attack +4 SP + 3 Reduction +4 HP Recovery +4 MP Recovery +4
-[Taiwan] HP + 60 MP + 30 Short-range / ranged attack +5 SP + 3 Reduction +5 HP Recovery +5 MP Recovery +5
-[Taiwan] HP + 65 MP + 30 Short-range / ranged attack +6 SP + 3 Reduction +6 HP Recovery +6 MP Recovery +6
-[Taiwan] HP + 70 MP + 30 Short-range / ranged attack +7 SP + 3 Reduction +7 HP Recovery +7 MP Recovery +7
-[Taiwan] HP + 75 MP + 30 Short-range / ranged attack +8 SP + 3 Reduction +8 HP Recovery +8 MP Recovery +8
-[Taiwan] HP + 80 MP + 30 Near / Far Attack +9 SP + 3 Reduction +9 HP Recovery +9 MP Recovery +9
-[Taiwan] HP + 85 MP + 30 Short-range / ranged attack +10 SP + 4 Reduction +10 HP Recovery +10 MP Recovery +10
-[Taiwan] HP + 90 MP + 35 Short-range / ranged attack +11 SP + 5 Reduction +11 HP Recovery +11 MP Recovery +11
-[Taiwan] HP + 95 MP + 40 Short-range / ranged attack +12 SP + 6 Reduction +12 HP Recovery +12 MP Recovery +12
-[Taiwan] HP + 100 MP + 45 Short-range / ranged attack +13 SP + 7 Reduction +13 HP Recovery +13 MP Recovery +13
+[Taiwan] HP + 55 MP + 30 Short-range/ranged attack +4 SP + 3 Reduction +4 HP Recovery +4 MP Recovery +4
+[Taiwan] HP + 60 MP + 30 Short-range/ranged attack +5 SP + 3 Reduction +5 HP Recovery +5 MP Recovery +5
+[Taiwan] HP + 65 MP + 30 Short-range/ranged attack +6 SP + 3 Reduction +6 HP Recovery +6 MP Recovery +6
+[Taiwan] HP + 70 MP + 30 Short-range/ranged attack +7 SP + 3 Reduction +7 HP Recovery +7 MP Recovery +7
+[Taiwan] HP + 75 MP + 30 Short-range/ranged attack +8 SP + 3 Reduction +8 HP Recovery +8 MP Recovery +8
+[Taiwan] HP + 80 MP + 30 Near/Far Attack +9 SP + 3 Reduction +9 HP Recovery +9 MP Recovery +9
+[Taiwan] HP + 85 MP + 30 Short-range/ranged attack +10 SP + 4 Reduction +10 HP Recovery +10 MP Recovery +10
+[Taiwan] HP + 90 MP + 35 Short-range/ranged attack +11 SP + 5 Reduction +11 HP Recovery +11 MP Recovery +11
+[Taiwan] HP + 95 MP + 40 Short-range/ranged attack +12 SP + 6 Reduction +12 HP Recovery +12 MP Recovery +12
+[Taiwan] HP + 100 MP + 45 Short-range/ranged attack +13 SP + 7 Reduction +13 HP Recovery +13 MP Recovery +13
 [Taiwan] Phase 1 (Heroes): HP + 15, MP + 15, Damage Reduction +1
 [Taiwan] Level 2 (Heroes): HP + 30, MP + 30, +2 damage
 [Taiwan] Phase 3 (Heroes): HP + 45, MP + 45, Damage +3
@@ -5068,10 +5068,10 @@ World entry is delayed, please try again if waiting
 [Taiwan] Level 5 (Heroes): HP + 100, MP + 75, +5 damage
 (Discount) Do you want to extend the slot by consuming 1 Adena?
 (Discount) Do you want to extend the slot by consuming 1 Adena?
-[Taiwan] Phone Ritto Participation: Maximum HP / MP + 30 HP / MP Recovery +2 Near / Far Avoidance + 2% Near / Far Disturbance +2 SP + 1 AC-3 Reduction +2
-[TAIWAN] Phone Ritto 16: Max HP / MP + 50 HP / MP Recovery +3 Min / Far Avoid + 3% Min / Max +3 SP + 2 AC-4 Reduction +4
-[Taiwan] Phone Ritto 4: Max HP / MP + 70 HP / MP Recovery +4 Near / Far Avoid + 4% Near / Far damage +4 SP + 2 AC-5 Reduction +4
-[TAIWAN] Best of Telito: Max HP / MP + 100 HP / MP Recovery +5 / + 5% Machine Defense +5 SP + 3 AC-5 Damage Reduction +5 Fear Resistance +5
+[Taiwan] Phone Ritto Participation: Maximum HP/MP + 30 HP/MP Recovery +2 Near/Far Avoidance + 2% Near/Far Disturbance +2 SP + 1 AC-3 Reduction +2
+[TAIWAN] Phone Ritto 16: Max HP/MP + 50 HP/MP Recovery +3 Min/Far Avoid + 3% Min/Max +3 SP + 2 AC-4 Reduction +4
+[Taiwan] Phone Ritto 4: Max HP/MP + 70 HP/MP Recovery +4 Near/Far Avoid + 4% Near/Far damage +4 SP + 2 AC-5 Reduction +4
+[TAIWAN] Best of Telito: Max HP/MP + 100 HP/MP Recovery +5/+ 5% Machine Defense +5 SP + 3 AC-5 Damage Reduction +5 Fear Resistance +5
 Would you like to expand the slot by consuming the emblem license?
 Succubus
 Caspa
@@ -5085,7 +5085,7 @@ command
 %s : %d Evaporates after work.
 Your account has been susceptible to unlawful use and has been restricted from using the Game Services pursuant to Section 27 of the Game Terms of Service. The investigation period can take up to two months and will be terminated if it is found to be irrelevant to the use of the illegal program. For more information, please contact the plaync homepage (www.plaync.com).
 Someone gave {0} new life.
-[Taipei] Jianguo Kaka Tris: HP + 120 MP + 100 Reduction +15 MR + 30 Short / Long Range Attack +10 SP + 3 STR + 3 DEX + 3 INT + 3
+[Taipei] Jianguo Kaka Tris: HP + 120 MP + 100 Reduction +15 MR + 30 Short/Long Range Attack +10 SP + 3 STR + 3 DEX + 3 INT + 3
 Blessing of growth: Provide a level of experience bonus <BR> LV1 to 79: EXP + 130% <BR> LV80 ~ 81: EXP + 120% <BR> LV82 ~ 83: EXP + 110% <BR> LV84 ~ 85: EXP + 100% <BR> LV86: EXP + 90% <BR> LV87: EXP + 80% <BR> LV88: EXP + 70% <BR> LV89 ~: EXP + 60% <BR>\Applied as fZ level reference level effect \f>
 
  
@@ -5110,11 +5110,11 @@ Blessings of growth: \n General: EXP +70% \nPC room: EXP +93%
 [Taiwan] Armor Break Phase 1: Armor Brite Level +1, HP + 30
 [Taiwan] Armor Break 2nd Stage: Stern Level +1, HP + 50
 [Taiwan] Armor Break Phase 3: Stern Level +1, HP + 100
-[Taiwan] HP + 100 MP + 65 Short / Long Range Attack +14 SP + 8 Reduction +14 HP Recovery +15 MP Recovery +15
-[Taiwan] HP + 100 MP + 70 Short-range / ranged attack +15 SP + 9 Reduction +15 HP Recovery +17 MP Recovery +17
-[Taiwan] HP + 110 MP + 80 Short-range / ranged attack +16 SP +10 Reduction +16 HP Recovery +20 MP Recovery +20
-[Taiwan] HP + 120 MP + 90 Short-range / ranged attack +18 SP + 12 Reduction +18 HP Recovery +20 MP Recovery +20
-[Taiwan] HP + 120 MP + 100 Short-range / ranged attack +20 SP +15 Reduction +20 HP Recovery +20 MP Recovery +20
+[Taiwan] HP + 100 MP + 65 Short/Long Range Attack +14 SP + 8 Reduction +14 HP Recovery +15 MP Recovery +15
+[Taiwan] HP + 100 MP + 70 Short-range/ranged attack +15 SP + 9 Reduction +15 HP Recovery +17 MP Recovery +17
+[Taiwan] HP + 110 MP + 80 Short-range/ranged attack +16 SP +10 Reduction +16 HP Recovery +20 MP Recovery +20
+[Taiwan] HP + 120 MP + 90 Short-range/ranged attack +18 SP + 12 Reduction +18 HP Recovery +20 MP Recovery +20
+[Taiwan] HP + 120 MP + 100 Short-range/ranged attack +20 SP +15 Reduction +20 HP Recovery +20 MP Recovery +20
 {0} did not absorb energy, but fortunately it did not.
 You can not change the Clan Mark on the Inter Server.
 At present, the blessing of Ainhasad has been amplified in the dungeons of the dungeons, the Oren wall, the valley of the dragon, and the nest of the dragon.
@@ -5168,16 +5168,16 @@ Fire Shield: AC-4
 The energy of fire shield returns to nature.
 Step 5 Magic doll comes out 100%. Do you want to synthesize?
 Necessary for synthesis \n There are not enough magic dolls.
-[Taiwan] Broken Seal 1: Near / Far / Magic Hit + 2, HP / MP Recovery +1
-[Taiwan] Broken Seal 2: Heavy / Long Range +3, Magical Hit + 2, HP / MP Recovery +2
-[Taiwan] Shattered Seal 3: Near / Far / Magic + 3, HP / MP Recovery +2, Max HP + 10
-[Taiwan] Insulated Seal 4: Near / Far / Magic Hit + 3, HP / MP Recovery +3, Max HP / MP + 10
-[Taiwan] Insulated Seal 5: Near / Far / Magic Hit 3, HP / MP Recovery +3, Max HP / MP + 30
-[Taiwan] Obtained Seal 6: Heavy / Long Range / Magical Hit + 3, HP / MP Recovery +5, Max HP / MP + 30
-[Taiwan] Seal of Restoration 7: Heavy / Long Range / Magic Hit + 4, HP / MP Recovery +5, Max HP / MP + 50
-[Taiwan] Restoration Seal 8: Heavy / Long Range / Magic Hit + 4, HP / MP Recovery +5, Max HP / MP + 50, SP + 1
-[Taiwan] Restoration Seal 9: Near / Far / Magic Hit + 4, HP / MP Recovery +5, Max HP / MP +50, SP + 1, Reduction +2
-[Taiwan] Perfect Seal: Near / Far / Magic Hit + 5, HP / MP Recovery +5, Max HP / MP +50, SP + 2, Reduction +2
+[Taiwan] Broken Seal 1: Near/Far/Magic Hit + 2, HP/MP Recovery +1
+[Taiwan] Broken Seal 2: Heavy/Long Range +3, Magical Hit + 2, HP/MP Recovery +2
+[Taiwan] Shattered Seal 3: Near/Far/Magic + 3, HP/MP Recovery +2, Max HP + 10
+[Taiwan] Insulated Seal 4: Near/Far/Magic Hit + 3, HP/MP Recovery +3, Max HP/MP + 10
+[Taiwan] Insulated Seal 5: Near/Far/Magic Hit 3, HP/MP Recovery +3, Max HP/MP + 30
+[Taiwan] Obtained Seal 6: Heavy/Long Range/Magical Hit + 3, HP/MP Recovery +5, Max HP/MP + 30
+[Taiwan] Seal of Restoration 7: Heavy/Long Range/Magic Hit + 4, HP/MP Recovery +5, Max HP/MP + 50
+[Taiwan] Restoration Seal 8: Heavy/Long Range/Magic Hit + 4, HP/MP Recovery +5, Max HP/MP + 50, SP + 1
+[Taiwan] Restoration Seal 9: Near/Far/Magic Hit + 4, HP/MP Recovery +5, Max HP/MP +50, SP + 1, Reduction +2
+[Taiwan] Perfect Seal: Near/Far/Magic Hit + 5, HP/MP Recovery +5, Max HP/MP +50, SP + 2, Reduction +2
 The resource has been tampered with.
 Increase spells: Near-field damage +3, Near-field hit +5, PVP damage reduction +3
 Increase spells: Distant damage +3, ranged hit +5, PVP damage reduction +3
@@ -5211,13 +5211,13 @@ The Rift of Domination is closing {0} seconds remaining
 The Rift of Domination is about to close by the power of the Ripper. {0} minutes remaining
 You can not put items into that NPC.
 {0} \f>%s\fUgeneral winning party \f>. Do you accept?
-[Taiwan] [Strength of Dragon] Shattered Seal: Min / Range / Magic Hit + 6, HP / MP Recovery +6, Max HP / MP +60, SP + 2, Reduction +2
-[Taiwan] [Mighty Power] Insulated Seal: Min / Range / Magic Hit + 7, HP / MP Recovery +7, Max HP / MP + 70, SP + 2, Reduction +2
-[Taiwan] [Dragon Power] Seal of Restoration: Heavy / Long Range / Magic Hit + 8, HP / MP Recovery +8, Max HP / MP + 80, SP + 2,
-[Taiwan] [Dragon Power] Seal of Silver Dragon: Moon / Range / Magic Hit + 9, HP / MP Recovery +9, Maximum HP / MP + 90, SP + 2, Reduction +4
-[Taiwan] [Dragon Power] Seal of Reverence: Min / Range / Magic Hit +10, HP / MP Recovery +10, Max HP / MP +100, SP + 3, Reduction +4
-[Taiwan] [Dragon Power] Death Knight's Heart: Max HP / MP + 120, near hit +12, near attack +7, ranged hit +5, ranged attack +5, AC-12, MR + 15
-[Taiwan] 17th Anniversary: Good / Long / Magical Hit + 3, HP / MP Recovery +5, Max HP / MP + 100
+[Taiwan] [Strength of Dragon] Shattered Seal: Min/Range/Magic Hit + 6, HP/MP Recovery +6, Max HP/MP +60, SP + 2, Reduction +2
+[Taiwan] [Mighty Power] Insulated Seal: Min/Range/Magic Hit + 7, HP/MP Recovery +7, Max HP/MP + 70, SP + 2, Reduction +2
+[Taiwan] [Dragon Power] Seal of Restoration: Heavy/Long Range/Magic Hit + 8, HP/MP Recovery +8, Max HP/MP + 80, SP + 2,
+[Taiwan] [Dragon Power] Seal of Silver Dragon: Moon/Range/Magic Hit + 9, HP/MP Recovery +9, Maximum HP/MP + 90, SP + 2, Reduction +4
+[Taiwan] [Dragon Power] Seal of Reverence: Min/Range/Magic Hit +10, HP/MP Recovery +10, Max HP/MP +100, SP + 3, Reduction +4
+[Taiwan] [Dragon Power] Death Knight's Heart: Max HP/MP + 120, near hit +12, near attack +7, ranged hit +5, ranged attack +5, AC-12, MR + 15
+[Taiwan] 17th Anniversary: Good/Long/Magical Hit + 3, HP/MP Recovery +5, Max HP/MP + 100
 [Taiwan] Ultimate Defense: Damage Reduction +1000
 (Discount) Do you want to expand the slot by consuming 10,000 adena? 
 %s The server succeeded in attacking the boss.
@@ -5295,7 +5295,7 @@ Defensive posture
 Collecting posture
 HP Potion Auto-Use Slot
 Pet Menu
-Toji %s / %s ( %d %%)
+Toji %s/%s ( %d %%)
 beast of prey
 Fresh water
 Pet
@@ -5369,7 +5369,7 @@ hour(s)
 MP
 邏ｯ遨・
 繝・Ξ繝昴・繝磯俣髫・(0・・0遘・
-\f1Negative experience value status ^\f0When EXP drops below 0% due to death ^ -Experience value cannot be obtained ^ --Attack / movement speed decrease ^ (Recoverable through pet spirit master)
+\f1Negative experience value status ^\f0When EXP drops below 0% due to death ^ -Experience value cannot be obtained ^ --Attack/movement speed decrease ^ (Recoverable through pet spirit master)
 dummy
 dummy
 Do you want to save?
@@ -5377,7 +5377,7 @@ Saving travel route
 general merchandise
 The saved position is too far away to move.
 Can only be used in the Tower of Domination.
-^ Strengthening conditions: Friendship x%d, / Catalyst x1
+^ Strengthening conditions: Friendship x%d,/Catalyst x1
 dummy
 dummy
 dummy
@@ -5391,8 +5391,8 @@ dummy
 passive:
 effect:
 It cannot be used because it is in a special area.
-Cooking: Short-range damage / hit, nutritious cooking including all skill hit effects
-Cooking: A nutritious dish that includes ranged damage / hits and all skill hit effects.
+Cooking: Short-range damage/hit, nutritious cooking including all skill hit effects
+Cooking: A nutritious dish that includes ranged damage/hits and all skill hit effects.
 Cooking: SP, a nutritious dish that includes all skill hit effects
 Soup: EXP + 4%, damage reduction +2, all resistance +2, PVP damage reduction +2
 Combo damage
@@ -5405,9 +5405,9 @@ Blessing of the Hero: Increases defense.
 Pets cannot be stored during battle.
 I can't store my pet now.
 dummy
-\f1Hunting ability score ^\f0Physical damage / Physical hit / Physical critical
-\f1Survival stats ^\f0Maximum HP / HP recovery / AC / MR / Damage reduction
-\f1Sacred ability score ^\f0Skill damage / skill critical / skill activation probability
+\f1Hunting ability score ^\f0Physical damage/Physical hit/Physical critical
+\f1Survival stats ^\f0Maximum HP/HP recovery/AC/MR/Damage reduction
+\f1Sacred ability score ^\f0Skill damage/skill critical/skill activation probability
 The power of hunting
 Viability
 Sacred power
@@ -5507,7 +5507,7 @@ dummy
 - EXP+200%
 When attacking monsters, use skills in order (buff skill cannot be set)
 Skills prioritized when attacking monsters ^ (priority over sequential skills)
-Use potions when health / mana% or less ^ (When slot 1 is exhausted, use slot 2 items)
+Use potions when health/mana% or less ^ (When slot 1 is exhausted, use slot 2 items)
 Buff skill and item use (automatically reused when the buff disappears)
 I can't connect to the world.
 Unable to configure because one or more clients are running.
@@ -5551,10 +5551,10 @@ strk5550
 strk5551
 Mobius: Ranged Protection Barrier (behavior restricted)
 The effect of Mobius disappears.
-[Taiwan] Transformation: changes to another shape HP / MP + 50, near + ranged hit +5, near / ranged attack +5, magic attack +3
+[Taiwan] Transformation: changes to another shape HP/MP + 50, near + ranged hit +5, near/ranged attack +5, magic attack +3
 PVP damage +1, all hits +1
 [Taipei] Shapeshifter: Changes to other shapes HP + 100, MP + 100, Near + Far +10, Near + Far +10, Magical Attack +5, STR + 1, DEX + 1, INT + 1
-HP / MP + 120, Near / Far +15, Near + Far +15, Magical Attack +7 All stats +1, MR + 10
+HP/MP + 120, Near/Far +15, Near + Far +15, Magical Attack +7 All stats +1, MR + 10
 As of March 28, 2018, new subscriptions to phone verification services have been discontinued to improve security services and phone verification will be terminated on November 21, 2018. <BR> Get more convenient and secure OTP services! <BR> You can apply for the service at plaync webpage My Page> My Information Protection.
 Server Change
 Defrost
@@ -5776,9 +5776,9 @@ Acquired Adena
 Items
 Clear
 Remaining Time
-Giran Prison / rule of domination
-Tomb of the Elemental / Tomb of the Ancient Giant
-Island of Growth / Forest of Life
+Giran Prison/rule of domination
+Tomb of the Elemental/Tomb of the Ancient Giant
+Island of Growth/Forest of Life
 Item change details
 %d%
 %d
@@ -5787,7 +5787,7 @@ Please choose a character to play.
 Bar codes such as lililili and lllliiii are also not available.
 Remaining Points
 \fZ %s\f> is being deleted. Until deletion \fZ %d\f> seconds remaining. <BR> The character at level 31 or higher goes into the delete waiting state after 10 seconds. <BR> To cancel, please click the Cancel button.
-[Taiwan] Transformation: Changes to other shapes HP / MP + 120, Near / Long hit +15, Near / Far attack +15, Magic attack +7 All stats +1, MR + 18
+[Taiwan] Transformation: Changes to other shapes HP/MP + 120, Near/Long hit +15, Near/Far attack +15, Magic attack +7 All stats +1, MR + 18
 Play support
 Main
 Buff
@@ -5909,7 +5909,7 @@ Overall Rank
 Class Rank
 Elixir
 PvP Kills
-[HP / MP]
+[HP/MP]
 HP
 MP
 [HIT]
@@ -6043,7 +6043,7 @@ Character Name
 Classes
 Memo
 Current number of users
-%d / %d
+%d/%d
 Clan crest list
 Full change
 Load the blood pledge image in %s folder.
@@ -6167,32 +6167,32 @@ Social Action: Shout
 Social Action: Duel application
 Social action: wait
 exchange
-Invite / Exit Chat
-Party Invitation / Expulsion
+Invite/Exit Chat
+Party Invitation/Expulsion
 block
 Bookmark Window
 Bookmark
-Store Open / Close
+Store Open/Close
 Declaration
-Full Open / Close
-Show Drop Items On / Off
-All Pick On / Off
-HP / MP Recovery Status On / Off
-Buff End Notification On / Off
-Dungeon Remaining Time On / Off
-Clan Connection Notification On / Off
-Battle Shot On / Off
-Notice of production success On / Off
-Dragon's Diamond Auto On / Off
-Magic Doll Summon On / Off
-Click Auto Attack On / Off
-Enable / Disable Poe Slayer Auto
-Start / end video recording
+Full Open/Close
+Show Drop Items On/Off
+All Pick On/Off
+HP/MP Recovery Status On/Off
+Buff End Notification On/Off
+Dungeon Remaining Time On/Off
+Clan Connection Notification On/Off
+Battle Shot On/Off
+Notice of production success On/Off
+Dragon's Diamond Auto On/Off
+Magic Doll Summon On/Off
+Click Auto Attack On/Off
+Enable/Disable Poe Slayer Auto
+Start/end video recording
 Change equipment wearing set
-Quest monster display On / Off
+Quest monster display On/Off
 Pet attack command
 Pet Retreat Command
-PVP Mode On / Off
+PVP Mode On/Off
 Action Name: %s
 Kinds: %s
 object: %s
@@ -6245,8 +6245,8 @@ Overseas: I can feel the mysterious power of the advanced class 9 submarine (rec
 Overseas: I can feel the mysterious power of advanced class 7 submarine (defense).
 Overseas: I can feel the mysterious power of the advanced 8 class submarine (defense).
 Overseas: I can feel the mysterious power of the advanced 9th class submarine (defense).
-[Quick Tele ( %d / 5)]
-[Storage place ( %d / 100)]
+[Quick Tele ( %d/5)]
+[Storage place ( %d/100)]
 Sort:
 Save
 \d0
@@ -6338,7 +6338,7 @@ UI Setting
 Game Setting
 Command
 Shortcut
-You can switch full screen / window mode with Alt+Enter.
+You can switch full screen/window mode with Alt+Enter.
 Resolution
 Full Screen
 Window (1920x1080)
@@ -6415,7 +6415,7 @@ War surrender
 /location
 / Change cursor
 /speech bubble
-/ Invite [character name] or / invitation
+/ Invite [character name] or/invitation
 / Leave Party
 / Party Expulsion [Character Name]
 /Add to friends
@@ -6988,7 +6988,7 @@ Einhasads Protection:\n-EXP+100%\n-Item acquisition probability 100%
 The target is not currently connected, so the tracking function cannot be used.
 Party Chairperson Assist
 The remaining number
-Monster Release On / Off
+Monster Release On/Off
 No target
 Action timed out.
 There are no users in multiple destinations.
@@ -7005,11 +7005,11 @@ Make sure you have a highlight enabled graphics card and experience installed.
 Rose Fragrance Effect: Close Range Damage +1, Close Shot +2
 Sunflower Fragrance Effect: Ranged Damage +1, Ranged Hit +2
 Cara Perfume Effect: SP + 1, Magical Hit + 2
-Prime: Ranged Damage / Accuracy +3, Ranged Damage / Accuracy +3, SP +2, Magical Accuracy +2
+Prime: Ranged Damage/Accuracy +3, Ranged Damage/Accuracy +3, SP +2, Magical Accuracy +2
 Force Stun: Stun Status (Paralysis)
 Eternity: No Return
 Halfas: Chance to Evade Short Range Attacks and counterattack with Chain Sword.
-Potential: + 20% HP / MP / DG / ER / MR / SP
+Potential: + 20% HP/MP/DG/ER/MR/SP
 Demolition: No Return
 The user has already tracked or provoked.
 You are already tracking
@@ -7023,7 +7023,7 @@ dummy9268
 Battle Spells:\n AC-5, Close Ranged Hit +5, Long Range Hit +5, Magical Hit +2, Reduced PVP Damage +5, Additional PVP Damage +5
 Show target
 Play Support Settings
-Run / Stop Play Support
+Run/Stop Play Support
 Resize chat window
 Your account has been restricted from using all of the game services we offer for payment theft. For more details, please check the plaync homepage [www.plaync.com] by contacting the customer center in one-on-one or by phone (1600-0020).
 [Queue] Have you waited long? Server connection was successful!
@@ -7038,7 +7038,7 @@ dummy9273
 dummy9274
 Place
 Do you want to give up the current tracking and make a new one?
-Prime: Ranged Damage / Accuracy +9, Ranged Damage / Accuracy +9, SP +6, Magical Accuracy +6, HP +500
+Prime: Ranged Damage/Accuracy +9, Ranged Damage/Accuracy +9, SP +6, Magical Accuracy +6, HP +500
 [%s] has defeated [%s].
 The item cannot be set.
 Additional Short Range Damage
@@ -7063,8 +7063,8 @@ This game is not available for teens \nyoung children under 18 years old.
 Pantera: Stun Status (Paralysis)
 Flame: Burn Damage
 Phantom: No Return
-Phantom Ripper: Return / Movement
-Phantom Death: Return / immovable, death heel / potion
+Phantom Ripper: Return/Movement
+Phantom Death: Return/immovable, death heel/potion
 Judgment: 4 resistance reduced
 Receive map location transfer
 Chat input
@@ -7114,8 +7114,8 @@ Voice Chat
 Phantom
 Lineage User Agreement
 Monster Release Mode
-Prime: Ranged Damage / Accuracy +3, Ranged Damage / Accuracy +3, SP +2, Magical Accuracy +2, Skill Accuracy +5
-Prime: Ranged Damage / Accuracy +9, Ranged Damage / Accuracy +9, SP +6, Magical Accuracy +6, Skill Accuracy +15, HP +500
+Prime: Ranged Damage/Accuracy +3, Ranged Damage/Accuracy +3, SP +2, Magical Accuracy +2, Skill Accuracy +5
+Prime: Ranged Damage/Accuracy +9, Ranged Damage/Accuracy +9, SP +6, Magical Accuracy +6, Skill Accuracy +15, HP +500
 KnightVald
 dummy9279
 dummy9280
@@ -7378,7 +7378,7 @@ UI dummy 7377
 UI dummy 7378
 UI dummy 7379
 UI dummy 7380
-[Runes / Relics]
+[Runes/Relics]
 dummy217
 dummy221
 dummy223
@@ -7580,8 +7580,8 @@ Can't charge: Exhausted weekly charges
 Can't charge: Maximum charge timeout
 No results were found for your search.
 Please enter at least 2 characters.
-Ivory Tower / Land of the Abandoned
-Remaining Charges / Maximum Charges
+Ivory Tower/Land of the Abandoned
+Remaining Charges/Maximum Charges
 Production is only possible in the Safety Zone.
 Hidden hunting ground
 Hidden Hunting Time Charge
