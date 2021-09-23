@@ -133,11 +133,11 @@ You cannot restart while in combat.
 You cannot quit while in combat.
 Autosave.
 Select the item you would like to verify from your item box.
-{0}・售mall{1}/Large {2}
-{0}・哂C-({1})
-{0}・哢utrition{1} Weight{2}
-{0}・啅ses available{1} Weight{2}
-{0}・啗eight{1}
+{0}: Damage {1}/{2}
+{0}: AC-({1})
+{0}: Nutrition {1} Weight {2}
+{0}: Number of times it can be used {1} Weight {2}
+{0}: Weight {1}
 You are too hungry to shout.
 How many do you want to give? (1-%u, Enter=all, Esc=cancel)
 You cannot give something you are wearing.
@@ -435,7 +435,7 @@ Cray gave you {1}.
 There are too many recipients.
 There are no recipients.
 Name is too long.
-There is no time remaining on your personal fixed payment service. If you want to continue receiving service, please deposit additional money. To receive deposit confirmation, please call the Lineage business team (xx－xxxx－xxxx).
+There is no time remaining on your personal fixed payment service. If you want to continue receiving service, please deposit additional money. To receive deposit confirmation, please call the Lineage business team (xx-xxxx-xxxx).
 There are %d hours and %d minutes remaining on your personal fixed payment service. If you want to continue receiving fixed payment service without interruption, please deposit additional money before the expiration time.
 All of your account information and connection data are being stored by our company. We have received a report that you are using the Lineage game service in the PC room in order to deliberately avoid PC room usage fees. Regardless of whether you intend or have the ability to pay the PC room fees, using the PC room is a fraud violation of the provisions in Article 347 of the criminal laws. If it is not true that you have committed this offense, please contact our company and resolve it. If you will contact us at 1566-6600 (9) or go to Lineage web site (http://www.lineage.co.kr) customer center anytime, we will explain the details of the report. (This content will not disappear for one minute.)
 You can't ban members during war.
@@ -714,7 +714,7 @@ Entangle: Your legs feel as if they've been caught in a vine.
 Erase Magic: MR is reduced to about 1/2
 Earth Bind: Your legs feel as if they are stuck in the ground.
 Nature's Blessing: Warm energy of Mother Nature flows into your whole body, health reovery increased.
-Area of 窶銀鬼ilence: Area is encased in complete silence.
+Area of silence: Area is encased in complete silence.
 Do you really want to get rid of the elemental power?
 You can register up to 50 friends only.
 The magic power of the Holy Weapon disappears.
@@ -1006,7 +1006,7 @@ This magic cannot be used in transparent state.
 %s sealed.
 Rejected invitation to %s chat party.
 Trade Filters
-Mana Recovery・・MPR +(WIS12譛ｪ貅縺ｧ1縲仝IS12莉･荳翫〒WIS-10)
+Mana Recovery: MP Recovery + (1 for less than WIS12, WIS-10 for WIS12 and above)
 You cannot cast magic in that condition.
 Elemental Resist -50%
 Your luggage will be lighter.
@@ -1561,8 +1561,8 @@ The magic doll is awakening.
 Magic Dolls cannot be deleted.
 This character was generated in Lineage. It cannot be deleted in lithos.
 [%s] Do you really want to delete the character?
-Overseas・售TR_STATUS_EFFECT_GOD_MAJO_POTION_SPELL
-Overseas・售TR_STATUS_EFFECT_GOD_MAJO_MOTHER_TREE
+STR_STATUS_EFFECT_GOD_MAJO_POTION_SPELL
+STR_STATUS_EFFECT_GOD_MAJO_MOTHER_TREE
 Poison Report 2
 Would you like to let Drugabert know that you got the Dragon Key?
 You need a dragon key.
@@ -1748,7 +1748,7 @@ One time pasword is not correct (for Beanfun event)
 User login IP is invalid
 this ServiceAccount has been locked
 the servicecode in incorrect
-can’t find service account
+can't find service account
 this service is unavailable now
 unexpected error occurs when encoding password
 system throw exception error
@@ -2240,230 +2240,230 @@ The petrification effect disappears.
 Armor Break disappears into the darkness.
 Enchant Weapon's magic power will disappear.
 The magic of the Blessed Armor disappears.
-ゾウの抵抗式が近距離ダメージを半減させます。
-ハーディンとの約束により防御力を喪失し、攻撃力が増加します。
-治癒魔方陣の効果が感じられます。
-魔法使用妨害の結界により、魔法を使用できません。
-ゾウの抵抗式が魔法ダメージを半減させます。
-ポーションに呪いがかかっていて、体に流れてきません。
-肉体が眠る呪いにかかりました。
-絶対的な防御の結界を張ります。
-肉体と精神の限界を克服し、増幅されます。
-ハーディンの呪文に両手が支配されました。
-召喚獣に肉体狂乱の呪文を刻みつけます。
-召喚獣に魔力暴走の呪文を刻みつけます。
-強靭な筋力の戦慄が感じられます。
-シェイド メイルが体を包み込みます。
-武器に致命的な猛毒を塗ります。
-鋭い敏捷の戦慄を感じます。
-麻痺毒が目に入り、周囲を見ることができません。
-痕跡を残さずに隠れることができます。
-思念を消して破壊に集中します。
-他の毒が免疫になる強い毒を注入します。
-機敏な姿勢で敵の矢を回避します。
-狂奔し、デュアル ブレードに極度に集中します。
-闇の予言により、近接攻撃を回避します。
-非情な闇の力が武器に染み入ります。
-荷物の重量を影の分身と分かち合います。
-狂奔し、クロウに極度に集中します。
-精神を集中させ、地竜の力を引き出します。
-竜族の粘り強い回復力を引き出します。
-皮膚が竜の鱗のように固くなります。
-鎧に致命的な亀裂が発生しました。
-精神を集中させ、水竜の力を引き出します。
-血の流れを増幅させ、体をより速く動かします。
-判断が鈍り、回避できません。
-精神を集中させ、火竜の力を引き出します。
-抑圧の鉤が足を縛ります。
-敵を戒め、敵意を失わせます。
-鱗の欠片が敵の皮膚に突き刺さります。
-精神を集中させ、風竜に覚醒します。
-雷撃の衝撃が腕を痺れされます。
-地竜の狂奔が爆発しようとしています。
-水竜の狂奔が爆発しようとしています。
-火竜の狂奔が爆発しようとしています。
-オーガの幻想によって物理ダメージが向上します。
-混乱の分身で敵の攻撃を回避します。
-自分の意思のままに魔法を使用することができません。
-激昂のキューブの影響を受けます。
-リッチの幻想により、魔力が向上します。
-自分の意思のままに体が動きません。
-安らかな精神が回復力を増加させます。
-波長のキューブの影響を受けます。
-ゴーレムの幻想により、防御力が向上します。
-自分の意思のままに力が入りません。
-一瞬、拒否できない深い眠りに陥ります。
-幻術により、苦痛を忘れます。
-閃光のキューブの影響を受けます。
-化身の幻想により、破壊の誘惑に陥ります。
-幻術により、潜在していた基本的才能が発揮されます。
-幻術により、あなたの基本的才能が眠りにつきました。
-平静のキューブの影響を受けます。
-シーレンの歌が力を強くします。
-地竜の怒りにより防御力が増加しました。
-水竜の怒りにより治癒魔法に対する増幅力が生じました。
-火竜の怒りにより物理攻撃力が極大化しました。
-沈黙の審判により魔法を使用できなくなりました。
-滅魔の審判により魔法防御力が半減しました。
-デュアルブレードに怒りを植えつけ、ダブルダメージ率が増加します。
-クロウに怒りを植えつけ、クリティカル率が増加します。
-木の精霊の根が足を縛ります。
-怒りを抑えることができませんでした。
-疾風の力が腕を支配します。
-敏捷と知識を失いました。
-聖者の武器が武器から消えました。
-戦士の武器が武器から消えました。
-守護の意志が消えます。
-軽減の意志が消えます。
-白鳥の加護：治癒が消えます。
-迅速の意志が消えます。
-勇猛の旗：パーティーが消えます。
-鉄壁の旗：パーティーが消えます。
-神弓の旗：パーティーが消えます。
-滅魔の旗：パーティーが消えます。
-応酬：アローが消えます。
-応酬：魔法が消えます。
-勇猛の旗：血盟が消えます。
-鉄壁の旗：血盟が消えます。
-神弓の旗：血盟が消えます。
-滅魔の旗：血盟が消えます。
-帝王の腕力が消えます。
-白鳥の加護：集中が消えます。
-防御術が解除されました。
-シールド術：近接回避が解除されます。
-シールド術：魔法回避が解除されます。
-攻撃看破が解除されます。
-シールド術：結縛が解除されます。
-グレートソード術：衝撃波が解除されます。
-衝撃緩和が解除されます。
-シールド術：アロー回避が解除されます。
-グレートソード術：逆攻撃が解除されます。
-シールド術：魔法反撃が解除されます。
-破壊のメイルが解除されます。
-アートーンの気迫が解除されます。
-滅魔の葉が元に戻っていきます。
-精神回復の苦痛が元に戻っていきます。
-エント メイルが元に戻っていきます。
-召喚獣迅速が元に戻っていきます。
-重量の調律が元に戻っていきます。
-集中のブレイサーが元に戻っていきます。
-地の歌が元に戻っていきます。
-地の熊手が元に戻っていきます。
-火の歌が元に戻っていきます。
-治癒効果増幅が元に戻っていきます。
-風の歌が元に戻っていきます。
-風のハイブーツが元に戻っていきます。
-結縛の風が元に戻っていきます。
-回復力増幅が元に戻っていきます。
-水鏡の防壁：アローが元に戻っていきます。
-滅魔の消滅が元に戻っていきます。
-精霊の消滅が元に戻っていきます。
-精霊の知恵が元に戻っていきます。
-地裂の結界が元に戻っていきます。
-フェアリーの素早さが元に戻っていきます。
-地裂の活力が元に戻っていきます。
-煉獄の迫力が元に戻っていきます。
-煉獄の活力が元に戻っていきます。
-烈空の手錠が元に戻っていきます。
-不運の標的が元に戻っていきます。
-沈黙の鏡が元に戻っていきます。
-地裂のメイルが元に戻っていきます。
-狂奔のダガーが元に戻っていきます。
-極限の武器が元に戻っていきます。
-汚染された治癒が元に戻っていきます。
-暴風の弓が元に戻っていきます。
-精霊力の加護が元に戻っていきます。
-衰弱した心身が元に戻っていきます。
-汚染されたポーションが元に戻っていきます。
-大精霊のクロークが元に戻っていきます。
-エヴァのバリア：アローが元に戻っていきます。
-精神回復の結界が元に戻っていきます。
-治癒効果増幅：パーティーが元に戻っていきます。
-マジック バリアが静まります。
-重量の消滅が静まります。
-MP回復の鎧が静まります。
-呪い：暗闇が静まります。
-MPの苦行が静まります。
-MPの集中が静まります。
-魔法相殺が静まります。
-支配：移動妨害が静まります。
-魔法治癒妨害が静まります。
-魔力の武器が静まります。
-ゾウの祝福：魔力が静まります。
-迅速の呪文が静まります。
-防御意思喪失が静まります。
-迅速のハイブーツが静まります。
-ゾウの加護：物理が静まります。
-ハーディンの約束が静まります。
-回復の空間が静まります。
-魔法使用妨害が静まります。
-ゾウの加護：精神が静まります。
-ポーション封印が静まります。
-呪い：睡眠が静まります。
-アインハザードの加護が静まります。
-精進と省察
-支配：攻撃妨害が静まります。
-狂乱の命令が静まります。
-暴走の命令が静まります。
-強靭な姿勢が浄化されます。
-シェイド メイルが浄化されます。
-猛毒の武器が浄化されます。
-敏捷な姿勢が浄化されます。
-影の呼吸が浄化されます。
-無欠な歩みが浄化されます。
-破壊の瞑想が浄化されます。
-免疫の血流が浄化されます。
-機敏な姿勢が浄化されます。
-怒りのデュアルブレードが浄化されます。
-約束された回避が浄化されます。
-悲運の刃が浄化されます。
-重力の消滅が浄化されます。
-怒りのクロウが浄化されます。
-覚醒：地竜が消滅しました。
-不死の回復が消滅しました。
-アウラキアの鱗が消滅しました。
-防御力粉砕が消滅しました。
-覚醒：水竜が消滅しました。
-迅速な肉体が消滅しました。
-回避力粉砕が消滅しました。
-覚醒：火竜が消滅しました。
-抑圧の鉤が消滅しました。
-戦意喪失が消滅しました。
-ギムレットの鱗が消滅しました。
-覚醒：風竜が消滅しました。
-雷撃の息吹が消滅しました。
-地竜の怒りが消滅しました。
-水竜の怒りが消滅しました。
-火竜の怒りが消滅しました。
-幻術：オーガの破壊力が解かれます。
-混乱の分身が解かれます。
-呪文抑制が解かれます。
-激昂のキューブが解かれます。
-幻術：リッチの魔力が解かれます。
-肉体衝撃が解かれます。
-精神の回復が解かれます。
-波長のキューブが解かれます。
-幻術：ゴーレム防御力が解かれます。
-攻撃抑制が解かれます。
-夢幻の迷路が解かれます。
-苦痛減少が解かれます。
-閃光のキューブが解かれます。
-幻術：化身の軽率さが解かれます。
-才能の発見が解かれます。
-才能の消滅が解かれます。
-平静のキューブが解かれます。
-筋力増幅：パーティーが解かれます。
-地竜の怒りによる防御力が消滅しました。
-水竜の怒りにより治癒魔法増幅が消滅しました。
-火竜の怒りによる物理攻撃力極大化が消滅しました。
-沈黙の審判が元に戻っていきます。
-滅魔の審判が元に戻っていきます。
-デュアル ブレードが平静を取り戻しました。
-クロウが平静を取り戻しました。
-精霊の根が元に戻っていきます。
-再び平穏を取り戻しました。
-震えていた腕が安定しました。
-失っていた敵意を取り戻しました。
+The elephant resistance formula halves short-range damage.
+The promise with Hardin loses defense and increases attack power.
+You can feel the effect of the healing magic square.
+You cannot use magic due to the barrier of magic use obstruction.
+The resistance formula of the elephant halves the magic damage.
+The potion is cursed and doesn't flow into my body.
+I was cursed to sleep my body.
+Create an absolute defensive barrier.
+Overcome physical and mental limits and be amplified.
+Hardin's spell dominated both hands.
+Engrave a physical frenzy spell on the summoned beast.
+Engrave a magical runaway spell on the summoned beast.
+You can feel the horror of strong muscle strength.
+Shade Her mail wraps around her body.
+Apply deadly poison to your weapon.
+I feel the dread of sharp agility.
+Paralytic poison gets into my eyes and I can't see the surroundings.
+You can hide without leaving a trace.
+Erase your thoughts and focus on destruction.
+Inject a strong poison that immunizes other poisons.
+Avoid enemy arrows with agile posture.
+Crazy and dual focus extremely on her blade.
+Avoid melee attacks with dark prophecies.
+The ruthless power of darkness permeates the weapon.
+Share the weight of your luggage with the shadow alter ego.
+Crazy and extremely focused on Crow.
+Concentrate your mind and bring out the power of the earth dragon.
+Brings out the tenacious resilience of the dragons.
+The skin becomes hard like dragon scales.
+A fatal crack has occurred in the armor.
+Concentrate your mind and bring out the power of the water dragon.
+Amplifies blood flow and moves the body faster.
+Judgment is dull and cannot be avoided.
+Concentrate your mind and bring out the power of the Fire Dragon.
+The hook of oppression ties up the foot.
+Warn the enemy and make them lose their hostility.
+Pieces of scales pierce the enemy's skin.
+Concentrate your mind and awaken to the Wind Dragon.
+The impact of a lightning strike will numb your arm.
+The madness of the earth dragon is about to explode.
+The water dragon's madness is about to explode.
+The Fire Dragon Madness is about to explode.
+Physical damage is improved by the illusion of the auger.
+Avoid enemy attacks with a confused alter ego.
+You can't use magic at your will.
+It is affected by the fierce cube.
+Lich's illusion improves magical power.
+I can't move at my will.
+A peaceful spirit increases resilience.
+It is affected by the wavelength cube.
+Golem illusions improve your defenses.
+I can't put my strength into my will.
+For a moment, I fall into a deep sleep that I cannot refuse.
+Forget the pain with illusion.
+Affected by the flashing cube.
+The illusion of incarnation leads to the temptation of destruction.
+Illusions bring out the basic talents that were latent.
+Illusion has put your basic talent to sleep.
+Affected by a calm cube.
+Siren's song strengthens the power.
+The wrath of the earth dragon has increased the defense.
+The wrath of the water dragon has created an amplification power for healing magic.
+The physical attack power has been maximized due to the wrath of the fire dragon.
+The Silence Referee made it impossible to use magic.
+The magic defense has been halved by the demon referee.
+Instills anger in the dual blades and increases the double damage rate.
+Instills anger in Crow and increases the critical rate.
+The roots of the spirit of the tree bind the legs.
+I couldn't control my anger.
+The power of the gale dominates the arm.
+I lost agility and knowledge.
+The saint's weapon has disappeared from the weapon.
+The warrior's weapon has disappeared from the weapon.
+The will of the guardian disappears.
+The will of mitigation disappears.
+Swan Blessing: Healing disappears.
+The will of swift disappears.
+Flag of Bravery: The party disappears.
+Iron Wall Flag: The party disappears.
+God Bow Flag: The party disappears.
+Devil's Flag: The party disappears.
+Exchange: The arrow disappears.
+Exchange: The magic disappears.
+Flag of Bravery: The clan disappears.
+Iron Wall Flag: The clan disappears.
+God Bow Flag: The clan disappears.
+Devil's Flag: The clan disappears.
+The emperor's strength disappears.
+Swan blessing: Concentration disappears.
+The defense has been lifted.
+Shielding: Proximity avoidance is canceled.
+Shielding: Magic avoidance is canceled.
+Attack detection will be canceled.
+Shielding: The bond is released.
+Greatsword technique: The shock wave is released.
+Impact mitigation is released.
+Shielding: Arrow avoidance is canceled.
+Greatsword technique: Counterattack is canceled.
+Shielding: Magic counterattack is canceled.
+The destruction mail is released.
+Artoon's spirit is released.
+The leaves of the devil will return to their original state.
+The pain of mental recovery will return to normal.
+Ent Her mail is back.
+Summoned beast swift will return to its original state.
+The tuning of the weight will be restored.
+The concentrated bracer will return to its original state.
+The song of the earth will return to its original state.
+The rake of the ground will return to its original state.
+The song of fire will return to its original state.
+The healing effect amplification will return to its original state.
+The song of the wind will return to its original state.
+The wind high boots will return to their original state.
+The wind of binding will return to its original state.
+Resilience amplification will return to its original state.
+Water mirror wall: The arrow will return to its original position.
+The disappearance of the devil will return to its original state.
+The disappearance of the spirits will return to its original state.
+The wisdom of the spirits will be restored.
+The barrier of the rift will be restored.
+Fairy's quickness will return to its original state.
+The vitality of the rift will be restored.
+The power of purgatory will be restored.
+The vitality of purgatory will be restored.
+The handcuffs in the sky will return to their original state.
+The unlucky target will return to its original state.
+The mirror of silence will return to its original state.
+The mail of the ground crack will return to its original state.
+The crazy dagger is back.
+The ultimate weapon will be restored.
+The contaminated healing will be restored.
+The storm bow will return to its original state.
+The blessing of spiritual power will be restored.
+The weakened mind and body will return to their original state.
+The contaminated potion will be restored.
+The Great Spirit Cloak will return to its original state.
+Eva's Barrier: Arrow is back.
+The barrier of mental recovery will be restored.
+Amplification of healing effect: The party will return to its original state.
+The magic barrier calms down.
+The disappearance of weight subsides.
+MP recovery armor calms down.
+Curse: The darkness calms down.
+MP penance subsides.
+The concentration of MP is calmed down.
+The magic offset calms down.
+Domination: The movement obstruction subsides.
+The magical healing obstruction subsides.
+The magical weapon calms down.
+Elephant Blessing: The magical power calms down.
+The swift spell calms down.
+The loss of defensive will subsides.
+Quick high boots calm down.
+Elephant blessing: The physics calm down.
+Hardin's promise calms down.
+The recovery space calms down.
+The obstruction to use magic is calmed down.
+Elephant blessing: Calms the mind.
+The potion seal will calm down.
+Curse: Sleep calms down.
+The blessing of Ein Hazard calms down.
+Dedication and reflection
+Domination: Attack obstruction subsides.
+The frenzy command calms down.
+The runaway command calms down.
+The tough posture is purified.
+The shade mail is purified.
+The deadly poisonous weapon is purified.
+The agile posture is purified.
+Shadow breathing is purified.
+The perfect steps are purified.
+Destruction meditation is purified.
+Immune blood flow is purified.
+The agile posture is purified.
+The dual blades of anger are purified.
+The promised avoidance is purified.
+The blade of luck is purified.
+The disappearance of gravity is purified.
+The angry crow is purified.
+Awakening: The Earth Dragon has disappeared.
+The immortal recovery has disappeared.
+The scales of Aurakia have disappeared.
+Defensive power crush has disappeared.
+Awakening: The water dragon has disappeared.
+The swift body has disappeared.
+Evasion crush has disappeared.
+Awakening: The Fire Dragon has disappeared.
+The hook of oppression has disappeared.
+The loss of fighting spirit has disappeared.
+Gimlet scales have disappeared.
+Awakening: The Wind Dragon has disappeared.
+The breath of lightning has disappeared.
+The wrath of the earth dragon has disappeared.
+The wrath of the water dragon has disappeared.
+The wrath of the fire dragon has disappeared.
+Illusion: The destructive power of the auger is released.
+The confused alter ego is unraveled.
+Spell suppression is lifted.
+The fierce cube is unraveled.
+Illusion: Rich's magical power is released.
+The physical impact is released.
+The recovery of the spirit is released.
+The wavelength cube is solved.
+Illusion: Golem defense is released.
+Attack suppression is released.
+The dream maze is solved.
+The pain reduction is released.
+The flash cube is unraveled.
+Illusion: The incarnation's carelessness is solved.
+The discovery of talent is unraveled.
+The disappearance of talent is solved.
+The calm cube is unraveled.
+Strength amplification: The party is unraveled.
+The defense power of the wrath of the earth dragon has disappeared.
+The healing magic amplification has disappeared due to the wrath of the water dragon.
+The maximization of physical attack power due to the wrath of the fire dragon has disappeared.
+The silent referee will return.
+The demon referee will return to its original state.
+Dual blades have regained calm.
+Crow has regained his composure.
+The roots of the spirits will return to their original state.
+I have regained peace again.
+The trembling arm became stable.
+I have regained the hostility I had lost.
 STR_CANT_ENCHANT_SPELL_ON_LIST_PAGE
 STR_CANT_ENCHANT_SPELL
 An unauthorized IP is being used or the connection is terminated due to temporary network communication failure.
@@ -2640,7 +2640,7 @@ Go slower ~
 Merry Christmas!
 Christmas with family ^^
 Come out the key link!
-・・Lily key ring Key ring Lily lily ~
+Lily key ring Key ring Lily lily ~
 Summon Cube! Eh?
 What's wrong?
 I am lonely and sad ... I do not cry ~
@@ -2740,7 +2740,7 @@ Only 1 character can be cloned.
 The character's level is low.
 The character has joined the Clan.
 There is an error in the item list.
-﨑ｴ・ｸ: STR_TENCENT_SA_BUYREQUEST_SUCCESS,
+STR_TENCENT_SA_BUYREQUEST_SUCCESS,
 I do not have enough points.
 This item can not be purchased at this time.
 The price you are selling now differs.
@@ -3053,7 +3053,7 @@ You can receive compensation.
 Sealed items can not be smelted.
 Grace of Resurrection: No experience penalty for death in Gertus area
 Grace of Resurrection: Disappearing (Receiving a Death Penalty)
-Please enter a quantity to delete. (1－%u, Enter = All, Esc = Cancel)
+How many do you want to delete? (1-%u, Enter = All, Esc = Cancel)
 Please enter the character you are looking for.
 Block letters list
 Blind Hiding: Transparent
@@ -3650,7 +3650,7 @@ Strengths in using unique weapon key links based on magic power
 Balanced distribution of close range attack and stamina
 Enchantment with maximum range attack power
 Limited production
-Please enter the quantity to be used in production. (1－%u, Enter = All, Esc = Cancel)
+Please enter the quantity to be used in production. (1-%u, Enter = All, Esc = Cancel)
 Limited Production Conditions Dissatisfied
 STR_VIP_MEMBER_ONLY_ITEM
 No games in progress. (Output when it is impossible to bet)
@@ -5367,8 +5367,8 @@ Rabies' Blood: Attack increase, Defense ecrease
 Play support (ALT + W)
 hour(s)
 MP
-邏ｯ遨・
-繝・Ξ繝昴・繝磯俣髫・(0・・0遘・
+dummy
+dummy
 \f1Negative experience value status ^\f0When EXP drops below 0% due to death ^ -Experience value cannot be obtained ^ --Attack/movement speed decrease ^ (Recoverable through pet spirit master)
 dummy
 dummy
@@ -6411,36 +6411,36 @@ Pledge UI
 Leave Pledge
 Delcare War
 War surrender
-/ Have all
+/Have all
 /location
-/ Change cursor
+/Change cursor
 /speech bubble
-/ Invite [character name] or/invitation
-/ Leave Party
-/ Party Expulsion [Character Name]
+/Invite [character name] or/invitation
+/Leave Party
+/Party Expulsion [Character Name]
 /Add to friends
-/ Remove friend
+/Remove friend
 /friend
-/ Chat On
-/ Chat off
-/ Turn on ear
-/ Turn off my ears
-/ Include [character name]
+/Chat On
+/Chat off
+/Turn on ear
+/Turn off my ears
+/Include [character name]
 /letter
-/ Invitation to chat [character name]
-/ Leave chat
-/ Chat bailout [character name]
-/ Chat Party
-/ Add Block [character name]
-/ Delete block [character name]
+/Invitation to chat [character name]
+/Leave chat
+/Chat bailout [character name]
+/Chat Party
+/Add Block [character name]
+/Delete block [character name]
 /block
-/Join (/血盟加入)
-/ Rank [character name]
-/ Banishment [character name]
-/ Clan
-/ Withdrawal of the clan
-/ War [Relative Clan Name]
-/ Yield [Relative Clan Name]
+/Join
+/Rank [character name]
+/Banishment [character name]
+/Clan
+/Withdrawal of the clan
+/War [Relative Clan Name]
+/Yield [Relative Clan Name]
 End War
 Declaration of Siege
 Add Emblem
@@ -7057,7 +7057,7 @@ Lord's Cry grants incredible courage.
 The rising power subsides.
 Please enter your email id
 Please enter your password
-Copyright ﾂｩ 2008 NCSOFT Corporation. All Rights Reserved.
+(C)NCSOFT Corporation. Licensed to NC Japan K.K. All Rights Reserved.
 This game is not available for teens \nyoung children under 18 years old.
 \f=Sales:%d month %d day %d to %d month %d day %d
 Pantera: Stun Status (Paralysis)
