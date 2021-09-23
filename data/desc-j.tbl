@@ -243,12 +243,12 @@ guard
 Teleport controlling
 Blind potion
 Scroll
-Weapon strengthening scroll
+Weapon Enhancement Scroll
 Glove
 Black
 for a moment
 Fantain
-Guuper strengthening scroll
+Armor Reinforced Scroll
 I shake. Swing.
 I glowed.
 Silver
@@ -263,7 +263,7 @@ Transformed wand
 Transform controlling
 Call Lightning Wand
 Eborn wand
-Haist potion
+Haste Potion
 Giant Spider
 Orc fighter
 Orc archer
@@ -476,7 +476,7 @@ dissolution
 keeper
 Short dealer
 Spending
-The red Knights are a hero that you set up Aden.
+The Red Knights are the heroes who rebuild Aden.
 Blacksmith ^ Thoma
 Woodford
 Otha
@@ -504,8 +504,8 @@ Gande Totem
 Roba's Totem
 Duda-Mala's Totem
 Gurst
-Feedback scroll
-Strengthening makeover wand
+Return scroll
+Strengthening Transformation wand
 Mana recovery potion
 Magic stone
 Orc guard
@@ -943,7 +943,7 @@ Magical Helm: Power
 Old scroll
 Ware Wolf Room Key
 Brave potion
-Wizdam potion
+Wisdom potion
 Vest
 Teleporter ^ tray
 Teleporter ^ Met
@@ -1250,9 +1250,9 @@ Race ticket
 Integrated warehouse number ^ Suram
 Integrated warehouse number ^ Nodim
 Master of Ryokan ^ Morley
-Concentrate power recovery agent
-Concentrated high-grade physical strength recovery agent
-Concentrated powerful strength recovery agent
+Concentrated Health Recovery Potion
+Concentrated Luxury Health Recovery Potion
+Concentrated Strong Health Recovery Potion
 lottery
 Winning lottery "Another piece!"
 Winning lottery 500 Adena
@@ -1408,9 +1408,9 @@ Mermaid
 Crocodile
 alligator
 Living armor
-Village feedback scroll
-Guillain feedback scroll
-Singing island feedback scroll
+Village Return scroll
+Guillain Return scroll
+Singing Island Return scroll
 Seahoh
 Luder
 Miscellaneous goods merchants ^ Johan
@@ -1423,7 +1423,7 @@ Beginner merchant ^ Fraun
 Professional ^ Therapist
 Beginner Telepter ^ Ile Dras
 Teleporter ^ Dryist
-Hidden Valley Feedback Scroll
+Hidden Valley Return Scroll
 Sea Anemone
 Papri
 Bakuk
@@ -1683,7 +1683,7 @@ Good messenger Bona
 Good messenger Vina
 Good messenger Dura
 Good messenger lowy
-Experts ^ Makeover Experts
+Experts ^ Transformation Experts
 Armor professional
 Weapon professional
 Great Healer
@@ -2379,7 +2379,7 @@ Silver engagement ring
 Arrow of ancient people
 Some of the ancient keys: lower half
 Summon scroll
-Layer feedback scroll
+Hideout Return scroll
 Mutant dread spider
 Mutant Lamia
 Ibir Gazer
@@ -2474,7 +2474,7 @@ Water
 Of wind
 Land
 Black magic stone
-Darkestone
+Dark Stone
 Brave Stone
 Wise Stone
 Kaiser Stone
@@ -2574,15 +2574,15 @@ Dark executor
 Light executor
 Pereria
 Bow production craftsman ^ Robin
-Rapid power strength recovery agent
-Quick luxury physical power recovery agent
-Quick powerful power recovery
+Quick Health Recovery Potion
+Quick Luxury Health Recovery Potion
+Quick Strong Health Recovery Potion
 Purple water (HP recovery)
 Blue water (MP recovery)
 Moon cake
 Lucky rice cake
-Sealed arrogant tower 2nd floor teleport amulet
-Sealed arrogant tower 3rd floor teleport amulet
+Sealed Arrogant Tower 2F Teleport Amulet
+Sealed Arrogant Tower 3F Teleport Amulet
 Sealed Arrogant Tower 4F Teleport Amulet
 Sealed Arrogant Tower 5F Teleport Amulet
 Teleporter ^ Dianos
@@ -2713,7 +2713,7 @@ Scripture of justice
 Guardian Life Water
 Scripture of justice
 Night light stone fragment
-Aden Knights Mant
+Aden Knight's Cloak
 Survival mark
 New Year monster
 Montes horse
@@ -3295,26 +3295,26 @@ Conductor's globe
 Shield of teachers
 Silver ring of teachers
 Conductor T-shirt
-Knights Teleport Scroll
-Knights Feedback Scroll
-Knight confirmation scroll
-Curse scroll of Knights
-Knights' transformation scroll
-Knights' physical power recovery agent
-Knight strengthening speed improvement potion
-Village feedback scroll of the island
-Groudin village feedback scroll
-Kent feedback scroll
-Woodbeck Feedback Scroll
+Knight's Teleport Scroll
+Knight's Return Scroll
+Knight's Confirmation Scroll
+Knight's Curse Scroll
+Knight's Transformation Scroll
+Knight's Health Recovery Potion
+Knight's Great Haste Potion
+Village Return scroll of the island
+Groudin village Return scroll
+Kent Return scroll
+Woodbeck Return Scroll
 Village Federation Scroll
-Elf Forest Feedback Scroll
+Elf Forest Return Scroll
 Silver Night Town Return Scroll
-Guillain feedback scroll
-Hyine feedback scroll
-Village feedback scroll of ivory tower
-Weldan feedback scroll
-Aden feedback scroll
-Silence Cave Feedback Scroll
+Guillain Return scroll
+Hyine Return scroll
+Village Return scroll of ivory tower
+Weldan Return scroll
+Aden Return scroll
+Silence Cave Return Scroll
 Ivory tower wizard ^ Lekman
 Ivory tower wizard ^ cerrian
 Guidance person ^ Lily
@@ -3545,8 +3545,8 @@ Crystal of large cavity
 Elemental piece
 Rustabad scrolling edge
 Rasterbad Teleport Scroll
-Resistance village feedback scroll
-Hideaur Feedback Scroll
+Resistance village Return scroll
+Hideaur Return Scroll
 Teleport Scrolling Manufacturer ^ Consur
 Alchemist
 Large cavity teleporter
@@ -4705,8 +4705,8 @@ How do I use it ...
 Really! It is good to apply this!
 Yo, don't forget this absolute!
 Ancient book
-Book of weapon strengthening
-Book of ancient weapon strengthening
+Book of Weapon Enhancement
+Book of Ancient Weapon Enhancement
 Rod-like mochi
 Mochi for cooking
 Cow bone soup
@@ -5128,15 +5128,15 @@ Heavenly staff
 Gampantlet of the Sea
 Mysterious healing potion
 Mysterious manaporation
-Rubber Bournehead Makeover Potion
+Rubber Bournehead Transformation Potion
 Kangaroo food
 Panda food
 Drake captain transformation turban
-Rubber Bone Archer Makeover Potion
-Rubber Bone Knife Makeover Potion
+Rubber Bone Archer Transformation Potion
+Rubber Bone Knife Transformation Potion
 Succubus queen transformation turban
 Nightbald's transformation turban
-Iris Makeover Turban
+Iris Transformation Turban
 Suspicious miscellaneous goods merchants
 Taiwan Seven1
 Taiwan Seven2
@@ -5552,7 +5552,7 @@ Iring of relatives
 Shinsei amulet
 Shinsei belt
 Mysterious Weapon Enhancement Scroll
-Mysterious armor strengthening scroll
+Mysterious Armor Reinforced scroll
 Ant's hatching catalyst
 Desmatch souvenir box
 Plate mail of the sky
@@ -5561,16 +5561,16 @@ Benarea robe
 Manten Manto
 Bottled Boots
 Grove of the sky
-Heavenly food
-Heavenly armor strengthening scroll
-Bottom weapon reinforced scroll
+Heavenly Food
+Heavenly Armor Reinforced Scroll
+Heavenly Weapon Enhancement Scroll
 Aden hero's bronze statue
 Hero's assistant officer
 Combat shoulder
 Silver box
 AC bonus
-Herpy Makeover Turban
-Black Wizard Makeover Turban
+Herpy Transformation Turban
+Black Wizard Transformation Turban
 Gold box
 Destiny earing
 Yellow of the maker
@@ -5724,11 +5724,11 @@ Tevo Oxiris staff
 Tevo Ossolas belt
 Tevol thread
 Teviannebis ring
-Weapon weapon strengthening scroll
-Best weapon weapon strengthening scroll
-Weapon weapon strengthening scroll
-Spirit weapon reinforced scroll
-Ornament reinforcement scroll
+Wind Spirit Weapon Enhancement Scroll
+Earth Spirit Weapon Enhancement Scroll
+Water Spirit Weapon Enhancement Scroll
+Fire Spirit Weapon Enhancement Scroll
+Accessories Enhancement Scroll
 Orc Search Document (Orc Forest)
 Proker Mineral Bag
 Orc dense use transformation scroll
@@ -5741,7 +5741,7 @@ Fragment of red flame
 Sixth Letter of Silne
 Project letter
 Surveee eye
-Suspicious makeover professional
+Suspicious Transformation professional
 Suspicious weapon merchant
 Suspicious armor merchant
 (Nature Touch)
@@ -5791,10 +5791,10 @@ Orc dense reader
 Halpas spy
 Administrative official keyhole
 Crimson Hye Nelay Vele Scroll 1
-Crimson Hye Nelaid Makeover Scroll 2
-Gold Sleeve Makeover Scroll 1
-Gold Sleeve Makeover Scroll 2
-Panda makeover scarf
+Crimson Hye Nelaid Transformation Scroll 2
+Gold Sleeve Transformation Scroll 1
+Gold Sleeve Transformation Scroll 2
+Panda Transformation scarf
 Aden King's Awards
 Aden King Treasure Bag
 Baht
@@ -5840,7 +5840,7 @@ Evaporative protection scroll
 Lucky cube
 Town bookmark
 Atonement Bible
-Gold Sleeve Makeover Scroll
+Gold Sleeve Transformation Scroll
 Crimson Hye Nelay Divination Scroll
 Pet Name Change Scroll
 Battle potion box
@@ -5849,7 +5849,7 @@ Magical enhancement scroll box
 Battle reinforcement scroll box
 Magic Doll: Sea Dancer Box
 Hypet lead box
-Gold Slave Makeover Scroll Box
+Gold Slave Transformation Scroll Box
 Crimson Hye Negard Transfers Scroll Box
 Hermoa Dagger Box
 Hermore Sword Box
@@ -6510,16 +6510,16 @@ Pet name change scroll
 Mysterious cube
 Townbook
 Atonement Bible
-Golden Rave Makeover Scroll
-Crimson Hainegade Makeover Scroll
-Nightbalde Makeover Scroll
-Iris makeover scroll
-Drake Makeover Scroll
+Golden Rave Transformation Scroll
+Crimson Hainegade Transformation Scroll
+Nightbalde Transformation Scroll
+Iris Transformation scroll
+Drake Transformation Scroll
 Aden Key Soldier Vibrant Scroll
-Succubus Queen Makeover
-Black Wizard Makeover Scroll
-Death Night Makeover Scroll
-Dark Elf Makeover Scroll
+Succubus Queen Transformation
+Black Wizard Transformation Scroll
+Death Night Transformation Scroll
+Dark Elf Transformation Scroll
 Prayer pattern
 Prayer crest II
 Arm power crest
@@ -6564,7 +6564,7 @@ Manten Manto
 Bottled Boots
 Grove of the sky
 Heavenly food
-Heavenly armor strengthening scroll
+Heavenly Armor Reinforced scroll
 Bottom weapon reinforced scroll
 蒼 イ リング
 Seagull ring
@@ -6602,16 +6602,16 @@ Young Monkey exchange ticket
 Prayer pattern II [3 days]
 Prayer pattern II [30 days]
 Prayer Potion II
-Sword Master Makeover Scroll
-Wizard Lee Master Makeover Scroll
-Aroma Star Makeover Scroll
-Shadow Master Makeover Scroll
+Sword Master Transformation Scroll
+Wizard Lee Master Transformation Scroll
+Aroma Star Transformation Scroll
+Shadow Master Transformation Scroll
 Spell scroll (Imune to Ham)
 Lv65 Death Night Vellane Scroll
-Lv65 Lance Master Makeover Scroll
+Lv65 Lance Master Transformation Scroll
 Magic Doll: Lamia
 Warehouse key
-Lance Master Makeover Scroll
+Lance Master Transformation Scroll
 Dragon Blood
 Three types of potion sets: swordsman
 Three types of potion sets: steric
@@ -7405,13 +7405,13 @@ Royal Combat Potion Box
 Royal strength enhancement scroll box
 Royal Magic Enhancement Scroll Box
 Royal Battle Enhancement Scroll Box
-Royal Gold Slave Makeover Scroll Box
+Royal Gold Slave Transformation Scroll Box
 Royal Hye Nequeard Transformation Scroll Box
 Battle potion of the royal family
 Royal strength enhancement scroll
 Roy's Magic Enhancement Scroll
 Royal Battle Strengthen Scroll
-Roy's Gold Slave Makeover Scroll
+Roy's Gold Slave Transformation Scroll
 Ling's Hye Negard Transformation Scroll
 TICAL character "Orlin"
 TICAL character "Mikuisturin"
@@ -7538,7 +7538,7 @@ Gray powder
 Poor box
 Hand built box
 Young
-Arc makeover magic book
+Arc Transformation magic book
 Season 3 Adventure Cap
 Recovery box: 300 juice
 Frame
@@ -7723,28 +7723,28 @@ Mago God Blessing Box
 Marago god blessing amulet
 Magi God Manto
 Villager's Return Scroll: A Speaking Island
-Villager's feedback scroll: Groudin
+Villager's Return scroll: Groudin
 Villager's Return Scroll: Kent
 Villager's Return Scroll: Woodbeck
-Villager's feedback scroll: Village Village
+Villager's Return scroll: Village Village
 Villager's Return Scroll: Silver Night Town
 Villager's Return Scroll: Guillain
-Villager's feedback scroll: Hyine
+Villager's Return scroll: Hyine
 Villager's Return Scroll: Arelam
 Villager's Return Scroll: Weldan
-Concentrated haist potion
-Concentrated respiratory potion
-Concentrated central potion
-Concentrated brave potion
-Concentrated magic potion
-Concentrated Wizdam Potion
-Concentrated makeover potion
+Concentrated Haste Potion
+Concentrated Breathing Potion
+Concentrated Concentration Potion
+Concentrated Brave Potion
+Concentrated Mana Potion
+Concentrated Wisdom Potion
+Concentrated Transformation Potion
 Spaorder Manufactured Craftsman ^ Hyos
 Item Manufacturer ^ Straight Shune
 Item Manufacturer ^ Patterned Doho
 Staff production craftsman ^ Baiemi
 Doruga bag seller ^ Doruga Ber
-Arc makeover scroll
+Arc Transformation scroll
 Dragon Key Sales Notification Bulletin Board
 Dragon Portal
 Dolugabag
@@ -8428,9 +8428,9 @@ Blessed Teleport Scrolling Cloud
 Conductor Magic Bag
 Predicator supplies transfer scroll
 Children of the teacher
-Successful weapon strengthening scroll
-Predicator's armor strengthening scroll
-Arc makeover scroll box
+Successful Weapon Enhancement Scroll
+Predicator's Armor Reinforced Scroll
+Arc Transformation scroll box
 A warm mind
 Running bug bearer
 Running Bag Baba Baba
@@ -8447,7 +8447,7 @@ Bag of transformer
 Vibrator stone bag
 Beginner Guide ^ Beginner Guide
 Beginner Guide ^ Training Field Manager
-Traveler guide person feedback scroll
+Traveler guide person Return scroll
 Sperti Magic Doll Box
 Dungeon bookmark
 Dungeon Bookmark Box
@@ -8536,12 +8536,12 @@ Seagull chain Sword
 Mysterious Concentrated Healing Potion
 Mysterious Concentrated Manaporation
 Mysterious quickport
-Tennother's Night Makeover Turban
+Tennother's Night Transformation Turban
 fortune cookie
 Fortune-telling
 Cookie fragments
-Iris makeover Helm
-Drake makeover Helm
+Iris Transformation Helm
+Drake Transformation Helm
 Mymyo
 Conducter's cloak
 Iris Helm Box
@@ -8812,9 +8812,9 @@ Japan 8th Anniversary Event NPC
 Japan 8th Anniversary Event NPC
 Sparkling
 Pandorous transformation
-Taros makeover
-Lalson makeover
-Grimoliper makeover
+Taros Transformation
+Lalson Transformation
+Grimoliper Transformation
 Sweet ice tea
 Refreshing ice tea
 Fantastic ice tea
@@ -8853,22 +8853,22 @@ Glowing phantom box
 Illusion cubes
 Hero's cube coming back
 Land-enhanced speed improvement potion of illusion
-Phantom of Phantom Powerful Power Recovery Agent
-Phantom of Phantom Powerful Power Recovery Agent
+Phantom Powerful Health Recovery Potion
+Phantom Powerful Health Recovery Potion
 Landmosis of illusion
 Located mana recovery potion of illusion
 Mambo Rabbit Runsches
 Carrot rabbit transfeling hat
 Rabbit transformation hat
-Orc Hunter Makeover Hat
+Orc Hunter Transformation Hat
 Anavada package
 Retrieval box
 Branch recovery box
 Ivory Tower Stone Golem
-Illusion Dark Makeover Scroll
-Illusion Silver Makeover Scroll
-Illusion Sword Makeover Scroll
-Ghost arc makeover scroll
+Illusion Dark Transformation Scroll
+Illusion Silver Transformation Scroll
+Illusion Sword Transformation Scroll
+Ghost arc Transformation scroll
 Special T-shirt 2010 with% i
 % i's agile special T-shirt 2010
 Special T-shirt 2010 of the attractiveness of% i
@@ -8896,26 +8896,26 @@ Magical T-shirt Box 2010
 Stan Resistant T-Shirt Box 2010
 Hold Resistance T-Shirt Box 2010
 Magic Resistant T-shirt Box 2010
-Guuper strengthening scrolling charm 10
+Armor Reinforced Scroll Charm 10
 Guidelia Enhancement Scroll Charm 36
 Blessed Guardier Enhancement Scrolling Charm
 7 color dye box
 Platinum cube of her male who came back
 Lucky box
-The last earing
-The best amulet
-The last coin
-The last orange potion
-The best clear potion
-The latest concentrated high-grade physical strength recovery agent
-The Best Concentrated Powerful Power Recovery Agent
-The best ancient high-grade physical power recovery agent
-The best ancient powerful power recovery agent
-The best reinforced green potion
-The best Silver Night Makeover Scroll
-The Best Silver Majister Makeover Scroll
-Best Silver Ranger Makeover Scroll
-The best silver shadow transformation scroll
+The Best earing
+The Best amulet
+The Best coin
+The Best orange potion
+The Best clear potion
+Potent Luxury Health Recovery Potion
+Potent Strong Health Recovery Potion
+Archaic Luxury Health Recovery Potion
+Archaic Strong Health Recovery Potion
+The Best reinforced green potion
+The Best Silver Night Transformation Scroll
+The Best Silver Majister Transformation Scroll
+The Best Silver Ranger Transformation Scroll
+The Best Silver Shadow transformation scroll
 dummy
 dummy
 Call of Event Bag
@@ -8976,12 +8976,12 @@ JP2010GW Witch of the deposit line
 JP2010GW Volcano witch
 JP2010GW Desert Witch
 JP2010GW Witch with a penetration
-Ancient weapon reinforced scroll
+Ancient Weapon Enhancement Scroll
 Lucky cube of reunion
-Blessed weapon reinforced scroll
-Blessed armor strengthening scroll
-Black Wing Kerenis Makeover Scroll
-Little Kelenis Makeover Scroll
+Blessed Weapon Enhancement Scroll
+Blessed Armor Reinforced Scroll
+Black Wing Kerenis Transformation Scroll
+Little Kelenis Transformation Scroll
 Space Moving Expert
 The last researcher
 Transformation professional
@@ -9052,9 +9052,9 @@ Steel crow of war
 Silver Ax of the war
 Spirit shoes: physical strength
 Spirit Shoes: Magical
-Drake Makeover Scroll
+Drake Transformation Scroll
 Aden Key Soldier Vibrant Scroll
-Black Wizard Makeover Scroll
+Black Wizard Transformation Scroll
 Ship treasured liquor
 Gardener
 Fear panda muffler
@@ -9071,13 +9071,13 @@ Potion of four seasons
 Hypox choker
 Highla Bit Choker
 Cyan potion of ivory tower
-Ivory tower armor strengthening scroll
-Weapon tower weapon strengthening scroll
+Ivory Tower Armor Reinforced Scroll
+Ivory Tower Weapon Enhancement Scroll
 Primitive Totem
 Sweets
 Delicious chopsticks
 Kushinyuko
-Ivory Tower Death Night Makeover Scroll
+Ivory Tower Death Night Transformation Scroll
 Ivory tower dark elf madework scroll
 An ivory tower prayer pattern
 Ivory tower arm power crest
@@ -9140,7 +9140,7 @@ Core
 Royalty
 Source merchant ^ Miel
 Herb merchant ^ sio
-Guuper strengthening scroll package
+Armor Reinforced Scroll Package
 Winning battle set
 World Cup Mysterious Cube
 Hero's utility
@@ -9379,7 +9379,7 @@ Life treasure chest
 Chef hat
 Fantasy cube
 Luxury fantasy cube
-Witch mana recovery agent
+Witch's Mana Recovery Potion
 Arrogant Tower Teleport Scroll
 Evaporative protection scroll
 Ballog dedicated scroll
@@ -9637,9 +9637,9 @@ Ferrocas Si Tiger
 Running Kishu Dog Puppy
 Plain pet box
 Toppet box
-Knights speed improvement potion
+Knight's Haste Potion
 Fast Haste Potion of Conductor
-High speed haist potion
+Great Haste Potion
 Metis presents box
 Metis present bag
 Reinforced transformer
@@ -9693,9 +9693,9 @@ Kishu dog
 Tiger rearing
 Delivery member Mimic: Kishu dog's car
 Delivery member Mimic: Tiger rearing
-Gralahi Knight Makeover Scroll
-Little Kelenis Makeover Scroll
-Black Wing Kerenis Makeover Scroll
+Gralahi Knight Transformation Scroll
+Little Kelenis Transformation Scroll
+Black Wing Kerenis Transformation Scroll
 Wolf exchange ticket
 Doberman exchange ticket
 Collie exchange ticket
@@ -9869,8 +9869,8 @@ Oh! That witch was exposed!
 Ohohoho. A round and fat child is a good thing.
 Witch invitation
 Magic Doll: Succubus Box
-Concentrated strong strength recovery agent box
-Concentrated Luxury Power Suppressive Box
+Concentrated Strong Health Recovery Potion Box
+Concentrated Luxury Health Recovery Potion Box
 Phantom papri
 Mysterious illusion
 Hatching researcher
@@ -9884,7 +9884,7 @@ Metis blessing bag
 Methys apology
 Metis carrot soup
 Methys protection
-Metis's Mysterious Makeover Scroll
+Metis's Mysterious Transformation Scroll
 Metis support
 Metis letter
 Halloween soul box
@@ -10001,9 +10001,9 @@ Luxury accelerated bag box
 Chef hat box
 The highest grade fantasy cube
 Highest grade fantasy cube box
-Weapon reinforced scroll scroll
-Guidelia Enhancement scroll scroll
-Weapon / Guidelia scroll scroll
+Weapon Enhancement Scroll Box
+Atmor Reinforced Scroll Box
+Weapon/Armor Scroll Box
 Ballog Sales Scroll
 Yahi Suhiro luxury scroll
 Ballog Sales Scroll Box
@@ -10028,7 +10028,7 @@ dummy
 dummy
 dummy
 dummy
-Makeover Candy Package
+Transformation Candy Package
 (Resist Magic)
 (Body to Mind)
 (Teleport to Mother)
@@ -10172,7 +10172,7 @@ Trial Expression Set: Sword
 Trial Expression Set: Bow
 Trial Potion Set: Swordsman
 Trial Potion Set: Earth
-Mambo Rabbit Makeover Scroll
+Mambo Rabbit Transformation Scroll
 Clear clothes
 Man
 New Year's merchant
@@ -10707,13 +10707,13 @@ Garder of physical strength
 Guarder of guardian
 Wizard Garder
 Olim bulletin board
-Golden Endias Makeover Scroll
-Golden Endias Makeover Scroll Box
+Golden Endias Transformation Scroll
+Golden Endias Transformation Scroll Box
 Fire Weapon Enhancement Scroll Box
-Water weapon reinforced scroll box
-Wind weapon reinforced scroll box
-Location Weapon Enhancement Scroll Box
-Ornament reinforcement scroll box
+Water Weapon Enhancement Scroll Box
+Wind Weapon Enhancement Scroll Box
+Earth Weapon Enhancement Scroll Box
+Accessory Enhancement Scroll Box
 Dragon's Diamond Box
 Dragon's Diamond (Repellent)
 dummy
@@ -11587,10 +11587,10 @@ dummy
 [Taiwan] new special moon fixed price present box
 [Taiwan] Monthly Additional Report
 Metis cake box
-[China] Group Custom Wind Weapon Enhancement Scroll
-[China] Group Order Weapon Enhancement Scroll
-[China] Group order water weapon reinforced scroll
-[China] Group Custom Fire Weapon Enhancement Scroll
+[China] Group Order Wind Weapon Enhancement Scroll
+[China] Group Order Earth Weapon Enhancement Scroll
+[China] Group Order Water Weapon Enhancement Scroll
+[China] Group Order Fire Weapon Enhancement Scroll
 Boroboro stone
 Ancient kingdom heritage
 Mysterious old goods ^ Nidraph
@@ -11623,7 +11623,7 @@ Solution has entered. It is a monesophery sap.
 It does not enter every day. Cheap Cheap ~ Site! Please spread the rumor to many people!
 Gelen box
 Gelen's breath
-Makeover Event ^ Arton Knights
+Transformation Event ^ Arton Knights
 Hero's transformation scroll (Kenrau Hel)
 Hero's transformation scroll (Kerenis)
 Hero's transformation scroll (Herbain)
@@ -11638,7 +11638,7 @@ Hero's transformation scroll (Burdica)
 Hero's transformation scroll (Death Night 80)
 Hero's transformation scroll (Lance Master 80)
 Hero's Transformation Scroll (Dark Elf 80)
-Artore's Makeover Scroll (Kenrau Hel)
+Artore's Transformation Scroll (Kenrau Hel)
 Artor's Transformation Scroll (Kelenis)
 Artose Vibrator Scroll (Helbain)
 Artor's Transformation Scroll (Dantes)
@@ -11660,8 +11660,8 @@ Artone scroll (Gunter)
 Artone scroll (elephant)
 Artone Scroll (Gilian)
 Artone scroll (Burdica)
-Blessed weapon reinforced scroll
-Blessed armor reinforced scroll
+Blessed Weapon Enhancement Scroll
+Blessed Armor Reinforced Scroll
 Gelen's cube box
 dummy
 dummy
@@ -12274,9 +12274,9 @@ Box of warriors
 Proof of return warriors
 Proof of potions support of the mighty men
 Proof of the mighty men of armor support
-Weapon strengthening scroll of the mighty men
-Armor strengthening scroll of the mighty men
-Speed ​​improvement potion of the warrior
+Weapon Enhancement Scroll of the mighty men
+Armor Reinforced Scroll of the mighty men
+Haste Potion of the Warrior
 Beteruran Dagger
 Beteruran Sword
 Beteruran Tsuhando Sword
@@ -12301,7 +12301,7 @@ Magical crystal
 Magic bullet
 Housing soil
 Halloween Festival Hat
-Halloween ornaments reinforcement scroll
+Halloween Accessory Enhancement Scroll
 Halloween Pumpkin Weapons Box
 pepper
 Methys love letter
@@ -12552,13 +12552,13 @@ Gold cube
 dummy
 It will not be remained for a long time.
 There is only one minute.
-Haist potion
-Breathing potion
-Concentrated potion
-Brave potion
-Magic potion
-Wizdam potion
-Transformation potion
+Haste Potion
+Breathing Potion
+Concentration Potion
+Brave Potion
+Magic Potion
+Wisdom Potion
+Transformation Potion
 Rastabad main gate
 Character Magic Doll Production ^ Berlija
 NCJ 10th Anniversary Two Hand Sword
@@ -13151,33 +13151,33 @@ Conversion stone: + 8T shirt
 Conversion stone: + 9T shirt
 Conversion stone: + 10T shirt
 The leaves of the illusion of life
-Mystery of recovery agents
+Mysterious recovery medicine
 10 anniversary concentration potion of mystery
 10 anniversary Brave potion of mystery
 Mystery of magic drugs
 10th anniversary Holy wine of mystery
 Fruit of the 10th anniversary life of mystery
 10 anniversary accelerator potion of mystery
-10 anniversary armor strengthening scroll of mystery
+10 anniversary Armor Reinforced scroll of mystery
 Glorious Decade shield
 Glorious Decade girder
 Timeworn shield
 Timeworn girder
-Lv52 Samurai makeover scroll
-Lv57 Samurai makeover scroll
-Lv62 Samurai makeover scroll
-Lv52 princess warrior makeover scroll
-Lv57 princess warrior makeover scroll
-Lv62 princess warrior makeover scroll
-Lv52 Daimyo makeover scroll
-Lv57 Daimyo makeover scroll
-Lv62 Daimyo makeover scroll
-Lv52 Onmyoji makeover scroll
-Lv57 Onmyoji makeover scroll
-Lv62 Onmyoji makeover scroll
-Lv52 Ninja makeover scroll
-Lv57 Ninja makeover scroll
-Lv62 Ninja makeover scroll
+Lv52 Samurai Transformation scroll
+Lv57 Samurai Transformation scroll
+Lv62 Samurai Transformation scroll
+Lv52 princess warrior Transformation scroll
+Lv57 princess warrior Transformation scroll
+Lv62 princess warrior Transformation scroll
+Lv52 Daimyo Transformation scroll
+Lv57 Daimyo Transformation scroll
+Lv62 Daimyo Transformation scroll
+Lv52 Onmyoji Transformation scroll
+Lv57 Onmyoji Transformation scroll
+Lv62 Onmyoji Transformation scroll
+Lv52 Ninja Transformation scroll
+Lv57 Ninja Transformation scroll
+Lv62 Ninja Transformation scroll
 The finest bags of caliph
 Belongings of Sukata
 Red eyes
@@ -13317,8 +13317,8 @@ Hero of the scroll (lance master 75)
 Pandora gift box: + 5T shirt
 Pandora gift box: + 6T shirt
 Pandora gift box: + 7T shirt
-Bride makeover turban
-Makeover turban of Groom
+Bride Transformation turban
+Transformation turban of Groom
 Magic Doll: Bride
 Magic Doll: Gloom
 Virtuous wedding ring
@@ -13342,21 +13342,21 @@ Ball of memory
 Ball of faint memory
 Ball of the mystery of memory
 Present bag
-Magic Doll makeover scroll
-Level 40 makeover scroll
-Level 45 makeover scroll
-Level 50 makeover scroll
+Magic Doll Transformation scroll
+Level 40 Transformation scroll
+Level 45 Transformation scroll
+Level 50 Transformation scroll
 Experience recovery scroll
 Bag of catalyst extraction
 Ball sales people ^ Jubido
 Clown hat
 Music Orchestra of the hat
-Buggers Makeover wand 1
-Buggers makeover wand 2
-Buggers makeover wand 3
-Organization Makeover wand 1
-Organization makeover wand 2
-Organization makeover wand 3
+Buggers Transformation wand 1
+Buggers Transformation wand 2
+Buggers Transformation wand 3
+Organization Transformation wand 1
+Organization Transformation wand 2
+Organization Transformation wand 3
 Adult gift set
 Children's Day gift box
 [2012] Limited Edition [1/8] Toy of the Sword
@@ -14033,11 +14033,11 @@ Magic Doll: Brulleg
 Magic Doll: Ledeg
 Magic Doll: El Leg
 Magic Doll: Greg
-Pixy makeover wand
+Pixy Transformation wand
 Pixy tree illusion box
-Chibi child (blue) Makeover Mace
-Chibi Chi (Yellow) Makeover Mace
-Chibi child (pink) Makeover Mace
+Chibi child (blue) Transformation Mace
+Chibi Chi (Yellow) Transformation Mace
+Chibi child (pink) Transformation Mace
 Ring of the spirit of the ground
 Ring of the spirit of the wind
 Amulet of water spirits
@@ -14293,7 +14293,7 @@ Sand worm sand bag
 Tunnel anth
 \f2Trial Stone Golem
 Village remetric amulet of hidden valley
-Knights herbs
+Knight's herbs
 Room Tes Gift Box
 shooting star
 Ghost of security captain
@@ -14459,8 +14459,8 @@ dummy
 dummy
 dummy
 Blessing coin of the frame
-Anti-king Makeover Magical
-Hero's Makeover Magical
+Anti-king Transformation Magical
+Hero's Transformation Magical
 Body Migration Scroll
 Heroes madeography scroll
 dummy
@@ -15443,14 +15443,14 @@ dummy
 dummy
 dummy
 dummy
-Makeover merchant ^ Jeremy
-Makeover merchant ^ Eponin
-Makeover merchant ^ vent
-Makeover merchant ^ Abeku
-Makeover merchant ^ Isabella
-Makeover merchant ^ Cohen
-Makeover merchant ^ Worukinsu
-Makeover merchant ^ Joseph
+Transformation merchant ^ Jeremy
+Transformation merchant ^ Eponin
+Transformation merchant ^ vent
+Transformation merchant ^ Abeku
+Transformation merchant ^ Isabella
+Transformation merchant ^ Cohen
+Transformation merchant ^ Worukinsu
+Transformation merchant ^ Joseph
 T-shirt washing merchant ^ Dobiwa
 Move to teleport ^ market centers
 dummy
@@ -16078,12 +16078,12 @@ dummy
 dummy
 dummy
 Integrated warehouse number ^ Kuwell
-Return teleportor ^ Welcome
+Return teleporter ^ Welcome
 Return brave training center
 (Earth Guardian)
-Hero's physical power recovery agent
-Hero's teleport scroll
-Hero's feedback scroll
+Hero's Health Recovery Potion
+Hero's Teleport Scroll
+Hero's Return Scroll
 Return miscellaneous goods merchants ^ Giny
 Reinforcement Wizard ^ Clever
 dummy
@@ -16400,10 +16400,10 @@ dummy
 dummy
 dummy
 dummy
-Red Knights Box
-Red Knights Bag
-Red Knights Potion
-Red Knights Ring
+Red Knight's Box
+Red Knight's Bag
+Red Knight's Potion
+Red Knight's Ring
 dummy
 dummy
 dummy
@@ -16463,16 +16463,16 @@ dummy
 Glemlin Treasure Box (October)
 dummy
 dummy
-Spirit weapon reinforced scroll
-5-piece spiral weapon reinforced scroll set
-Weapon weapon strengthening scroll
-5-sheet set of water spirits weapons reinforced scroll set
-Weapon weapon strengthening scroll
-5 Disc Hentai Spirit Weapon Enhancement Scroll Set
-Best weapon weapon strengthening scroll
-5-sheet team's weapons reinforced scroll set
-Magic Medicine Material Box
-6 pieces of magic medicine material box
+Fire Spirit Weapon Enhancement Scroll
+5-pieces Fire Spirit Weapon Enhancement Scroll Set
+Water Spirit Weapon Enhancement Scroll
+5-pieces Water Spirit Weapon Enhancement Scroll Set
+Wind Spirit Weapon Enhancement Scroll
+5-pieces Wind Spirit Weapon Enhanced Scroll Set
+Earth Spirit Weapon Enhancement Scroll
+5-pieces Earth Spirit Weapon Enhancement Scroll Set
+Box of materials for magical medicine
+Box of 6 magic drug materials
 Condolence box
 guide
 Bookmark window
@@ -16772,7 +16772,7 @@ Report of the monarch
 Blessing coin of the frame
 Kelenis
 Kenrau Hel
-Victory physical strength recovery agent
+Victory Health Recovery Potion
 This castle is Castle of Kenrau Hell! Everyone dies!
 DePologue must occupy the castle before they lead the Knights!
 Uh ... Kenrau Hel ...
@@ -17557,8 +17557,8 @@ dummy
 dummy
 Conflux girder
 Conflux sash
-Armor strengthening scroll spirits
-Ornaments strengthening scroll spirits
+Armor Reinforced scroll spirits
+Accessory Enhancement scroll spirits
 Chiyaku of mystery
 Quintessential element
 Element of spirit
@@ -17881,8 +17881,8 @@ Grace of Eva
 Recovery Potion of Warrior
 Acceleration potion of the Warrior
 Mana Potion of Warrior
-Warrior makeover turban (M)
-Warrior makeover turban (woman)
+Warrior Transformation turban (M)
+Warrior Transformation turban (woman)
 Sincerity of the Warrior was muffled cuisine
 Warrior of sincerity was muffled soup
 Blessing scroll of the Warrior
@@ -18753,9 +18753,9 @@ dummy
 dummy
 Physical strength of the ring
 Agility of the ring
-Ornaments magic scroll of Orimu
-Ornaments magic scroll box Orimu
-Ornaments magic scroll package of Orimu
+Accessory magic scroll of Orimu
+Accessory magic scroll box Orimu
+Accessory magic scroll package of Orimu
 dummy
 dummy
 dummy
@@ -18883,7 +18883,7 @@ dummy
 dummy
 dummy
 dummy
-Lucky bag of red Knights
+Lucky Bag of Red Knights
 dummy
 dummy
 dummy
@@ -18978,7 +18978,7 @@ Giant Morning Star
 Underwater breathing
 Black Knight chief has appeared.
 Kakashi
-Use the "Silver Knight Town feedback scroll", Let's start a full-fledged adventure.
+Use the "Silver Knight Town Return scroll", Let's start a full-fledged adventure.
 Click the attack, let's drag. You can auto-attack.
 It was over at last basic training. Please go to the place of the training field manager.
 Items that you drop will pick up click or F4 key.
@@ -19360,13 +19360,13 @@ dummy
 dummy
 30 days
 Gold coins of Han'o
-Deporoju makeover scroll
-Ishirurote makeover scroll
-Gillian makeover scroll
-Aton makeover scroll
-Elephant Makeover scroll
-Christo makeover scroll
-Victory physical strength recovery agent
+Deporoju Transformation scroll
+Ishirurote Transformation scroll
+Gillian Transformation scroll
+Aton Transformation scroll
+Elephant Transformation scroll
+Christo Transformation scroll
+Victory Health Recovery Potion
 The Power of Sealed hero
 Supply officer ^ Edgar
 Black knight
@@ -19483,7 +19483,7 @@ Siege bow
 Dual blade of siege
 Soccpard chain Sword
 Siege key link
-Quick physical power recovery agent
+Quick Health Recovery Potion
 dummy
 dummy
 Pixy golden feathers
@@ -19799,7 +19799,7 @@ Soccier Bow Storage Bag
 Sifts dual blade storage bag
 Coubt Chain Sword Storage Bag
 Sifts Key Link Storage Bag
-Tiger makeover potion
+Tiger Transformation potion
 Quitaras
 Rich zeros staff
 Rich Nightbardo Two Hand Sword
@@ -20991,7 +20991,7 @@ Guardian Tower occupation has begun.
 Powerful magic was granted.
 Dimension transformation scroll
 A bridge that can be moved to the central region has been generated.
-Dimension feedback scroll
+Dimension Return scroll
 Guardian was given to players within third rankings.
 Guardian seeds in black forest
 Guardian God was summoned in the central area.
@@ -21431,7 +21431,7 @@ Potion III of strengthening prayer
 Beast of pet armor (3 days)
 Fang of the Beast (3 days)
 Luxury pumpkin lantern
-High Desunaito makeover scroll
+High Desunaito Transformation scroll
 Beast of pet Armor (30 days)
 Fang of the Beast (30 days)
 Dress girl scroll
@@ -21879,8 +21879,8 @@ Devilish bag of Han'o
 Report directly to soldiers of Kenrauheru
 Blessing of the box: the mystery of the weapon strengthening scroll
 Blessing of the box: the mystery of the armor-reinforced scroll
-Dragon weapons enhanced scroll
-Dragon Armor strengthening scroll
+Dragon Weapon Enhancement Scroll
+Dragon Armor Reinforced Scroll
 dummy
 For a long time, no one did not come ...
 All things is a presence of transience.
@@ -21986,7 +21986,7 @@ Chaos of the Guardian
 Guardian of death
 Guardian of Seyahi
 Corruption of the Guardian
-Ranker makeover ^ top 20 ^ each class best 5 ^ PVP additional damage +2
+Ranker Transformation ^ top 20 ^ each class best 5 ^ PVP additional damage +2
 dummy
 Sealed +3 daemon staff
 Warrior of the gift box
@@ -22173,7 +22173,7 @@ Ancient demon globe
 Ancient forcing
 Ancient protection that crashed
 Ancient Crack Guardian
-Forgotten feedback scroll
+Forgotten Return scroll
 Betrayed chlorese
 Strengthening Wizard ^ Sure
 Aden teleporter ^ Gif
@@ -22185,7 +22185,7 @@ Bow who lost the soul
 Chain Sword Lose Soul
 I lost the soul
 Eternal light
-Dimension feedback scroll
+Dimension Return scroll
 Barbed distortion core
 Ball of forbidden distortion
 Forbidden distortion
@@ -22786,11 +22786,11 @@ dummy
 dummy
 dummy
 dummy
-Practitioners of hero makeover scroll (Deporoju)
-Practitioners of hero makeover scroll (Ishirurote)
-Practitioners of hero makeover scroll (Christo)
-Practitioners of hero makeover scroll (Gillian)
-Practitioners of hero makeover scroll (elephant)
+Practitioners of hero Transformation scroll (Deporoju)
+Practitioners of hero Transformation scroll (Ishirurote)
+Practitioners of hero Transformation scroll (Christo)
+Practitioners of hero Transformation scroll (Gillian)
+Practitioners of hero Transformation scroll (elephant)
 Sacrifice Sword
 Sacrifice Bow
 Sacrifice staff
@@ -22858,7 +22858,7 @@ Powder of ancient fairy
 Thread of ancient Arachne
 Mane of ancient bread
 Powder of ancient earth
-Cockatrice makeover scroll
+Cockatrice Transformation scroll
 Mana Artifact
 Sealed crystal magic
 dummy
@@ -22877,9 +22877,9 @@ Pixie of receipt certificate
 Good luck of Spear
 Good luck shield
 Special Dragon Sapphire
-Special Aton makeover scroll (Desunaito)
-Special Aton makeover scroll (lance master)
-Special Aton makeover scroll (Dark Elf)
+Special Aton Transformation scroll (Desunaito)
+Special Aton Transformation scroll (lance master)
+Special Aton Transformation scroll (Dark Elf)
 Special Magic Doll: gremlin
 Dragon of sapphire (events)
 Selling merchant ^ Luna
@@ -22891,7 +22891,7 @@ Our thing is Do not mind this. Please to destroy the gates!
 The enemy is us you leave here!
 To destroy the castle gate, if not destroy the patron tower!
 all! Taero in mind to die!
-Crimson Knights training field feedback amulet
+Crimson Knights training field Return amulet
 Anakuren of grassland
 Proof of overcoming
 \aLskeleton bone piece
@@ -22964,8 +22964,8 @@ Are you sure you want to quit the tutorial?
 dummy
 dummy
 dummy
-Luxury physical strength recovery agent of the Knights
-Strong physical strength recovery agent of the Knights
+Knight's Luxury Health Recovery Potion
+Knight's Strong Health Recovery Potion
 Trainee credential
 It is to destroy the guardian tower!
 Hmm! It's pretty! I soldier, lend the force!
@@ -23033,7 +23033,7 @@ there is no time!
 We are not worried about us!
 \aLKiwi Parot Hair
 Uo! kill!
-Mummy Road Makeover Turban
+Mummy Road Transformation Turban
 Use supplies as needed!
 Orc guard
 \aLDark Fragments
@@ -23065,21 +23065,21 @@ dummy
 dummy
 dummy
 dummy
-Knights Brave Potion
-Knights Iville Blood
-Elven Waffle of the Knights
-Knights Yugudra
-Knights Dark Stone
+Knight's Brave Potion
+Knight's Evil Blood
+Knight's Elven Waffle
+Knight's Yugudra Fruit
+Knight's Dark Stone
 Bone piece of knight mark seal
-Knights attribute stone
+Knight's Attribute Stone
 Talking island teleporters ^ Loti
 dummy
 dummy
 Goddess of blessing
-Knights of Japanese Cow Steak
-Boiled salmon of knights
-Knights turkey baked
-Knights chicken soup
+Knight's Japanese Cow Steak
+Knight's Boiled Salmon
+Knight's Baked Turkey
+Knight's Chicken Soup
 dummy
 dummy
 dummy
@@ -24469,7 +24469,7 @@ Bag of Unicorn Magic Doll
 Gaiters of Unicorn of physical strength
 Agility of Gaiters of Unicorn
 Gaiters of Unicorn of intelligence
-Armor strengthening scroll of the Unicorn
+Armor Reinforced scroll of the Unicorn
 Treasure of the Unicorn Temple
 Gift of Unicorn
 Treasure Chest of Abisshi
@@ -24715,9 +24715,9 @@ dummy
 dummy
 dummy
 dummy
-High-grade fishing set
+Luxury fishing set
 Luxury growth reel 500 times
-High-grade fishing rod
+Luxury fishing rod
 Ranker Berea
 dummy
 dummy
@@ -25029,7 +25029,7 @@ dummy
 dummy
 dummy
 Box of ancient weapon strengthening
-Box of ancient armor strengthening of
+Box of ancient Armor Reinforced of
 dummy
 Fall Magic Doll
 Empty House
@@ -25210,7 +25210,7 @@ dummy
 dummy
 dummy
 dummy
-Ornaments magic scroll of blessed Orimu
+Accessory magic scroll of blessed Orimu
 Jewelry bag of reincarnation
 dummy
 dummy
@@ -25459,8 +25459,8 @@ dummy
 dummy
 chocolate
 \aFmaple ring
-\aFmakeover dominated ring
-Makeover dominated ring (events)
+\aFTransformation dominated ring
+Transformation dominated ring (events)
 True shadow
 True lance master
 High Elf
@@ -25905,11 +25905,11 @@ dummy
 (Referee)
 Production table ^ Memory expansionball
 Engage ring merchant ^ Meread
-Hero's weapon reinforced scroll
-Heroes of spirits weapons wet scroll
-Heroes weapon reinforced scroll of water spirits
-Geoho weapon strengthening scroll
-Hero weapon reinforced scroll of spiral
+Hero's Weapon Enhancement Scroll
+Hero's Fire Spirit Weapon Enhancement Scroll
+Hero's Water Spirit Weapon Enhancement Scroll
+Hero's Earth Spirit Weapon Enhancement Scroll
+Hero's Wind Spirit Weapon Enhancement Scroll
 Hero's hourglass
 Hero's coin
 Hero weapon exchange ^ Gunter's high grandfather
@@ -26711,7 +26711,7 @@ Crystal of spirits (Eagle eye)
 Crystal of spirits (hurricane)
 Crystal of spirits (quake)
 Luxury immortalism
-Burning high-grade immortal protection
+Burning Luxury immortal protection
 The messenger of salvation ^ Caronia
 Salvation messenger ^ Mateo
 Salvation messenger ^ Jacob
@@ -27122,7 +27122,7 @@ Bag of Arufia
 (plasma)
 Crystal of the earth
 \aFCougar girder
-Curse epidemic of the box: Armor strengthening scroll
+Curse epidemic of the box: Armor Reinforced scroll
 Curse epidemic of the box: weapon strengthening scroll
 dummy
 dummy
@@ -27179,7 +27179,7 @@ Silver Ax of practitioners
 \aLfood bag
 \aLmysterious bone piece
 \aLweapon drawings
-Practitioners of ornaments scroll
+Practitioners of Accessory scroll
 Black Knight Scout
 Start package
 Beginning Ax
@@ -27344,7 +27344,7 @@ Practitioners of the box (cloak)
 Practitioners of the box (boots)
 Practitioners of the box (supplies)
 Box of silver weapons of practitioners
-Practitioners of the box (ornaments)
+Practitioners of the box (accessory)
 Practitioners of the box (weapon)
 dummy
 dummy
@@ -27759,36 +27759,36 @@ Ice Mambo Rabbit
 dummy
 dummy
 dummy
-Knights of the ring (engraved)
-Knights of earrings (engraved)
-Knights of the necklace (engraved)
-Knights of the belt (engraved)
-Knights of Helm (engraved)
-Knights of the glove (engraved)
-Knights of boots (engraved)
-Knights of the gaiters (engraved)
-Knights of cloak (engraved)
-Knights of plate mail (engraved)
-Knights of leather armor (engraved)
-Knights of the lobes (engraved)
-Dagger of the Knights (engraved)
-Knights of the Bow (engraved)
-The staff of the Knights (engraved)
-Knights dual blade of (engraved)
-Knights of the chain Sword (engraved)
-Knights of the key link (engraved)
-Knights of Ax (engraved)
+Knight's Ring (engraved)
+Knight's Earrings (engraved)
+Knight's Necklace (engraved)
+Knight's Belt (engraved)
+Knight's Helm (engraved)
+Knight's Glove (engraved)
+Knight's Boots (engraved)
+Knight's Gaiters (engraved)
+Knight's Cloak (engraved)
+Knight's Plate Mail (engraved)
+Knight's Leather Armor (engraved)
+Knight's Robe (engraved)
+Knight's Dagger (engraved)
+Knight's Bow (engraved)
+Knight's Staff (engraved)
+Knight's Dual Blade (engraved)
+Knight's Chain Sword (engraved)
+Knight's Key Link (engraved)
+Knight's Axe (engraved)
 Spellbook (Brave mental) (engraved)
 Spellbook (Shining shield) (engraved)
-Spirit of the crystal (Bloody Seoul) (engraved)
-Spirit of the crystal (focus Wave) (engraved)
-Spirit of the crystal (sand storm) (engraved)
+Spirit of the crystal (Bloody Soul) (engraved)
+Spirit of the crystal (Focus Wave) (engraved)
+Spirit of the crystal (Sand Storm) (engraved)
 Spellbook (Holy Walk) (engraved)
 Spellbook (Immune-to-Harm) (engraved)
 Darkness spirit of the crystal (shadow Fang) (engraved)
 Darkness spirit of the crystal (double break) (engraved)
-Dragon Knight of the book plate (magma breath) (engraved)
-Dragon Knight of the book plate (Thunder grappling) (engraved)
+Dragon Knight's calligraphy board (magma breath) (engraved)
+Dragon Knight's calligraphy board  (Thunder Grappling) (engraved)
 Memory of the crystal (Phantasm) (engraved)
 Memory of the crystal (Insight) (engraved)
 Seal of the Warrior (Armor guard) (engraved)
@@ -27892,7 +27892,7 @@ Memory crystal (Illusion [Avatar]) (engraved)
 Memory crystal (cube [avatar]) (imprint)
 Memory crystal (focus spirits) (imprint)
 Warrior's seal (fury) (engraved)
-Control tower feedback scroll
+Control Tower Return scroll
 Tower of fantasy control Tower teleport amulet
 Zenith Queen Boot Box
 Sea Boot Box
@@ -28135,42 +28135,42 @@ Training instructor ^ Harper
 +0 coat of armor
 +0 Sorcerer's coat of arms
 Arinhazard Prayer Fragments
-Power Elixor Rune (80)
-Erythetic Elixor Rune (80)
-Elixir Rune (80)
-Intelligence Elixor Rune (80)
-Wisdom Elixor Rune (80)
-Power Rune Bag (80)
-Episquitative Rune Bag (80)
-Lunes bag of physical strength (80)
-Lunes bag of intelligence (80)
-Wisdom Rune Bag (80)
-Lone who lost magic (80)
-Magical old book (80)
-Power Elixor Rune (85)
-Erythetic Elixor Rune (85)
-Elixir Rune of physical strength (85)
-Intelligence Elixor Rune (85)
-Wisdom Elixor Rune (85)
-Power Rune Bag (85)
-Episquitative Rune Bag (85)
-Lunes bag of physical strength (85)
-Lunes bag of intelligence (85)
-Wisdom Rune Bag (85)
-Lone with lost magic (85)
-Magical old book (85)
-Power Elixar Rune (90)
-Erythetic Elixor Rune (90)
-Elixor Rune (90) of physical strength
-Intelligence Elixir Rune (90)
-Wisdom Elixor Rune (90)
-Power Rune Bag (90)
-Episquitative Rune Bag (90)
-Lunes bag of physical strength (90)
-Lunes bag of intelligence (90)
-Wisdom Rune Bag (90)
-Lone with lost magic (90)
-Magical old book (90)
+Elixir Rune of Strength (80)
+Elixir Rune of Agility (80)
+Elixir Rune of Constitution (80)
+Elixir Rune of Intelligence (80)
+Elixir Rune of Wisdom (80)
+Rune Bag of Strength (80)
+Rune Bag of Agility (80)
+Rune Bag of Constitution (80)
+Rune Bag of Intelligence (80)
+Rune Bag of Wisdom (80)
+Runes who lost their magical power (80)
+Old book of magical power (80)
+Elixir Rune of Strength (85)
+Elixir Rune of Agility (85)
+Elixir Rune of Constitution (85)
+Elixir Rune of Intelligence (85)
+Elixir Rune of Wisdom (85)
+Rune Bag of Strength (85)
+Rune Bag of Agility (85)
+Rune Bag of Constitution (85)
+Rune Bag of Intelligence (85)
+Rune Bag of Wisdom (85)
+Runes who lost their magical power (85)
+Old book of magical power (85)
+Elixir Rune of Strength (90)
+Elixir Rune of Agility (90)
+Elixir Rune of Constitution (90)
+Elixir Rune of Intelligence (90)
+Elixir Rune of Wisdom (90)
+Rune Bag of Strength (90)
+Rune Bag of Agility (90)
+Rune Bag of Constitution (90)
+Rune Bag of Intelligence (90)
+Rune Bag of Wisdom (90)
+Runes who lost their magical power (90)
+Old book of magical power (90)
 dummy
 dummy
 dummy
@@ -28447,18 +28447,18 @@ dummy
 dummy
 dummy
 dummy
-Power Elixir Rune (70)
-Erythetic Elixor Rune (70)
-Elixir Rune of physical strength (70)
-Intelligence Elixor Rune (70)
-Wisdom Elixor Rune (70)
-Power Rune Bag (70)
-Episquitative Rune Bag (70)
-Lung bag of physical strength (70)
-Lunes bag of intelligence (70)
-Wisdom Rune Bag (70)
-Lone with lost magic (70)
-Magical old book (70)
+Elixir Rune of Strength (70)
+Elixir Rune of Agility (70)
+Elixir Rune of Constitution (70)
+Elixir Rune of Intelligence (70)
+Elixir Rune of Wisdom (70)
+Rune Bag of Strength (70)
+Rune Bag of Agility (70)
+Rune Bag of Constitution (70)
+Rune Bag of Intelligence (70)
+Rune Bag of Wisdom (70)
+Runes who lost their magical power (70)
+Old book of magical power (70)
 Ancient giant tomb
 Mid de Snote Package
 Mad de Snote cube
@@ -28474,8 +28474,8 @@ Combat support armle (Mad de Snote)
 Magic Doll: True Dest Night
 (Engraved)
 Technical book (pride) (imprint)
-Knights Certificate
-Knights Certificate (Quest)
+Knight's Certificate
+Knight's Certificate (Quest)
 dummy
 dummy
 dummy
@@ -28990,13 +28990,13 @@ The pet to be forgotten can be transaction, but loses wildness.
 A fighting combo that raises the attack power so that the fighting occurs.
 Spicy combat seasoning
 Light pill bottle
-Light rapid power recovery agent
-Light rapid luxury physical power recovery agent
-Light rapid powerful strength recovery agent
-Blessed powerful Japanese cow steak
-Simmered with blessed quick salmon
-Blessed wise turkey grilled
-Blessed training chicken soup
+Light Quick Health Recovery Potion
+Light Quick Luxury Health Recovery Potion
+Light Quick Strong Health Recovery Potion
+Blessed Japanese Cow Steak
+Blessed Quick Salmon
+Blessed Grilled Turkey
+Blessed Chicken Soup
 dummy
 dummy
 dummy
@@ -29217,7 +29217,7 @@ Dragon Diamond Berea
 Weapon resuscitation craftsman ^ eye
 Armoreta resuscians ^ Temur
 Alchemy resuscitation craftsman ^ Gorman
-Ornaments resuscitation craftsman ^ Mo
+Accessory resuscitation craftsman ^ Mo
 Magical Books Susceptor ^ Duri
 dummy
 Resuscitation scroll
@@ -29795,10 +29795,10 @@ dummy
 Cool Two-handed Sword
 Cool Staff
 Cool Long Sword
-Cool Long bow
-Cool Dual blade
+Cool Long Bow
+Cool Dual Blade
 Cool Chain Sword
-Cool Key link
+Cool Key Link
 Cool Axe
 Fire Spirit's Cool Weapon Enhancement Scroll
 Water Spirit's Cool Weapon Enhancement Scroll
@@ -30203,9 +30203,9 @@ Gift box of level 80
 Gift box of level 83
 Knights's Coin
 Knights's weapons strengthen scroll
-Armor strengthening scroll of the Knights
-Knights of concentrated physical strength recovery agent
-Knights of concentrated high-level physical strength recovery agent
+Armor Reinforced scroll of the Knights
+Knight's Concentrated Health Recovery Potion
+Knight's Concentrated High-level Health Recovery Potion
 4 box of large elements
 dummy
 dummy
@@ -30220,7 +30220,7 @@ dummy
 dummy
 Unicorn Temple of the key (events)
 dummy
-Knights of the coin exchange ^ Zoua
+Knight's of the coin exchange ^ Zoua
 dummy
 dummy
 dummy
@@ -30345,7 +30345,7 @@ dummy
 Practitioners of the key link
 Hero of supplies
 Events merchant ^ Amis
-Knights of concentrated strong physical strength recovery agent
+Knight's Concentrated Strong Health Recovery Potion
 Patarashi village ^ tree
 Patarashi village ^ Erurara
 Of warm Ruby Cairo
@@ -30365,7 +30365,7 @@ Ice slime
 Ice Scorpion
 Ice queen guard
 Ice Queen Maid
-Snowman Makeover pie
+Snowman Transformation pie
 The frozen box
 Cold snow crystal (200)
 The actual physical fitness of Patarashi (20)
@@ -30594,7 +30594,7 @@ dummy
 dummy
 Pandora's Cube
 Pandora weapons strengthen scroll
-Armor strengthening scroll of Pandora
+Armor Reinforced scroll of Pandora
 dummy
 TJ coupon
 TJ gift box
@@ -30624,11 +30624,11 @@ dummy
 dummy
 dummy
 Dragon Pearl box
-Coin box of Knights
-Pure Elixer Box
-Blessing scroll box of the Knights
-Scroll box that has been cursed with the Knights
-Gaiters box of golden sun
+Knight's Coin Box
+Pure Elixir Box
+Knight's Blessing Scroll Box
+Knight's Cursed Scroll Box
+Gaiters Box of Golden Sun
 dummy
 dummy
 dummy
@@ -31184,7 +31184,7 @@ Good luck bag of Erushabe
 Good luck bag of sand worm
 Hero of the package
 Hero of the package Special
-Desunaito makeover ring of hero
+Desunaito Transformation ring of hero
 T-shirt exchange tickets hero
 Snapper exchange tickets hero
 Hero of the room Eustis exchange tickets
@@ -31272,10 +31272,10 @@ dummy
 dummy
 Weapons production manual of the legend
 Death Sword
-Weapon box of Knights
-Gift box of Knights
-Proof box of growth of Fencer
-Testament to the growth of Fencer
+Knight's Weapon Box
+Knight's Gift Box
+Fencer's Proof Box of Growth
+Fencer's Testament to the Growth
 Heroes of production craftsman ^ Haven
 Valley skeleton Fighter
 Valley of the skeleton Marksman
@@ -31563,22 +31563,22 @@ dummy
 dummy
 dummy
 dummy
-Blessed Spirit Weapon Enhancement Scroll
-Blessed Girl's Weapon Enhancement Scroll
-Blessed water spirit weapon reinforced scroll
-Blessed Spirit Weapon Enhancement Scroll
-Craftsman's armor strengthening scroll
+Blessed Wind Spirit Weapon Enhancement Scroll
+Blessed Earth Spirit Weapon Enhancement Scroll
+Blessed Water Spirit Weapon Enhancement Scroll
+Blessed Fire Spirit Weapon Enhancement Scroll
+Craftsman's Armor Reinforced Scroll
 Ein Hazard Point ^ Kepiisha
 19th Anniversary Present Box
-19th Anniversary Legend Makeover Ring
+19th Anniversary Legend Transformation Ring
 Iron Arto
 Darkster elephant
 Moon Gilian
 Nightslusher
 19th Anniversary Growth Potion
 19th Anniversary Growth Potion
-+7 Knights Weapon Box
-+5 Knights armor box
++7 Knight's Weapon Box
++5 Knight's Armor box
 19th Anniversary Weapons Made
 Coliseum manager of fierce battle ^ Said
 Ein Hazard Point 1000 Charge Scroll
@@ -32846,12 +32846,12 @@ Growth Bacilisk Egg Soup
 Flame
 Cold cold
 Secret cherry blossom festival venue admission ticket
-Golden weapons reinforced scroll
-Weapon weapon reinforcement scroll of golden spirit
-Weapon strengthening scroll of golden bright spirits
-Weapons of golden spiral weapons Scroll
-Weapon weapons of golden spirits scroll
-Golden craftsman weapon reinforced scroll
+Golden Weapon Enhancement Scroll
+Golden Wind Spirit Weapon Enhancement Scroll
+Golden Earth Weapon Enhancement Scroll
+Golden Water Spirit Weapon Enhancement Scroll
+Golden Fire Spirit Weapon Enhancement Scroll
+Golden craftsman Weapon Enhancement Scroll
 Gold-colored Two-handed sword
 Golden staff
 Golden Sword
@@ -36577,9 +36577,9 @@ Cool pearl room (3-stage acceleration)
 Cool Pearl Rune (7th)
 Yeti's present box
 Enhanced EXP Ericser
-Blessed cool weapon reinforced scroll
-Cursed cool weapon reinforced scroll
-Craftsman's cool weapon reinforced scroll
+Blessed Cool Weapon Enhancement Scroll
+Cursed Cool Weapon Enhancement Scroll
+Craftsman's Cool Weapon Enhancement Scroll
 Event merchant ^ Yeti who was heated by heat
 Event production ^ Ice Golem
 dummy
@@ -36620,4 +36620,4 @@ dummy
 Cooled weapon event
 Cool purchase
 Cool production
-Cooled weapon reinforced scroll
+Cooled Weapon Enhancement Scroll
