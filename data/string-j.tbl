@@ -5082,7 +5082,7 @@ Hweryong
 receipt
 Bell
 command
-%s : %d Evaporates after work.
+%s: %d Evaporates after work.
 Your account has been susceptible to unlawful use and has been restricted from using the Game Services pursuant to Section 27 of the Game Terms of Service. The investigation period can take up to two months and will be terminated if it is found to be irrelevant to the use of the illegal program. For more information, please contact the plaync homepage (www.plaync.com).
 Someone gave {0} new life.
 [Taipei] Jianguo Kaka Tris: HP + 120 MP + 100 Reduction +15 MR + 30 Short/Long Range Attack +10 SP + 3 STR + 3 DEX + 3 INT + 3
@@ -6876,7 +6876,7 @@ Lineage
 [Character Death] Oops... the character died, and %s was lost.
 [Item %s] %s item %s! %s %s adena!
 [%s Rank] %s ranking was %s! Now %d etc. fighting!
-Acheive
+Achieve
 Loss
 PVP
 Combat Specialization

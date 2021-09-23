@@ -29,4 +29,4 @@
 27 \fHAction:\f> Video REC^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Play screen video recording.
 28 \fHAction:\f> PSS^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>PSS can be run/stopped.
 29 \fHAction:\f> Party Assist^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Attacks the party leader's target. (In the case of the party leader, the target is shared with the party members.)
-30 \fHAction:\f> Monster Release (Shift)^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Monster selection and name display can be On/Off.
+30 \fHAction:\f> Monster Release (Shift)^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Monster selection and name display can be on/off.
