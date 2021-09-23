@@ -22,7 +22,7 @@
 20 \fHAction:\f> Auto Attack^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>Attack target with left mouse click^      Select to perform auto attack^      2 follow the target character and hit
 21 \fHAction:\f> PVP^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>PVP Toggle
 22 \fHAction:\f> Auto Poe Slayers^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>When the target's weakness exposure is activated^      Auto use Poe Slayer.
-23 \fHAction:\f> Auto Dragon Diamond^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>If Einhasad¡¯s blessing level goes down to 99 or less,^      To keep Einhasad¡¯s blessing^      Used automatically.
+23 \fHAction:\f> Auto Dragon Diamond^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>If Einhasad's blessing level goes down to 99 or less,^      To keep Einhasad's blessing^      Used automatically.
 24 \fHAction:\f> Equipment Set Change^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Change the set of equipment worn.
 25 \fHAction:\f> Pet Attack^\fHKind: \f>Target^\fHObject: \f>Drinker^\fHEffect: \f>Pet attack target designation.
 26 \fHAction:\f> Pet Retreat^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Pet retreat order
