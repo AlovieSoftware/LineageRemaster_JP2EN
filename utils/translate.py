@@ -1,4 +1,10 @@
 ﻿# -*- coding: utf-8 -*-
+"""
+The utility translates the text file line by line using the Google Translate service.
+param 1 - source file
+param 2 - destination file
+param 3 - number of lines to send to the translate service (optional, default = 100)
+"""
 import sys
 from googletrans import Translator
 
@@ -23,6 +29,7 @@ with open(sys.argv[1], 'r', encoding = decoding) as f:
     while True:
         i += 1
         line = f.readline()
+        print("{}: {}".format(i, line))
         lines += line
         if not line or i%group == 0 or len(lines) > max_translate_length:
             if lines:
