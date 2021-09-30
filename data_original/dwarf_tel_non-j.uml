@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフ警備員</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		いらっしゃい！<br/>
+		<br/>
+		桜まつり会場に入るって？<br/>
+		<br/>
+		そうか！<br/>
+		まつり会場を焼け野原にしている<font fg="ffffaf">火の盗賊</font>を懲らしめるのか！<br/>
+		<br/>
+		我々も頭を悩ませていたから、ちょうどよかった！<br/>
+		<br/>
+		すぐに送ってやるぞ！<br/>
+		<br/>
+		<br/>
+		<font fg="ffffaf">移動費用：4,900アデナ</font><br/>
+		<font fg="ffffaf">入場時間：60分</font><br/><br/></p>
+		<p><font fg="ffafff"><a action="npc_non a">ドワーフの桜まつり会場(一般)</a></font></p>
+		<p><font fg="ff0000"><a action="npc_non b">ドワーフの桜まつり会場(上級)</a></font></p>
+		<p><br/></p>
+		<p>おっと、そうだ！！<br/>
+		<br/>
+		ひょっとして秘密の桜まつり会場の入場券を持っていないか？<br/>
+		持っているならそっちに送ってやろう！<br/>
+		<br/></p>
+		<p><font fg="ffafff"><a action="npc_non c">秘密の桜まつり会場(一般)</a></font></p>
+		<p><font fg="ff0000"><a action="npc_non d">秘密の桜まつり会場(上級)</a><br/></font></p>
+	</dialog>
+</npcdialog>

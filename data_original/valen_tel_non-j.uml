@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アゲイン</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ようこそ！<br/>
+		獣の巣に行かれるのですね！<br/>
+		本当にありがとうございます！<br/>
+		<br/>
+		ディリー シオスがお餅を盗まれてひどく落ち込んでいるんです。<br/>
+		愛の詰まったお餅を取り戻すには、あなたたちの力が必要です！<br/>
+		<br/>
+		<font fg="ffffaf">獣の巣</font>へ行ってお餅を取り戻してきてください。<br/>
+		<br/>
+		テレポート費用：4900アデナ<br/>
+		</p>
+		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 申し訳ございません。<br/>
+		<br/> 
+		 今はすべての訓練場で訓練が行われています。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

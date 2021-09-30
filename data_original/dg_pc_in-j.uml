@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><font fg="ffffff"><var src="name"/>：</font><br/><br/></p>
+	<p>各地域に入るには<font fg="ffaaff">ピクシーの金色の羽</font>が必要だ。</p>
+	<p><br/></p>
+	<p align="center"><font fg="ffffaf">古代精霊の墓</font></p>
+	<p align="center"> <font fg="ffaaff">(ネットカフェ：2個/一般：3個)</font></p>
+	<p align="center"><a action="a_soul">[入口]</a><a action="a_soul_center">[中央]</a><br/><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_018</portrait>
+		<name>バミュト</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 魔法のクロークは、キメラの皮が4つの属性を持つから、性質の違う4種類のマントを作ることができるんだ。<br/>
+		 キメラの皮は、ライオン/ドラゴン/ヤギ/スネークの4つがあるが、これらは順に火/水/風/地の4大属性が込められている。<br/>
+		 それを色んな宝石をはめて装飾していってマントが出来上がるんだ。<br/><br/>
+		 まったく、錬金術ってやつは本当に賢くないと無理だな！<br/>
+		<br/><br/>
+		 おっと！忘れていたがこれは魔法のクロークだから、ちょっと特殊な材料が必要なんだぜ。 
+		 それは属性別の竜の鱗だ。<br/><br/>それぞれ3枚ずつの竜の鱗を用意してくれ。<br/><br/>
+		<br/>
+		<a action="request cloak of flame">火のクロークを製作する</a><br/>
+		<a action="request cloak of water">水のクロークを製作する</a><br/>
+		<a action="request cloak of wind">風のクロークを製作する</a><br/>
+		<a action="request cloak of earth">地のクロークを製作する</a><br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

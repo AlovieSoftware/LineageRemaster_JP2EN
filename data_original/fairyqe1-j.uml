@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>フェアリー クイーン</name>
+		<job>森の守護者</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 <font fg="ffffaf">アインハザード</font>の新人さん？あなたはどんな用を言いつけられてこのフェアリーの野原まで来たのですか？
+		<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

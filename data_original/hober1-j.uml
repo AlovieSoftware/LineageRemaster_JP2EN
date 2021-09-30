@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_028</portrait>
+		<name>ホバー</name>
+		<job>[デュアルブレード製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 流れの行商か、でなきゃお客さんかい？<br/>
+		 <br/>
+		 <font fg="ffffaf">デュアルブレード</font>を作ってくれって？<br/>
+		 いいだろう。材料はすべて揃っているんだろうな？<br/>
+		 <br/>
+		 おい、まさかタダでとは思ってないだろうな？<br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

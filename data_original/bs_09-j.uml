@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 冗談ではありません。
+		<br/><br/>
+		 もちろん、ウィザードたちは神経質で、物事を大げさに捉える傾向はありますが、今回に関してはほぼすべてのウィザードが危機感を感じています。
+		<br/><br/>
+		 この問題に対してどう動くかが、ウィザードによって違うんですけど、それはまた別の問題ですね。
+		<br/>
+		<br/>
+		<br/>
+		<a link="bs_10">違う行動をするウィザード？</a><br/>
+		<br/>
+		<br/>
+		<br/>
+		<img src="331" link="bs_04"></img>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		アデン王国の狩猟祭に参加したいのですか？<br/>
+		ならば魔法の力で作られた空間にお送りします！<br/>
+		<br/>
+		マナで作られた人工の空間ですが、危険なところなので気をつけてください。<br/>
+		難易度は一般/高級に分かれています。<br/>
+		<br/>
+		それと<font fg="ffffaf">アデンのランサー コイン</font>を集めてきたら特別な報賞を差し上げます。<br/>
+		<br/>
+		移動費用：一般 - 4,900アデナ/高級 - 5,900アデナ<br/>
+		移動条件：アデン国王の招待状<br/>
+		入場時間：60分(一般/高級時間共有)<br/>
+		</p>
+		<panel type="Panel_Teleport_event_01">
+			<button action="a"/>
+			<button action="b"/>
+		</panel>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

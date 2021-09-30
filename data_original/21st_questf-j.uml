@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>タラス</name>
+		<job>[19周年イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">不思議な季節の森</font>で盗賊を倒してのはお前か？<br/>
+		お前の勇猛さを証明するために、<font fg="ffffaf">19周年記念コイン100個</font>と<br/>
+		祭り参加書を持ってくるのじゃ。<br/>
+		<br/>
+	<br/>
+	さもや<font fg="ffffaf">レベル60</font>に達していないのではないか？<br/>
+	修練を怠る者にはいかなる報賞もないことを覚えておくように。<br/>
+		 <br/>
+		 <br/>
+		</p>
+	</dialog>
+</npcdialog>

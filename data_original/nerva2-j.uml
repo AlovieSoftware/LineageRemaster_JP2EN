@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name>セイルーン</name>
+		<job>[エリクサー ルーン製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 所定のアデナで魔力の宿ったアイテムを製作<br/>している。必要なら言ってくれ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Quest_Seirune_Bt">
+		    <button action="request craft"/>
+		</panel>
+		<p><br/>
+		 私が製作するルーンは、レベル70、80、85、90になると使える。<br/>
+		<br/>
+		 必要材料はレベルによって多少異なるが、<br/>
+		<br/>
+		 基本材料は魔力を失った石と、古代語が刻まれた本だ。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

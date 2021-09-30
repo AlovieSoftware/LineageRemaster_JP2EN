@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">コマンド ヘルプ：魔法</font><br/></p>
+	<p><a link="helpmgc0">一般</a><br/></p>
+	<p><a link="helpmgc1">レベル1</a><br/></p>
+	<p><a link="helpmgc2">レベル2</a><br/></p>
+	<p><a link="helpmgc3">レベル3</a><br/></p>
+	<p><a link="helpmgc4">レベル4</a><br/></p>
+	<p><a link="helpmgc5">レベル5</a><br/></p>
+	<p><a link="helpmgc6">レベル6</a><br/></p>
+	<p><a link="helpmgc7">レベル7</a><br/></p>
+	<p><a link="helpmgc8">レベル8</a><br/></p>
+	<p><a link="helpmgc9">レベル9</a><br/></p>
+	<p><a link="helpmgc10">レベル10</a><br/></p>
+	<p><a link="helpmgc11">その他</a><br/></p>
+
+	<p><img src="331" link="help"/><br/><br/></p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<!--portrait></portrait-->
+		<name>セイントレン</name>
+		<job>[訓練教官]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>初めまして。<br/>
+		私は君たちの成長をサポートする訓練教官である。<br/>
+		<br/>
+		広く険しいアデン大陸で生き残るためには訓練が必要だ！<br/>
+		それに数多くの危険から身を守り、敵と戦えるだけの技術も求められる。<br/>
+		私はそうした技術を研究して教えている。<br/>
+		<br/>
+		君も広いアデン大陸に出ていく前に、特別な何かを得るために私のところに来たのだろう。良いだろう！君の勇気に応え、私にできることをしよう。<br/>
+		ただし、それ相応の費用が必要になる。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

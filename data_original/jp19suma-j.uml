@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン警備兵</name>
+		<job>[イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		偵察隊を送ったが、連絡が途絶えてしまった。<br/>
+		申し訳ないが、ブラッド ガーデンに行って調査してくれないか。<br/>
+		<br/>
+		できればパーティーを組むことをおすすめするよ。<br/>
+		<br/>
+		テレポート費用：2021アデナ<br/><br/>
+			  <a action="a">ブラッド ガーデン(1)へ行く</a><br/>
+				<a action="b">ブラッド ガーデン(2)へ行く</a><br/>
+      	<a action="c">ブラッド ガーデン(3)へ行く</a><br/>
+      	<a action="d">ブラッド ガーデン(4)へ行く</a><br/>
+      	<a action="e">ブラッド ガーデン(5)へ行く</a><br/>
+      	<a action="f">ブラッド ガーデン(6)へ行く</a><br/>
+      	<a action="g">ブラッド ガーデン(7)へ行く</a><br/>
+      	<a action="h">ブラッド ガーデン(8)へ行く</a><br/>
+      	<a action="i">ブラッド ガーデン(9)へ行く</a><br/>
+      	<a action="j">ブラッド ガーデン(10)へ行く</a><br/>
+      	<a action="k">ブラッド ガーデン(11)へ行く</a><br/>
+      	<a action="l">ブラッド ガーデン(12)へ行く</a><br/>
+      	<a action="m">ブラッド ガーデン(13)へ行く</a><br/>
+      	<a action="n">ブラッド ガーデン(14)へ行く</a><br/>
+      	<a action="o">ブラッド ガーデン(15)へ行く</a><br/>
+		</p>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

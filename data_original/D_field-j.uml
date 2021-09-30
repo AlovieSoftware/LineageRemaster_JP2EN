@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[ドラゴンバレー/ダンジョン テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_DragonValley">
+		   <button action="a"/>
+		   <button action="b"/>
+		   <button action="c"/>
+		   <button action="d"/>
+		   <button action="e"/>
+		   <button action="f"/>
+		   <button action="g"/>
+    </panel>	
+	<p><br/>
+	ドラゴンバレーはアンタラスが棲息する地域で<br/>
+	一般魔法では<font fg="ffaaff">テレポートが不可能</font>です。<br/></p>
+	<p>神秘的な魔力を持つ<font fg="ffaaff">テレポート支配リング</font>があれば、<br/>アンタラスに見つからずにテレポートできるでしょう。</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

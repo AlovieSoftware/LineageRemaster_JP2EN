@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+<icon>dialog</icon>
+<title>会話</title>
+  <npc>
+    <name>エキンス</name>
+    <job>[成長のウィザード]</job>
+  </npc>
+  <dialog>
+<p><br/>
+<font fg="ffffaf">成長：ユニコーンの成長の証一般報賞受け取り</font><br/>
+<font fg="ffaaff">※回数に応じたユニコーンの成長の証が必要です。</font>
+<br/></p>
+    <panel type="Panel_Exp_Reward_Bt">
+		<button action="g"/>
+		<button action="f"/>
+		<button action="c"/>
+    </panel>
+<p><br/>
+<font fg="ffffaf">成長：ユニコーンの成長の証/ドラゴンの報賞受け取り</font><br/>
+<font fg="ffaaff">※回数に応じたドラゴンのダイアモンドとユニコーンの成長の証が必要です。</font>
+<br/></p>
+    <panel type="Panel_Exp_Reward_Bt">
+		<button action="k"/>
+		<button action="j"/>
+		<button action="d"/>
+    </panel>
+<p><br/>
+<font fg="ffffaf">成長：ユニコーンの成長の証/ドラゴンの高級報賞受け取り</font><br/>
+<font fg="ffaaff">※回数に応じたドラゴンの高級ダイアモンドとユニコーンの成長の証が必要です。</font>
+<br/></p>
+    <panel type="Panel_Exp_Reward_Bt">
+		<button action="i"/>
+		<button action="h"/>
+		<button action="e"/>
+    </panel>	
+<p><br/>
+<font fg="ffffaf">成長：成長の玉報賞受け取り</font><br/>
+<font fg="ffaaff">※10回、100回報賞はレベル82以上から可能です。</font>
+<br/></p>
+    <panel type="Panel_Exp_Reward01_Bt">
+		<button action="b"/>
+		<button action="l"/>
+		<button action="m"/>
+		<button action="a"/>
+    </panel>
+<p><br/>
+ ドラゴンの高級ダイアモンドは<font fg="ffaaff">16%</font>の経験値を…ドラゴンのダイアモンドは<font fg="ffaaff">4%</font>の経験値を…<br/>
+ ユニコーンの成長の証だけの場合は、<font fg="ffaaff">2.5%</font>の経験値を差し上げます。<br/><br/>
+ これ以上入手できない成長の玉は<font fg="ffaaff">6～8.4%</font>、成長の玉の欠片は<font fg="ffaaff">2～2.8%</font>を差し上げます。
+<br/><br/> <font fg="ffaaff">経験値はレベル52基準</font>となります。何をいただけるかによってユニコーンテンプルの宝物も用意されます。
+<br/><br/>それと、<font fg="1E82FF">ユニコーンの成長の証</font>はTAMでクルナから購入できます。
+<font fg="1E82FF">成長の玉</font>と<font fg="1E82FF">成長の玉の欠片</font>は今はもう入手できないらしいです。
+<br/>
+<br/>
+<br/>
+</p>
+  </dialog>
+</npcdialog>

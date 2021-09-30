@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p align="left"><font fg="ffffff"><name/>：</font>行きたい場所があるのか？<br/></p>
+			<panel type="Panel_Teleport_Rupin">
+				<button action="e"/>
+				<button action="f"/>
+				<button action="g"/>
+				<button action="h"/>
+				<button action="i"/>
+				<button action="j"/>
+				<button action="k"/>
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+        </panel>
+
+  </dialog>
+</npcdialog>

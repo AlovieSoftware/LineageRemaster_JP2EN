@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_040</portrait>
+		<name>ルキー</name>
+		<!--job></job-->
+		<!--text></text-->
+	</npc>
+	
+	<dialog align="left">
+			<p>自分のことをもう一度よく考えてからお寄りください。</p>	
+	</dialog>
+	
+</npcdialog>

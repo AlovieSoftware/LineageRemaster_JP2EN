@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>ピーター</name>
+		<job>[テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">[象牙の塔テレポート]</font>
+		</p>
+		<panel type="Panel_Teleport_IvoryTower">
+		   <button action="1"/>
+		   <button action="2"/>
+		   <button action="3"/>
+		   <button action="4"/>
+		   <button action="5"/>
+		   <button action="6"/>
+		   <button action="7"/>
+        </panel>
+		<p>
+		 一時は象牙の塔のウィザードだったんだ。主に秘密の任務を任されていてな。(当時を思い出しながら…)<br/>
+		<br/>
+		 けれど、大失態を犯して象牙の塔から追い出されるはめになってな。どんな失態かは教えられない…極秘事項だから…
+		 今はあちこちとさすらいの旅をしながら人生の勉強中だよ<br/>
+		<br/>
+		 最近象牙の塔について良い話を聞かなくてな。<br/>仮にも一端のウィザードとして身を置いていた者として、<br/>役に立ちたいと思って来たんだ。<br/>
+		<br/>
+		だけどよう、俺も何だかんだ食って行かないとならないだろ？少しアデナをくれたら象牙の塔に送ってやるぞ。
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

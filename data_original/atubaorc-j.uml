@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_AtubaOrc">
+		   <button action="atuba"/>
+    </panel>
+	<p><br/>
+	シーッ！この洞窟の中にはオーク要塞事件以降、<br/>アトゥバ族が集まっている場所があるんだ。 </p>
+	<p>アトゥバ族が、自分たちの名誉のために何かを企てているようだ… </p>
+	<p>確かめたいなら直接入ってみたらどうだ？ただ、長く居過ぎるとアトゥバ族に囲まれるかもしれないから<font fg="ffaaff">3時間</font>だけ俺が入口を見張っててやる。<br/><br/></p>
+	<p><br/></p>
+
+
+	</dialog>
+</npcdialog>

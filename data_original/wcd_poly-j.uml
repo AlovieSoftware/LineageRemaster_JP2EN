@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_045</portrait>
+		<name><var src="name"/></name>
+		<job>謎の魔術師</job>
+		<text>フードの下から陰湿な笑みが見える。</text>
+	</npc>
+	
+	<dialog>
+		
+		<p>君が誰なのかいまや重要ではない。<br/>もう君の味方は誰一人いない、決して彼らを見分けることはできないからな。<br/><br/><br/>
+		見てみろ。今<font fg="ffafff">蟻のダンジョンにいる者全員が名を隠して互いを見分けられずにいる。</font><br/><br/>
+		…だがこうも考えられる。名を隠すことで、規律という束縛から抜け出せると。<br/>
+		君は無限の自由を与えられたのかもしれないぞ。クククッ…</p>
+
+
+		<p><br/><br/><br/><a link="wcd_poly2">一体どういうことですか</a><br/></p>
+
+	</dialog>
+
+</npcdialog>

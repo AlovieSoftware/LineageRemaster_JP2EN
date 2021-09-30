@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>カデル</name>
+		<job>[次元のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">[隠された狩り場テレポート]</font>
+		</p>
+		<panel type="Panel_Teleport_HiddenPlace">
+		   <button action="d"/>
+		   <button action="c"/>
+		   <button action="b"/>
+		   <button action="a"/>
+        </panel>
+		<p>アデン大陸に特別な者しか行けない地域が隠されていることを知っているか？<br/>
+		<br/>
+		象牙の塔の秘密研究室に所属しているウィザードがそこに行く方法を発見したそうだ。<br/>
+		<br/>
+		もしお前が<font fg="ffaaff">隠された次元の砂時計</font>を手に入れたら、隠された地域に行けるだろう。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

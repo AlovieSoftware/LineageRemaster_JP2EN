@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+  <npc>
+    <portrait>1</portrait>
+    <name>パン</name>
+    <job>[森の守護者]</job>
+  </npc>
+  <dialog>
+	<p>何だと？俺のカッコいい<font fg="ffafff">タテガミ</font>が欲しいだと！俺みたいに艶やかでカッコいいタテガミもないなんて可哀想なこった～ </p>
+	<p>お前たちはこれで<font fg="ffffaf">糸を使って服や雑貨、矢</font>を作るんだろ？ </p>
+	<p>そんなに欲しいなら一つくれてやってもいいが、<font fg="ffffaf">素手でやさしくだぞ！</font>もし武器なんか使って痛くしたら、エルフであっても許さないからな！</p>
+	<li src="331" link="pane1"/>
+  </dialog>
+</npcdialog>

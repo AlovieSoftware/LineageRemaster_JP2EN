@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_033</portrait>
+		<name>ディリー シオス</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		こんにちは、皆さんの永遠のアイドル、シオスです！<br/>
+		<br/>
+		愛する皆さんのために甘いお餅を用意したのですが…<br/>
+		<br/>
+		お腹を空かせた動物たちに盗まれちゃったんです。<br/>
+		<br/>
+		お餅を盗んだ動物は<font fg="ffffaf">獣の巣</font>に行ったようです。<br/>
+		<br/>
+		獣の巣で私が作ったお餅を探してください。<br/>
+		<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		<font fg="ffffaf">甘い玉</font>100個と<font fg="ffffaf">獣の巣入場券</font>を持ってきれくだされば、プレゼントを差し上げます。<br/>
+		<br/>
+		報賞は成長にとっても役立つと思います。<font fg="ffffaf">報賞のEXPはレベル52基準です。レベル60未満</font>でしたら、もっと成長してから来てください。<br/>
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

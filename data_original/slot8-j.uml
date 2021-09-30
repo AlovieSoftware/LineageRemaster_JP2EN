@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		
+				
+		<p>見るからにただ者じゃない感じがするな。<br/><br/></p>
+
+		<p>リングスロットを解放すれば、新しい力を得ることができるぞ。う～ん君なら十分に使いこなせると思うけど…<br/></p>
+		<p>どうだい、スロットを解放してより強くなってみないかい？<br/></p>
+
+
+		<p><a action="z">レベル76リングスロットを解放する</a><br/></p>
+
+		<p><a action="z">レベル81リングスロットを解放する</a><br/></p>
+
+		<p><a link="slot11">英雄の条件を確認する</a><br/></p>
+
+				
+	</dialog>
+
+</npcdialog>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		訓練場の使用料は、1人あたり300アデナです。<br/>
+		<br/>
+		キーは何個借りますか？<br/></p>
+		<panel type="Panel_TrainKeys_Bt">
+			<button action="2"/>
+			<button action="3"/>
+			<button action="4"/>
+        </panel>
+		<br/>
+		
+		
+	</dialog>
+</npcdialog>
+

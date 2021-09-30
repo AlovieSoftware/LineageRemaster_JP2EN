@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+			
+
+		<p>スロット解放のためには英雄になる条件が必要なんだ。<br/><br/></p>
+		<p>レベル<font fg="e5bdd7">59</font>になれば、イアリングスロットを<font fg="e5bdd7">200万</font>アデナで解放することができ、<br/></p>
+		<p>レベル<font fg="e5bdd7">76</font>になれば、左手のリングスロットを<font fg="e5bdd7">1000万</font>アデナで解放することができるぞ。<br/></p>
+		<p>さらに、レベル<font fg="e5bdd7">81</font>になると、右手のリングスロットも解放できるが、費用は<font fg="e5bdd7">3000万</font>アデナだ…<br/></p>
+		<p>スロットを解放し、新しい力を試してみろよ。<br/></p>
+
+
+				
+	</dialog>
+
+</npcdialog>

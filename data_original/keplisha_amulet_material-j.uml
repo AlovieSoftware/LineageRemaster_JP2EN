@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">ケプリシャの混沌の結晶体</font><br/></p>
+	<p><font fg="ffffaf">混沌の傲慢の塔テレポートアミュレット</font>の製作材料のうち<font fg="ffffaf">封印された傲慢の塔テレポートアミュレット</font>の代替材料。<br/><br/></p>
+	<p>[販売商人]<br/></p>
+	<p>- ギラン城下町のケプリシャ<br/><br/></p>
+	<p>[製作商人]<br/></p>
+	<p>- 首都アデンのムブニ<br/></p>
+  </dialog>
+</npcdialog>

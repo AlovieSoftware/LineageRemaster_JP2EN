@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>オーラン バフェット</name>
+		<job>[19周年イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		<br/>
+		アデンワールドの19周年を記念して、国王が<font fg="ffffaf">下賜品</font>を準備されたそうだ。<br/>
+		ところが昨晩、盗賊が下賜品を全部盗んだばかりか、季節まで変わってしまったんだ…<br/>
+		だが幸い象牙の塔のウィザードたちが下賜品の光が消えないよう魔法をかけておいてくれた。<br/>
+		<br/>
+		<font fg="ffffaf">不思議な季節の森</font>で盗賊を退治し、
+		<font fg="ffffaf">輝きを失った下賜品</font>を探してきてもらえないか。<br/>
+		<br/>
+		輝きを失った下賜品は<font fg="ffffaf">ゴールデン キー、シルバー キー</font>を使うと光を取り戻すことができる。<br/>
+		<br/>
+		<br/>
+		不思議な季節の森で盗賊を倒して、証拠として<font fg="ffffaf">19周年記念コインを100個</font>
+		集めてタラス様を訪ねれば、それに見合う報賞をくださるそうだ。<br/>
+		<br/>
+		それでは、幸運を祈っている。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="non_npc buy"/></panel>
+	</dialog>
+</npcdialog>

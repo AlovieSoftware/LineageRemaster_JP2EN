@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アミス</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> いらっしゃいませ。<br/><br/>
+		 必要な補給品を安く提供しています。<br/>
+		 狩りや戦闘に役立ちますよ～
+		 <br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy">
+				<button action="non_npc buy"/>
+			</panel>
+	</dialog>
+</npcdialog>
+

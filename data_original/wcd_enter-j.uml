@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>無名のウィザード</name>
+		<job>テレポーター</job>
+		<text> 怪しい気で変異した蟻のダンジョンを探査しに来て身動きが取れなくなった。</text>
+	</npc>
+	
+	<dialog>
+		
+		<p><br/>
+		はぁ…はぁ…ゴホッ…<br/><br/>ようこそ…勇士様ですね。<br/>ここは変異した蟻のダンジョンの最後の防衛線です…。お望みでしたら、これより奥の惨状が見られるようお送りいたします。<br/></p>		
+		<br/>
+		<panel type="Panel_AntHouse_02_Bt">
+				<button action="99"/>
+        </panel>
+		<p><a link="wcd_story">何があったのか聞く</a><br/><br/><br/><br/><br/><br/></p>
+
+	</dialog>
+
+</npcdialog>

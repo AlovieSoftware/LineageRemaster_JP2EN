@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">ピュア エリクサー(EXP)</font><br/></p>
+	<p><font fg="ffffaf">「エリクサー(EXP)」</font>の製作材料<br/><br/></p>
+	<p>[製作場所]<br/></p>
+	<p><img src="14205"></img><br/><br/></p>
+	<p>[製作材料]<br/></p>
+	<p>- ピュア エリクサー35個<br/></p>
+	<p>- 邪悪な活力5個<br/></p>
+	<p>＊失敗することもある<br/><br/></p>
+
+	<p>- ピュア エリクサー35個<br/></p>
+	<p>- 100万アデナ<br/></p>
+	<p>＊必ず成功する</p>	
+  </dialog>
+</npcdialog>

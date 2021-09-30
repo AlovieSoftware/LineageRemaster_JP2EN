@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_043</portrait>
+    <name>ムブニ</name>
+    <job>[傲慢の製作商人]</job>
+  </npc>
+  <dialog>
+    <p> 今持っているアミュレットを強化すれば、おいらの前の銅像から休憩階まですぐに行けるアミュレットが作れるんだ…。<br/>
+	方法は2つだが、変異の錬金術が混沌の錬金術よりも少し確率が低い…もちろん、より小さな犠牲が伴うけどね。<br/>
+	変異の錬金術は封印が解除された傲慢の塔テレポートアミュレットと、傲慢の塔のスクロールが必要だ。</p>
+    <p><br/></p>
+	<p>材料：<br/>1階アミュレット(1)、テレポート スクロール(1000)</p>
+	<p><a action="request oman amulet box0">変異の錬金術 1階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>11階アミュレット(1)、テレポート スクロール(900)</p>
+    <p><a action="request oman amulet box1">変異の錬金術 11階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>21階アミュレット(1)、テレポート スクロール(800)</p>
+    <p><a action="request oman amulet box2">変異の錬金術 21階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>31階アミュレット(1)、テレポート スクロール(700)</p>
+    <p><a action="request oman amulet box3">変異の錬金術 31階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>41階アミュレット(1)、テレポート スクロール(600)</p>
+    <p><a action="request oman amulet box4">変異の錬金術 41階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>51階アミュレット(1)、テレポート スクロール(500)</p>
+    <p><a action="request oman amulet box5">変異の錬金術 51階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>61階アミュレット(1)、テレポート スクロール(400)</p>
+    <p><a action="request oman amulet box6">変異の錬金術 61階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>71階アミュレット(1)、テレポート スクロール(300)</p>
+    <p><a action="request oman amulet box7">変異の錬金術 71階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>81階アミュレット(1)、テレポート スクロール(200)</p>
+    <p><a action="request oman amulet box8">変異の錬金術 81階アミュレット</a></p>
+    <p><br/></p>
+	<p>材料：<br/>91階アミュレット(1)、テレポート スクロール(100)</p>
+    <p><a action="request oman amulet box9">変異の錬金術 91階アミュレット</a></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

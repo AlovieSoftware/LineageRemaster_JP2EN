@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフ職人の一番弟子</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ようこそ！<br/>
+		<br/>
+		私は伝説の製作職人から秘法を受け継ぎました！<br/>
+		<br/>
+		必要なものがあったらおっしゃってください。<br/>
+		火の盗賊から奪ってこられた火の欠片をお持ちでしたら、何でもお作りします！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

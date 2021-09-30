@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_044</portrait>
+		<name>メイアー</name>
+		<job>[商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		<font fg="ffffff"><var src="0"/>%</font>だよ。物を売れば売るほど損してるみたいじゃないのさ。
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>ランサーの技術</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ランサーの技術：一般論</font><br/></p>
+	
+	<p><font fg="ffffaf">ランサーの技術レベル：</font><br/>
+	ランサーの技術は、瞬間的に潜在能力を自動で発動させるタイプと、自分の意志で発動させるタイプに分かれます。<br/>
+	一番の特徴は状況に応じて<font fg="afffff">近距離フォーム</font>と<font fg="afffff">遠距離フォーム</font>の使い分けができることで、ほとんどの技術はフォームによってその効果が異なります。<br/>
+	また<font fg="afffff">レベル</font>が上がるほど習得できる技術も増えます。<br/></p>
+
+	<p><font fg="ffffaf">魔法材料：</font><br/>
+	槍術書の技術の中には<font fg="afffff">結晶体</font>という触媒が無いと使用できない技術があります。<br/>
+	必要な数値は、各魔法のヘルプに書かれています。<br/></p>
+	
+	<p><font fg="ffffaf">技術を習う：</font><br/>
+	技術の内容が記録されている<font fg="afffff">槍術書</font>を読むだけで、どこでも技術を習得できます。<br/>
+	すべての槍術書は、決まった場所にいる<font fg="afffff">クエスト関連NPC</font>や<font fg="afffff">モンスター</font>から獲得できます。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	
+	</dialog>
+</npcdialog>

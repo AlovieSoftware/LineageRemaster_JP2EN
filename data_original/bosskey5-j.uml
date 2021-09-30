@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 申し訳ありませんが、使用料を払っていただかないと、訓練場をお貸しできません。<br/>
+		<br/>
+		 アデン王国の支援金だけでは、このような広大な訓練場の維持は不可能なのですよ。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

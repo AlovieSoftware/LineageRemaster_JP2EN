@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>デポロジュー</title>
+	<npc>
+		<portrait>PO_001</portrait>
+		<name>デポロジュー</name>
+		<job>血盟、再び</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> <br/>おお、君か？<br/><br/>
+		どこも君の話題でもちきりだぞ！<br/><br/>
+		君が来るのを待っていたんだ！<br/><br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+		<p>
+			<br/>
+			<br/><br/>
+			とてつもないものを作ったそうだな？<br/><br/>
+			気に入ったものを選ぶといい！<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

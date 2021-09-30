@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフ警備員</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		おいおい、君。<br/>
+		準備ができていないじゃないか…？<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：4900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：60分</font><br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル60以上</font><br/><br/>
+		 <br/>
+		<font fg="ffffaf">秘密の桜まつり会場</font>に行きたいって？<br/>
+		<font fg="ffffaf">入場券</font>がないと送ってやれないぞ！<br/>
+		</p>
+	</dialog>
+</npcdialog>

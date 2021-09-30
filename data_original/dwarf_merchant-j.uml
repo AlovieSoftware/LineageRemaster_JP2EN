@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフ職人</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ホホホ、話を聞いたよ。<br/>
+		自ら志願して火の盗賊を追い回してたそうだな？<br/>
+		<br/><br/>
+		楽しみだったまつりが台無しになって、どれほど頭に血が上ったことか！<br/>
+		<br/><br/>
+		君たちのために特別に王から賜ったアイテムを準備しておいたから、欲しいものを持っていくといい。<br/><br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

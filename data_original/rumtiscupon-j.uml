@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>ルームティスのイアリングボックス交換券</title>
+
+	<dialog align="left">
+		<br/>
+		<p>シルバーナイトタウンのティスパーが箱と交換してくれる。</p>
+	</dialog>
+
+</npcdialog>

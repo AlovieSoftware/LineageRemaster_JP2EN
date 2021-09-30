@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>ハッピーバースデー</title>
+	<npc>
+		<portrait></portrait>
+		<name>バースデープレゼントの妖精</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 誕生日おめでとうございます！<br/>
+		 <br/>
+		 姫様からのプレゼントは、ある一定の力をつけた勇士様だけにプレゼントされるものですよ。<br/>
+		 えっと…少なくともレベル80くらいにはならないといけないですね。<br/>
+		 <br/>
+		 でも落ち込まないでください。<br/>
+		 代わりに私があげた真心を見せてくれたら、役に立つ魔法をプレゼントしますよ！<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

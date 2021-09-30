@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_019</portrait>
+		<name>ハイオス</name>
+		<job>[スポールダー製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 アデン最高の勇士と言われた者が、肩に一発矢を食らって永遠に剣を持てなくなったという悲しい話がある。<br/>
+		 真の勇士なら、体のどの部分も防御を怠っちゃいけねえ。
+		 俺がおめえらに<font fg="ffffaf">スポールダー</font>を作り始めた理由でもある。<br/>
+		 <br/>
+		 その勇士が誰かって？ふん…さぁな…<br/>
+		 ハハ、そんなかわいそうな目で見つめないでくれよ。<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

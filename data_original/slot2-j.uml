@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>shop</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>商店</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>フィアリング</name>
+		<job>リング レンタル</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		<panel type="Panel_Shop_Bt_Buy">
+			<button action="buy"/>
+		</panel>
+		<p>スロットを開けたはいいものの、良いリングがなくて困ってるのか？<br/></p>
+		<p>それなら私が助けよう。このリングを特別に貸すから、イベントが終わったら返してくれ。<br/></p>
+		<p><font fg="ffafff">10月24日</font>まで使えるぞ。<br/></p>
+		<p>装備すれば確実に強くなるから期待してくれ。<br/></p>
+
+		
+	</dialog>
+
+</npcdialog>

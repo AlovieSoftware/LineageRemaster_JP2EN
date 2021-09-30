@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>地の精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">地の精霊魔法：レベル5</font><br/></p>
+	<p><font fg="ffffaf">アイアン スキン：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/0<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、術者にAC10のボーナスを与えます。<br/></p>
+	
+	<p><font fg="ffffaf">エキゾチック バイタライズ：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/0<br/>
+	材料：精霊の玉1個<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、重量ゲージが50%を超えてもHP/MPが回復します。<br/>
+	ただし、重量ゲージが赤くなると、効果が失われます。<br/></p>
+	
+	<p><img src="331" link="helpmgce"/><br/><br/></p>
+	</dialog>
+</npcdialog>

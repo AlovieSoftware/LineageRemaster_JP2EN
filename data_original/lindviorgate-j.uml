@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p align="left"><font fg="ffffff"><name/>：</font><br/></p>
+	<p>洞窟の反対側から恐ろしいうめき声が聞こえてきます。<br/></p>
+	<p>おそらく強力な何かがいるようです。何がここまで聞こえてくるのか確認していただけますか？<br/></p>
+	<p>ただし、あちらでは死亡すると<font fg="ffffaf">経験値損失</font>があります。それでも入場しますか？<br/><br/></p>
+	<p><a action="f_lindvior">リンドビオル棲息地に移動する</a><br/><br/></p>
+	<p>進行中に起きた事故については、我々は一切責任を持ちません。<br/></p>
+	<p>幸運をお祈りします。</p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>shop</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>商店</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name><var src="name"/></name>
+		<job>ユニコーンテンプル商人</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog align="left">
+		<p>最近<font fg="ffaaff">TAM</font>という新しいものが出たそうなんです。</p>
+		<p>私がそれをアデン以外で得た貴重なものと交換して差し上げます。</p>
+		<p>ここ以外では獲得できないですよ。どうです、気になるでしょ？</p>
+		<p></p>
+			<panel type="Panel_Shop_Button">
+				<button action="buy"/>
+				<button action="sell"/>
+			</panel>
+		<p></p>
+		<p><a link="t_point1">TAMとは何ですか？</a></p>
+	</dialog>
+</npcdialog>

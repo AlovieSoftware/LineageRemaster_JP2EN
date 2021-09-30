@@ -998,8 +998,8 @@ Input the name of the Blood Pledge member to teleport.
 No Blood Pledge members are connected.
 Experience points were recovered after resurrection.
 You cannot enter with that key.
-You have been stunned.
-Your feet are tied and you cannot move.
+An underground hideout has been generated.
+Please wait a moment.
 Attack speed is reduced.
 If you restore and then perform the deletion again, a deletion waiting period of 7 days will be set. Do you want to restore \fZ%s\f>in the deletion waiting period?
 This magic cannot be used in transparent state.
@@ -1342,15 +1342,15 @@ Melee DMG +5
 Melee DMG +4, Melee HIT +4
 15 Damge every 4 seconds
 MPR +4
-SP +2
+SP +4
 Hold for 1 second every 4 seconds
 Damage Reduction+2
 It is impossible to attack or move.
-AC-8
+AC-10
 SP+2
 Insight: STR +1,  DEX +1, CON +1, INT +1, WIS +1
 Panic: STR -1, DEX -1, CON -1, INT -1, WIS -1
-Attack Power +10, Damage Taken +5%
+Attack power +10
 Note: If you click on the Level Up button, you cannot go back.
 An unknown impact surrounds the body.
 You cannot use these special characters in the title.
@@ -1672,7 +1672,7 @@ Saul: It is the last time ...! This grudge ..! The curse of this blood! ...Thank
 Papurion: Now the dip is over. You can not avoid my curse now!
 Scarf SAEL: Now I will summon the warriors with the last power I can do. Now I can not help it.
 Reduce heal: healing effects
-Death Hill: Damage healing magic damage received
+Death Heal: Converts healing magic recovery amount into damage
 Death Potion: Receives damage as much as the effect of taking a restorative
 The blessing of the wives of Sahel wraps up our whole body.
 I have escaped the blessing of Sarah Sael.
@@ -1810,7 +1810,7 @@ English descending order
 Product Description
 Product Description
 The Vaporetta server is available for customers over 18 years of age. Please note that the account you are using does not match the age of the Bausch &
-Picture Ripper server, Balrog server, Phoenix server, Succubus server are available only to customers who subscribed to at least one of Lineage security service OTP, NC authenticator, and Device registration service. Please sign up for security service or check if it is paused before using again.
+The Phoenix / Succubus / Death Knight / Pandora / Valakas server is only available to players who have subscribed to one or more of the Lineage security services OTP, PC registration, and mobile device registration services. Please make sure that you have subscribed to the security service or that it has not been suspended before using it.
 Cooking: Max MP + 50, Damage reduced 5
 Are you sure you want to delete the selected friend?
 STR_LOGIN_FRIENDLIST
@@ -2002,7 +2002,7 @@ Pandora's Sirteok: Maximum MP + 30, HP Recovery +2, MP Recovery +2
 Adena
 Pet state information window
 Hi. Lineage. The account you are connected to is temporarily restricted from receiving disputes related to Lineage account information change campaigns. For more information, please contact [Green Customer Center (bottom) on the plaync homepage.
-Cooking: Decrease damage +5, max MP + 30 (+60 + 60)
+Increases maximum MP and damage reduction ability.
 STR_SHUTDOWN_POLICY_5MINUTES_WARNING
 According to the Youth Protection Law, access will be restricted from 00:00 to 06:00 and the connection will be terminated.
 The password you entered %d I'm wrong. If you are wrong 5 times, you will be limited to game play. Please enter the correct password.
@@ -2718,7 +2718,7 @@ Cooking: SP + 2, Magical Hit +3, Damage Decreased +5
 Cooking: AC-4, Reduced damage +5
 Soup: EXP + 5%, Damage +5
 It is a full moon.(FULL_MOON_DAY)
-Cole Clan: Can not be summoned (under attack)
+The clan member cannot be summoned (under attack).
 According to the Juvenile Protection Act %d The game ends after a minute.
 According to the Juvenile Protection Act, the game will end in 1 minute.
 According to the Juvenile Protection Act, your account is restricted from 00:00 to 06:00.
@@ -2922,7 +2922,7 @@ Bargain failure (canceled)
 Used the bookmark ball.
 Steel Guild Dwarf: Somewhere a Dragon Portal opened!
 Steel Guild Dwarf: Dragon Key has appeared in the Arden World!
-Would you like to enter the Dragon Portal?
+Do you want to enter the portal?
 Someone has won the guardian's soul.
 The guardian's soul has disappeared.
 Selective reward
@@ -3939,7 +3939,7 @@ Grandkine's Fury: %d %% (step 5) <BR> Experience: -90 %% <BR> Death penalty: EXP
 Grandkine's Fury: %d %% (step 6) <BR> Experience: -90 %% <BR> Death penalty: EXP -100 %% <BR> Reduction: -90 <BR> ATK: -90 %% <BR> Self defense against monster attack
 dummy3940
 dummy3941
-Hold state
+\f:I can't move as if my legs were tied up.
 The power grip effect disappears.
 dummy3944
 dummy3945
@@ -4437,7 +4437,7 @@ Successful synthesis of magic doll
 \f3Magic doll synthesis failed
 [Japan] Special Chocolate: Maximum HP + 80, Maximum MP + 30, MR Bonus +10
 In the first slot \n The doll is not registered.
-Inventory is full and synthesis can not proceed.
+Cannot synthesize because there is no \n space in the inventory.
 The weight gauge is full and synthesis can not proceed.
 STR_ALCHEMY_ERROR_DOES_NOT_EXIST
 STR_ALCHEMY_ERROR_NO_REQUIRED_ITEM
@@ -4580,11 +4580,11 @@ Use command:!
 [Rank 2] ^^ - Increased Int +1^- PVP damage reduction: +2
 [Rank 3] ^^ - Increased Int +1^- PVP damage reduction: +2^- PVP additional damage: +2^- Ranker Transformation
 [Rank 4] ^^ - Increased Int +1^- PVP damage reduction: +2^- PVP additional damage: +2^- Ranker Transformation^- Maximum HP: +100^- Weight gauge behavior restriction relaxation^- Can use normal
-login
+Login
 LV
-Enter World
+Enter
 Previous
-delete
+Delete
 Automatic connection
 Ranker Transformation: Applying the Cancellation Effect
 Please select a class.
@@ -4733,7 +4733,7 @@ Event alarm (unavailable area)
 Members of the Red Knights: Significantly improved combat capabilities in Claudia Castle
 %s In the attack of %s (I) died.
 There are more blood clusters than the Royal's charisma.
-Grace: all resistance rise
+Grace: All resistance improvements
 Absolute Blade: Removes Absolute Barrier with a certain probability during basic attack
 Soul Barrier: consumes MP instead of HP if it drops below 10
 Death Hill: Damage healing magic damage received
@@ -5470,7 +5470,7 @@ Alliance proposal
 You will not receive the Login Stamp Reward during certain actions.
 You cannot restart the game while receiving the login stamp reward.
 dummy
-You will not be able to receive the reward because there is no space in the possessed item column.
+You will not be able to receive rewards because your inventory is full.
 I cannot receive the reward because my luggage is too heavy.
 Alliance Lord
 % that's all
@@ -5536,11 +5536,11 @@ PVP Damage +2, HIT +2
 PVP Damage +3, HIT +3
 ^  \fACondition: %dLvl
 %d Magic doll is created. Do you want to synthesize?
-Skill Resist
-Elemental Resist
+Skill Resistance
+Elemental Resistance
 Secret skill resistance
-Fear Resist
-All Resist
+Fear Resistance
+All Resistance
 Siege: Cannot be declared (on the same server as the clan owning the castle)
 Magic Doll Buff 1T :    EXP  10%, Max HP+50, MR+3
 Magic Doll Buff 2T :    EXP  20%, Max HP+100, MR+5
@@ -5549,7 +5549,7 @@ Magic Doll Buff 4T :    EXP  40%, Max HP+200, MR+10
 Magic Doll Buff 5T :    EXP  50%, Max HP+300, MR+15
 strk5550
 strk5551
-Mobius: Ranged Protection Barrier (behavior restricted)
+Mobius: Long-range damage reduction 20% \n For each level increase from 85 level, long-range damage reduction increases by 1% (maximum + 30%)
 The effect of Mobius disappears.
 [Taiwan] Transformation: changes to another shape HP/MP + 50, near + ranged hit +5, near/ranged attack +5, magic attack +3
 PVP damage +1, all hits +1
@@ -6023,7 +6023,7 @@ Mirror Forest
 Jungle
 Desert
 Scar of the Dark Dragon
-Oren Snow Wall
+Snowy Mountains
 Orc Village
 Dragon Valley
 Ruins of Death
@@ -6133,7 +6133,7 @@ Armor Bonus
 Survival Bonus
 Assassination Bonus
 Rank Bonus
-Top Bonus
+Top Blessing
 Private Shop
       Polymorph List
 Max MP
@@ -6589,7 +6589,7 @@ Melee (Pole)
 Range (bow)
 Magic
 move
-Ranker/guard
+Ranker/same shape
 PC room
 Performance by level
 special
@@ -6681,7 +6681,7 @@ Terms of Use
 Create Room
 Room Entry
 Room Setting
-Room Title
+Title
 Participation Fee
 open
 password
@@ -6906,7 +6906,7 @@ Zoom
 %d%
 Zoom In/Out
 Level %d %s slot (locked)
-After reaching the level, you can unlock it by visting Snapper in Oren Vilalge.
+After reaching the level, you can release it by paying a discount voucher or Adena
 You can edit the channel by right-clicking the mouse.
 The current character creation limit has been exceeded.\nPlease use another server.
 Currently, the character creation limit on all servers has been exceeded.\nPlease check the Lineage homepage announcement as we will inform you quickly.
@@ -6917,7 +6917,7 @@ Level Dissatisfied
 Cooking: Melee Damge +2, Melee HIT +1, Exp +5%
 Cooking: Ranged DMG +2, Ranged HIT +1
 Cooking: SP +2, Exp +5%
-Soup: EXP +10%, Damage Reduction +5
+Celebration cake: EXP + 21%, damage reduction +5
 HOT
 Land of Aden
 Create Room
@@ -6945,7 +6945,7 @@ dummy9251
 Saved to %s.
 Normal
 PC room
-[move]
+Move
 Dragon
 Advanced
 The finest
@@ -6995,7 +6995,7 @@ There are no users in multiple destinations.
 You have run out of tracking count.
 dummy9264
 Blood Pledge Change
-The character you have selected is duplicated or identified as unhealthy clan name and needs to be changed.
+The character you select needs to be changed due to duplicate or initialization of the name and unhealthy clan name.
 Please note that you may only change your clan name once for that reason.
 If you use a clan name that violates the operating policy, you may be restricted from using the service for up to 7 days depending on the cumulative order.
 Please enter the name of the clan you wish to change.
@@ -7005,7 +7005,7 @@ Make sure you have a highlight enabled graphics card and experience installed.
 Rose Fragrance Effect: Close Range Damage +1, Close Shot +2
 Sunflower Fragrance Effect: Ranged Damage +1, Ranged Hit +2
 Cara Perfume Effect: SP + 1, Magical Hit + 2
-Prime: Ranged Damage/Accuracy +3, Ranged Damage/Accuracy +3, SP +2, Magical Accuracy +2
+Prime: Melee damage/hit +3, range damage/hit +3, SP +2, magic hit +2 \n PVP damage reduction +5 (maximum +15) for every +5 increase from 85 level
 Force Stun: Stun Status (Paralysis)
 Eternity: No Return
 Halfas: Chance to Evade Short Range Attacks and counterattack with Chain Sword.
@@ -7015,7 +7015,7 @@ The user has already tracked or provoked.
 You are already tracking
 Einhasad's Protection (PC):
 Quest complete! Please report to the King of Aden.
-Quest complete! Find the disciple of Taras.
+Quest complete! Visit the King's aide.
 dummy9265
 dummy9266
 dummy9267
@@ -7038,7 +7038,7 @@ dummy9273
 dummy9274
 Place
 Do you want to give up the current tracking and make a new one?
-Prime: Ranged Damage/Accuracy +9, Ranged Damage/Accuracy +9, SP +6, Magical Accuracy +6, HP +500
+Prime: Melee damage/hit +9, range damage/hit +9, SP +6, magic hit +6, HP +500 \n PVP damage reduction +5 (maximum +15) for every +5 lvl increase from level 85
 [%s] has defeated [%s].
 The item cannot be set.
 Additional Short Range Damage
@@ -7114,8 +7114,8 @@ Voice Chat
 Phantom
 Lineage User Agreement
 Monster Release Mode
-Prime: Ranged Damage/Accuracy +3, Ranged Damage/Accuracy +3, SP +2, Magical Accuracy +2, Skill Accuracy +5
-Prime: Ranged Damage/Accuracy +9, Ranged Damage/Accuracy +9, SP +6, Magical Accuracy +6, Skill Accuracy +15, HP +500
+Prime: Melee damage/hit +3, long range damage/hit +3, SP +2, magic hit +2, technical hit +5 \n PVP damage reduction +5 for every 5 levels up from level 85 ( Up to +15)
+Prime: Melee damage/hit +9, long range damage/hit +9, SP +6, magic hit +6, technical hit +15, HP +500 \ n PVP damage reduction +5 for every 5 levels up from level 85 ( Up to +15)
 KnightVald
 dummy9279
 dummy9280
@@ -7162,15 +7162,15 @@ Production list
 Bless
 Lucky
 Vital
-BLE
-LUC
-VIT
+BLESS
+LUCKY
+VITAL
 Blessing Consumption
 Experiences Bonus
 Item Drop Chance
 Adena Drop Chance
 Heal Recovery
-Stat Points
+Status points
 Einhasad Point
 Astrologer's Room
 You can get special stats by selecting cards.
@@ -7195,7 +7195,7 @@ letter
 Party Invitation
 whisper
 Please enter a character name to add a friend.
-dummy9293
+BLE / LUC / VIT
 This will crash
 This will crash
 Matching is complete.
@@ -7296,13 +7296,13 @@ dummy9364
 dummy9365
 dummy9366
 dummy9367
-dummy9368
+purchase
 dummy9369
 dummy1
 dummy2
 dummy4
 dummy3
-dummy5
+search
 dummy6
 dummy7
 dummy8
@@ -7448,10 +7448,10 @@ Keplysha
 Failed
 Step %d
 Debuff Skill Immunity for Duration
-I feel the energy of the Maphre wraps around me.
-I feel the energy of Mafra disappears.
-21st Anniversary Legendary Growth Potion:\n\nBlessed EXP +20% (Common)\n\n86 ~ 87 Level: EXP +50%\n88 ~ 89 Level: EXP +40%\n90 ~ 92 Level: EXP +35%\n93-99 Level: EXP +30%
-21st Anniversary Growth Potion:\nEXP +20%
+I feel that my body is wrapped in the spirit of Magic Shield.
+I feel the magic shield faint.
+Legendary Growth Potion: \n\nBlessing EXP +20% (Common) \n\n Level 86-87: EXP +50%\nLevel 88-89: EXP +40%\nLevel 90-92: EXP +35%\nLevel 93-99: EXP +30%
+21st Anniversary Growth Potion: \nEXP +20%
 Black Dragon's Eye: +5 Damage Reduction, MR +10%
 Absolute Eye: Black Dragon, all effects of Life's Eye
 Darkhorse: Increases movement and attack speed when using Jugdra's Fruit
@@ -7635,272 +7635,272 @@ Press Alt to compare with other equipment
 Up
 Down
 Cannot teleport to that area.
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Lancer
+A person who controls any battlefield with his outstanding spear ability
+tab
+Full view: You can see all the production lists.
+Manufacturable: Currently, only the manufacturable production list is displayed.
+Limited production: Only the production list that can be produced is displayed during the limited period.
+Bookmark: Only the bookmarked production list is displayed.
+Bookmark
+You can bookmark by clicking the bookmark button.
+Manufacturing method
+You can choose various productions in one slot.
+Classification by strengthening stage
+Classification by general / blessing status
+Classification by required materials
+How to earn Ein Hazard points
+Accumulate points when Ein Hazard's blessing is exhausted
+How to use Ein Hazard Points
+Items can be purchased from the castle town of Giran "Keplisha"
+Astrologer's room
+You can enter from the character information popup
+You can get special status with accumulated Ein Hazard points
+Monarch Blessing: HP +200, PVP Damage Reduction +10
+Knight Blessing: HP +200, PVP Damage Reduction +10
+Elf Blessing: HP +200, PVP Damage Reduction +10
+Wizard blessing: HP +200, PVP damage reduction +10
+Dark Elf Blessing: HP +200, PVP Damage Reduction +10
+Dragon Knight Blessing: HP +200, PVP Damage Reduction +10
+Illusionist Blessing: HP +200, PVP Damage Reduction +10
+Warrior Blessing: HP +200, PVP Damage Reduction +10
+Fencer Blessing: HP +200, PVP Damage Reduction +10
+Lancer Blessing: HP +200, PVP Damage Reduction +10
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+5,000
+10,000
+15,000
+20,000
+25,000
+Buff
+Fire + Water
+Fire + Wind
+Fire + Earth
+Water + Wind
+Water + Earth
+Wind + Earth
+repair
+Adena
+Petition certificate
+[Experience point recovery]
+Clan founded
+Qualification to form a coalition clan
+[Purchase a space-time key box]
+[Make a donation]
+Rent a room
+Rent a hall
+Enter the room / hall
+Return room / hall
+Entrance entrance
+Central entrance
+Admission
+The land of the abandoned
+Land of the Abandoned (PC)
+Giran Prison
+Temple of the cold
+Atuba Orc's hideout
+30,000 Adena
+Dark Dragon Dungeon
+50,000 Adena
+[Slot release]
+Hidden ivory tower
+The hidden land of the abandoned
+Atuba Orc's hideout
+Hidden Eva Kingdom Waterway
+Move to fishing spot
+Cancel and exit
+Move to the center
+Move to the east
+Move to the west
+Move to the south side
+Move to the north
+Ant Queen's hideout
+Enter the ant dungeon
+Return to the original dimension
+Global message display
+Top layer starting point
+Top middle point
+Move out of the safe zone
+Move to the Tower of Domination
+Would you like to use your discount voucher to unlock %s slots?
+There is no discount voucher in the inventory of the hero. \n%d Do you want to free the %s slot with 10,000 Adena? \n\n (Please check if you have a discount voucher in the warehouse!)
+The %s slot was released with a discount voucher without wasting Adena. \n\n "%s" was provided to commemorate the release.
+The %s slot has been released. \n\n "%s" was provided to commemorate the release.
+The %s slot was not released due to insufficient Adena possession.
+Alternate system message
+Alternate: Change to short range posture.
+Alternate: Change to a long-range position.
+The effect of Vanguard will be activated.
+The effect of Vanguard disappears.
+Vanguard: Increased attack speed and movement speed
+Vanguard: Increased attack speed
+Pressure: A certain amount of damage received causes additional damage or restores the caster's health.
+Pressure: The surgeon's physical strength is restored by a certain amount of the damage received.
+Pressure: Additional damage is incurred for a certain amount of hold and damage received
+Cruel: Move the target's position to control certain actions
+The effect of Cruel disappears.
+Cruel: Moves the target position and triggers a hold
+Pressure Death Recall: Deste Report Effect
+Roomtis Blue Earling Box (engraved)
+Guardian Insignia Box (Engraved)
+Snapper magic resistance ring box (engraved)
+Old spaulder
+Dwarf area
+Talking Island Dungeon Entrance
+Orc area
+Spider area
+Black Knight Outpost
+Black battleship
+Gueren's house
+[Level 1-69 possible area]
+[Knights Coin 500 Area]
+[Areas where level 75 and above are possible]
+The %s slot was released at %d 10,000 Adena using the discount voucher. \n\n "%s" was provided to commemorate the release.
+Left ring
+Right ring
+Return to Giran Castle Town
+Merchant search
+Move to the center of the market
+Exit from the north gate
+Exit from the western (upper) gate
+Exit from the western (bottom) gate
+Exit from the south gate
+Return to the village
+Hand over the crystal ball and the collected souls
+Take out the book carefully
+Elixir Rune of Strength
+Elixir Rune of Agility
+Elixir Rune of Constitution
+Elixir Rune of Intelligence
+Elixir Rune of Wisdom
+Rune production
+Level 55 runes
+Level 70 runes
+Level 80 runes
+Level 85 runes
+Level 90 runes
+[Power Wiki:
+[Clan:
+[Market price:
+[Kaimo Shop:
+Exclude series
+Move to the starting point
+Move to the waypoint
+Will you use your discount voucher to unlock% s slots at% d10,000 Adena?
+Read the Atonement Bible once
+Read the Atonement Bible three times
+Hear about spirit magic
+The Land of the Abandoned
+dummy
+dummy
+dummy
+Land of the Abandoned (PC)
+Discount ticket
+Please enter the name of the link you want to convey.
+[Repair damaged equipment]
+[Link:%s]
+[Link:
+[Level 30-69] Talking Island Dungeon 2nd floor
+[Level 55-74] Silver Night Town Dungeon 1st floor
+[Level 55-74] Silver Night Town Dungeon 3rd Floor
+Open the hidden hunting ground information pop-up
+Open the integrated production guide pop-up
+Instance dungeon automatic matching
+Open the Ein Hazard Point Information pop-up
+Read the Atonement Bible 5 times
+Read the Atonement Bible 10 times
+dummy
+Once
+10 times
+100 times
+Fragment
+Level 91 runes
+Level 92 runes
+Level 93 runes
+Enter the Unicorn Temple
+Participate in the fierce battle Coliseum
+Check competition information
+Soul Crystal / Key Recovery
+Rent a training center
+Enter the training center
+Rental of 4 training ground keys
+Rental of 8 training ground keys
+Rental of 16 training ground keys
+20%
+Give new power
+Berserker: Short range damage +2, short range hit +8
+Level 94 runes
+Level 95 runes
+In battle, display the outer frame of your character
+Outer frame display of party members
+[UI transparency adjustment]
+You can set the transparency and minimization of the UI with [Ctrl + arrow keys].
+UI transparency
+%d%
+Increased transparency
+Decreased transparency
+Main screen UI minimized
+UI basic mode conversion
+UI minimization mode conversion
+Dragon Skin: Damage reduction +5 (damage reduction +1 for every 2 levels up from level 80)
+1,000 Adena
+You cannot release the slot because there are not enough levels.
+A name that already exists. Please change again.
+Blood clan
+alliance
+Store
+management
+Recommended clan
+Clan founded
+Clan search
+Clan name
+Monarch name
+Clan member
+Introduction
+Status
+Degree of contribution
+Weekly contribution
+Cumulative contribution
+Contribution to ownership
+Notice
+C
+Character name
+Rank
+Note
+Founding date
+Alliance Lord
+emblem
+Emblem identification
+Emblem list
+Clan name
+function
+Join the alliance
+Password subscription
+Immediate subscription
+Approved subscription
+Recruitment
+kinds
+war
+Declaration of war
+Ceasefire
+Surrender
+Featured clan list
+Successfully dissolved {0}.
+The powerful spirit of {0} wrapped my body.
+The powerful spirit of {0} disappeared after wrapping the body for a while.
+You can't learn any more because it's the highest level.
+Participate in Ultimate Battle
+Ultimate Battle Information
 dummy
 dummy
 dummy
@@ -7922,10 +7922,29 @@ dummy
 dummy
 You can appoint up to one deputy monarch.
 You can appoint up to 28 general ranks.
+Select the magic to extract.
+Application for membership
+Server clan
+Entering information to create a clan
+Password setting
+Under subscription
+Bonus
+Once the skill is dissolved, it cannot be recovered. Will it dissolve? \n (In the case of Glory Earth, the spirit line is initialized)
 dummy
 dummy
 dummy
 dummy
+Hunting ground picture book
+Hunting ground movement
+EXP 2%
+EXP 55%
+Living monster
+item
+search results
+Click to register the hunting ground.
+Please enter a search name.
+The number of characters has been exceeded. (Maximum 20 double-byte characters)
+You cannot use the clan function while the store is open.
 dummy
 dummy
 dummy
@@ -7934,14 +7953,39 @@ dummy
 dummy
 dummy
 dummy
+Teleport scroll not available
 dummy
+The quest is initialized every day at 6am.
 dummy
 dummy
 dummy
 dummy
+The hunting ground picture book provides DB information.
 dummy
 dummy
+Press here to register your hunting ground.
+Press here to cancel the hunting ground.
+Press here to cancel the hunting ground.
+Change
+Possessed monster
+Habitat
+Please check the recommended hunting grounds.
+You can change the hunting ground.
+return
+Hunting ground subjugation quest
+Clan Growth Buff 1: EXP + 10%
+Clan Growth Buff 2: EXP + 30%
+Clan Combat Buff 1: HP +50, Hit +1, Additional Damage +1, MR + 3%
+Clan Combat Buff 2: HP +100, Hit +2, Additional Damage +2, MR + 5%, All Skill Hits +1
+The clan growth buff disappears.
+The clan combat buff disappears.
+Currently not available.
 dummy
+It is in a stunned state.
+I can't move as if my legs were tied up.
+Available for purchase
+This is an area where slots cannot be released. Please try again in a safe place.
+It's too far away.
 dummy
 dummy
 dummy
@@ -7950,8 +7994,50 @@ dummy
 dummy
 dummy
 dummy
+Founding cost: 500 Adena
+The number of characters has been exceeded. (Maximum 135 double-byte characters)
+Founding cost: 1,000 Adena
 dummy
+BERRY
+EINPOINT
+ADENA
 dummy
+Purchase conditions not achieved
+Apply EXP + 10% for the entire clan
+Apply EXP + 30% for the entire clan
+Clan entire battle buff applied
+Clan entire battle buff applied
+Daily Dungeon KEY
+Weekly Dungeon KEY
+Immediately after purchase, 100% charge for survival cry
+The %s slot has been released.
+The %s slot was released with a discount voucher without wasting Adena.
+Account creation
+Character creation
+Weekly personal contribution
+Add it to your hunting ground list.
+The number of monsters to be defeated is initialized. Do you want to initialize it?
+Purchase is only possible in the Safety Zone.
+Meditation [Beyond]: MP recovery +5 (gradual amplification when taking MP recovery potion) \nMeditation effect is maintained during battle / movement
+The meditation [Beyond] effect ends.
+Liberation: Apply after reducing the time of abnormal skill by a certain amount
+The effect of Liberation disappears.
+Shadow Armor [Destiny]: MR + 5%, magic damage reduction effect applied
+The Shadow Armor [Destiny] effect ends.
+Moving Acceleration [Maximum]: Increased movement / attack speed
+The Moving Acceleration [Maximum] effect ends.
+Berserker: All resistance +20, short range damage +20
+Berserker: All resistance +20, short range damage +20
+The effect of Berserker disappears.
+Tactical Advance: DG / ER / MR increase according to level
+The effect of pressure disappears.
+delete
+[quest]
+release
+open
+Esc
+MENU
+S-BT
 dummy
 dummy
 dummy
@@ -7980,93 +8066,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Event announcement
 dummy
 Verification
 system
@@ -8074,15 +8074,32 @@ title
 Contents
 dummy
 dummy
+Acquisition completed
 dummy
 dummy
 dummy
 dummy
 dummy
 dummy
+Lancer
 dummy
 dummy
 dummy
+Clan dignity! The hero's clan is a legendary clan. The clan mark cannot be changed during the event.
+Registration is not possible because the conditions are not met.
+We could not register because the number of hunting grounds that can be registered has been exceeded.
+I couldn't register because I don't have the information about the current hunting ground.
+I couldn't register because I completed the quest.
+I couldn't register because the hunting ground has already been completed.
+Could not register due to an error.
+Pressure: No return
+player
+Temple of the cold Hard
+/Link
+\f2(bonus +%d%%)
+Hidden Dimension Blessing: \nAdditional Experience +20%
+Hidden Dimension Blessing: \nAdditional Experience +20% \n AC-3 \n MR +10
+Hidden Dimension Blessing: \nAdditional Experience +20% \n AC-3 \n Hit +5
 dummy
 dummy
 dummy
@@ -8090,6 +8107,7 @@ dummy
 dummy
 dummy
 dummy
+Link-up Growth Blessing: \nExperience Boost Effect
 dummy
 dummy
 dummy
@@ -8102,11 +8120,57 @@ dummy
 dummy
 dummy
 dummy
+Ein Hazard Blessing EXP Bonus
+Lancer skills, features, and characteristics are subject to change \n during official updates.
+All ranks
 dummy
 dummy
 dummy
 dummy
 dummy
+Status information
+INVOKE
+RESTORE
+POTION
+INVOKE
+RESTORE
+POTION
+REDvP
+REDvE
+VIPER
+REDvP
+REDvE
+VIPER
+Armor magic activation rate
+Weapon magic activation rate
+Absolute HP recovery
+Absolute MP recovery
+HP recovery drug critical rate
+HP recovery drug delay reduction
+Probability damage reduction
+Damage reduction value
+Probability damage reduction
+Damage reduction value
+Skill critical rate
+Skill hit rate
+1 stage
+2 stages
+Three stages
+Special
+Random reward
+Basic reward
+You can use Adena to change the random reward item list, and the appearance rate of high-value items will increase depending on the number of times \n
+update
+Receive rewards
+Stamp completed
+unlock
+Hunting ground picture book
+Hunting ground list
+You can see the lineage hunting grounds. \n Join the quest by registering / unregistering the hunting ground. \ n You can move to the corresponding position by moving the hunting ground. \n You can check the living monsters and drop items.
+Subjugation quest
+Participation on a daily basis. \n It is initialized at 6 am every day. \nYou can earn EXP and item rewards by completing the quest. \nThe EXP that can be obtained according to the conditions is displayed.
+search results
+Search by the first letter of the item name. \nDouble-click the drop item to search. \nThe search name (item), possessed monster, and hunting ground where you live are displayed in that order. \n When you press the hunting ground where you live, the main page will change to the corresponding hunting ground.
 dummy
 dummy
 dummy
@@ -8138,6 +8202,12 @@ dummy
 dummy
 dummy
 dummy
+Ancient spirit tomb
+Ancient giant tomb
+Einhasad Growth Potion: \nExperience +30% \nEinhasad Blessing Experience +30%
+Blessed state of Einhasad
+If the current weight is 100% or more, you will not be able to receive the attendance check reward.
+The status number of the previous stage is not enough by %d.
 dummy
 dummy
 dummy
@@ -8154,90 +8224,20 @@ dummy
 dummy
 dummy
 dummy
+Experience point
+Acquisition rate
+recovery amount
+Magic activation
+Absolute recovery
+Potion efficiency
 dummy
 dummy
 dummy
+Staged status
+Unlock when all 3 statuses of the previous stage are strengthened by 25
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+I played for %d hours. Excessive use of games may interfere with normal daily activities.
 dummy
 dummy
 dummy

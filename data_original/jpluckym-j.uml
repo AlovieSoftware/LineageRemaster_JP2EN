@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>使用方法>><br/>
+		 <br/>
+		 「激運の印章」か「幸運の宝玉」を入れて、お好きなアイテムをお選びください。<br/>
+		 <br/>
+		 「激運の印章」か「幸運の宝玉」があれば、10月13日までいつでもご利用できます。
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

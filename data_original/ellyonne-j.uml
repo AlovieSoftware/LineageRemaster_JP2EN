@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p><br/>
+		みんなは私をエリオンと呼ぶんだ。見ればわかると思うけど私はエルフさ。</p>
+		<panel type="Panel_Asking_Bt">
+			<button link="ellyonne4"/>
+        </panel>
+		<p>長い間私は象牙の塔でタラスと魔法の研究をしてきた。精霊魔法を再現し、喜んでたあの時が昨日のようだ。</p>
+		<p>けれども今は、自ら更に純粋でなければならず、再びここに戻ってきた。</p>
+		<p>再びエルフの森に戻ってくると、人間世界で感じた便利さが懐かしいもんだ。</p>
+		<p>大抵のことはエルフの森の友だちに教えてお願いすれば使えるんだが、彼らの魔法をエルフには教えられなかった。彼らが精霊魔法を使えないのと同じようにね。</p>
+		<p>仕方なく昔の友人でもあり、同僚のタラスに象牙の塔のウィザードをエルフの森に派遣するよう頼んだのさ。</p>
+		<p>そこにいるエンドルがまさにそのウィザードだ。</p>
+	</dialog>
+</npcdialog>

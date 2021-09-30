@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_023</portrait>
+		<name><var src="name"/></name>
+		<job>[マント製作職人]</job>
+		<text></text>
+	</npc>
+  <dialog>
+    <p>Tシャツをつくるには赤い布地3枚、蒼い布地2枚、白い布地10枚が必要なんだ。手数料は3万アデナだよ。<br/><br/><br/></p>
+    <p><a action="request t-shirt">Tシャツをつくる</a><br/></p>
+  </dialog>
+</npcdialog>

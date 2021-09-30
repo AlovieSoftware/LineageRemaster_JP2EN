@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>マービン</name>
+		<job>[成長のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		 <br/>
+		 お願いしたオーレン雪山の調査はうまくいきましたか？<br/><br/>
+		 <a link="marbinquest11">＊必要なアイテム リスト確認</a><br/>
+		 <br/><br/>
+		<font fg="ffffaf">[不完全な魔法玉の欠片]</font>
+		<br/><br/>
+		</p>
+		<panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+        </panel>
+		<p>
+		<br/><br/>
+		僕が差し上げる報賞経験値は<font fg="ffaaff">レベル52基準</font>です。<br/><br/>
+		まだ<font fg="ffaaff">レベル70</font>に到達していないなら、もっと修練してから会いに来てください。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

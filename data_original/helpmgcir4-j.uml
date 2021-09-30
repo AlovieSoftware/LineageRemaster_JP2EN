@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>イリュージョニストの幻術魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">イリュージョニストの幻術魔法：レベル4</font><br/></p>
+	<p><font fg="ffffaf">インサイト：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：60/0<br/>
+	持続時間：640秒<br/>
+	対象：術者<br/>
+	効果：術者の洞察力を引き上げます。<br/>
+	CHAを除くすべてのステータスが1ずつ向上します。<br/></p>
+	
+	<p><font fg="ffffaf">パニック：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/30<br/>
+	持続時間：64秒<br/>
+	対象：術者から5セル内のPCまたはNPCの1人<br/>
+	効果：対象をパニック状態に陥らせます。<br/>
+	すべてのステータスが1ずつ低下します。<br/></p>
+	
+	<p><font fg="ffffaf">リデュース ウェイト：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：50/0<br/>
+	持続時間：1800秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、重量が減少します。<br/></p>
+	
+	<p><font fg="ffffaf">イリュージョン[アバター]：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：50/0<br/>
+	持続時間：128秒<br/>
+	対象：術者<br/>
+	効果：あらゆる攻撃力が10向上します。<br/></p>
+	
+	<p><font fg="ffffaf">キューブ[アバター]：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：40/0<br/>
+	材料：属性石5個<br/>
+	持続時間：128秒<br/>
+	対象：パーティーメンバー<br/>
+	効果：パーティーメンバー全体に、あらゆる攻撃力+10、受けるダメージ5%向上。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

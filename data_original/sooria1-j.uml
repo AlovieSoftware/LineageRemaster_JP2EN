@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_022</portrait>
+		<name>スリアー</name>
+		<job>[アミュレット製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 隠そうったって私にはお見通しですよ。<br/>
+		 うん…おそらく勇士様は赤い太陽の光の気を持っておられるようですね。
+		 勇士様にぴったりの<font fg="ffffaf">アミュレット</font>をお作りしますよ。<br/>
+		 これは単に私の誠意ですから、遠慮しないでください。<br/>
+		 <br/>
+		 もちろんタダではないですよ。まさか、一文無しというわけじゃないですよね？<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

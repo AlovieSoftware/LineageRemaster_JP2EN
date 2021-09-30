@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>shop</icon>
+  <title>商店</title>
+   <npc>
+	<portrait>PO_039</portrait>
+    <name><var src="name"/></name>
+  </npc>
+  <dialog>
+    <p><br/>こんにちは！君主様！私は今回新しく創設された<a link="horseseller3">アデン守護騎馬団</a>の団員です。<br/><br/>
+	我々アデン守護騎馬団では創団を記念し、アデンの名望ある君主様のために専用の馬を用意いたしました。<br/><br/>
+	もちろん誰にでも差し上げるわけではございません。君主の威厳を持ち、アデン市民に尊敬される、まさにあなた様のような方に差し上げています。<br/><br/>
+	さあ、どうぞ我々が用意した馬にお乗りください。君主様のカリスマがより一層際立つことでしょう。<br/><br/></p>
+	<panel type="Panel_Shop_Bt_Buy">
+		<button action="buy"/>
+	</panel>
+	<p><br/></p>
+	<p><a link="horseseller2">詳しい説明をお願いします。</a></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

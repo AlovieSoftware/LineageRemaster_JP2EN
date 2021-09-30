@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>エリエル</name>
+		<job>善の使者</job>
+		<!--text></text-->
+	</npc>
+	
+	<dialog align="left">
+		<p>私は善の使者エリエル。アインハザード様の力を借り、愛を伝え育むことを役目としております。</p>
+		<panel type="Panel_Donate_Bt">
+				<button action="chg"/>
+        </panel>
+		<p>愛の証である指輪があれば、二人の愛を確認するだけでなく、会いたい時にすぐに会うことができるでしょう。</p>
+		<p>愛とは、常に相手を思いやることです。ですから、互いにたゆまぬ努力をしなければ、すぐに冷めてしまうこともあるでしょう。</p>
+		<p>また、アデン聖堂の運営のために寄付を受け付けております。</p>
+	</dialog>
+	
+</npcdialog>

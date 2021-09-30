@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_044</portrait>
+		<name>メイアー</name>
+		<job>[商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		私が大人しく言ってるうちに、この店から出て行きなよ。商人にも誇りってモンがあんのさ。
+		<br/>
+		</p>		
+	</dialog>
+</npcdialog>

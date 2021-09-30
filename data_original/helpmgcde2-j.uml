@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>黒精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ダークエルフの黒精霊魔法：レベル2</font><br/></p>
+	<p><font fg="ffffaf">ムービング アクセレーション：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、術者の移動速度が1.5倍に向上します。<br/>
+	ヘイストと重複使用可能。<br/></p>
+	
+	<p><font fg="ffffaf">バーニング スピリッツ：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：集中力を高めて、一定確率で1.5倍の近接攻撃力が出るようになります。<br/></p>
+	
+	<p><font fg="ffffaf">シャドウ スリープ：</font><br/>
+	種類：呪い<br/>
+	性向：Chaotic<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：1～4秒<br/>
+	対象：術者から3セル内のPCまたはNPC<br/>
+	効果：一定時間敵を眠らせます。<br/>
+	この魔法は性向値が減少します。<br/></p>
+	
+	<p><font fg="ffffaf">ベノム レジスト：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：320秒<br/>
+	対象：術者<br/>
+	効果：毒に対する抵抗力を上げて、持続時間中、毒にかからなくなります。<br/></p>
+	
+	<p><font fg="ffffaf">ドレス デクスタリティー：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：術者のDEXを+3向上させます。<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

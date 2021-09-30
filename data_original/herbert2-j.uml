@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_023</portrait>
+		<name><var src="name"/></name>
+		<job>[マント製作職人]</job>
+		<text></text>
+	</npc>
+  <dialog>
+    <p>わりぃけど、あんたみてぇな犯罪者とはかかわりたくねぇんだ。どいとくれ。</p>
+  </dialog>
+</npcdialog>

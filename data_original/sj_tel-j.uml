@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>王国のウィザード</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		国の要請に応じてくださりありがとうございます。<br/>
+		魔法の力はそれはとても驚くもので有用ではありますが、こうした危険な側面も持ち合わせています。<br/>
+		<br/>
+		私たちウィザードは常にそれを意識しながら仕事をしなければいけません。<br/>
+		今回の件は良からぬ者たちの仕業のようです。<br/>
+		<br/>
+		悪い魔法の力が込められた<font fg="ffffaf">魔法動力装置</font>を壊す手伝いをしてください。<br/>
+		では、呪文を唱えます。<br/>
+		<br/>
+		移動費用：9,900アデナ<br/>
+		入場時間：60分<br/>
+		</p>
+		<panel type="Panel_Teleport">
+			<button action="a"/>
+		</panel>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

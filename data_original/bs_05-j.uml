@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		こんにちは、私は象牙の塔から派遣された <name/>と申します。
+		<br/>
+		<br/>
+		あっ！あなたは必殺の魔法を享受できる証をお持ちですね！3000アデナを渡してくれたら必殺の魔法をかけてあげましょう。
+		<br/>
+		<br/>
+		<br/>
+		メニューは3つあります！<br/>
+		主に肉弾戦をする方には<font fg="ffffaf">必殺の火炎魔法</font>、遠くから弓で攻撃する方には<font fg="ffffaf">必殺の疾風魔法</font>、そして魔法で戦う方には<font fg="ffffaf">必殺の魂の魔法</font>をオススメします。
+		<br/>
+		<br/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

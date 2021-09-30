@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+			
+
+		<p>スロット解放のためには英雄になる条件が必要なんだ。<br/><br/></p>
+		<p><font fg="ffaaff">インシグニア使用許可書</font>があるか、スロット解放ができるレベルになっているか確認してくれ。<br/></p>
+		<p>あと、すでにスロットが解放されているかも一度確認してくれ。<br/></p>
+
+
+				
+	</dialog>
+
+</npcdialog>

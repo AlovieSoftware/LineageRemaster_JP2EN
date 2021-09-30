@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>王宮庭園の警備兵</name>
+		<job>イベント テレポート</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ちょっと待った！<br/>
+		ここは誰でも入れるところではない。<br/>
+		<br/>
+		国王から認められた勇士のみが入れるのだ。<br/>
+		勇士リストに君の名前があるか確認してから案内しよう。<br/>
+		少し待つように！<br/>
+		<br/>
+		<font fg="ffffaf">入場料2900アデナ</font>は準備できているか？<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Teleport">
+			<button action="a"/>
+		</panel>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

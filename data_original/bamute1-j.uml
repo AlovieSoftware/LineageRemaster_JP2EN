@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_018</portrait>
+		<name>バミュト</name>
+		<job>ブーツ製作職人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> ブーツがだいぶ古くなっているようだな。ちょうどいいところに来たな。
+		そうだ、俺がアデン大陸一の<font fg="ffffaf">ブーツ</font>職人だ！ハハハハ！<br/>
+		<br/>
+		普及型ブーツから高級ブーツまで何でもできるから、欲しいものを言ってくれたらすぐに作ってやるぞ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

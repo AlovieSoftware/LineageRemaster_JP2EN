@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>秘技</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ドラゴンナイトの秘技：レベル2</font><br/></p>
+	<p><font fg="ffffaf">ブラッドラスト：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/30<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：300秒<br/>
+	対象：術者<br/>
+	効果：眠っていた竜の血を呼び覚まし、攻撃/移動速度を向上させます。<br/></p>
+	
+	<p><font fg="ffffaf">フォー スレイヤー：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/10<br/>
+	持続時間：一瞬<br/>
+	対象：術者から周囲2セル内のPCまたはNPCの1人<br/>
+	効果：自分に敵意を持つ敵にすばやく3連続攻撃を加えます。<br/>
+	弱点露出が適用されます。<br/></p>
+	
+	<p><font fg="ffffaf">デストロイ：フィアー：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：デストロイ使用時、DG-20効果追加<br/></p>
+	
+	<p><font fg="ffffaf">マグマ アロー：</font><br/>
+	種類：攻撃/火<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：5/0<br/>
+	持続時間：一瞬<br/>
+	対象：PCまたはNPCの1人<br/>
+	効果：魔法の矢を飛ばして、敵に衝撃を加えます。<br/></p>
+	
+	<p><font fg="ffffaf">覚醒[パプリオン]：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/20<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：自分の肉体を覚醒させて、水竜の力を引き出します。<br/>
+	持続時間中、重量ゲージが50%を超えてもHP/MPが回復します。<br/>
+	ただし、重量ゲージが赤くなると、効果が失われます。<br/>
+	ER+10効果が適用されます。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

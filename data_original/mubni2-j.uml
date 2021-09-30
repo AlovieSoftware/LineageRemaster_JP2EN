@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_043</portrait>
+    <name>ムブニ</name>
+    <job>[傲慢の製作商人]</job>
+  </npc>
+  <dialog>
+    <p> 今持っているアミュレットを強化すれば、おいらの前の銅像から休憩階まですぐに行けるアミュレットが作れるんだ…。<br/>
+	方法は2つだが、混沌の錬金術が変異の錬金術よりも少し確率が高い…もちろん、より大きな犠牲が伴うけどね。<br/>
+	混沌の錬金術は封印が解除された傲慢の塔テレポートアミュレットと、封印された傲慢の塔テレポートアミュレットが1つずつ必要だ。</p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag0">混沌の錬金術 1階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag1">混沌の錬金術 11階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag2">混沌の錬金術 21階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag3">混沌の錬金術 31階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag4">混沌の錬金術 41階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag5">混沌の錬金術 51階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag6">混沌の錬金術 61階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag7">混沌の錬金術 71階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag8">混沌の錬金術 81階アミュレット</a></p>
+    <p><br/></p>
+    <p><a action="request oman amulet bag9">混沌の錬金術 91階アミュレット</a></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

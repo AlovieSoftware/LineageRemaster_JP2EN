@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフの王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		君か。<br/>
+		我々を助けてくれるというのは。<br/>
+		<br/>
+		会場は台無しになったか？そうか、残念だ。<br/>
+		年に1度の桜まつりを皆楽しみにしていたからな。<br/>
+		<br/>
+		<br/>
+		だが君のおかげで立て直す目途がつきそうだ。<br/>
+		感謝する。<br/>
+		<br/>
+		<br/>
+		<br/>
+		<font fg="ffffaf">冷寒の気</font>と<font fg="ffffaf">火の欠片100個</font>を集めてきたか？<br/>		
+		<br/>
+		<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		<br/>
+		我の報賞は<font fg="ffffaf">レベル52が基準だ。レベル60未満</font>の場合はもっと成長してから来るのだな。<br/>
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

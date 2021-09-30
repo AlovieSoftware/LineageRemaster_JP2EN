@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>マービン</name>
+		<job>[成長のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		 <br/>
+		 僕がお願いした内容をお忘れですか？<br/>
+		<br/>
+		 調査しながら発見した<font fg="ffaaff">凍りついた女の涙</font>を100個と、僕がお渡しした袋から出てくる<font fg="ffaaff">不完全な魔法玉の欠片</font>、それと象牙の塔のパゴル様から購入できる 
+		 <font fg="ffaaff">象牙の塔の魔法の精粋</font>を持ってきていただかなければ、僕もお返しをすることができません。<br/>
+		<br/>
+		 象牙の塔の魔法の精粋はオーレンの村の雑貨商人<font fg="ffaaff">ビウス</font>からも買えますよ。<br/>
+		 <br/><br/>
+		 それからもう一つお伝えしたいことが。<br/>
+		<font fg="ffaaff">ドラゴンの報賞</font>が欲しいなら、各報賞に合うドラゴンのダイアモンドが必要です。<br/>
+        <br/>
+		</p>
+	</dialog>
+</npcdialog>

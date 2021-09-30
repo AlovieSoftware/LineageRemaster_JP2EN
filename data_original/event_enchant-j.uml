@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">ルームティス/スナッパー+1強化イベント</font><br/></p>
+	<p>ルームティスおよびスナッパー<font fg="ffffaf">+1</font>強化材料<br/></p>
+	<p>ルームティスおよびスナッパー最大+6まで強化可能<br/><br/></p>   
+	<p>[NPC製作場所]<br/></p>
+	<p><img src="14206"></img><br/><br/></p>
+	<p>[お知らせからの製作]</p>
+	<p><img src="14207"></img><br/><br/></p>
+  </dialog>
+</npcdialog>

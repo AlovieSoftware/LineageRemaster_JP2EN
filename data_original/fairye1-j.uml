@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>フェアリー</name>
+		<job>[森の守護者]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 世界はとっくに<font fg="ffffaf">グランカイン</font>のせいで薄汚れちゃったけど、ここエルフの森だけは<font fg="ffffaf">アインハザード</font>様の命令を受けてうちら守護者が保護してる、聖なる者の国さ！<br/><br/>
+		 悪い人間どもなんか無視して、うちらだけで楽しく暮らそう。我が<a link="fairye2">女王様</a>もそうおっしゃってるし～<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

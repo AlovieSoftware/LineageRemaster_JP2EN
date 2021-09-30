@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>ブラッド</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<p><br/>
+	<font fg="FF0000">Hard</font>：<font fg="ffafff">火炎の気</font>5個/<font fg="00D8FF">一般</font>：<font fg="ffafff">火炎の気</font>1個<br/>
+	</p>
+	<panel type="Panel_Teleport_Temple">
+		   <button action="a"/>		   
+		   <button action="b"/>
+    </panel>
+	<p>マービンから話を聞いて来たのか？スビンのためにも、<br/>その頼みを必ず聞いてあげてくれ。<br/>
+	<br/>
+	何日か前に会った北側の警備塔に勤務している者の話では、スビンが<br/>巨大なイエティの兵士たちに引きずられていったそうだが…<br/>彼女の安全が心配だ。<br/>
+	<br/>
+    アイス キューブから強力な火炎と関連するものが出た<br/>のか？その<font fg="ffafff">火炎の気</font>を俺にくれれば、<br/>君に役に立つ魔法道具を作って象牙の塔の<br/>諜報員に届けておこう。急いで酷寒の神殿<br/>に行ってくれ。<br/>
+	<br/>
+	象牙の塔の諜報員たちはスノーマンの姿をしているから、神殿の中に入ったら必ず会って魔法道具を受け取るんだ。<br/>
+	<br/>
+	ハードモードはより強い勇士のためのものだから、まだ自分が弱いと思ったら止めることだな。<br/>
+	<br/>
+    </p>
+  </dialog>
+</npcdialog>

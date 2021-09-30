@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>黒精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ダークエルフの黒精霊魔法：黒精霊魔法 その他</font><br/></p>
+	<p><font fg="ffffaf">魔法ウィンドウ：</font><br/>
+	いつでも<font fg="afffff">Ctrl+S</font>で、魔法ウィンドウを呼び出せます。<br/></p>
+
+	<p><font fg="ffffaf">魔法ショートカット：</font><br/>
+	アイテムの場合と同じく、魔法も<font fg="afffff">F5～F12</font>までキーを指定できます。<br/>
+	魔法ウィンドウを開いた後、右下にあるショートカットのスロットに<font fg="ffffff">魔法アイコンをドラッグして置くことで</font>ショートカットに指定できます。<br/></p>
+
+	<p><font fg="ffffaf">魔法モード転換：</font><br/>
+	<font fg="afffff">Ctrl+X</font>を押すと、魔法モードに切り替わります。<br/>
+	魔法モードの間は、画面右下に自分が一番最近に使用した魔法が表示され、指定した対象にその魔法を自動で使用させることができます。<br/>
+	ただし、ゲーム開始時は直前に使用した魔法が無いため、どの魔法も記憶されていません。<br/>
+	もう一度<font fg="afffff">Ctrl+X</font>を押すと、魔法モードが終了し、通常攻撃が可能になります。<br/></p>
+
+	<p><font fg="ffffaf">魔法強制攻撃：</font><br/>
+	魔法も通常攻撃と同じく、<font fg="afffff">Ctrlキー</font>を押した時のみプレイヤーに使用できます。<br/>
+	攻撃対象を設定する魔法の場合、<font fg="afffff">/pk コマンド</font>を使用すると、Ctrlキーを押していない状態でも強制攻撃が可能です。<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

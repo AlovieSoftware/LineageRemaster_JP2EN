@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_017</portrait>
+		<name>フィリップ</name>
+		<job>[グローブ製作職人]</job>
+		<text></text>
+	</npc>
+	
+	<dialog align="left">
+		<p>すみません。悪人とは取引できません。 </p>
+	</dialog>
+
+</npcdialog>

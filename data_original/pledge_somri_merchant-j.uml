@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>装備商人</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>ソムリ</name>
+		<job>[装備商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		<br/>
+		ここまで来るのにご苦労だったな。<br/>
+		<br/>
+		まだまだ先は長いから<font fg="ffffaf">装備</font>を確認してから行きな。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

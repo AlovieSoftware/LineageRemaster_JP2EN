@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_044</portrait>
+		<name>メイアー</name>
+		<job>[商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<panel type="Panel_Shop_Bt_Buy">
+			<button action="buy"/>
+		</panel>
+		<p>
+		<br/>
+		いらっしゃい。お客様。<br/>
+		ギランの雑貨商店はあらゆる品物を取り扱っています。<br/>
+		生活必需品からとんでもない能力を持つスクロールまで、なんでも揃ってますよ。
+		<br/>
+		<br/>
+		<a action="s_merchant3">最近の物価について聞く</a>
+		</p>
+	</dialog>
+</npcdialog>

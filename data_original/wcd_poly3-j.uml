@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_045</portrait>
+		<name><var src="name"/></name>
+		<job>謎の魔術師</job>
+		<text>フードの下から陰湿な笑みが見える。口の形がどこか不自然だ。</text>
+	</npc>
+	
+	<dialog>		
+		<p>…<br/>
+		ククク…<br/><br/><br/>面白い…クククキキキキ…</p>
+	</dialog>
+
+</npcdialog>

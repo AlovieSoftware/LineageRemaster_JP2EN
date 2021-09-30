@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>レベル11</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ウィザードの魔法：パッシブ</font><br/></p>
+	
+	<p><font fg="ffffaf">イミューン トゥ ハーム：セイント</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：イミューン トゥ ハームを自分に詠唱した時、効果が強化される<br/>
+	持続時間60秒に増加<br/>
+	レベル80～90：レベルが2上がるごとにPVPダメージ減少1%追加<br/>
+	レベル91～95：レベルが1上がるごとにPVPダメージ減少1%追加<br/></p>
+	
+	<p><font fg="ffffaf">マイスター アキュラシー</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：魔法武器で攻撃時、Missが出ても発動確率が適用される<br/>
+	攻撃が成功した時の半分の発動率が適用<br/></p>
+
+	<p><font fg="ffffaf">メディテーション：ビヨンド</font><br/>
+	種類：付与<br/>
+	レベル：85<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：メディテーション効果が戦闘/移動など行動時にも維持されます。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

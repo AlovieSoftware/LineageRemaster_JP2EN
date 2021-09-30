@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国の書記官</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>こんにちは～あれ？もしかして…お会いしたことありますよね？<br/>
+		一刻も早くお餅を取り戻して…月明りの欠片も守らないと！<br/>
+		今回も勇敢なあなたが助けてくれますよね？<br/>
+		以前にもお会いしましたし、特別に入場券を安くあげますよ。<br/>
+		<br/>
+		魔法の力で書くものだから、ただでは差し上げられないですね。<br/>
+		浮島でも活躍するんですよ！さあ、いってらっしゃい！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

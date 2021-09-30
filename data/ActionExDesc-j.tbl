@@ -1,32 +1,32 @@
 33
-0 \fHAction:\f> Survival Cry(Ctrl+E)^\fHKind: \f>Action^\fHObject: \f>Self^\fHEffect: \f>HP Mass Recovery^      Rate Varies Depending on Weapon Enchantment^      0 Enchant: +0~6 400 HP Recovered^      1 Enchant: +7 700 HP Recovered^      2 Enchant: +8 800 HP Recovered^      3 Enchant: +9 900 HP Recovered^      4 Enchant: +10 1000 HP Recovered^      5 Enchant: +11++ 1100 HP Recovered
-1 \fHAction:\f> Teleport to Sky Garden^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Moves to Sky Garden^        - PCRoom: Free^        - Normal: Consumes Pixie's Golden Feather x1
-2 \fHAction:\f> Toggle(F4)^\fHKind: \f>Action^\fHObject: \f>Self +1 Cell Radius^\fHEffect: \f>Pick up nearby items.
-3 \fHAction:\f> Social Action : Greeting^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Social action greet is trigged.
-4 \fHAction:\f> Social Action : Shout^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Social action shout is trigged.
-5 \fHAction:\f> Social Action : Duel^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Social action duel is requested.
-6 \fHAction:\f> Social Action : Wait^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Social action waiting is trigged.
-7 \fHAction:\f> Trade^\fHKind: \f>Action^\fHObject: \f>1 PC facing each other^\fHEffect: \f>Attempt to trade with target.
-8 \fHAction:\f> Party Invite^\fHKind: \f>Target^\fHObject: \f>One PC in the screen^\fHEffect: \f>Invite the target to a party.
-9 \fHAction:\f> Exclude^\fHKind: \f>Target^\fHObject: \f>1 PC in Aden World^\fHEffect: \f>Put the target on the block list.
-10 \fHAction:\f> Bookmark UI^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Display bookmark window.
-11 \fHAction:\f> Bookmark^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Remember your current location.
-12 \fHAction:\f> Shop^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Opens a private store^      Store can only be open in the market.
-13 \fHAction:\f> Declare(Alt+E)^\fHKind: \f>Target^\fHObject: \f>1 PC in Aden World^\fHEffect: \f>Report the target.
-14 \fHAction:\f> Link of growth (mobile) management window^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Display TAM window
-15 \fHAction:\f> Loot All^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>You can pick up all items
-16 \fHAction:\f> Corpse Transparency^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>Toggle nvisibility of monster bodies.
-17 \fHAction:\f> Buff Notification^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>Toggle the buff end notification.
-18 \fHAction:\f> Quest Monster^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>Toggle quest monster display.
-19 \fHAction:\f> Auto Summon Dolls^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>By consuming crystals^      Keeps the summoned magic doll.
-20 \fHAction:\f> Auto Attack^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>Attack target with left mouse click^      Select to perform auto attack^      2 follow the target character and hit
-21 \fHAction:\f> PVP^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>PVP Toggle
-22 \fHAction:\f> Auto Poe Slayers^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>When the target's weakness exposure is activated^      Auto use Poe Slayer.
-23 \fHAction:\f> Auto Dragon Diamond^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>If Einhasad's blessing level goes down to 99 or less,^      To keep Einhasad's blessing^      Used automatically.
-24 \fHAction:\f> Equipment Set Change^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Change the set of equipment worn.
-25 \fHAction:\f> Pet Attack^\fHKind: \f>Target^\fHObject: \f>Drinker^\fHEffect: \f>Pet attack target designation.
-26 \fHAction:\f> Pet Retreat^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Pet retreat order
-27 \fHAction:\f> Video REC^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Play screen video recording.
-28 \fHAction:\f> PSS^\fHKind: \f>Toggle^\fHObject: \f>Drinker^\fHEffect: \f>PSS can be run/stopped.
-29 \fHAction:\f> Party Assist^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Attacks the party leader's target. (In the case of the party leader, the target is shared with the party members.)
-30 \fHAction:\f> Monster Release (Shift)^\fHKind: \f>Action^\fHObject: \f>Drinker^\fHEffect: \f>Monster selection and name display can be on/off.
+0 \fHAction:\f> Survival Cry(Ctrl+E)^\fHType: \f>Action^\fHTarget: \f>Self^\fHEffect: \f>Let recover a large amount of HP ^ The amount of recovery varies depending on the PC level ^ 1st stage: Level 1 to 87 HP 800 recovery ^ 2nd stage: Level 88 to 89 HP 1,000 recovery ^ 3rd stage: Level 90 or higher HP 1,200 recovery ^
+1 \fHAction:\f> Teleport to Sky Garden^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Moves to Sky Garden^        - PCRoom: Free^        - Normal: Consumes Pixie's Golden Feather x1
+2 \fHAction:\f> Toggle(F4)^\fHType: \f>Action^\fHTarget: \f>Self +1 Cell Radius^\fHEffect: \f>Pick up nearby items.
+3 \fHAction:\f> Social Action : Greeting^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Social action greet is trigged.
+4 \fHAction:\f> Social Action : Shout^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Social action shout is trigged.
+5 \fHAction:\f> Social Action : Duel^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Social action duel is requested.
+6 \fHAction:\f> Social Action : Wait^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Social action waiting is trigged.
+7 \fHAction:\f> Trade^\fHType: \f>Action^\fHTarget: \f>1 PC facing each other^\fHEffect: \f>Attempt to trade with target.
+8 \fHAction:\f> Party Invite^\fHType: \f>Target^\fHTarget: \f>One PC in the screen^\fHEffect: \f>Invite the target to a party.
+9 \fHAction:\f> Exclude^\fHType: \f>Target^\fHTarget: \f>1 PC in Aden World^\fHEffect: \f>Put the target on the block list.
+10 \fHAction:\f> Bookmark UI^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Display bookmark window.
+11 \fHAction:\f> Bookmark^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Remember your current location.
+12 \fHAction:\f> Shop^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Opens a private store^      Store can only be open in the market.
+13 \fHAction:\f> Declare(Alt+E)^\fHType: \f>Target^\fHTarget: \f>1 PC in Aden World^\fHEffect: \f>Report the target.
+14 \fHAction:\f> Link of growth (mobile) management window^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Display TAM window
+15 \fHAction:\f> Loot All^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>You can pick up all items
+16 \fHAction:\f> Corpse Transparency^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>Toggle nvisibility of monster bodies.
+17 \fHAction:\f> Buff Notification^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>Toggle the buff end notification.
+18 \fHAction:\f> Quest Monster^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>Toggle quest monster display.
+19 \fHAction:\f> Auto Summon Dolls^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>By consuming crystals^      Keeps the summoned magic doll.
+20 \fHAction:\f> Auto Attack^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>Attack target with left mouse click^      Select to perform auto attack^      2 follow the target character and hit
+21 \fHAction:\f> PVP^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>PVP Toggle
+22 \fHAction:\f> Auto Poe Slayers^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>When the target's weakness exposure is activated^      Auto use Poe Slayer.
+23 \fHAction:\f> Auto Dragon Diamond^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>If Einhasad's blessing level goes down to 99 or less,^      To keep Einhasad's blessing^      Used automatically.
+24 \fHAction:\f> Equipment Set Change^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Change the set of equipment worn.
+25 \fHAction:\f> Pet Attack^\fHType: \f>Target^\fHTarget: \f>Drinker^\fHEffect: \f>Pet attack target designation.
+26 \fHAction:\f> Pet Retreat^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Pet retreat order
+27 \fHAction:\f> Video REC^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Play screen video recording.
+28 \fHAction:\f> PSS^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>PSS can be run/stopped.
+29 \fHAction:\f> Party Assist^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Attacks the party leader's target. (In the case of the party leader, the target is shared with the party members.)
+30 \fHAction:\f> Monster Release (Shift)^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Monster selection and name display can be on/off.

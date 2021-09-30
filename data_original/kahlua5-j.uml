@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_021</portrait>
+		<name><var src="name"/></name>
+		<job>[シールド製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+	<p><br/>
+ 材料が足りないようだが、かばんをもう一度確認してみな。<br/><br/>
+ 私はピュアル兄さんとは違う材料を使っているからな！<br/><br/>
+ <a link="kahlua1">製作リストの確認</a>
+</p>
+</dialog>
+</npcdialog>

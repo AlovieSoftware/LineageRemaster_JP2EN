@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+	<p><br/>
+	<font fg="ffffff"><var src="name"/>：</font>こんにちは。このコロシアムではアルティメットバトルが行われます。</p>
+	<p>競技は<font fg="ffaaff">毎日</font>、<font fg="ffffaf">22時30分</font>に行われます。費用は<font fg="ffffaf">10000アデナ</font>です。</p>
+	<p>競技中に起きた事故については、我々は一切責任を持たないのでご了承ください。</p>
+	<br/>
+	    <panel type="Panel_Colosseum01_Bt">
+            <button action="ent"/>
+            <button action="info"/>
+        </panel>
+    <br/>
+	<p>ちなみに、競技中に登場するモンスターたちは実際のモンスターではなく、魔法の力で再現したものなので、誤解のないようお願いします。<br/></p>
+  </dialog>
+</npcdialog>

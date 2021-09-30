@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>執行剣強化</title>
+	<npc>
+		<portrait></portrait>
+		<name>アレン</name>
+		<job>ヘイブンの助手</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>こんにちは。ヘイブン様の助手をしているアレンと申します。<br/><br/>
+		 ヘイブン様がお忙しく、代わりに私がお助けに上がりました。<br/><br/>
+		 ヘイブン様のようにすべてのアイテムを作ることはできませんが、一部の武器を強くすることができます。<br/><br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+		<p>
+			<br/>
+			実力はまだまだですので、失敗することもあります。<br/><br/>
+			一度お考えください。<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

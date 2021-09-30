@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[伝説の製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 世の中には知らないことが本当にたくさんあるな。思いも寄らない場所で不思議な力を得る人たちを見たりな…<br/>
+		 <br/>
+		 ずっと昔に会った、あるアデンの勇士を思い出すな…<br/>
+		 ちょっと待った！ところで君はどうして私のところに？私を訪ねてきたということは、私が誰か知っているということだな？まさか君はあの<font fg="ffffaf">不思議な</font>何かを持っているのか？<font fg="aaafff">伝説、いや、それ以上</font>の力を持つという例のものを…<br/>
+		 ひとまずこっちに来てみろ、静かな所で話そう。<br/>
+		 ただし、君が命を懸けて獲得したこの<font fg="ffffaf">不思議なもの</font>はとても細かく危険な作業を施して製作しなければならない。つまり失敗することもあるということだ。<br/>
+		 <br/>
+		 それでも私を信じて任せるというなら、私もそれだけの力を注ごう！<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

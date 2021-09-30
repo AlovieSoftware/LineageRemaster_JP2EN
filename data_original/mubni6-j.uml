@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_043</portrait>
+    <name>ムブニ</name>
+    <job>[傲慢の製作商人]</job>
+  </npc>
+  <dialog>
+    <p> 塔の完工式にはエボルタインと王妃の<font fg="ffafff">ゼニス</font>が参加し、彼の守護騎士だった<font fg="ffafff">ナイトバルド</font>が彼の後ろについていた…。</p>
+    <p> またその席には、彼が征服した王国の王たちも来ていた…<font fg="ffafff">砂漠とジャイアントの昔の王</font>たちがまさに彼らだ…。</p>
+    <p> 聞いたところによれば、ペットの<font fg="ffafff">クーガー</font>も一緒だったという。<br/></p>
+    <p> 傲慢の塔の最上階だった50階で完工式を行っていた時、悲劇が起こった…。</p>
+    <p> 突然空に巨大な闇の扉が開き…その扉が塔を飲み込んでしまった…。<br/></p>
+    <p> <font fg="ffafff">死の神</font>がエボルタインの前に現れたんだ…神は<a link="mubni7">塔にいたすべてのもの</a>に呪いをかけ、</p>
+	<p> 結局彼らは呪いによってみな変化することになった…。<br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデンの守護騎士</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		また会うことができて嬉しいよ。<br/>
+		<br/>
+		国王から<font fg="ffffaf">生命の樹の守護</font>を任せられたと聞いた。<br/>
+		<br/>
+		この任務は誰でも任せられる仕事ではない。死の樹、スピリッドを相手にすることになるのだ。<br/>
+		<br/>
+		<font fg="ffffaf">生命の樹</font>が根を下ろす生命の庭園を守ってくれ。<br/>
+		<br/>
+		死の恐怖から生命の庭園を守る証として<font fg="ffffaf">祝福の葉100個</font>を
+		集めて国王に謁見すると、それに見合う報賞を受け取れる。<br/>
+		<br/>
+		それでは、幸運を祈っている。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

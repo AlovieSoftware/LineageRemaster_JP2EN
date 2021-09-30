@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_017</portrait>
+		<name>フィリップ</name>
+		<job>[グローブ製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 はぁ、暑いな…<br/>
+		 <br/>
+		 君も<font fg="ffffaf">グローブ</font>が欲しいのか？
+		 一息ついて話そうじゃないか。最近店が大繁盛で休む間もないんだ。<br/>
+		 <br/>
+		 さて、どんなグローブをお望みかい？むろんタダでは作ってない。相応の材料と手数料は持ってきたよな？<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

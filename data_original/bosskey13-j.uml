@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 今は時空の流れが不安定なので、ソウルクリスタルを使えません。<br/>
+		<br/>
+		 しばらくしてから再度試してください。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

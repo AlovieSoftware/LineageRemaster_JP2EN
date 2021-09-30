@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>カデル</name>
+		<job>[次元のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		滞在時間が残っているか確認してみたか？<br/>
+		<font fg="ffaaff">隠された次元の砂時計</font>を使えば、隠された地の滞在時間が1時間ずつ増えるぞ。<br/>
+		<br/><br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

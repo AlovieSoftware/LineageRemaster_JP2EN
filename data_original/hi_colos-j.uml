@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><br/>
+		<font fg="ffffff"><var src="name"/>：</font>いらっしゃい。ここは最高の実力者たちがその実力を競い合う場所だ。これまでのコロシアムのアルティメット<br/>バトルとは格が違うぞ。</p>
+		<p>激戦のコロシアムは<font fg="ffaaff">毎日</font>、<font fg="ffffaf">22時30分</font>に行われる。費用は<font fg="ffffaf">50,000アデナ</font>だ。<br/><br/></p>
+		<panel type="Panel_Colosseum_Bt">
+			<button action="a"/>
+			<button link="sungun1"/>
+        </panel>
+		<p>
+		ここはチームワークがないと厳しい場所だ。<br/><br/>
+		しかもチームメンバーが誰になるか分からないから、良いメンバーに会いたければ入る前に祈るんだな。<br/><br/>
+		競技はトーナメント制だ。最終戦にはたった1チームしか進出できない。<br/><br/>
+		競技中に起きた事故については、我々は一切責任を持たないからな。<br/><br/>
+		幸運を祈る。<br/>
+		</p>
+  </dialog>
+</npcdialog>

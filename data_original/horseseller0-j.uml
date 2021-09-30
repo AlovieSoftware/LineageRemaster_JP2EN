@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+   <npc>
+	<portrait>PO_039</portrait>
+    <name><var src="name"/></name>
+  </npc>
+  <dialog>
+    <p><br/>強い力には、それ相応の大きな責任がつきもの！<br/><br/>
+	悪いが、あなたのような悪者には与えたくない。</p>	
+  </dialog>
+</npcdialog>

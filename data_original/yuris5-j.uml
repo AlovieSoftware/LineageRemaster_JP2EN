@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_041</portrait>
+		<name>ユリス</name>
+		<job>善の使者</job>
+		<text>アインハザードの祝福が共にあらんことを…</text>
+	</npc>
+	<dialog>
+			<p>あなたのような善人でも償いたいことがあるのですか？</p>
+	</dialog>
+	
+</npcdialog>

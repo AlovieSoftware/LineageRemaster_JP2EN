@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_040</portrait>
+		<name>ルキー</name>
+		<!--job></job-->
+		<!--text></text-->
+	</npc>
+	
+	<dialog align="left">
+		<p>アデン聖堂で行われる結婚式を見にいらっしゃったんですか？でしたら、ご結婚祝いのプレゼントとして花火はいかがでしょうか。</p>
+		<p>ブルー花火、グリーン円形花火、ブルーハート花火、ブルー2段階花火、高級3連発花火などの花火がありますが…</p>
+		<p>中でも、特にブルーハート花火が結婚のお祝い用として人気なんですよ。</p>
+			<panel type="Panel_Shop_Bt_Buy">
+				<button action="buy"/>
+			</panel>
+		<p><a action="s_merchant3">最近の物価について聞く</a>	</p>
+	</dialog>
+	
+</npcdialog>

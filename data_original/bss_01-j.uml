@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_015</portrait>
+    <name>ピドル</name>
+    <job>[怪しい強化ウィザード]</job>
+  </npc>
+  <dialog>
+  	<p><br/>
+	こんにちは！<font fg="ffffaf">ピクシーの金色の羽</font>でバフをかけてあげてます。<font fg="ffaaff">(ネットカフェ：2個/一般：3個)</font><br/><br/>
+	</p>
+	<p><font fg="afffff">[強化魔法を受ける]</font></p>
+	<panel type="Panel_Enchant_Bt_Strength">
+	<button action="b"/>
+    </panel>
+	<p><font fg="ffffaf">コイン：</font><a action="z">黒蛇の加護をもらう</a></p>
+		<br/><br/>
+	<p>アデン大陸に宿る魔力の流れが変わってきています。もうすぐ混沌の暗雲が世界を飲み込むかもしれません。</p>
+	<p>闇を振り払い、私たちに光をもたらしてくれる英雄は、あなただけなのです。<br/><br/></p>
+	<p>タラス様のご命令どおりあなたを手伝いながら、後輩ウィザードの修練費用を捻出するため、少額の手数料を頂いてる点、ご理解ください。</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

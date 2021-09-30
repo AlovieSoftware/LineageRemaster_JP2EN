@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		浮島に行って来られらたのですか？<br/>
+		<br/>
+		狩猟大会に参加されたなら、<font fg="ffffaf">アデンのランサー コイン100個</font>と
+		<font fg="ffffaf">アデン国王の招待状</font>を持ってきてください。<br/>
+		一緒に<font fg="ffffaf">ドラゴンのダイアモンド</font>をくだされば、追加報賞も差し上げます。<br/>
+		<br/>
+	<br/>
+	    まだ<font fg="afffff">レベル55</font>に到達していないなら、報賞は<br/>
+	    差し上げられません。 
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

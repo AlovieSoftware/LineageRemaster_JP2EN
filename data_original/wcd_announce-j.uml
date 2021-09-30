@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>臨時</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>裏切り者</job>
+		<text>とある理由でアント クイーンを裏切り、人間側に寝返ったアント クイーンの部下。</text>
+	</npc>
+	<dialog>
+		<p><br/>
+	    <font fg="ffffaf">[テレポート]</font>
+	    </p>
+	    <panel type="Panel_Teleport_QueenAnt">
+		   <button action="77"/>
+        </panel>	
+		<p>蟻のダンジョンが開いて、アント クイーンが再び動き始めました！<br/>
+		<br/>
+		時間がありません。予測不可能な女王様の性格からして、今回も長くは開いていないでしょう。<br/>
+		<br/>
+		私がダンジョン入口近くにお送りします。どうかあなたの力を貸してください…！<br/>
+		<br/>
+		装置を使うには<font fg="ffafff">1,000アデナ</font>が必要です。</p>
+		<p>…私が人間ではなくて驚きましたか？それとも皆さんの言葉をしゃべれるから？<br/>
+		<br/>
+		理由は聞かないでください。私は女王様のおかげでこの世に存在しますが、人生というのは思いどおりにいかないものです。<br/>
+		<br/> 
+		とにかく、今は何としてでも女王様の暴走を止めてほしいのです。<br/>
+		<br/>
+		あの頃に戻ることができたら…いえ、せめて影響を及ぼしているあの力から逃れられたら…<br/>
+		あ、ただの独り言です…
+		<br/><br/>
+		</p>
+
+	</dialog>
+</npcdialog>

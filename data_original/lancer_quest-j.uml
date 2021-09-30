@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		一時はアデン王国を明るく照らすランサーたちがアデン国王の声に応じたそうです。<br/>
+		彼らの復帰を祝してアデン国王が狩猟大会を開いていらっしゃいます。<br/>
+		<br/>
+		祭りが開かれている魔法の空間に移動して<font fg="ffffaf">アデンのランサー コイン</font>を持ってきてください。<br/>
+		勇敢な勇士様のために報賞がたくさん準備されています。<br/>
+		<br/>
+		アデン国王の招待状とコインを私にください。<br/>	
+		一緒に<font fg="ffffaf">ドラゴンのダイアモンド</font>をくだされば、追加報賞も差し上げます。<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		<br/>
+		私の報賞は<font fg="ffffaf">レベル52が基準で、レベル55未満</font>の場合はもう少し力をつけてからいらしてください。<br/>
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

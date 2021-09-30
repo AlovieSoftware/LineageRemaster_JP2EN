@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>潜在力製作</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>カウム</name>
+		<job>潜在力製作</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> <br/>こんにちは！<br/><br/>
+		 お仕えしている大魔術師様のお使いで来ました。<br/><br/>
+		 マジックドールの研究成果を見たいと私を送ったのです。<br/><br/>
+		 潜在力強化の秘薬をくだされば、大魔術師様の成果がこもったアイテムと交換します。<br/><br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+		<p>
+			<br/>
+			大魔術師様の実力は私が保証します。<br/><br/>
+			ぜひ一度お考えください。<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

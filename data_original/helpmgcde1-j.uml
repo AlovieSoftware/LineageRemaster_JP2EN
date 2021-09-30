@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>黒精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ダークエルフの黒精霊魔法：レベル1</font><br/></p>
+	<p><font fg="ffffaf">ブラインド ハイディング：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：32秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、自分の姿を見えなくします。<br/>
+	この時は、他のプレイヤーやNPCからは見えなくなります。<br/>
+	ただし、持続時間中、移動以外の行動が制限され、敵から攻撃を受けると効果は消滅します。<br/>
+	また、帰還不可状態では該当の魔法を使用できません。<br/></p>
+	
+	<p><font fg="ffffaf">エンチャント ベノム：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/1<br/>
+	触媒：ダーク ストーン1個<br/>
+	持続時間：320秒<br/>
+	対象：術者<br/>
+	効果：自分の武器に毒属性を付与して、毒攻撃を可能にします。<br/>
+	攻撃した時に一定確率で敵に毒をかけられます。<br/></p>
+	
+	<p><font fg="ffffaf">シャドウ アーマー：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：12/0<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：一定時間、影が身を包むことで、術者がMR+5%のボーナスを受けます。<br/></p>
+	
+	<p><font fg="ffffaf">ドレス マイティー：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：960秒<br/>
+	対象：術者<br/>
+	効果：術者のSTRを+3向上させます。<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

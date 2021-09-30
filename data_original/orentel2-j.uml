@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>ピーター</name>
+		<job>[テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 うん…何でも象牙の塔に良くない噂があるようだ。
+		 仮にも一端のウィザードとして身を置いていた者として、役に立ちたいと思って来たんだ。
+		<br/>
+		<br/>
+		 だけどよう、俺も何だかんだ食って行かないとならないだろ？
+		 だからちょっとお金をくれたら、望みの場所に送ってやるよ。
+		<br/>
+		<br/>
+		</p>
+		<p><a action="1">象牙の塔1階：5,000アデナ</a></p>
+		<p><a action="2">象牙の塔2階：5,000アデナ</a></p>
+		<p><a action="3">象牙の塔3階：5,000アデナ</a></p>
+		<p><a action="4">象牙の塔4階：10,000アデナ</a></p>
+		<p><a action="5">象牙の塔5階：15,000アデナ</a></p>
+		<p><a action="6">象牙の塔6階：20,000アデナ</a></p>
+		<p><a action="7">象牙の塔7階：25,000アデナ</a></p>
+	</dialog>
+</npcdialog>

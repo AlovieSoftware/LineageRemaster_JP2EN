@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>秘技</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ドラゴンナイトの秘技：レベル3</font><br/></p>
+	<p><font fg="ffffaf">モータル ボディ：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/40<br/>
+	持続時間：300秒<br/>
+	対象：術者<br/>
+	効果：自分の体の血液をマグマに変えて、攻撃してくる敵に一定確率で致命的な反撃をします。<br/></p>
+	
+	<p><font fg="ffffaf">サンダー グラップ：</font><br/>
+	種類：ホールド<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/30<br/>
+	持続時間：1～4秒<br/>
+	再使用時間：個別<br/>
+	対象：術者から5セル内のPCまたはNPCの1人<br/>
+	効果：暗黒の稲妻を召喚して攻撃します。<br/>
+	一定確率で地面が崩壊して、対象の足を拘束します。<br/></p>
+	
+	<p><font fg="ffffaf">デストロイ：ホラー：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：デストロイ使用時、STR -2、INT -2効果追加<br/></p>
+	
+	<p><font fg="ffffaf">アイ オブ ドラゴン：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/10<br/>
+	対象：術者から15セル内の隠れている対象<br/>
+	効果：隠れているプレイヤーやNPCを見つけます。<br/>
+	この魔法で透明状態のプレイヤーや、隠れているスパルトイ、ストーン ゴーレムなどを見つけられます。<br/></p>
+	
+	<p><font fg="ffffaf">覚醒[ヴァラカス]：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：50/30<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：自分の肉体を覚醒させて、火竜の力を引き出します。<br/>
+	持続時間中、技術耐性+5、恐怖耐性+5、秘技命中+5、近距離命中+5適用<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

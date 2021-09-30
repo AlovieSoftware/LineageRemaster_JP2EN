@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+  	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_OrenWall">
+		   <button action="a"/>
+    </panel>
+	<p>ここは伝説のイエティが冷気を吐き出す地域で、通常の魔法では<font fg="ffaaff">テレポートが<br/>できない</font>です。
+	<br/>
+	神秘的な力を持つ<font fg="ffaaff">テレポート支配リング</font>があれば、<br/>伝説のイエティを避けてテレポートする<br/>ことができます。<br/>
+	<br/>
+    <br/>
+	</p>
+  </dialog>
+</npcdialog>

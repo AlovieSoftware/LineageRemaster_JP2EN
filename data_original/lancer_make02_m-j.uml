@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国の職人</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">月明りの宝石</font>は準備されましたか？<br/>
+		<font fg="ffffaf">秋夕のお餅</font>と所定のアデナが必要です。<br/>
+		材料をお持ちになれば、月明りが込められた箱と月明りのキューブをお作りします。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

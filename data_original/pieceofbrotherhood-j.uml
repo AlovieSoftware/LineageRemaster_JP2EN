@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">[血盟の欠片]</font><br/></p>
+	<p>- イベント収集アイテム<br/></p>
+	<p><br/></p>
+	<p><font fg="ffffff">[使用方法]</font><br/></p>
+	<p>- <font fg="ffffff">シルバーナイトタウン</font>にいる<font fg="ffffff">血盟の欠片商人</font><br/></p>
+	<p><sp/><sp/><font fg="ffff36">ナナ</font>からアイテムを購入できます。<br/></p>
+	<p><sp/><sp/><font fg="ffff36">ティスパー</font>に<font fg="ffffff">交換券</font>を持っていくとアイテムを<br/></p>
+	<p><sp/><sp/>製作できます。<br/></p>
+  </dialog>
+</npcdialog>

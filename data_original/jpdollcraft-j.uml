@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[マジックドール製作師]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>人生をかけて作り上げた力作のマジックドールじゃったが、最近は誰も彼もが持ち歩くようになってしまったのう…<br/>
+		 <br/>
+		 弟子のアントンも最近は暇にしておるようじゃ。<br/>
+		 <br/>
+		 時代は変わるもんじゃな。<br/>
+		 <br/>
+		 ほう、お前さん、なにやら面白いものを持っておるようじゃな？<br/>
+		 <br/>
+		 ほれ渡してみい。<br/>
+		 <br/>
+		 老いたりとはいえこのアルカ、まだまだ工芸師としての腕はなまっておらんぞ！<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

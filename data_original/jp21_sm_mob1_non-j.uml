@@ -1,0 +1,25 @@
+750.<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+		<p><br/>
+		アデン国王の命により訓練場を設けた。<br/>
+		<br/>
+		いずれ訪れる大きな変化に向けて準備をしてくれ。<br/>
+		<br/>
+		<br/>
+		<br/>
+		入場条件：レベル75以上<br/>
+		入場料：2,021アデナ<br/>
+		</p>
+		<p><a action="non_npc a">アデン国王の訓練場(1)へ行く</a></p>
+		<p><a action="non_npc b">アデン国王の訓練場(2)へ行く</a></p>
+		<p><a action="non_npc c">アデン国王の訓練場(3)へ行く</a></p>
+		<p><a action="non_npc d">アデン国王の訓練場(4)へ行く</a></p>
+		<p><a action="non_npc e">アデン国王の訓練場(5)へ行く</a></p>
+		<p><a action="non_npc f">アデン国王の訓練場(6)へ行く</a></p>
+		<p><a action="non_npc g">アデン国王の訓練場(7)へ行く</a></p>
+		<p><a action="non_npc h">アデン国王の訓練場(8)へ行く</a></p>
+		<p><a action="non_npc i">アデン国王の訓練場(9)へ行く</a></p>
+		<p><a action="non_npc j">アデン国王の訓練場(10)へ行く</a></p>
+	</dialog>
+</npcdialog>

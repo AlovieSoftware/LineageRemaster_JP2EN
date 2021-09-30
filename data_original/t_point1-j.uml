@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<!--portrait> </portrait-->
+		<name><var src="name"/></name>
+		<job>ユニコーンテンプル商人</job>
+		<!--text> </text-->
+	</npc>
+	<dialog align="left">
+		<p>成長の果実を食べると、<font fg="ffaaff">TAM</font>が入手できると聞きました。</p>
+		<p>まだ食べたことがないなら、一度食べてみてください！</p>
+		<p><img src="331" link="t_point"/></p>
+	</dialog>
+
+</npcdialog>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>秘技</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ドラゴンナイトの秘技：レベル4</font><br/></p>
+	<p><font fg="ffffaf">覚醒[リンドビオル]</font><br/>
+	種類：変化<br/>
+	レベル：80<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：40/10<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：自分の肉体を覚醒させて、風竜の力を引き出します。<br/>
+	DG+10効果が適用<br/></p>
+	
+	<p><font fg="ffafff">サンダー グラップ：ブレイブ</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral/Passive<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	効果：サンダー グラップの持続時間増加<br/></p>
+	
+	<p><font fg="ffafff">フォー スレイヤー：ブレイブ</font><br/>
+	種類：付与<br/>
+	レベル：85<br/>
+	性向：Neutral/Passive<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	効果：弱点露出状況でフォー スレイヤー使用時に追加。<br/>
+	一定確率で対象にスタン効果発動、再発動時間あり<br/></p>
+	
+	<p><font fg="ffafff">アウラキア：</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral/Passive<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：覚醒魔法の2種を重複使用できます。<br/>
+	覚醒魔法使用時、MP-5減少効果追加<br/></p>
+	
+	<p><font fg="ffafff">ハルパス：</font><br/>
+	種類：付与<br/>
+	レベル：85<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：18/0<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：128秒<br/>
+	対象：術者<br/>
+	効果：チェーンソードの力を引き出して、近距離物理ダメージを無効化して反撃します。<br/>
+	チェーンソード装備時のみ、使用できます。<br/></p>
+
+	<p><font fg="ffafff">ソリッド ノット：</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：武器使用時、NPCによって損傷しなくなります。<br/></p>
+	
+	<p><font fg="ffafff">ランページ：</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：ホールド/スタン状態の対象に一定確率で追加ダメージを与えます。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

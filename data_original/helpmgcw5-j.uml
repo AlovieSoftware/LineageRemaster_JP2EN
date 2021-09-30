@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>水の精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">水の精霊魔法：レベル5</font><br/></p>
+	<p><font fg="ffffaf">ネイチャーズ ブレッシング：</font><br/>
+	種類：治癒<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/0<br/>
+	材料：精霊の玉1個<br/>
+	持続時間：一瞬<br/>
+	対象：術者が属するパーティー<br/>
+	効果：パーティーメンバー全員のHPを回復します。<br/></p>
+	
+	<p><font fg="ffffaf">ポルート ウォーター：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	材料：精霊の玉1個<br/>
+	持続時間：32秒<br/>
+	対象：術者から5セル内のPC<br/>
+	効果：対象プレイヤーは持続時間中、一定確率でヒール系魔法及び回復ポーションの効果が半減されます。<br/></p>
+	<p><img src="331" link="helpmgcw"/><br/><br/></p>
+	</dialog>
+</npcdialog>

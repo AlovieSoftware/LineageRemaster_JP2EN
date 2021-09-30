@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_045</portrait>
+		<name>オリム</name>
+		<job>隠遁者</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> <br/>よく来たな。<br/><br/>
+		 こうして外に出るのもいつ振りだろうか…<br/><br/>
+		 祝福されたオリムの装飾品魔法スクロールをさらに強化する方法を見つけたんだ。<br/><br/>
+		 一度試してみないか？失敗することもあるが、自分を信じてみろ。<br/><br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+		<p>
+			<br/>
+			幸運はいつも君のそばにあるぞ。<br/><br/>
+			一度挑戦してみろ。<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

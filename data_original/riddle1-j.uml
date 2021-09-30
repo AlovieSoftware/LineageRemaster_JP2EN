@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>リドル</name>
+		<job>錬金術師</job>
+		<!--text></text-->
+	</npc>
+	
+	<dialog align="left">
+		<p>ようこそ。私はセイルーン様の弟子リドルと申します。</p>
+		<p>師匠を手伝い、永遠に消えないルーンについて研究しています。</p>
+		<p><a link="riddle3">*レベル55ルーン</a></p>
+		<p><a link="riddle5">*レベル70ルーン</a></p>
+		<p><a link="riddle6">*レベル80ルーン</a></p>
+		<p><a link="riddle7">*レベル85ルーン</a></p>
+		<p><a link="riddle8">*レベル90ルーン</a></p>
+		<p><a link="riddle9">*レベル91ルーン</a></p>
+		<p><a link="riddle10">*レベル92ルーン</a></p>
+		<p><a link="riddle11">*レベル93ルーン</a></p>
+		<p><a link="riddle12">*レベル94ルーン</a></p>
+		<p><a link="riddle13">*レベル95ルーン</a></p>
+		<p>私が担当している分野は、ルーンに付与された魔法の力を変えることです。</p>
+		<p>まだ未熟ですが、必要でしたらルーンに刻まれた魔力を変えることもできます。<br/><br/></p>
+			
+	</dialog>
+	
+</npcdialog>

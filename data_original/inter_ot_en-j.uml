@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>支配の歪み</title>
+	<dialog>
+		<p agap="0" lgap="0">
+			<img src="16323"></img>
+			<btn normal="16324" over="16325" pressed="16324" action="11"/><br/>
+			<btn normal="16326" over="16327" pressed="16326" action="12"/>
+		</p>
+	</dialog>
+</npcdialog>

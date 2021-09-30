@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 こんにちは、<font fg="ffffaf">バフコイン</font>を提示してもらえれば、あなたにバフをかけるか、お安く<a link="bs_m5">スペル スクロール</a>を製作してあげますよ。<br/><br/>
+		 <font fg="ffffaf">コイン：</font><a action="z">黒蛇の加護をもらう</a><br/><br/><br/>
+		 <font fg="ffffaf">バ<sp/><sp/>フ：</font><a action="d">強化魔法を受ける</a><br/><br/><br/>
+		<font fg="ffffff">[スペル スクロール製作]</font><br/>
+		 <font fg="ffffaf">製<sp/><sp/>作：</font><a action="1">1個</a>/<a action="2">5個</a>/<a action="3">10個</a>/<a action="4">100個</a>/<a action="5">500個</a><br/>
+		<br/><br/><br/>
+		 アデン大陸の魔法の流れが変わってきています。タラス様のご命令により、冒険者の方々がこの世界を守れるよう力を貸すためにここに来ました。
+		 ただ、我々ウィザードたちの修行のために、少額ですが費用を取っていますのであしからず。
+		<br/><br/><br/>
+		<a link="bs_09">どういうことですか？</a><br/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

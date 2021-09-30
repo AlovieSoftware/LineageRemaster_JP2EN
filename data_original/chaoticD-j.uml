@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title></title>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_Darknessdragon">
+		   <button action="chaoticD"/>
+    </panel>
+	<p><br/>
+	<font fg="fffaff">…暗黒の扉…</font>
+	</p>
+	<p><br/><font fg="fffaff">
+		この闇の気を感じるか！<br/>
+		封印されていた暗黒の瞳が開き、ここを飲み込もう<br/>
+        としている。ここを通過する者は誰も生きて<br/> 
+		戻ってこられないだろう。</font>
+	</p>
+	 <p>そこにいる者よ…自らを魔族の首長と名乗るバルログ<br/>
+        という者に会ったら、この言葉を…伝えてくれ。<br/>
+		神を封印しようとしたお前の傲慢さのおかげで<br/>
+		深い眠りから目覚めることができたと…感謝すると…<br/>
+	    フフフ…<br/>
+		</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

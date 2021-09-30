@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>精鋭騎士団ハル</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		どうやら準備が整っていないようだ。もう一度確認してくれ。<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：2021アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 必要レベル：レベル75以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

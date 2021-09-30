@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>スコール</name>
+		<job>[テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		君は見棄てられた者たちの地を知っているか？<br/>
+		<br/>
+		エルモア王国で反乱を企てようとしたが失敗し、追放された者たちがいる場所だ。<br/>
+		<br/>
+		非常に凶暴で危険な奴らだ。<font fg="ffaaff">レベル75以上</font>で出入りできるようになるぞ。<br/><br/></p>
+		<panel type="Panel_Field_Abandoned_Bt">
+				<button action="a"/>
+				<button action="b"/>
+        </panel>	
+	</dialog>
+</npcdialog>

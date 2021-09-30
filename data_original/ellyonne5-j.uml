@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>火はもっとも純粋な力を象徴する精霊なんだよ。</p>
+		<p>自らに備わったあらゆるエネルギーを燃やして、他の全てを破壊、浄化する力を持っているんだ。</p>
+		<p>だから火の精霊魔法の特徴は4つの属性のうちでもっとも攻撃的なものだと言われている。</p>
+		<p>ダガーを主に使って敵を倒す力を強化したいのなら、火の系列を選ぶのがもっとも正しい選択だろうね。</p>
+		<p><img src="331" link="ellyonne4"/></p>
+	</dialog>
+</npcdialog>

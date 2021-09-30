@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 私は訓練場の管理を任されているカイザーと申します。<br/>
+		<br/>
+		 ここはアデンの軍事力の増大させるために、国王様が特別に用意した訓練場です。<br/></p>
+		<br/>
+		<panel type="Panel_Training_Bt">
+			<button action="1"/>
+			<button action="6"/>
+        </panel>
+		<br/>
+		 訓練場のレンタル時間は最大2時間で、訓練中でもレンタル時間が終了すると、次の人のために訓練場の使用が中止されます。<br/>
+		<br/>
+		 訓練用モンスターを召喚する時は、必ず訓練場の残り使用時間を確認してください。<br/>
+		<br/>
+		
+		
+	</dialog>
+</npcdialog>
+

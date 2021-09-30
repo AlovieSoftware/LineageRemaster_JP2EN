@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン警備兵</name>
+		<job>[イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		何かが足りないようだな。<br/>
+		もう一度確認して、また声をかけてくれ。<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：2021アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：1時間</font><br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル75以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

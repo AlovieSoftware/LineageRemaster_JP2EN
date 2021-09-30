@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p><br/>
+		純粋こそ、エルフのみが精霊魔法を使える理由なのさ。</p>
+		<p>本来心が清らかなエルフが再び純粋を取り戻すことは、そう難しくはないよ。</p>
+		<p>回数を重ねるごとに純粋を取り戻すのにより多くの費用がかかることだけは覚えておいてくれ。</p>
+		<p><font fg="ffafff"><a><var src="0"/></a>アデナ</font>で系列を除去するかい？</p>
+		<br/>
+		<panel type="Panel_Initialization_Bt">
+			<button action="money"/>
+        </panel>
+		<p><br/></p>
+		<p><img src="331" link="ellyonne11"/></p>
+	</dialog>
+</npcdialog>

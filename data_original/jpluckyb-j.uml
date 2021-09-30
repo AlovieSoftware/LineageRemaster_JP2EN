@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> こんにちは！世界中を旅しながら幸運をお配りしています。<br/>
+		 <br/>
+		 もしかして「幸運の宝玉」をお持ちですか？<br/>
+		 <br/>
+		 それなら幸運を手にできるかもしれません。<br/>
+		 <br/>
+		 もちろん簡単ではありませんよ。<br/>
+		 <br/>
+		 あなたに幸運が訪れますように。<br/>
+		 <br/>
+		 ここには10月14日まで滞在する予定です。<br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

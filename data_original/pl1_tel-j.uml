@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>カイロ シュケイン</name>
+		<job>[イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		大変だ！<br/>
+		ケンラウヘルが死の樹を率いて生命の庭園を奇襲したそうだ！<br/>
+		<br/>
+		生命の樹を守ることが我々の使命。<br/>
+		しかし、死の樹は我々の力だけでは防ぐことが難しいのだ。<br/>
+		<br/>
+		どうか<font fg="ffffaf">生命の庭園</font>を一緒に守ってくれないか？<br/>
+		<br/>
+		君の力を貸してほしい。<br/>
+		<br/>
+		テレポート費用：4900アデナ<br/>
+		</p>
+		<panel type="Panel_Teleport">
+			<button action="a"/>
+		</panel>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

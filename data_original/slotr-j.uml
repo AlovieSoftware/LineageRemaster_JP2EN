@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		
+				
+		<p>真の英雄にならないかい！<br/><br/></p>
+        
+		<p><a action="C">※<font fg="ffaaff">レベル60イアリング</font>スロット解放</a></p>
+		<p>必要アデナ：200万</p>
+		<p>必要アデナ：無料(割引券所持)<br/><br/></p>
+		<p><a action="F">※<font fg="ffaaff">レベル60インシグニア</font>スロット解放</a></p>
+		<p>必要アデナ：200万</p>
+		<p>必要アデナ：無料(割引券所持)<br/><br/></p>
+		
+		<p><a action="A">※<font fg="ffaaff">レベル60リング(左)</font>スロット解放</a></p>
+		<p>必要アデナ：2,000万</p>
+		<p>必要アデナ：無料(割引券所持)<br/><br/></p>
+		<p><a action="B">※<font fg="ffaaff">レベル60リング(右)</font>スロット解放</a></p>
+		<p>必要アデナ：2,000万</p>
+		<p>必要アデナ：無料(割引券所持)<br/><br/></p>
+
+		<p><a action="E">※<font fg="ffaaff">レベル60スポールダー</font>スロット解放</a></p>
+		<p>必要アデナ：3,000万<br/><br/></p>
+		<p>必要アデナ：1,500万(割引券所持)<br/><br/></p>				
+
+		<p>イアリングやリング、スポールダー、インシグニアスロットをすべて解放して初めて真の英雄となれるだろう！<br/><br/></p>
+
+		<p><a link="disring">イベントリングと有料リング</a>は<font fg="fff796">2個</font>まで装備可能で、 </p>
+		<p>同じリングも<font fg="fff796">2個</font>まで装備可能です。<br/>よ～く選んではめてくださいね。<br/><br/></p>
+		<p>参考までに、イアリングは<font fg="ffaaff">同じもの</font>でなければ、すべて装備できるよう私が魔法を掛けています。<br/><br/></p>
+		<p>スポールダーとインシグニアは装備位置が違うので、よく確認してくださいね。って、まさか知らないわけじゃないですよね？<br/></p>
+
+				
+	</dialog>
+
+</npcdialog>

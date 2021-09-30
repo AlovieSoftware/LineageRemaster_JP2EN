@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_043</portrait>
+		<name>ムブニ</name>
+		<job>[傲慢の製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>傲慢の塔を取り巻く闇の気が強くなってる…最近塔に行ってきた勇士たちの話を聞いたけど、塔に<font fg="ffafff">亀裂</font>が入ってるみたいだ…<br/><br/>
+		このまま塔が完全に崩れて、<font fg="ffafff">邪神</font>が地上に降りてきやしないかが心配だよ。<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+		<p><br/>
+		また<a link="mubni5">悲劇</a>の幕開けにならなければいいんだが…なあ、闇の力を防いできてくれないか？<br/><br/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>

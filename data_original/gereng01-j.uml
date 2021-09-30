@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>ゲレン</name>
+    <job>[話せる島の長老]</job>
+  </npc>
+  <dialog>
+	<p><br/>やあ、ようこそ。誰じゃろうかな？
+	</p>
+	<p>ホッホッホ。老いて目がよく見えんのじゃ。<br/></p>
+	<p>君の活躍はよく知っておる。<br/></p>
+	<p>ブラックナイトと戦うとは、苦労が絶えんじゃろ。<br/></p>
+	<p>レベル50になったらワシと一緒に研究をせんか？<br/></p>
+	<br/>
+	<panel type="Panel_Quest_Gereng_Bt">
+		<button action="a"/>
+     </panel>
+	<p><a link="gereng03">*どういった研究ですか？</a><br/><br/></p>
+	<p>知ってるじゃろうが、奴らからは闇の力が感じられる。<br/></p>
+	<p>強力じゃが、どこか奥深くに隠れていて正体のわからぬそんなエネルギーじゃ。<br/></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

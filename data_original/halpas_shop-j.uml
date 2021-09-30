@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>shop</icon>
+  <title>商店</title>
+  <npc>
+    <name>クバック</name>
+    <job>[雑貨商人]</job>
+  </npc>
+  <dialog>
+	<p>今までの竜とは違う…立ち向かう勇気は感心するが </p>
+	<p><br/></p>
+	<p>生き残れるかは分からないぞ…。だが、私が支援しよう！</p> 
+	<p><br/></p>
+	<p>絶対に！<font fg="0000ff">暗黒竜</font>を倒してくれ。</p>
+	<panel type="Panel_Shop_Bt_Buy">
+		<button action="buy"/>
+	</panel>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>
+

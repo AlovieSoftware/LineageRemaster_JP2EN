@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>タラス</name>
+		<job>[19周年イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">不思議な季節の森</font>に行ってきたのか？
+		<br/>
+		<font fg="ffffaf">祭り参加書</font>と、そこで活躍した証拠として 
+		<font fg="ffffaf">19周年記念コイン100個</font>を持ってきて、お前の勇猛さを証明するのじゃ。<br/>
+		<br/>
+		準備が出来ているなら、わしの近くまで来れるよう<font fg="ffffaf">100アデナ</font>で
+		お前を召喚してやろう。<br/>
+		少しばかり目がくらむから気をつけるのじゃぞ。<br/>
+		<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>
+ 

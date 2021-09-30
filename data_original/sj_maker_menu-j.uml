@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>象牙の塔の職人</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">国王の製作依頼書</font>をお持ちになられましたか？<br/>
+		象牙の塔のウィザードから学んだ錬金術で<font fg="ffffaf">リング</font>と<font fg="ffffaf">ピュア エリクサー</font>を作って差し上げます。
+		<br/>
+		<br/>
+		リングは＋７まで可能ですのでぜひ挑戦してみてください。<br/>
+		それと、ドラゴンのトパーズは勇士様の成長に役立つそうですよ。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

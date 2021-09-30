@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>市場ガード</name>
+		<!--job></job-->
+		<!--text> </text-->
+	</npc>
+	
+	<dialog align="left">
+		<p><br/>
+		ここの安全は私が守っている。いいかげんなやつは痛い目に合うぞ。</p>
+		<p>誰か探しているのか？名前を教えてくれれば、私が案内<br/>しよう。</p>
+		<p>チャット ウィンドウに<font fg="e8aee7">/商人検索 「キャラクター名」</font>と入力すればいい。</p>
+        <br/>
+		<panel type="Panel_Tradeguard01_Bt">
+				<button action="teleport giran-trade-zone-giran"/>
+				<button action="EnterSeller"/>
+        </panel>
+		<br/>
+
+	</dialog>
+
+</npcdialog>

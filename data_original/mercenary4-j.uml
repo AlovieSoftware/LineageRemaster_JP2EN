@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon></icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		毎週日曜日の22時からケント城にて攻城戦が行われるぞ。<br/><br/>
+		攻城戦に挑む血盟員にも伝えよ。
+				</p>
+	</dialog>
+</npcdialog>

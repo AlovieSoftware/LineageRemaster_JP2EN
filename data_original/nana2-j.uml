@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name>ティスパー</name>
+		<job>[血盟の製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>血の契約で結ばれた血盟に属し、日々悪と戦っているな。<br/>
+		<br/>
+		険しい旅路をともにする仲間がいるということが、どれほど幸せなことか分かっただろう。<br/>
+		<br/>
+		<br/>
+		君の旅に少しでも役に立てればと思う。<font fg="ffafff">血盟の欠片</font>で獲得した 
+		特別な<font fg="ffafff">交換券</font>を持ってきてくれたら、私から報賞を渡そう。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+		<p><br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

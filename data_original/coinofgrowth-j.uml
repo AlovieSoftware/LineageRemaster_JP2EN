@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">[成長のコイン]</font><br/></p>
+	<p>- イベント収集アイテム<br/></p>
+	<p><br/></p>
+	<p><font fg="ffffff">[使用方法]</font><br/></p>
+	<p>- <font fg="ffffff">首都アデン</font>にいる<font fg="ffffff">イベント商人</font><br/></p>
+	<p><sp/><sp/><font fg="ffff36">アピス</font>からアイテムを購入できます。<br/></p>
+	</dialog>
+</npcdialog>

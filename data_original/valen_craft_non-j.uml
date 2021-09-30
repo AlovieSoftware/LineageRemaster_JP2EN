@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>マクファイ</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>シオスが言っていたのは君のことか。<br/>
+		<br/>
+		獣の巣で甘い玉を集めてきたか？<br/>
+		シオスに渡して余った玉があれば、私が腕をふるって良い物を作ってやるぞ。<br/>
+		<br/>
+		シオスを助けてくれた礼だよ。材料さえあれば作ってやる。<br/>
+		甘い玉はどれでも材料になるからな。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

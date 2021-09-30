@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>タラスの弟子</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>竜のTシャツの研究中に興味深い結果が出たので、少し象牙の塔から出てきました。<br/>
+		 私が竜のTシャツを強化できる新しいスクロールを作りました。<br/>
+		 <font fg="FF0000">竜のTシャツ保護スクロール</font>を使うと、竜のTシャツを安全に強化できます。<br/>
+		 スクロールの数量分の手間賃をくだされば、勇士様にもお作りできます。<br/><br/>
+		 興味がありましたら、ぜひお声がけください。<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

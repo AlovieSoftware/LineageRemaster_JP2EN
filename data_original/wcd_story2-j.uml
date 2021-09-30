@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>無名のウィザード</name>
+		<job>テレポーター</job>
+		<text>ここで何が起きたのだろうか…</text>
+	</npc>
+	
+	<dialog>
+		<p> …この痕跡を見ただけでも、その悲惨さは想像できると思います…。<br/><br/>とにかく、ここはもう以前の蟻のダンジョンではありません。そして彼らが何かを待って…準備しているなら…<br/>何としてでもその理由を明らかにして阻止しなければなりません…。<br/><br/>もしあなたが行くなら、これだけは覚えておいてください…時空のねじれによって、ここに存在するのはもう私たちだけではありません…さらに職業の違う仲間は一緒に行けないので…<br/>あなた自身の力で生き残らなければなりません…<br/><br/></p>
+
+		<p><br/><br/><br/><img src="331" link="wcd_enter"/></p>
+
+	</dialog>
+
+</npcdialog>

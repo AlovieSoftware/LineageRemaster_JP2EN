@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 こんにちは、<font fg="ffffaf">3個のバトルアデナ</font>で魔法をかけてあげますよ。<br/><br/>
+		 <font fg="ffffff">[近距離攻撃に有利な魔法]</font><br/>
+		<a action="a">火炎魔法を受ける</a><br/><br/><br/>
+		 <font fg="ffffff">[遠距離攻撃に有利な魔法]</font><br/>
+		<a action="b">疾風魔法を受ける</a><br/><br/><br/>
+		 <font fg="ffffff">[魔法の活用に有利な魔法]</font><br/>
+		<a action="c">魂の魔法を受ける</a><br/><br/><br/><br/>
+		<br/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

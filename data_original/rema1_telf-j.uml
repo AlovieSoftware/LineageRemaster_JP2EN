@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>狩場の警備兵</name>
+		<job>イベント テレポート</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ちょっと待った！<br/>
+		入場するにはいくつかの規則がある。<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：2900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：60分</font><br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル55以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

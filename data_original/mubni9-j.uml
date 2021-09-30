@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_043</portrait>
+    <name>ムブニ</name>
+    <job>[傲慢の製作商人]</job>
+  </npc>
+  <dialog>
+	<p> すべての階の<font fg="ffafff">コントロールアミュレット</font>を持ってきてくれたら、強力な錬金術の力で1つにまとめてやるよ。<br/></p>
+	<p> 少し難しい作業だし色々と材料が必要になるから、手数料は<font fg="ffafff">10,000,000アデナ</font>もらおう。<br/></p>
+	<p> どこからでも塔に移動できるし、塔の中でテレポートもできる。高すぎだなんて思わないでくれ。<br/></p>
+	<p> <a action="request oman book">幻想の傲慢の塔テレポートアミュレットを作る</a><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

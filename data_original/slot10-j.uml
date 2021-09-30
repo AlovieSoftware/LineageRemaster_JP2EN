@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+			
+		<p>スロット解放のためにはいくつか条件が必要なんだ。<br/><br/></p>
+		<p>スロット解放ができるレベルになっているかしっかり確認してくれ。<br/></p>
+		<p>リングとスポールダーは費用がかなりかかると聞くが、イアリングとインシグニアはそれほどかからないで解放できるはずだ。<br/></p>
+		<p>あと、すでにスロットが解放されているかも一度確認してくれ。<br/><br/></p>
+		<p><a link="disring">※同時に装備可能なリングアイテムリスト</a><br/></p>
+
+				
+	</dialog>
+
+</npcdialog>

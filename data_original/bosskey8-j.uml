@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 運良くソウルクリスタルを手に入れたようですね。いい経験になるでしょう。<br/>
+		<br/>
+		 どれも一筋縄ではいかない奴らなので、気を抜かないでください！<br/>
+		<br/>
+		 まずは訓練したいモンスターがいる地域を選んでください！<br/>
+		<br/>
+		<font fg="ffffaf">対象地域：</font><a link="bosskey17">話せる島</a><br/>
+		<font fg="ffffaf">対象地域：</font><a link="bosskey15">メインランドのダンジョン</a><br/>
+		<font fg="ffffaf">対象地域：</font><a link="bosskey9">象牙の塔</a><br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

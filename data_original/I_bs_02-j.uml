@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		
+		<font fg="ffffff"></font></p><p align="left"><font fg="ffffff"><name/>：</font></p>
+		<p><br/>
+		 こんにちは、<font fg="ffffaf">1000アデナ</font>でバフをかけてあげますよ。<br/><br/>
+		 バフコインや攻城戦勇士の証があれば、もっと強いバフを無料でご提供します。<br/><br/><br/>
+		 バフ：<a action="b">強化魔法を受ける</a><br/><br/>
+		<font fg="ffffaf">[一般バフ]</font><br/>
+		 リムーブ カーズ<br/>
+		 フィジカル エンチャント：DEX<br/>
+		 フィジカル エンチャント：STR<br/>
+		 ブレス ウェポン<br/><br/>
+		<font fg="ffffaf">[強化バフ]</font><br/>
+		 リムーブ カーズ<br/>
+		 フィジカル エンチャント：DEX<br/>
+		 フィジカル エンチャント：STR<br/>
+		 ブレス ウェポン<br/>
+		 アドバンスド スピリッツ<br/>
+		 ヘイスト<br/>
+		 アイアン スキン<br/>
+		 アクア プロテクター<br/>
+		 インサイト<br/>
+		 アース ウェポン<br/>
+		
+		
+		
+		
+		</p>
+	</dialog>
+</npcdialog>

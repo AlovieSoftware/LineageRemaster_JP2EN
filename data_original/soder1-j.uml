@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_026</portrait>
+		<name>ケン</name>
+		<job>[ソード製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 フッ、私が作る<font fg="ffffaf">剣</font>が欲しいか？君は見る目があるようだね。<br/>
+		 <br/>
+		 欲しければ作ってやらないこともない。<br/>
+		 ただし、材料を自分で集めてきたらの話だ。
+		 あと手間賃もかなりの額をもらうから、しっかり準備してからおいで。ハハハ。<br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

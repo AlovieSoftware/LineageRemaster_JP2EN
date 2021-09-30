@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>メガン</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		こんにちは！<br/>
+		<br/>
+		何だって？サンドワーム地域に入りたいって？<br/>
+		<br/>
+		うむ…<br/>
+		あそこは今サンドワームが暴れてると聞いたが大丈夫か？
+		<br/>
+		サンドワームが以前に宝を隠したんだが、どこに隠したか忘れたようで<br/>
+		今は四六時中、砂漠のあちこちを引っ掻き回しているんだ。
+		<br/>
+		だから危ないかもしれないんだが、もし君がサンドワームを大人しくさせる自信があるなら
+		<br/>
+		テレポート費用<font fg="ffffaf">1,000アデナ</font>でサンドワームの地域に送ってあげよう。<br/>
+		<br/>
+			出現時間：金/土/日21：00<br/>
+			</p>
+		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+		<br/>
+		<br/>
+
+	</dialog>
+</npcdialog>
+

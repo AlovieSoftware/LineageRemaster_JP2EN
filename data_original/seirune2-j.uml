@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>craft</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>製作</title>
+	
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>ネルバ</name>
+		<job>製作職人</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		<p><br/>
+		<font fg="ffaaff">古いレポート</font>と<font fg="ffaaff">ウィザード ストーン</font>があれば、ルーンを1つ作ってあげるにゃ～<br/>
+		<br/>
+		どんなルーンが欲しいにゃ～？
+		<br/>
+		</p>		
+		<panel type="Panel_Quest_Nerva_Bt">
+				<button action="A"/>
+				<button action="B"/>
+				<button action="C"/>
+				<button action="D"/>
+				<button action="E"/>
+        </panel>
+
+		
+	</dialog>
+
+</npcdialog>

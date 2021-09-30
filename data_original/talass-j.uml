@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>タラス</name>
+		<job>[大魔術師]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 冒険者よ、何を求めてここに来たのじゃ？<br/>
+		 ここまで来たということは、お前も魔法に魅せられた者のようじゃな？あるいはより剣の道を極めるために魔法さえも解そうと企んでいる者か。<br/>
+		 <br/>
+		 私は象牙の塔の最長老タラスという。
+		 私に何か用があって来たのか？<br/>
+		</p>
+		<p><br/>
+		 <a link="talass4">ダークエルフについて聞く</a><br/>
+		 <a link="talass3">象牙の塔の歴史について聞く</a><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

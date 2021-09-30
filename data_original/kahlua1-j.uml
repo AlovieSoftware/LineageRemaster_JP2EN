@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_021</portrait>
+		<name><var src="name"/></name>
+		<job>[シールド製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> 私が作った<font fg="ffffaf">シールド</font>はね、真冥王の執行剣だって楽々と防ぐことができる代物さ！<br/>
+		 <br/>
+		 ヘヘヘッ、人の話は最後まで聞けって。これからそんな職人になりたいってことさ。<br/>
+		 まだ扱える品物は多くないが、だんだん増やしていくからたくさん利用してくれよな。<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

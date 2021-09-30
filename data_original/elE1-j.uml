@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+<icon>warehouse</icon>
+<title>倉庫</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>エル</name>
+		<job>[エルフ族倉庫番]</job>
+	</npc>
+  <dialog>
+	<p>こんにちは。倉庫番エルです。</p>
+	<p><br/></p>
+	<p><font fg="ffffff">エルフの倉庫：</font></p>
+	<panel type="Panel_Storage_Bt_Elf">
+		<button action="deposit-elven"/>
+		<button action="retrieve-elven"/>
+	</panel>
+	<p><br/></p>
+	<p><br/></p>
+	<p>ここはエルフたちの共用倉庫。一定時間修練を積んできたエルフなら何でも預けられますが、エルフの森の外で荷物を受け取ることはできないの。</p>
+	<p><br/></p>
+	<p>なにはともあれ、共用倉庫とは言っても倉庫番のあたしもそれなりに稼がないといけないのよね。だから規定でアイテムを受け取るとき、100アデナをもらうことになってるんです。</p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

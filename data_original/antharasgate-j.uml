@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p align="left"><font fg="ffffff"><name/>：</font><br/></p>
+	<p>強力な大地の気を感じます。<br/></p>
+	<p>真のアデンの勇士のみが、あの力に抗うことができます。あなたもあの力を経験してみたければ、あちらにお送りいたします。<br/></p>
+	<p>ただし、あちらでは死亡すると<font fg="ffffaf">経験値損失</font>があります。それでも入場しますか？<br/><br/></p>
+	<p><a action="f_antharas">アンタラス棲息地に移動する</a><br/><br/></p>
+	<p>進行中に起きた事故については、我々は一切責任を持ちません。<br/></p>
+	<p>幸運をお祈りします。</p>
+  </dialog>
+</npcdialog>
