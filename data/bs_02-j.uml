@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Enhancement Wizard</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[Enhancement Wizard]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 I'm not kidding.
+		<br/><br/>
+		 Of course, wizards are nervous and tend to exaggerate things, but almost every wizard feels a sense of crisis this time around.
+		<br/><br/>
+		 How it works for this problem depends on the wizard, but that's another problem.
+		<br/>
+		<br/>
+		<br/>
+		<a link="bs_03">A wizard that behaves differently?</a><br/>
+		<br/>
+		<br/>
+		<br/>
+		<img src="331" link="bs_01"/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Enhancement Wizard</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[Enhancement Wizard]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 Hello, I'll buff you or make a cheap <a link="bs_m5">spell scroll</a> with <font fg="ffffaf">1000 adena</font>.<br/><br/>
+		</p>
+		<p><font fg="afffff">[Receive enhanced magic]</font></p>
+		<panel type="Panel_Enchant_Bt_Strength">
+				<button action="a"/>
+        </panel>
+		<p>
+		<font fg="ffffaf">Coins：</font><a action="z">Get the blessing of the Black Snake</a><br/>
+		<br/><br/>
+		<font fg="afffff">[Spell scroll production]</font><br/>
+		<br/><br/>
+		<sp/><sp/><sp/><a action="1">1</a>/<a action="2">5</a>/<a action="3">10</a>/<a action="4">100</a>/<a action="5">500</a><br/>
+		<br/><br/><br/>
+		 The magical flow of the Aden continent is changing.<br/><br/>At the command of Mr. Taras, adventurers have come here to help protect this world. 
+         However, it is a small amount of money for the training of our wizards.
+		<br/><br/><br/>
+		<a link="bs_02">What do you mean?</a><br/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+
