@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>タラス</name>
+		<job>[19周年イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		よく来たな。<br/>
+		<br/>
+		国王の下賜品を盗賊がすべて盗んだそうじゃな…？<br/>
+		季節まで変えて勇士たちの春の散策を台無しにしたやつらを必ず倒してくれ。<br/>
+		<br/>
+		盗賊を退治して獲得した下賜品は<font fg="ffffaf">19周年ゴールデン キー、19周年シルバー キー</font>を使うと
+		失った光を取り戻すことができるそうじゃ。<br/>
+		<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		お前が盗賊を倒した者という証拠として<font fg="ffffaf">祭り参加書</font>と 
+		<font fg="ffffaf">19周年記念コイン100個</font>を持ってくれば、特別な報賞を出そう。<br/>
+		<br/>
+		お前の成長に役立つ報賞の<font fg="ffffaf">EXPはレベル52基準である。レベル60未満</font>ならば、さらに成長してから来るがよい。<br/>
+		</p>
+	</dialog>
+</npcdialog>

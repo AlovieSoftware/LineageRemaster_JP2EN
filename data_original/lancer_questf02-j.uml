@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		浮島に行って来られらたのですか？<br/>
+		<br/>
+		<font fg="ffffaf">月明りの欠片100個</font>と
+		<font fg="ffffaf">浮島の入場券</font>を持ってきてください。<br/>
+		一緒に<font fg="ffffaf">ドラゴンのダイアモンド</font>をくだされば、追加報賞も差し上げます。<br/>
+		<br/>
+	<br/>
+		私の報賞は<font fg="ffffaf">レベル52が基準で、レベル55未満</font>の場合はもう少し力をつけてからいらしてください。<br/>
+		報賞を獲得するには<font fg="ffffaf">浮島の入場券</font>とお持ちの<font fg="ffffaf">月明りの欠片</font>をすべて持ってきてください。<br/>
+		浮島の入場券がないと、そこへは二度と行くことができませんのでご注意ください。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

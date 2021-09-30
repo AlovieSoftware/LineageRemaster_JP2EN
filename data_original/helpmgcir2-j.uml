@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>イリュージョニストの幻術魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">イリュージョニストの幻術魔法：レベル2</font><br/></p>
+	<p><font fg="ffffaf">コンセントレーション：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	持続時間：600秒<br/>
+	対象：術者から5セル内のPCの1人<br/>
+	効果：対象の集中力を向上させ、回復できるMP量を+4増加させます。<br/></p>
+	
+	<p><font fg="ffffaf">マインド ブレイク：</font><br/>
+	種類：攻撃<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：20/15<br/>
+	材料：属性石1個<br/>
+	持続時間：一瞬<br/>
+	対象：術者から5セル内のPCまたはNPCの1人<br/>
+	効果：敵の肉体を攻撃すると同時に精神にダメージを与えます。<br/></p>
+	
+	<p><font fg="ffffaf">ボーン ブレイク：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	持続時間：2秒<br/>
+	対象：PCまたはNPCの1人<br/>
+	効果：敵に骨の髄まで響く強力な攻撃を加えます。<br/>
+	一定確率で一時的に動けなくします。<br/></p>
+	
+	<p><font fg="ffffaf">イリュージョン[リッチ]：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：対象をリッチだと錯覚させる幻想に陥らせます。<br/>
+	魔力を4向上させます。<br/></p>
+	
+	<p><font fg="ffffaf">キューブ[ゴーレム]：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：40/0<br/>
+	材料：属性石5個<br/>
+	持続時間：128秒<br/>
+	対象：パーティーメンバー<br/>
+	効果：パーティーメンバー全体にAC-8<br/>
+		  パッシブ ゴーレムと重複不可<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

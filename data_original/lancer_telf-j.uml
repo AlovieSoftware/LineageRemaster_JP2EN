@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ちょっと！！<br/>
+		いくら私でも条件に合わないと送れません！<br/>
+		入場できるかしっかり確認してください。<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：一般 - 4,900アデナ/高級 - 5,900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 必要アイテム：アデン国王の招待状</font><br/><br/>
+		<br/><font fg="ffffaf">3. 制限時間：60分</font><br/><br/>
+		<br/><font fg="ffffaf">4. 必要レベル：レベル55以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

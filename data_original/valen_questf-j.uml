@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_033</portrait>
+		<name>ディリー シオス</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		獣の巣に行ってきましたか？<br/>
+		私のために獣の巣に行ってきたのなら、<font fg="ffffaf">甘い玉を100個</font>と
+		<font fg="ffffaf">獣の巣入場券</font>を持ってきてください。<br/>
+		<br/>
+	まだ<font fg="ffffaf">レベル60</font>になっていないなら、報賞は差し上げられません。<br/>
+		 <br/>
+		 <br/>
+		</p>
+	</dialog>
+</npcdialog>

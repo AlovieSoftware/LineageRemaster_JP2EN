@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>時空旅行</title>
+	<npc>
+		<portrait>PO_038</portrait>
+		<name><var src="name"/></name>
+		<job>時空旅行の研究員</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		時空旅行へ出かける際に私を訪ねる必要はありません！<br/>
+		<br/>
+		<font fg="ffafff">お知らせウィンドウのID</font>をクリックすることで、全サーバーの勇士たちと共に未知の時空間を冒険できるようになりました！<br/>
+		<br/>
+		時空間の冒険に出るには、探検部屋が必要になりますが、その部屋を作るためには鍵が必要になります。 
+		インスタンスダンジョンの鍵が入った<font fg="ffafff">時空の鍵箱</font>は私が販売しています。
+		鍵箱に入っている<font fg="ffafff">時空の鍵</font>があれば、インスタンスダンジョン ルームを開設することができます。<br/>
+		<br/><br/>
+		<img src="331" link="id_yurie01"></img>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

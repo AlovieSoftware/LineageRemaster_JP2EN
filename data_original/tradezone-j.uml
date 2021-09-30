@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<dialog align="left">
+		<p><br/>
+		<font fg="ffffff"><var src="name"/>：</font><br/><br/></p>
+		<p>市場を探しているのですか？</p>
+		<p>市場はテレポートでないと行けません。</p>
+		<p>あと、探したい商人がいたら<font fg="ffaaff">市場ガード</font>に言ってください。 </p>
+		<p>すぐに見つけてくれますよ。</p>
+		<br/>
+		<panel type="Panel_Teleport_Shop">
+				<button action="teleport trade-zone"/>
+        </panel>
+
+	</dialog>
+
+</npcdialog>

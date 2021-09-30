@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベントガイド</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>メティス</name>
+		<job>イベントガイド</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> <br/>あなたはとても良い気をお持ちですね。<br/><br/>
+		 今日、勇士様に金色の幸運が訪れるかもしれません！<br/><br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+	</dialog>
+</npcdialog>
+

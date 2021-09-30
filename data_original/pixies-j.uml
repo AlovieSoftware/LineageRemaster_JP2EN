@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p><font fg="ffffaf">[変身リスト]</font></p>
+    <p align="center">
+    <img src="14550" tooltip="ブラック ウィザード" action="15 pc black wizard morph"/><blank width="10"/>
+    <img src="14551" tooltip="ハーピー" action="15 pc harphy morph"/><blank width="10"/>
+    <img src="14554" tooltip="マンダリン オレンジ" action="15 pc orange morph"/><br/><br/>
+    <img src="14553" tooltip="天上のナイト" action="knight of heaven"/><br/><br/>
+    <img src="14555" tooltip="少女ケレニス" action="15 pc kelenis girl"/><blank width="10"/>
+    <img src="14552" tooltip="チビっ子(ピンク)" action="15 pc kids" /><blank width="10"/>
+    </p>
+  </dialog>
+</npcdialog>

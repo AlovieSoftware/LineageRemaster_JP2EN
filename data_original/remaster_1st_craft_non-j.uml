@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント製作</title>
+	<npc>
+		<portrait></portrait>
+		<name>ヘイロ</name>
+		<job>[リマスター1周年イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ようこそ！<br/>
+		<br/>
+		リマスターも1周年を迎えたな。<br/>
+	            これまでアデン大陸を守ってくれた君たちのために、<font fg="ffffaf">様々なプレゼント</font>を準備したんだ。期待してくれ！<br/>
+		<br/>
+		<font fg="ffffaf">プレゼントクーポン</font>と<font fg="ffffaf">悪魔王の武器製作書</font>が準備できたら<br/>
+		すぐに製作してくれ。<br/>
+		<br/>
+		<font fg="ffffaf">+9悪魔王の武器</font>が出来たら<font fg="ffffaf">悪魔王の武器交換券</font>で交換もできるからな！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

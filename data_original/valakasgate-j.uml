@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p align="left"><font fg="ffffff"><name/>：</font><br/></p>
+	<p>洞窟の中からすさまじい悲鳴が聞こえてきます。<br/></p>
+	<p>強力な力に抗うために、アデンの勇士たちが何人もこの洞窟に入りましたが、誰一人生きて帰ってきませんでした。<br/></p>
+	<p>あなたも洞窟に入られますか？<br/></p>
+	<p>ただし、洞窟の中で死亡すると<font fg="ffffaf">経験値損失</font>があります。それでも入場しますか？<br/><br/></p>
+	<p><a action="f_valakas">ヴァラカス棲息地に移動する</a><br/><br/></p>
+	<p>進行中に起きた事故については、我々は一切責任を持ちません。<br/></p>
+	<p>幸運をお祈りします。</p>
+  </dialog>
+</npcdialog>

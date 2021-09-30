@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		
+		<p>リングスロットを解放して、新しい力を経験してみろ。<br/></p>
+		<p>今は<font fg="ffafff">レベル制限なし</font>にすべての勇士に片方のリングスロットを10000アデナで解放してるぞ。<br/></p>
+		<p>ただしこれはイベント期間中のみ装備できるものだ。<br/><br/></p>
+		
+		<p>もちろん、能力があれば両方のリングをすべて装備することもできる。<br/></p>
+		<p>ぜひ利用してくれ。<br/><br/></p>
+		
+		<p><a action="z">リングスロットを解放する</a><br/></p>
+
+		
+	</dialog>
+
+</npcdialog>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>水の精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">水の精霊魔法：レベル4</font><br/></p>
+	<p><font fg="ffffaf">ネイチャーズ タッチ：</font><br/>
+	種類：治癒<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：320秒<br/>
+	対象：術者<br/>
+	効果：攻撃を受けた時、一定確率でHPを回復するバフ</p>
+	
+	<p><font fg="ffffaf">アクア プロテクター：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/0<br/>
+	持続時間：960秒<br/>
+	対象：術者から8セル内のPCの1人<br/>
+	効果：遠距離攻撃に対する回避能力を向上させます。<br/>
+	この能力値はERの影響を受けます。<br/></p>
+	
+	<p><font fg="ffffaf">フォーカス ウェーブ：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	材料：エルヴン ワッフル1個<br/>
+	持続時間：480秒<br/>
+	対象：術者<br/>
+	効果：移動および攻撃速度増加<br/></p>
+	<p><img src="331" link="helpmgcw"/><br/><br/></p>
+	</dialog>
+</npcdialog>

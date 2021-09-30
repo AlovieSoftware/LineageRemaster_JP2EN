@@ -1,4 +1,4 @@
-Live;
+;Live
 Long sword
 Axe
 lamp
@@ -365,7 +365,7 @@ Gloudin village
 ready!
 Go!
 Aman
-The winner of the race
+The winner of the athletic games
 is!
 calm
 tension
@@ -375,7 +375,7 @@ Crow
 Gora
 Old age that can be spoken
 Second
-Lace start
+Athletic games start 
 It is minutes!
 Gabarner
 Young eagle
@@ -1246,7 +1246,7 @@ wood
 Hunterbow
 leather
 Manto maker ^ Hellbert
-Race ticket
+Cheering trumpet
 Integrated warehouse number ^ Suram
 Integrated warehouse number ^ Nodim
 Master of Ryokan ^ Morley
@@ -2095,7 +2095,7 @@ Integrated warehouse number ^ Orclon
 Cleaning staff
 Papriion Magic Armor
 Antaras Magic Armor
-Varakas Magic Armor
+Valakas Magic Armor
 Lind Vior Magic Armor
 Teleporter ^ Beginner's teleportor
 Bandit
@@ -4866,15 +4866,15 @@ Maya shadow
 Maya crystal sphere
 The fear of fear! You can not get out safely from here! Let's do it to zombies that you can not die or die! !
 It looks delicious ... it looks delicious ...
-Minho Sherman
-Minor
-Minno Shaman Stone Golem
-Minno Sharman's Diar Golem
-Lava Golem in Mino Sharman
-Minno Sharman's Iron Golem
-Living Armor of Mino Shaman
-Mino Sherman's tail
-Minano tail
+Mino Shaman
+Mino
+Mino Shaman's Stone Golem
+Mino Shaman's Diar Golem
+Mino Shaman's Lava Golem
+Mino Shaman's Iron Golem
+Mino Shaman's Living Armor
+Mino Shaman's Tail
+Mino's Tail
 Rock mass
 Diamond raw stone
 Volcanic rock
@@ -5933,7 +5933,7 @@ Mortal body
 Thunder grap
 Destroy: Horror
 Eye of dragon
-Awakening [Varakas]
+Awakening [Valakas]
 Mirror image
 Confusion
 Smash energy
@@ -6525,7 +6525,7 @@ Prayer crest II
 Arm power crest
 Affiliated pattern
 Strength of intelligence
-Physical fitness pattern
+Constitution pattern
 Mental pattern
 Attractive pattern
 Defense pattern
@@ -8408,7 +8408,7 @@ Spiritual seal box
 Anturas rare
 Papriion rare
 Lind Viol rare
-Varakas rare
+Valakas rare
 Magic Doll: Azul Hatching
 Magic Doll: Crimson Hatching
 Mysterious prism: Evolved Azul Hatching
@@ -8750,66 +8750,66 @@ dummy
 dummy
 dummy
 dummy
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Japan 8th Anniversary Event Item
-Boots of Japan 8th Anniversary: ​​Body Fibly
-Boots of Japan 8th Anniversary Spirit: Magical
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event Quest
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
-Japan 8th Anniversary Event NPC
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Japan 8th Anniversary Spirit Boots: Constitution
+Japan 8th Anniversary Spirit Boots: Magical Power
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
 Sparkling
 Pandorous transformation
 Taros Transformation
@@ -8823,13 +8823,13 @@ Mambo Rabbit Mask: Woman
 Mambo Rabbit Mask: Man
 Angry
 Ice tea bag
-Hidden Divial Sword
-Hidden Divisy Bow
-Hidden Divial Staff
-Hidden demon crow
-Hidden Divial Chain Sword
-Hidden Divial Key Link
-Hidden Divial Ax
+Hidden Demon Sword
+Hidden Demon Bow
+Hidden Demon Staff
+Hidden Demon crow
+Hidden Demon Chain Sword
+Hidden Demon Key Link
+Hidden Demon Weapon Box
 November 10
 June 2
 August 9
@@ -8916,8 +8916,8 @@ The Best Silver Night Transformation Scroll
 The Best Silver Majister Transformation Scroll
 The Best Silver Ranger Transformation Scroll
 The Best Silver Shadow transformation scroll
-dummy
-dummy
+Jutis Toolbox
+Jutis Fishing Rod Backpack
 Call of Event Bag
 Night Event Bag
 Elf event bag
@@ -9070,7 +9070,7 @@ Ultimet Halloween Armor
 Potion of four seasons
 Hypox choker
 Highla Bit Choker
-Cyan potion of ivory tower
+Ivory Tower Cyan potion
 Ivory Tower Armor Reinforced Scroll
 Ivory Tower Weapon Enhancement Scroll
 Primitive Totem
@@ -9078,33 +9078,33 @@ Sweets
 Delicious chopsticks
 Kushinyuko
 Ivory Tower Death Night Transformation Scroll
-Ivory tower dark elf madework scroll
-An ivory tower prayer pattern
-Ivory tower arm power crest
-Ivory tower agile pattern
-Ivory tower intelligence pattern
-An ivory tower physical strength pattern
-An ivory tower spirit of the spirit
-Crested pattern of ivory tower
-Ivory tower defense pattern
-An ivory tower life pattern
-Ivory tower magic pattern
-Healing potion of ivory tower
-Ivory tower meditation potion
-Liter Tower Life Potion
-Magic potion of ivory tower
-Magic Resistance Potion of Tower of ivory
-An ivory tower arm power potion
-Ivory tower agile potion
+Ivory Tower Dark Elf madework scroll
+Ivory Tower prayer pattern
+Ivory Tower arm power crest
+Ivory Tower agile pattern
+Ivory Tower intelligence pattern
+Ivory Tower physical strength pattern
+Ivory Tower spirit of the spirit
+Ivory Tower Crested pattern
+Ivory Tower defense pattern
+Ivory Tower life pattern
+Ivory Tower magic pattern
+Ivory Tower Healing potion
+Ivory Tower meditation potion
+Ivory Tower Life Potion
+Ivory Tower Magic potion
+Ivory Tower Magic Resistance Potion
+Ivory Tower arm power potion
+Ivory Tower agile potion
 Ivory Tower Potion Potion
-Ivory tower intelligence potion
-Potion of the tower of ivory
-An angry potion of the ivory tower
-Little potion of ivory tower
+Ivory Tower intelligence potion
+Ivory Tower Potion
+Ivory Tower angry potion
+Ivory Tower Little potion
 Hoban box
-Ivory tower prayer potion
-牁Etower swordsman potion
-Potion of the tower of ivory
+Ivory Tower prayer potion
+Ivory Tower swordsman potion
+Ivory Tower Potion
 Ben Lyle! Cerge York ...
 Ben Lyle! Mayyo Tobark ...
 Ben Lyle! Chulus key bar ...
@@ -9208,13 +9208,13 @@ Linger's ring strengthening scroll
 Plug bag of vow
 Ring of recovery vows
 Concentrated oath ring
-Ring of physical fitness
+Ring of Constitution
 Magical vows ring
 Magic Resistance Oath Ring
 Oath candy
 Recovery Oath Ring Replacement Bag
 Concentrated Oath Ring Replacement Bag
-Ring replacement bag of physical fitness
+Ring replacement bag of Constitution
 Magical Oath Ring Replacement Bag
 Magic Resistance Oath Ring Replacement Bag
 9th Anniversary Celebration Ring Exchange
@@ -9522,7 +9522,7 @@ Standard 200 combat package
 Standard 200 cube package
 Standard 300 Power Package
 Hero's cloak box
-dummy
+Magic Doll: Male No.6
 Hatred of hatred box
 Blessed Transformer Ring Box
 Dragon Scail Gift Box
@@ -9826,22 +9826,22 @@ Nivasura
 Nivas
 Osiris treasure chest
 Secret society wizard
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Secret associator merchant
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Magic Doll: Male No.7
+Magic Doll: Female No.1
+Magic Doll: Female No.2
+Magic Doll: Female No.3
+Magic Doll: Female No.4
+Magic Doll: Female No.5
+Magic Doll: Female No.6
+Magic Doll: Female No.7
+Male No.1
+Secret Society Merchant
+Male No.2
+Male No.3
+Male No.4
+Male No.5
+Male No.6
+Male No.7
 Pet merchant ^ Halin
 Directional stone
 soul
@@ -10834,70 +10834,70 @@ dummy
 (Brave mental)
 (Brave avatar)
 (Dancing Blaze)
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Female No.1
+Female No.2
+Female No.3
+Female No.4
+Female No.5
+Female No.6
+Female No.7
+15th Anniversary Celebration Mission ^ Mintis
+15th Anniversary Celebration Mission ^ Jutis
+Mintis Magic Doll Present Box
+Drawer back
+Henberry store! We are selling new limited edition products, so please take a look!
+It's a dragon alchemy solution made by Jutis and guaranteed by Henberry!
+Reliable quality! An incomplete piece of magic ball!
+It will only be sold until December 26th, so don't miss it!
+Receipt (issued by Shiini)
+Mintis Solo Town
+Mintis Solo Town (PC)
+It's cold ... It's cold ...
+Christmas with your family!
+No matter how lonely I am, I don't want it!
+If you use Adena for romance, you can't strengthen your equipment!
+If your lovers break up, you'll have two more singles!
+Hmm ... I want a lover ...
+After all, when a person dies, he is alone ...
+Why doesn't Santa come over here ...
+Let's break up 5 couples and make 10 singles!
+Distortion Zenith Queen has appeared.
+Mistrast She appeared Shear.
+Fia Her vampire has appeared.
+Death her zombie appeared her road.
+Hell She has a cougar.
+Immortal Mommy Road has appeared.
+Marciles Iris has appeared.
+The Dark Knight Baldo has appeared.
+Forever Rich has appeared.
+Death Grim Reaper has appeared.
+Rudolph alone
+Hanbok transformation scroll (female)
+Hanbok transformation scroll (male)
+New Year's card
+New Year Costume Merchant ^ Kanna
+New Year Zoni Merchant ^ Dubo
+Fortune cookie (iron skin)
+Fortune cookie (dragon skin)
+Fortune cookie (advanced spirits)
+New Year dish
+Cupid Red Earling
+Cupid Blue Earling
+Cupid Purple Earling
+Blue valentine box (+5)
+Blue valentine box (+6)
+Blue valentine box (+7)
+Red valentine box (+5)
+Red valentine box (+6)
+Red valentine box (+7)
+Purple valentine box (+5)
+Purple valentine box (+6)
+Purple valentine box (+7)
+Han dynasty
+God of love ^ Cupid
+Lonely man
+Sad man
+Lonely man
 Man warrior
 Woman Warrior
 dummy
@@ -10978,66 +10978,69 @@ There is no time to play with you. It is disappeared!
 If you lose your life, you'll run away ... It is also unusual to see that figure ...
 Crystal sphere of production table ^ Room tice
 Crystal sphere of production table ^ Snapper
-[+3] Room Tiss Red Earrings (Blessing)
-[+4] Room Tiss Red Earrings (Blessing)
-[+5] Room Tiss Red Earrings (Blessing)
-[+6] Room Tiss Red Earrings (Blessing)
-[+7] Room Tiss Red Earrings (Blessing)
-[+8] Room Tiss Red Earrings (Blessing)
-[+3] Room Tiss Blue Earring (Blessing)
-[+4] Room Tiss Blue Earring (Blessing)
-[+5] Room Tiss Blue Earring (Blessing)
-[+6] Room Tiss Blue Earring (Blessing)
-[+7] Room Tiss Blue Earring (Blessing)
-[+8] Room Tiss Blue Earring (Blessing)
-[+3] Room Tiss Purple Earrings (Blessing)
-[+4] Room Tiss Purple Earrings (Blessing)
-[+5] Room Tiss Purple Earrings (Blessing)
-[+6] Room Tiss Purple Earrings (Blessing)
-[+7] Room Tiss Purple Earrings (Blessing)
-[+8] Room Tiss Purple Earrings (Blessing)
-+3 Snapper's physical strength ring (blessing)
-+4 Snapper's physical strength ring (blessing)
-+5 Snapper's physical strength ring (blessing)
-+6 Snapper's physical strength ring (blessing)
-+7 Snapper's physical strength ring (blessing)
-+8 Snapper's physical strength ring (blessing)
-+3 Snapper Magic Resistance Ring (Blessing)
-+4 Snapper Magic Resistance Ring (Blessing)
-+5 Snapper Magic Resistance Ring (Blessing)
-+6 Snapper Magic Resistance Ring (Blessing)
-+7 Snapper Magic Resistance Ring (Blessing)
-+8 Snapper Magic Resistance Ring (Blessing)
-+3 Concentration ring of snapper (blessing)
-+4 Concentration ring of snapper (blessing)
-+5 Concentration ring of snapper (blessing)
-+6 Concentration ring (blessing) of snapper
-+7 Concentrated ring of snapper (blessing)
-+8 Concentration ring (blessing) of snapers
-+3 Snapper Manual (Blessing)
-+4 Snapper Manual (Blessing)
-+5 Snapper Manual (Blessing)
-+6 Snapper Manual (Blessing)
-+7 Snapper Manual (Blessing)
-+8 Manual of Snapper (Blessing)
-+3 Snapper Recovery Ring (Blessing)
-+4 Snapper Recovery Ring (Blessing)
-+5 Snapper Recovery Ring (Blessing)
-+6 Snapper Recovery Ring (Blessing)
-+7 Snapper Recovery Ring (Blessing)
-+ 8 Snapper Recovery Ring (Blessing)
-+3 Snapper wisdom ring (blessing)
-+4 Snapper wisdom ring (blessing)
-+5 Snapper wisdom ring (blessing)
-+6 Snapper wisdom ring (blessing)
-+7 Snapper wisdom ring (blessing)
-+8 Wright ring of Snapper (Blessing)
-+3 Snapper's brave ring (blessing)
-+4 Snapper's Hero Ring (Blessing)
-+5 Snapper's Hero Ring (Blessing)
-+6 Snapper's Hero Ring (Blessing)
-+7 Snapper's Hero Ring (Blessing)
-+8 Snapper's Hero Ring (Blessing)
+[+3] Room Tiss Red Earrings (blessing)
+[+4] Room Tiss Red Earrings (blessing)
+[+5] Room Tiss Red Earrings (blessing)
+[+6] Room Tiss Red Earrings (blessing)
+[+7] Room Tiss Red Earrings (blessing)
+[+8] Room Tiss Red Earrings (blessing)
+[+3] Room Tiss Blue Earring (blessing)
+[+4] Room Tiss Blue Earring (blessing)
+[+5] Room Tiss Blue Earring (blessing)
+[+6] Room Tiss Blue Earring (blessing)
+[+7] Room Tiss Blue Earring (blessing)
+[+8] Room Tiss Blue Earring (blessing)
+[+3] Room Tiss Purple Earrings (blessing)
+[+4] Room Tiss Purple Earrings (blessing)
+[+5] Room Tiss Purple Earrings (blessing)
+[+6] Room Tiss Purple Earrings (blessing)
+[+7] Room Tiss Purple Earrings (blessing)
+[+8] Room Tiss Purple Earrings (blessing)
++3 Snapper Ring of Constitution (blessing)
++4 Snapper Ring of Constitution (blessing)
++5 Snapper Ring of Constitution (blessing)
++6 Snapper Ring of Constitution (blessing)
++7 Snapper Ring of Constitution (blessing)
++8 Snapper Ring of Constitution (blessing)
++3 Snapper Ring of Magic Resistance (blessing)
++4 Snapper Ring of Magic Resistance (blessing)
++5 Snapper Ring of Magic Resistance (blessing)
++6 Snapper Ring of Magic Resistance (blessing)
++7 Snapper Ring of Magic Resistance (blessing)
++8 Snapper Ring of Magic Resistance (blessing)
++3 Snapper Ring of Concentration (blessing)
++4 Snapper Ring of Concentration (blessing)
++5 Snapper Ring of Concentration (blessing)
++6 Snapper Ring of Concentration (blessing)
++7 Snapper Ring of Concentration (blessing)
++8 Snapper Ring of Concentration (blessing)
++3 Snapper Manual (blessing)
++4 Snapper Manual (blessing)
++5 Snapper Manual (blessing)
++6 Snapper Manual (blessing)
++7 Snapper Manual (blessing)
++8 Snapper Manual (blessing)
++3 Snapper Recovery Ring (blessing)
++4 Snapper Recovery Ring (blessing)
++5 Snapper Recovery Ring (blessing)
++6 Snapper Recovery Ring (blessing)
++7 Snapper Recovery Ring (blessing)
++8 Snapper Recovery Ring (blessing)
++3 Snapper Ring of Wisdom (blessing)
++4 Snapper Ring of Wisdom (blessing)
++5 Snapper Ring of Wisdom (blessing)
++6 Snapper Ring of Wisdom (blessing)
++7 Snapper Ring of Wisdom (blessing)
++8 Snapper Ring of Wisdom (blessing)
++3 Snapper Hero ring (blessing)
++4 Snapper Hero Ring (blessing)
++5 Snapper Hero Ring (blessing)
++6 Snapper Hero Ring (blessing)
++7 Snapper Hero Ring (blessing)
++8 Snapper Hero Ring (blessing)
+Hideout caretaker ^ Toto
+Invitation for server number hideout
+Return amulet of server number hideout
 dummy
 dummy
 dummy
@@ -11078,39 +11081,36 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+TAM shop coupon
+Buff expert ^ TAM shop
+Hey 01
+Hey 02
+Hey 03
+Hey 04
+Hey 05
+Hey 06
+Hey 07
+Hey 08
+Hey 09
+Hey 10
+Hay 11
+Hey 12
+Hey 13
+Hey 14
+Hey 15
+Hey 16
+Hey 17
+Hey 18
+Hey 19
+Hey 20
 Room tiss black earing
 Room Tiss Black Earring Box
-[+3] Room Tiss Black Earrings (Blessing)
-[+4] Room Tiss Black Earrings (Blessing)
-[+5] Room Tiss Black Earrings (Blessing)
-[+6] Room Tiss Black Earrings (Blessing)
-[+7] Room Tiss Black Earrings (Blessing)
-[+8] Room Tiss Black Earrings (Blessing)
+[+3] Room Tiss Black Earrings (blessing)
+[+4] Room Tiss Black Earrings (blessing)
+[+5] Room Tiss Black Earrings (blessing)
+[+6] Room Tiss Black Earrings (blessing)
+[+7] Room Tiss Black Earrings (blessing)
+[+8] Room Tiss Black Earrings (blessing)
 Room Tiss Black Edition Package
 dummy
 dummy
@@ -11119,25 +11119,25 @@ dummy
 Poisonless fang
 Lightning bolt
 Yoko Na Soup: Experience Values ​ E 20%, Damage Reduction +5, Automatic Use at Receive
-dummy
-dummy
-dummy
+Henberry Gaiters Box
+Yurus Accessory Package
+Yurus accessory exchange ticket
 Old alchemy box
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Chronos belt
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Hermit Wizard ^ Olim
+Olim Garnet
+Olim Garnet Edition
+Olim's accessory box
+Amulet of horror
+Chronos Belt
+Dragon Topaz Cube 10 times
+Fast levelup package
+Much levelup package
+Figure package
+Golden figure package
+Diorama package
 Magic doll bag
 Golden Magic Doll Bag
 Iris Magic Doll
@@ -13077,7 +13077,7 @@ Of stone of Pandora A pattern: T-shirt box
 Pandora Recovery A pattern: T-shirt box
 Pandora of steel A pattern: T-shirt box
 Of dark magic of Pandora A pattern: T-shirt box
-Pandora of physical fitness A pattern: T-shirt box
+Pandora of Constitution A pattern: T-shirt box
 Pandora mana of A pattern: T-shirt box
 Pandora spirit of A pattern: T-Shirts
 The land of Pandora A pattern: T-Shirts
@@ -13093,7 +13093,7 @@ Pandora spirit of A pattern: T-Shirts
 Pandora Recovery A pattern: T-Shirts
 Pandora of steel A pattern: T-Shirts
 Of dark magic of Pandora A pattern: T-Shirts
-Pandora of physical fitness A pattern: T-Shirts
+Pandora of Constitution A pattern: T-Shirts
 Pandora mana of A pattern: T-Shirts
 Recovery A pattern: T-Shirts
 Spirit of A pattern: T-Shirts
@@ -13117,7 +13117,7 @@ Pandora of brute strength floral Elven T-shirt
 Pandora agility floral Elven T-shirt
 Pandora of intelligence floral Elven T-shirt
 Pandora spirit of floral Elven T-shirt
-Pandora of physical fitness floral Elven T-shirt
+Pandora of Constitution floral Elven T-shirt
 Pandora charm of floral Elven T-shirt
 Elven T-shirt of chastity Naru brute strength
 Chastity Naru agility of Elven T-shirt
@@ -13447,18 +13447,18 @@ Of mystery
 Phantom of the ring
 Suspicious ring case
 Wedding anniversary box
-Tower 16th floor transfer stone of arrogance
-26th floor transfer stone tower of arrogance
-Tower 36th floor transfer stone of arrogance
-Tower 46th floor transfer stone of arrogance
-Tower 56-floor transfer stone of arrogance
-Tower 66-floor transfer stone of arrogance
-Tower 76-floor transfer stone of arrogance
-Tower 86th floor transfer stone of arrogance
-Tower third floor transfer stone Oren ivory
-Tower fourth floor transfer stone Oren ivory
-Tower fifth floor transfer stone Oren ivory
-Tower 6th floor transfer stone Oren ivory
+Tower of the Arrogance's 16th floor transfer stone
+Tower of the Arrogance's 26th floor transfer stone
+Tower of the Arrogance's 36th floor transfer stone
+Tower of the Arrogance's 46th floor transfer stone
+Tower of the Arrogance's 56th floor transfer stone
+Tower of the Arrogance's 66th floor transfer stone
+Tower of the Arrogance's 76th floor transfer stone
+Tower of the Arrogance's 86th floor transfer stone
+Ivory Tower's 3rd floor transfer stone
+Ivory Tower's 4th floor transfer stone
+Ivory Tower's 5th floor transfer stone
+Ivory Tower's 6th floor transfer stone
 Tomb transfer stone spirits
 Asmodian temple transferred stone
 Box of large spirit of water
@@ -14126,8 +14126,8 @@ Ruthless Wolf
 Ruthless bare
 Ruthless boar
 Everyone can hide properly ...
-Aden King's Secret Garden
-Aden King's Secret Garden (PC)
+King's hunting ground
+King's hunting ground (Internet cafe)
 Teleporter ^ Doria
 Integrated warehouse number ^ Tree
 Magic Transfer ^ Pay Has
@@ -14301,7 +14301,7 @@ Scorpion's poison
 Ring Rental Event ^ Fearing
 Skopion eats about half
 Aden's national
-Varakas: Biku ...
+Valakas: Biku ...
 Slot Open Event ^ Snapper
 dummy
 dummy
@@ -14698,14 +14698,14 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Suspicious teleporters ^ jiggle
-dummy
-dummy
+Ground force proof
+Pixie soul
+Pixie Elixir
+Shining pixie box
+Last Survivor ^ Isaas
+Suspicious teleporter ^ Jiggle
+Dark cavern
+Suspicious large cavity (PC)
 Angry Nakama
 Cut caused by whirlwind eldest brother
 Maboroshiushioni
@@ -14871,7 +14871,7 @@ dummy
 dummy
 dummy
 dummy
-The guardian of the amulet (physical fitness)
+The guardian of the amulet (Constitution)
 The guardian of the amulet (magic)
 Christmas Red Sox
 Christmas green socks
@@ -15463,7 +15463,7 @@ Notification: raid will end after 5 seconds.
 Dragon key (Antharas)
 Dragon key (Papurion)
 Dragon key (Rindobioru)
-Dragon key (Varakasu)
+Dragon key (Valakasu)
 Tears of Ain hazard
 Vicious Mind of Girutasu
 Assassination army of survivors
@@ -15497,7 +15497,7 @@ dummy
 dummy
 Dantesu key to the treasure chest
 (Shock stun)
-(Reduction Armor)
+(Armor Reduction)
 (Bounce Attack)
 (Solid carriage)
 (Counter barrier)
@@ -16174,27 +16174,27 @@ dummy
 Illustrated House Treasure (Anturas)
 Illustration (Papriion)
 Illustration of the world (Lind Viol)
-II's House Treasure (Varakas)
+II's House Treasure (Valakas)
 II's House Treasure (Anturas)
 II's House Treasure (Papriion)
 III's House Treasure (Lind Viol)
-II's House Treasure (Varakas)
+II's House Treasure (Valakas)
 II's House Treasure (Anturas)
 Illustration of the 3rd of the world (Papriion)
 II's House Treasure (Lind Viol)
-II's House Treasure (Varakas)
+II's House Treasure (Valakas)
 Illustrated House Treasure (Anturas)
 III's House Treasure (Papriion)
 4 House Treasures (Lind Viol)
-II's House Treasure (Varakas)
+II's House Treasure (Valakas)
 5 householders (Antaras)
 5 house treasures (papriion)
 5 householders (Lind Viol)
-5 house treasures (Varakas)
+5 house treasures (Valakas)
 Seven House Treasures (Anturas)
 Seven House Treasures (Papriion)
 Seven House Treasure (Lind Viol)
-Seven House Treasures (Varakas)
+Seven House Treasures (Valakas)
 dummy
 dummy
 dummy
@@ -16483,8 +16483,8 @@ Survival cry (Ctrl + E)
 Weight gauge
 Potion recovery rate
 Potion recovery
-Damage Reduction
-Probabilistic damage reduction
+Damage reduction
+Probability damage reduction
 Additional defense
 dummy
 dummy
@@ -16759,7 +16759,7 @@ It comes from the guy who died. Let's show you the power of Kenrau Hell and Blac
 Distribution funds
 defense
 defense
-Ivory tower recovery potion
+Ivory Tower recovery potion
 dummy
 dummy
 dummy
@@ -16894,21 +16894,21 @@ dummy
 dummy
 dummy
 dummy
-Snapper ring strengthening scroll
-Snapper's physical strength ring
-Snapper's Magic Resistance Ring
-Snapper concentration ring
-Manual of snapper
+Snapper Ring Enhancement Scroll
+Snapper Ring of Constitution
+Snapper Ring of Magic Resistance
+Snapper Ring of Concentration
+Snapper Manual
 Snapper Recovery Ring
-Snapper wisdom ring
-Snapper's Hero Ring
-Snapper's physical strength ring box
-Snapper Magic Resistance Ring Box
+Snapper Ring of Wisdom
+Snapper Hero Ring
+Snapper Ring of Constitution Box
+Snapper Ring of Magic Resistance Box
 dummy
 dummy
 dummy
-Snapper wisdom ring box
-Snapper's brave ring box
+Snapper Ring of Wisdom Box
+Snapper Hero Ring Box
 dummy
 dummy
 dummy
@@ -17613,11 +17613,11 @@ Fruits of growth
 Dragon key (darkness - Antharas)
 Dragon key (darkness - Papurion)
 Dragon key (darkness - Rindobioru)
-Dragon key (darkness - Varakasu)
+Dragon key (darkness - Valakasu)
 Dragon key (fear - Antharas)
 Dragon key (fear - Papurion)
 Dragon key (fear - Rindobioru)
-Dragon key (fear - Varakasu)
+Dragon key (fear - Valakasu)
 Valentine Fairy
 Antharas of darkness
 Antharas of fear
@@ -18643,9 +18643,9 @@ Kukuku ... while you are asleep, differents is wandering Unoda ... Hahahaha to b
 Ku ... Why the power of human beings to here ...
 Ugh ... or end of the wicked play of this curse ... differents?
 Kukuku ...'ll haunt until I curse the moment that you desire disappears ... Hahahaha!
-Although the sword received a curse by the blood of Varakasu, should the original power remains a little ...
+Although the sword received a curse by the blood of Valakasu, should the original power remains a little ...
 The power of the sword, you're out missing here.
-Perhaps because of the curse, use a sword and fight with the past of Varakasu and I emerge on rare ...
+Perhaps because of the curse, use a sword and fight with the past of Valakasu and I emerge on rare ...
 Maybe, may you also be seen that fight. Come on, go ... more I can not stand.
 Spirit of Desunaito will come flows. (Remaining time: 30 minutes)
 I feel the will of Desunaito. (Remaining time: 20 minutes)
@@ -18653,8 +18653,8 @@ Sword will flare up violently. (Remaining time: 10 minutes)
 Sword of power is beginning to be suppressed. (Remaining time: 5 minutes)
 Time I feel that it is not too much left. (Remaining time: 3 minutes)
 Consciousness will come as a haze. (Remaining time: 1 minute)
-Varakasu like does not forgive you.
-Will you continue to wander the world until his death in Varakasu-like curse.
+Valakasu like does not forgive you.
+Will you continue to wander the world until his death in Valakasu-like curse.
 Fire dragon
 (Hell Fire)
 Ivory Tower wizard ^ Hemo
@@ -18864,16 +18864,16 @@ All ... Destroy ... all of the things ... Destroy ...
 Who are you?
 I ... I ... Knight ... so, I was a knight .... You're are you Why here?
 Cavalry ... do?
-'S right ... I'm challenged to Varakasu and overconfident knight's ... his power, foolish knight ....
-Did you defeat in Varakasu?
+'S right ... I'm challenged to Valakasu and overconfident knight's ... his power, foolish knight ....
+Did you defeat in Valakasu?
 Defeat ...'s right ... I was defeated. Memory and consciousness ... have been faded little by little ...
 Before I completely lose the reason, me run away from here with this sword.
-Varakasu: Who's had caused me?
-Desunaito: Varakasu! Finally it showed up ...
-Varakasu: consideration hindered my sleep ... it will be my slave, Tsuzukero pay until they die ...
+Valakasu: Who's had caused me?
+Desunaito: Valakasu! Finally it showed up ...
+Valakasu: consideration hindered my sleep ... it will be my slave, Tsuzukero pay until they die ...
 Desunaito: Bah, such words'll let say from defeat me.
-Varakasu: Kukuku ... we're quite confident ...
-Varakasu: Die! human!
+Valakasu: Kukuku ... we're quite confident ...
+Valakasu: Die! human!
 If once retire ...
 Cheeky guy Me ... Come with!
 We'll overwhelm a further force!
@@ -19038,7 +19038,7 @@ I now [Level 52] level 52 Desunaito. Please try to open the graduation gift. Con
 [Level 54] I have always raised a gift, but please do not get me wrong. I am everyone's lover!
 [Level 55] Nante became another Dark Knight. Why do you so early! After a long time is a gift!
 [Level 56] more important things than the item is your clan mates and friends!
-[Level 57] tower of ivory is divided into two. Tower of two eyes of ivory hidden in the world of Pixie ...
+[Level 57] Ivory Tower is divided into two. Tower of two eyes of ivory hidden in the world of Pixie ...
 [Level 58] as well Are you also grow manners and character of the level? Character it because it is your another person!
 [Level 59] Please be a little more luck! Silver Knight is one step forward after!
 It's now in the level 60] as promised Silver Knight. Leave a last gift.
@@ -19114,7 +19114,7 @@ dummy
 dummy
 dummy
 dummy
-Death to those who disturb the rest of Varakasu!
+Death to those who disturb the rest of Valakasu!
 Greater than or equal to the invasion to fire dragon of 棲処, absolutely alive is Kaerenzo! Fuhahaha ...
 dummy
 dummy
@@ -19611,7 +19611,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+guard
 dummy
 dummy
 dummy
@@ -20036,18 +20036,18 @@ MR +
 DG +
 Damage reduction +
 Attribute resistance +
-Solid helm of the ivory tower
-Solid armor of the ivory tower
-Solid mantle of the ivory tower
-Solid glove of ivory tower
-Solid boots of the ivory tower
-Solid shield of the ivory tower
-Divine helm of the ivory tower
-Divine lobe of the ivory tower
-Divine cloak of ivory tower
-Divine glove of ivory tower
-Divine boots of the ivory tower
-Divine shield of the ivory tower
+Ivory Tower Solid Helm
+Ivory Tower Solid Armor
+Ivory Tower Solid Mantle
+Ivory Tower Solid Glove
+Ivory Tower Solid Boots
+Ivory Tower Solid Shield
+Ivory Tower Divine Helm
+Ivory Tower Divine Robe
+Ivory Tower Divine Cloak
+Ivory Tower Divine Glove
+Ivory Tower Divine Boots
+Ivory Tower Divine Shield
 Proof of the training center of the return warriors
 Training center teleporters of return warriors
 dummy
@@ -20162,8 +20162,8 @@ Amulet of good luck bow mechanic
 Amulet of good luck of the operator mechanic
 Probability +
 Probability -
-All-resistant +
-All of resistance -
+All resistance +
+All resistance -
 dummy
 dummy
 dummy
@@ -20282,8 +20282,8 @@ Attribute resistance force
 MR
 DG
 Counterattack rate
-Stan rate
-All of resistance
+Stun rate
+All resistance
 Duration
 dummy
 dummy
@@ -20891,7 +20891,7 @@ Nightbard Magic Doll
 Des Night Magic Doll
 Sheer Magic Doll
 Lind Vior Magic Doll
-Varakas Magic Doll
+Valakas Magic Doll
 Antaras Magic Doll
 Papriion Magic Doll
 dummy
@@ -21121,7 +21121,7 @@ Amulet of hope of Els
 Els cube
 Els heart (dragon skin)
 Mountain of Els gift box
-(Admission possible)
+
 (Packed)
 Hunter ^ light
 Sacred Beast ^ kudzu
@@ -22359,19 +22359,19 @@ Gadry Dragon Succubus Queen
 Elite Soldier of the ground dragon
 Acko
 Stone Golem
-Ivory tower Elder
-Ivory tower chimera
-Ivory tower lamia
-Ivory tower black Elder
-Ivory tower ghost
-Diangan of ivory tower
-Ivory tower shivine
-Ivory tower lesser daemon
-Ivory tower gargoyle
-Ivory tower parsa
+Ivory Tower Elder
+Ivory Tower chimera
+Ivory Tower lamia
+Ivory Tower black Elder
+Ivory Tower ghost
+Ivory Tower Diangan
+Ivory Tower shivine
+Ivory Tower lesser daemon
+Ivory Tower gargoyle
+Ivory Tower parsa
 Lightning bolt
 Poisonless fang
-Iron golem of ivory tower
+Ivory Tower Iron golem
 Teleporter ^ Difuran
 Teleporter ^ serine
 Devil King's Two-handed Sword
@@ -22485,44 +22485,44 @@ Gilian: I didn't have enough time, come back again.
 Arton: Did not time?
 Ishil Rote: I will return again.
 Christ: The time was not enough. Call me again.
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+[Taiwan] Fragment of magic stone board
+[Taiwan] Completed magic stone board
+[Taiwan] 1st stage wind river ring
+[Taiwan] Two-tiered wind river ring
+[Taiwan] Three-tiered wind river ring
+[Taiwan] 4-stage wind river ring
+[Taiwan] Five-tiered wind river ring
+[Taiwan] 6-stage wind river ring
+[Taiwan] 7-stage wind river ring
+[Taiwan] 8-stage wind river ring
+[Taiwan] 9-step wind river ring
+[Taiwan] Original Wind River Ring
+[Taiwan] Mysterious ancient collector
+Arnold's Gloves EXP
+Arnold's Gloves Item EXP
+Arnold's glove item
 dummy
 General attack posture
+General defense posture
+Fighter-bomber posture
+Combat defense posture
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+General attack posture (general clan member): Successful attack +2
+General defense posture (general clan member): AC-3
+Combat attack posture (whole clan member): PVP damage +1
+Combat defense posture (general clan member): PVP reduction +1
+[Taiwan] 15th Anniversary Ring (Close Battle)
+[Taiwan] 15th Anniversary Ring (Expedition)
+[Taiwan] 15th Anniversary Ring (Magic)
+[Taiwan] Exchange certificate
+[Taiwan] Ring Strengthening Scroll
+[Taiwan] Ring reinforced scroll package (10 sheets)
+[Taiwan] Ring reinforced scroll package (50 sheets)
+[Taiwan] Ring reinforced scroll package (100 sheets)
+[Taiwan] Ring reinforced scroll package (200 sheets + 2 exchange certificates)
+[Taiwan] 15th Anniversary Magic Stone
+[Taiwan] 15th Anniversary Shinigami
+[Taiwan] Exchange Grim Reaper
 dummy
 dummy
 dummy
@@ -23235,18 +23235,18 @@ dummy
 (Fear)
 Alchemist ^ Barrett
 Shortcut key set change
-pick up
+Pick up
 Shortcut
-screenshot
+Screenshot
 Video recording
-Possession item column
+Inventory
 Item deletion
-Possession item column
+Inventory
 Character Status Window
 Magic window (+ action, link)
-community
-map
-quest
+Community
+Map
+Quest
 Monster picture book
 Behavior window
 Chat window
@@ -23772,141 +23772,141 @@ Kamiyate
 Large Toryo
 Yin head
 Shadowless
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+[China] Raiden's Wind Spirit Weapon Enhancement Scroll
+[China] Raiden's Earth Spirit Weapon Enhancement Scroll
+[China] Raiden's Water Spirit Weapon Enhancement Scroll
+[China] Raiden Fire Spirit Weapon Enhancement Scroll
+[LMS] Test_Death Knight Transformation
+[LMS] Test_Black Wizard Transformation
+[Taiwan] Character collector ^ Festival manager
+Power package
+[Taiwan] Dragon fishing reel
+[Taiwan] Dragon Devil Fishing Rod
+[Taiwan] Dragon Magic Fishing Reel Bonus Package
+[Taiwan] Stone statue of Red Hare
+[Taiwan] Stone statue of Blue Ryoma
+[Taiwan] Stone statue of Ginryuma
+[Taiwan] Stone statue of Gold Ryoma
+Wandering Merchant ^ Jay
+[China] Christmas luxury soup
+[China] Christmas luxury food
+Central Temple Secret Key (Limited)
+Growth ball box (25 pieces)
+2015 Christmas event
 ... I was ... only ... again ...
 ... warrior like ... I ... shaved ... again ...
 ... Do I ... look? Help me!
-dummy
-dummy
-dummy
-dummy
-Snapper's physical strength ring box
-Snapper Magic Resistance Ring Box
-Intensive ring box of snapper
+Jiu ^ Birth charge
+Songho ^ Dragon Merchant
+Apple ^ New Year Spirit
+Olim's Accessory Magic Scroll 15
+Snapper Ring of Constitution Box
+Snapper Ring of Magic Resistance Box
+Snapper Intensive ring box
 Snapper Mana ring box
-Snapper of recovery ring box
-Snapper wisdom ring box
-Snapper's brave ring box
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Snapper Recovery ring box
+Snapper Ring of Wisdom Box
+Snapper Hero Ring Box
+10 million (10,000,000) Adena
+Evil vitality (1000 pieces)
+New Year lucky box
+[Taiwan] Gamania Adhesive
+[Taiwan] Gamania Blessing Adhesive
+[Taiwan] 20th Anniversary Coin
+[Taiwan] 20th Anniversary Blessing Coin
+[Taiwan] Gamania 20th Anniversary Gift Box
+[Taiwan] Gamania 20th Anniversary Award
+[Taiwan] Gamania 20th Anniversary Blessing Reward
+Earth spirit element
+Water spirit element
+Wind spirit element
+Fire spirit element
+Devil's Element
+Close-up grilled corn
+Oden of long-distance attack
+Mamasu's honey bread
+Mysterious sauce
+Eternal herbs
+Close-up cooking
+Expeditionary cooking
+Mamasu's cooking
+Advanced soup
+Holy water of credit
+Holy water of light
+Sanctuary Weapon Box
+Sanctuary Armor Box
+Sanctuary Plate Mail
+Sanctuary Leather Armor
+Sanctuary Robe
+Sanctuary Dagger
+Sanctuary Two-handed sword
+Sanctuary Long Bow
+Sanctuary Staff
+Sanctuary Claw
+Sanctuary Chain sword
+Sanctuary Key link
+Sanctuary Axe
+Dragon demon fishing reel
+Dragon demon fishing rod
+Stone statue of Red Hare
+Blue Ryoma stone statue
+Stone statue of silver dragon horse
+Gold Ryoma stone statue
+Gacha box up to 5th place
+Skill Gacha Box
+Amulet of eternity
+[China] True Dragon Soul Stone: Growth (3 days)
+[China] True Dragon Soul Stone: Strength (3 days)
+[China] True Dragon Soul Stone: Agile (3rd)
+[China] True Dragon Soul Stone: Intelligence (3rd)
+[China] Absolute True Dragon Soul Stone: Growth (3 days)
+[China] Absolute True Dragon Soul Stone: Strength (3 days)
+[China] Absolute True Dragon Soul Stone: Agile (3rd)
+[China] Absolute True Dragon Soul Stone: Intelligence (3rd)
+[Taiwan] Sealed Orichalcum Dagger
+[Taiwan] Sealed Ice Queen Staff
+[Taiwan] Hidden Dragon Coin Village Moving Scroll Box (10th)
+[Taiwan] Hidden Dragon Coin Village Moving Scroll (10th)
+[Taiwan] Hidden Dragon Coin Village Moving Scroll Box (30th)
+[Taiwan] Hidden Dragon Coin Village Moving Scroll (30th)
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Forgotten Island
 Treasure box of nine-tailed fox
 dummy
 dummy
 dummy
 Fishing rod of mass
 Fishing rod of mass thread is broken
-trout
+Trout
 Rainbow trout
 Events ^ Nodaji
-Events ^ Nodaji
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Close-up grilled corn pack
+Oden pack for long-distance attacks
+Mamasu's Honey Bread Pack
+Mysterious sauce box
+Eternal herbal bag
+Dragon Coin Teleporter ^ Dragona
+Dragon Coin Unsealer ^ Juna
+Gacha point
+Gacha ^ Point Merchant
+Silver soul crystal box
+Gold soul crystal box
+Earth Dragon Lucky Bag
+Water Dragon Lucky Bag
+Wind Dragon Lucky Bag
+10 pieces of grilled corn
+10 long-distance oden
+10 honey breads from Mamasu
+10 mysterious sauces
+10 eternal herbs
+True Dragon Treasure
+True Dragon Treasure Bonus Package
 dummy
 dummy
 dummy
@@ -23929,12 +23929,12 @@ Suit
 Kelenis
 Kenrau Hel
 Black Desunaito
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+[China] Epaulette box with 1.5 times experience points (30 days)
+[Taiwan] True Dragon Treasure
+[Taiwan] True Dragon Treasure Bonus Package
+[Taiwan] True Dragon Treasure Honor Package
+[Taiwan] Credit treasure chest
+[Taiwan] Shinryu no Ki
 dummy
 dummy
 dummy
@@ -24001,116 +24001,116 @@ dummy
 dummy
 dummy
 dummy
-Treasure Chest of the arrogance of the column (1 to 3 floor)
-Treasure Chest of the arrogance of the column (4-6 floor)
-Treasure Chest of the arrogance of the column (7-9 floor)
-Treasure Chest of the arrogance of the tower (10th floor, the top floor)
-dummy
+Tower of the Arrogance's Treasure Chest (1 to 3 floor)
+Tower of the Arrogance's Treasure Chest (4-6 floor)
+Tower of the Arrogance's Treasure Chest (7-9 floor)
+Tower of the Arrogance's Treasure Chest (10th floor, the top floor)
+Coliseum Memorial Beverage
 Bitter chocolate
 Sweet chocolate
 Strawberry-flavored chocolate
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Event Merchant ^ Puruna
+Event Merchant ^ Faraf
+Magic Doll: Monk
+Jewel
+Event ^ Kakio
+Event Merchant ^ Liibon
+wrapping paper
+Chocolate box
+chocolate
+Ratman who stole chocolate
+Bad James
+Bad Andrew
+Bad Evan
+Bad Nelson
+Bad nails
+Bad Luke
+Bad terry
+Bad Victor
+Bad Malcolm
+Bad Damon
+Clipping that ate chocolate
+Idolon who ate chocolate
+Garst who ate chocolate
+Werewolf who ate chocolate
+Web event box
+New year package
+New Year certificate
+New Year spirit
+Haste Trainer
+Monkey certificate
+Event girl
+Monk Magic Doll
+Bad Tyrus
+Bad Sherwin
+Bad Pierre
+Bad Aldred
+Bad Giresse
+Bad Gillian
+Bad Mars
+dummy
+dummy
+[Taiwan] Statue of the new king (attack)
+[Taiwan] Statue of the new king (defense)
+[Taiwan] Level 70 Exchange Certificate
+[Taiwan] Level 80 Exchange Certificate
+[Taiwan] New King's Box
+dummy
+dummy
+dummy
+dummy
+[Taiwan] Proof of incarnation
+[Taiwan] Incarnation longsword
+[Taiwan] Incarnation dual blade
+[Taiwan] Incarnation Chain Sword
+[Taiwan] Incarnation key link
+[Taiwan] Incarnation Dagger
+[Taiwan] Incarnation Two-Handed Sword
+[Taiwan] Incarnation staff
+[Taiwan] Incarnation Long Bow
+[Taiwan] Incarnation Ax
+[Taiwan] Incarnation Dagger Box
+[Taiwan] Incarnation Two-Handed Sword Box
+[Taiwan] Incarnation staff box
+[Taiwan] Incarnation long bow box
+[Taiwan] Incarnation dual blade box
+[Taiwan] Incarnation Chain Sword Box
+[Taiwan] Incarnation key link box
+[Taiwan] Incarnation Ax Box
+[Taiwan] Incarnation Weapon Enhancement Scroll
+[Taiwan] Incarnation Weapon Enhancement Scroll: +8
+[Taiwan] Incarnation Weapon Enhancement Scroll: +9
+[Taiwan] Incarnation Weapon Enhancement Scroll: +10
+[Taiwan] Incarnation Weapon Enhancement Scroll: +11
+dummy
+[Taiwan] Incarnation Weapon Enhancement Scroll Box: +9
+[Taiwan] Incarnation Weapon Enhancement Scroll Box: +10
+[Taiwan] Incarnation Weapon Enhancement Scroll Box: +11
+dummy
+[Taiwan] Incarnation store ^ Chihan
+[Taiwan] Incarnation store ^ Contin
+[Taiwan] Weapon Enhancement Scroll of True Flame
+[Taiwan] +9 Incarnation Dual Blade
+[Taiwan] +9 Incarnation Chain Sword
+[Taiwan] +9 Incarnation Key Link
+[Taiwan] +9 Incarnation Dagger
+[Taiwan] +9 Incarnation Two-Handed Sword
+[Taiwan] +9 Incarnation staff
+[Taiwan] +9 Incarnation Long Bow
+[Taiwan] +9 Incarnation Ax
+[Taiwan] Weapon-enhanced scroll box of true flame
+[Taiwan] Blessed Weapon Enhancement Scroll Box of True Flame
+[Taiwan] Cursed Weapon Enhancement Scroll Box of True Flame
+Web Event Reward Magic Doll Box
+Magic Doll: Sagojo
+Magic Doll: Goku
+Magic Doll: Sanzo Hoshi
+Magic Doll: Chohakkai
+Arca's point
+4-stage magic doll random bag
+5-stage magic doll random bag
+Arca's Magic Doll Package (1)
+Arca's Magic Doll Package (10 pieces)
 Teberasu God ^ Anubis
 Teberasu gift box
 Jewelry Teberasu
@@ -24429,18 +24429,18 @@ The finest treasure box of Dragon
 dummy
 dummy
 Spam automatic shut-off
-[+3] Room Sevilla Red earring (General)
-[+3] Room Sevilla blue earring (General)
-[+3] Room Sevilla purple earring (General)
-[+3] Room Sevilla black earring (General)
-[+3] physical strength ring of snapper (General)
-[+3] snapper magic resistance ring of the (general)
-[+3] snapper of wisdom ring (General)
-[+3] snapper of the mighty ring (General)
-[+3] Chiryu of T-shirt (General)
-[+3] fire dragon T-shirt (General)
-[+3] KazeRyu of T-shirt (General)
-[+3] water dragon T-shirt (General)
+[+3] Room Sevilla Red earring (general)
+[+3] Room Sevilla blue earring (general)
+[+3] Room Sevilla purple earring (general)
+[+3] Room Sevilla black earring (general)
+[+3] Snapper Ring of Constitution (general)
+[+3] Snapper Ring of Magic Resistance (general)
+[+3] Snapper Ring of Wisdom (general)
+[+3] Snapper Ring of the mighty (general)
+[+3] Earth Dragon T-shirt (general)
+[+3] Fire Dragon T-shirt (general)
+[+3] Wind Dragon T-shirt (general)
+[+3] Water Dragon T-shirt (general)
 dummy
 dummy
 dummy
@@ -25089,16 +25089,16 @@ Hidden Asmodian of chain Sword (events)
 Hidden Asmodian of key links (events)
 Hidden Asmodian of Ax (events)
 Asmodian weapon protection scroll (events)
-Snapper magic resistance ring (events)
-Snapper physical strength ring (events)
-Room Eustis Red Earring (Event)
+Snapper Ring of Magic Resistance (events)
+Snapper Ring of Constitution (events)
+Room Eustis Red Earring (event)
 Room Eustis blue earring (events)
 Room Eustis purple earring (events)
 Warrior support box
 The mighty support Corps of legend
 Sex change tickets
 +4 magic resistance ring exchange tickets
-+4 physical fitness ring exchange tickets
++4 Constitution ring exchange tickets
 +4 Room Eustis earrings exchange tickets
 +3 magic resistance ring exchange tickets
 +3 stamina ring exchange tickets
@@ -25371,7 +25371,7 @@ Coat of arms bags of intelligence
 Emblem of physical strength
 Emblem of agile
 Coat of arms of the intelligence
-Varakasu of the car: the short-range
+Valakasu of the car: the short-range
 dummy
 dummy
 dummy
@@ -25398,10 +25398,10 @@ dummy
 dummy
 dummy
 dummy
-Enhanced protection scroll box of room Eustis
-Enhanced protection scroll box of snapper
+Room Eustis Enhanced protection scroll box
+Snapper Enhanced protection scroll box
 Room Eustis enhanced protection scroll
-Enhanced protection scroll of snapper
+Snapper Enhanced protection scroll
 dummy
 dummy
 dummy
@@ -25532,17 +25532,17 @@ Halpas's genus
 Integrated warehouse number ^ Laz
 Miscellaneous goods merchant ^ Kcombol
 Raid Strengthening Wizard ^ Des Night
-Varakas: Guu ぁE... A great cousin kera ....
-Varakas: Kisama and Harpas's genus?
-Varakas: I have to kill it if it is an insect.
-Varakas: The sacred area is stepped on the earth foot ... good to regret ...!
-Varakas: Sucky! Insecticulty is also a member of the insect cuckoo!
+Valakas: Guu ぁE... A great cousin kera ....
+Valakas: Kisama and Harpas's genus?
+Valakas: I have to kill it if it is an insect.
+Valakas: The sacred area is stepped on the earth foot ... good to regret ...!
+Valakas: Sucky! Insecticulty is also a member of the insect cuckoo!
 Death Night: Goo ... Valacas ...! !
 Olim: Finite! I use the power of Dest Night!
-Varakas: I will pay the price I'm angry ...! !
-Varakas: G ぁEぁE... ... Small existence as Cas ....
-Varakas: Today is here ... It is a day where the lizard to regain the solving power ....
-Varakas: That day is the end of Kisama.
+Valakas: I will pay the price I'm angry ...! !
+Valakas: G ぁEぁE... ... Small existence as Cas ....
+Valakas: Today is here ... It is a day where the lizard to regain the solving power ....
+Valakas: That day is the end of Kisama.
 Olim: Oh ... only a half success ... because I had a power of Death Night, it was not completely defeated ....
 Olim: But everyone has come up! Waraka should be calm for a while ....
 Olim: It's hard! The balance of the power controlling this place was broken!
@@ -26620,16 +26620,16 @@ Village of the island that can be spoken
 Woodbeck village
 Gilan Castle Town
 Hyine Castle Town
-Village of ivory tower
+Village of Ivory Tower
 Capital aden
 Spread
 Hero's fishing boat
-dummy
-dummy
-Spaorder extension ticket
+Permanent conversion stone: Armor
+Permanent conversion stone: Jewelry
+Spaulders extension ticket
 Teleporter ^ Lakush
-Teleporter ^ crack
-Teleporter ^ pyela
+Teleporter ^ Crack
+Teleporter ^ Pyela
 Glorance in the shadow of the flame ...
 Let's revive again with Yahi's power!
 Grull ... I'm still ...
@@ -27261,7 +27261,7 @@ dummy
 dummy
 Practitioners of the dragon of ruby
 Elixir of growth
-\aLstrange eyes
+\aLMysterious eyeball
 Practitioners of combat enhanced scroll
 The legend of the wizard ^ Rejino
 Training instructor ^ Piguman
@@ -27523,14 +27523,14 @@ Philosopher's patron Insignia
 \aLearth elements (large)
 Orc erader
 Black Knight secretary
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Unicorn guardian gaiters box
+Unicorn guardian gaiters
+Gaiters Relay Certificate
+Spaulders Relay Certificate
+Red magic enhancement box
+Red magic enhancement spell
+Old dawn light spaulder box
+Old dawn light spaulder
 Spaulders of Shuguang
 dummy
 dummy
@@ -27543,6 +27543,21 @@ dummy
 dummy
 dummy
 Lucky box
+Hero coin box
+Try your luck.
+Everything works when you're on your side.
+light
+Poseidon
++1 Old Dawn Gaiters (Probability Success) Material: Scroll (1) + Hero Coin (3)
++1 Old Dawn Gaiters (100% Success) Material: Scroll (5) + Hero Coin (3)
++2 Old Dawn Gaiters (Probability Success) Material: Scroll (1) + Hero Coin (3)
++2 Old Dawn Gaiters (100% success) Material: Scroll (5) + Hero Coin (3)
++3 Old Dawn Gaiters (Probability Success) Material: Scroll (1) + Hero Coin (3)
++3 Old Dawn Gaiters (100% Success) Material: Scroll (5) + Hero Coin (3)
++4 Old Dawn Gaiters (Probability Success) Material: Scroll (1) + Hero Coin (3)
++5 Old Dawn Gaiters (Probability Success) Material: Scroll (1) + Hero Coin (3)
+Buff coin (7th)
+Clan supporter ^ coin merchant
 dummy
 dummy
 dummy
@@ -27551,38 +27566,23 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+[Taiwan] 1
+[Taiwan] 7
+[Taiwan] Zhou
+[Taiwan] year
+[Taiwan] Thanks to Darris
+[Taiwan] 17th Anniversary Coin
+[Taiwan] 17th Anniversary Belt
+[Taiwan] 17th Anniversary Intellectual Belt
+[Taiwan] 17th Anniversary Belt of Agility
+[Taiwan] 17th Anniversary Magic Belt
+[Taiwan] Frigid defense (30 days)
+[Taiwan] Frigid protection package
+[Taiwan] Olim's Ornament Scroll Bonus Package
+[Taiwan] Olim's Ornament Scroll Luxury Package
+[Taiwan] 17th Anniversary Event Emissary ^ Daris
+[Taiwan] 17th Anniversary Event Emissary ^ Frigid Defense Emissary
+[Taiwan] 17th Anniversary Monster
 \aLelement conversion stone
 Clear Golem
 Human beings! Not try me
@@ -27723,7 +27723,7 @@ Double room Eustis blue earring box
 Double room Eustis purple earring box
 Double room Eustis black earring box
 Magic resistance ring box of double-snapper
-Physical fitness ring box of double-snapper
+Constitution ring box of double-snapper
 Wisdom ring box of double-snapper
 The mighty ring box of double-snapper
 T-shirts box of double Chiryu
@@ -27883,7 +27883,7 @@ Magical (Ice Meteo) (engraved)
 Magical (Advanced Spirits) (Engelinger)
 Crystal of dark purifen (unkinny dodge) (imprint)
 Crystal (Lucifer) of the Darkness
-Dragon Night's Book Plate (Awakening [Varakas]) (Engraved)
+Dragon Night's Book Plate (Awakening [Valakas]) (Engraved)
 Dragon Night's Bookboard (Mortal Body) (Engelinger)
 Dragon Night's Board Board (I-of-Dragon) (Engraved)
 Dragon Night's Bookboard (Awakening [Lind Viol]) (Engraved)
@@ -28856,22 +28856,22 @@ dummy
 VIP Gold Box
 VIP lucky box
 VIP lucky box
-+5 Snapper's physical strength ring (general)
-+5 Snapper Widen Ring (General)
-+5 Snapper Magic Resistance Ring (General)
-+5 Snapper's Hero Ring (General)
-+5 Snapper's physical strength ring (blessing)
-+5 Snapper wisdom ring (blessing)
-+5 Snapper Magic Resistance Ring (Blessing)
-+5 Snapper's Hero Ring (Blessing)
++5 Snapper Ring of Constitution (general)
++5 Snapper Ring of Wisdom (General)
++5 Snapper Ring of Magic Resistance (General)
++5 Snapper Hero Ring (General)
++5 Snapper Ring of Constitution (blessing)
++5 Snapper Ring of Wisdom (blessing)
++5 Snapper Ring of Magic Resistance (blessing)
++5 Snapper Hero Ring (blessing)
 +5 Room Tiss Red Earrings (General)
 +5 Room Tiss Blue Earring (General)
 +5 Room Tiss Purple Earrings (General)
 +5 Room Tiss Black Earrings (General)
-+5 Room Tiss Red Earrings (Blessing)
-+5 Room Tiss Blue Earring (Blessing)
-+5 Room Tiss Purple Earrings (Blessing)
-+5 Room Tiss Black Earrings (Blessing)
++5 Room Tiss Red Earrings (blessing)
++5 Room Tiss Blue Earring (blessing)
++5 Room Tiss Purple Earrings (blessing)
++5 Room Tiss Black Earrings (blessing)
 series
 dummy
 dummy
@@ -29041,7 +29041,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Golden Sun Gaiters
 dummy
 dummy
 dummy
@@ -29738,7 +29738,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+[Siege Battle]
 dummy
 dummy
 dummy
@@ -29863,30 +29863,30 @@ Imaginary Golem
 Imaginary Whisp
 Imaginary armor
 Imaginary Nightmare
-+5 Snapper's physical strength ring
-+6 Snapper's physical strength ring
-+7 Snapper's physical strength ring
-+5 Blessed Snapper's Fitness Ring
-+6 Blessed Snapper's Fitness Ring
-+7 Blessed Snapper's Fitness Ring
-+5 Snapper Magic Resistance Ring
-+6 Snapper Magic Resistance Ring
-+7 Snapper Magic Resistance Ring
-+5 Magic Resistance Ring of Blessed Snapper
-+6 Blessed Snapper Magic Resistance Ring
-+7 Blessed Snapper Magic Resistance Ring
-+5 Wisapper wisdom ring
-+6 Snapper wisdom ring
-+7 Snapper wisdom ring
-+5 Blessed Snapper Wright Ring
-+6 Wisdom ring of blessed snapper
-+7 Blessed snapper wisdom ring
-'S brave ring of snapper
-+6 Snapper's brave ring
-+7 Snapper's brave ring
-+5 Blessed Snapper's Hero Ring
-+6 Blessed Snapper's Hero Ring
-+7 Blessed Snapper's Hero Ring
++5 Snapper Ring of Constitution
++6 Snapper Ring of Constitution
++7 Snapper Ring of Constitution
++5 Blessed Snapper Fitness Ring
++6 Blessed Snapper Fitness Ring
++7 Blessed Snapper Fitness Ring
++5 Snapper Ring of Magic Resistance
++6 Snapper Ring of Magic Resistance
++7 Snapper Ring of Magic Resistance
++5 Blessed Snapper Ring of Magic Resistance
++6 Blessed Snapper Ring of Magic Resistance
++7 Blessed Snapper Ring of Magic Resistance
++5 Snapper Ring of Wisdom
++6 Snapper Ring of Wisdom
++7 Snapper Ring of Wisdom
++5 Blessed Snapper Ring of Wisdom
++6 Blessed Snapper Ring of Wisdom
++7 Blessed Snapper Ring of Wisdom
++5 Snapper Hero Ring
++6 Snapper Hero Ring
++7 Snapper Hero Ring
++5 Blessed Snapper Hero Ring
++6 Blessed Snapper Hero Ring
++7 Blessed Snapper Hero Ring
 +5 Room Tiss Red Earrings
 +6 Room Tiss Red Earrings
 +7 Room Tiss Red Earrings
@@ -29894,7 +29894,7 @@ Imaginary Nightmare
 +6 Blessed Room Tis Red Earrings
 +7 Blessed Room Tis Red Earring
 +5 Room Tiss Blue Earrings
-+ 6 Room Tiss Blue Earring
++6 Room Tiss Blue Earring
 +7 Room Tiss Blue Earring
 +5 Blessed Room Tiss Blue Ering
 +6 Blessed Room Tiss Blue Earring
@@ -29964,9 +29964,9 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
+Dimensional Red Potion
+Dimensional Orange Potion
+Dimensional Clear Potion
 dummy
 dummy
 dummy
@@ -30064,13 +30064,13 @@ Servant of the earth
 Greedy predators
 Temptation of the deep sea
 dummy
-Sword production craftsman ^ Ken
-Dual blade production craftsman ^ hover
-Amulet production craftsman ^ Suria
-Ring production craftsman ^ Warin
-Frigid production craftsman ^ Colt
-Asmodian production craftsman ^ Rinemu
-Belt production craftsman ^ Guren
+Sword maker ^ Ken
+Dual blade maker ^ hover
+Amulet maker ^ Suria
+Ring maker ^ Warin
+Frigid craftsman ^ Colt
+Asmodian craftsman ^ Rinemu
+Belt maker ^ Glen
 Production statue ^ dragon T-shirt
 dummy
 Tekutasu
@@ -30239,7 +30239,7 @@ dummy
 Chiryu of T-shirt box (engraved)
 Room Eustis blue earring box (engraved)
 Insignia box of patron (engraved)
-Snapper of magic resistance ring box (engraved)
+Snapper Ring of Magic Resistance Box (engraved)
 dummy
 dummy
 dummy
@@ -30351,7 +30351,7 @@ Patarashi village ^ Erurara
 Of warm Ruby Cairo
 Crystal of cold snow
 Special bomb of Patarashi
-The actual physical fitness of Patarashi
+The actual Constitution of Patarashi
 Patarashi of Mana real
 Japanese beef steak of Patarashi
 Salmon Patarashi canape
@@ -30368,7 +30368,7 @@ Ice Queen Maid
 Snowman Transformation pie
 The frozen box
 Cold snow crystal (200)
-The actual physical fitness of Patarashi (20)
+The actual Constitution of Patarashi (20)
 Patarashi of Mana of the real (5)
 The Bomber in Frozen Village
 To purchase an item
@@ -30551,7 +30551,7 @@ Pure Elixir box (5 pieces)
 Event sales ^ Aden patron knight
 Event reward ^ Aden King
 Event production ^ Aden patron Wizard
-Event Teleport ^ guards of the Royal Palace garden
+Event teleport ^ Hunting ground guards
 dummy
 Aden king of invitation
 dummy
@@ -30568,28 +30568,28 @@ dummy
 dummy
 Special Healing Potion (5)
 Special Mana Potion (2)
-Whether defend the Royal Palace garden!
-To buy a warrior certificate
-Entering the Royal Palace garden
+Character collection
+Buy an invitation
+Enter the hunting ground
 dummy
 dummy
 dummy
-Arrogance of the tower teleporters ^ arrogance of the tower teleport image
+Tower of the Arrogance's teleporters ^ Tower of the Arrogance's teleport image
 dummy
 dummy
 dummy
-[+4] Room Sevilla Red earring (General)
-[+4] Room Sevilla blue earring (General)
-[+4] Room Sevilla purple earring (General)
-[+4] Room Sevilla black earring (General)
-[+4] physical strength ring of snapper (General)
-[+4] snapper magic resistance ring of the (general)
-[+4] snapper of wisdom ring (General)
-[+4] snapper of the mighty ring (General)
-[+5] Chiryu of T-shirt (General)
-[+5] fire dragon T-shirt (General)
-[+5] KazeRyu of T-shirt (General)
-[+5] water dragon T-shirt (General)
+[+4] Room Sevilla Red earring (general)
+[+4] Room Sevilla blue earring (general)
+[+4] Room Sevilla purple earring (general)
+[+4] Room Sevilla black earring (general)
+[+4] Snapper Ring of Constitution (general)
+[+4] Snapper Ring of Magic Resistance (general)
+[+4] Snapper Ring of Wisdom (general)
+[+4] Snapper Ring of the mighty (general)
+[+5] Earth Dragon T-shirt (general)
+[+5] Fire Dragon T-shirt (general)
+[+5] Wind Dragon T-shirt (general)
+[+5] Water Dragon T-shirt (general)
 dummy
 dummy
 Pandora's Cube
@@ -31024,7 +31024,7 @@ Dragon boots
 Dragon boots box
 dummy
 dummy
-Fencer of the book supply ^ to the color Shukein
+Training instructor ^ Saint Ren
 dummy
 dummy
 dummy
@@ -31106,52 +31106,52 @@ Box of special elixir
 +4 Room Eustis blue earring (blessing)
 +4 Room Eustis purple earring (blessing)
 +4 Room Eustis black earring (blessing)
-+5 Room Tiss Red Earrings (Blessing)
-+5 Room Tiss Blue Earring (Blessing)
-+5 Room Tiss Purple Earrings (Blessing)
-+5 Room Tiss Black Earrings (Blessing)
++5 Room Tiss Red Earrings (blessing)
++5 Room Tiss Blue Earring (blessing)
++5 Room Tiss Purple Earrings (blessing)
++5 Room Tiss Black Earrings (blessing)
 +6 Room Eustis Red earring (blessing)
 +6 Room Eustis blue earring (blessing)
 +6 Room Eustis purple earring (blessing)
 +6 Room Eustis black earring (blessing)
-+4 snapper of physical fitness ring (General)
-+4 snapper magic resistance ring of the (general)
-+4 snapper of wisdom ring (General)
-+4 snapper of the mighty ring (General)
-+5 Snapper's physical strength ring (general)
-+5 Snapper Magic Resistance Ring (General)
-+5 Snapper Widen Ring (General)
-+5 Snapper's Hero Ring (General)
-+6 snapper of physical fitness ring (General)
-+6 snapper magic resistance ring of the (general)
-+6 snapper of wisdom ring (General)
-+6 snapper of the mighty ring (General)
-+4 Snapper's physical strength ring (blessing)
-+4 Snapper Magic Resistance Ring (Blessing)
-+4 Snapper wisdom ring (blessing)
-+4 Snapper's Hero Ring (Blessing)
-+5 Snapper's physical strength ring (blessing)
-+5 Snapper Magic Resistance Ring (Blessing)
-+5 Snapper wisdom ring (blessing)
-+5 Snapper's Hero Ring (Blessing)
-+6 Snapper's physical strength ring (blessing)
-+6 Snapper Magic Resistance Ring (Blessing)
-+6 Snapper wisdom ring (blessing)
-+6 Snapper's Hero Ring (Blessing)
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
++4 Snapper Ring of Constitution (general)
++4 Snapper Ring of Magic Resistance (general)
++4 Snapper Ring of Wisdom (general)
++4 Snapper Hero Ring (general)
++5 Snapper Ring of Constitution (general)
++5 Snapper Ring of Magic Resistance (general)
++5 Snapper Widen Ring (general)
++5 Snapper Hero Ring (general)
++6 Snapper Ring of Constitution (general)
++6 Snapper Ring of Magic Resistance (general)
++6 Snapper Ring of Wisdom (general)
++6 Snapper Ring of the mighty (general)
++4 Snapper Ring of Constitution (blessing)
++4 Snapper Ring of Magic Resistance (blessing)
++4 Snapper Ring of Wisdom (blessing)
++4 Snapper Hero Ring (blessing)
++5 Snapper Ring of Constitution (blessing)
++5 Snapper Ring of Magic Resistance (blessing)
++5 Snapper Ring of Wisdom (blessing)
++5 Snapper Hero Ring (blessing)
++6 Snapper Ring of Constitution (blessing)
++6 Snapper Ring of Magic Resistance (blessing)
++6 Snapper Ring of Wisdom (blessing)
++6 Snapper Hero Ring (blessing)
+Hero present box
+Hero bag
+Tower of the Arrogance's Amulet Ticket for Heroes
+Tower of the Arrogance's 1st Floor Teleport Amulet
+Tower of the Arrogance's 2nd Floor Teleport Amulet
+Tower of the Arrogance's 3rd Floor Teleport Amulet
+Tower of the Arrogance's 4th Floor Teleport Amulet
+Tower of the Arrogance's 5th Floor Teleport Amulet
+Tower of the Arrogance's 6th Floor Teleport Amulet
+Tower of the Arrogance's 7th Floor Teleport Amulet
+Tower of the Arrogance's 8th Floor Teleport Amulet
+Tower of the Arrogance's 9th Floor Teleport Amulet
+Tower of the Arrogance's 10th Floor Teleport Amulet
+Hidden gardens of Taras
 Guardian ring
 dummy
 dummy
@@ -31200,14 +31200,14 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+\aFAncient God's Thoughts (1)
+\aFAncient God's Thoughts (2)
+\aFAncient God's Thoughts (3)
+\aFAncient God's Thoughts (4)
+\aFAncient God's Thoughts (5)
+\aFAncient God's Thoughts (6)
+\aFAncient God's Thoughts (7)
+\aFAncient Heritage
 dummy
 dummy
 dummy
@@ -31228,24 +31228,24 @@ dummy
 dummy
 dummy
 dummy
-+4 snapper concentration ring of (general)
-+4 snapper of Manaringu (General)
-+4 snapper of recovery ring (General)
-+5 snapper concentration ring of (general)
-+5 snapper of Manaringu (General)
-+5 snapper of recovery ring (General)
-+6 snapper concentration ring of (general)
-+6 snapper of Manaringu (General)
-+6 snapper of recovery ring (General)
-+4 Concentration ring of snapper (blessing)
-+4 Snapper Manual (Blessing)
-+4 Snapper Recovery Ring (Blessing)
-+5 Concentration ring of snapper (blessing)
-+5 Snapper Manual (Blessing)
-+5 Snapper Recovery Ring (Blessing)
-+6 Concentration ring (blessing) of snapper
-+6 Snapper Manual (Blessing)
-+6 Snapper Recovery Ring (Blessing)
++4 Snapper Ring of Concentration (general)
++4 Snapper Ring of Mana (general)
++4 Snapper Ring of Recovery (general)
++5 Snapper Ring of Concentration (general)
++5 Snapper Ring of Mana (general)
++5 Snapper Ring of Recovery (general)
++6 Snapper Ring of Concentration (general)
++6 Snapper Ring of Mana (general)
++6 Snapper Ring of Recovery (general)
++4 Snapper Ring of Concentration (blessing)
++4 Snapper Manual (blessing)
++4 Snapper Ring of Recovery (blessing)
++5 Snapper Ring of Concentration (blessing)
++5 Snapper Manual (blessing)
++5 Snapper Ring of Recovery (blessing)
++6 Snapper Ring of Concentration (blessing)
++6 Snapper Manual (blessing)
++6 Snapper Ring of Recovery (blessing)
 dummy
 dummy
 dummy
@@ -31445,7 +31445,7 @@ Space-time wand (ice meteo)
 Space-time key
 Glowing space key
 Glowing space key box
-dummy
+Blessing of Oath
 dummy
 dummy
 dummy
@@ -31457,20 +31457,20 @@ Queen Assassin
 Queen Centurion
 Queen Guard Ant
 Technical book (Reduction Armor: Veteran)
-Technical book (Raging force)
-Crystal of spirits (marble)
-Magical Books (Imune To Ham: Saint)
+Technical book (Raging Force)
+Spirit Crystal (Magic Shield)
+Magical Books (Imune To Harm: Saint)
 Magical (Meister Aculates)
 Crystal of the Darkness (Lucifer: Destiny)
-Crystal of the dark purifier (shadow step)
+Crystal of the dark purifier (Shadow Step)
 Fencer book (Ashura)
 (Reduction Armor: Veteran)
-(Raging force)
-(Marble)
-(Imune to Ham: Saint)
+(Raging Force)
+(Magic Shield)
+(Imune to Harm: Saint)
 (Meister Aculates)
 (Lucifer: Destiny)
-(Shadow step)
+(Shadow Step)
 (Ashura)
 dummy
 dummy
@@ -31569,7 +31569,7 @@ Blessed Water Spirit Weapon Enhancement Scroll
 Blessed Fire Spirit Weapon Enhancement Scroll
 Craftsman's Armor Reinforced Scroll
 Ein Hazard Point ^ Kepiisha
-19th Anniversary Present Box
+Aden Enhancement Package
 19th Anniversary Legend Transformation Ring
 Iron Arto
 Darkster elephant
@@ -31599,15 +31599,15 @@ Bandit boss
 dummy
 Festival participation
 dummy
-19th anniversary healing potion
-19th Anniversary Manaporation
-19th anniversary potion bag
+Oath Healing Potion
+Oath Mana Potion
+21st anniversary potion bag
 Strong chocolate
 Fast fresh cream cake
 Wise banana cake
 19th anniversary celebration cake
 19th Anniversary Event Present Box
-Ivory tower garden
+Ivory Tower Garden
 dummy
 19th Anniversary Event
 Gardens of ivory tower admission
@@ -31654,7 +31654,7 @@ Sealed black dragon magic eye
 Absolute magical eye
 \aEHalpas Heart
 \aEDragon Key (Halpas)
-(Varakas soul: Long Sword)
+(Valakas soul: Long Sword)
 (Valacas's soul: Great Sword)
 (Papriion's soul: Long Bow)
 (Papriion's soul: dual blade)
@@ -31719,7 +31719,7 @@ Earth anger ... This is the power of the queen.
 You are not a partner of Halpas ...
 Halpas Anto Soldier
 Halpass White Ant
-Ein Hazard Point
+Point
 Blessing exp
 +5 Fighter's Guardian
 +6 Fighter's Guardian
@@ -31739,14 +31739,14 @@ Blessing exp
 +5 Sorcerer's Guardian Insignia
 +6 Sorcerer's Guardian Insignia
 +7 Sorcerer's Guardian Insignia
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
++4 Snapper Ring of Constitution
++4 Snapper Ring of Magic Resistance
++4 Snapper Ring of Wisdom
++4 Snapper Hero Ring
++4 Roomtis Red Earning
++4 Roomtis Blue Earning
++4 Roomtis Purple Earning
++4 Roomtis Black Earning
 +4 Fighter's coat of arms
 +4 coat of armor
 +4 Sorcerer's Emblem
@@ -31769,10 +31769,10 @@ Hero's Skill Production Book Fragment
 2000 pieces of limums
 Loss 1000 pieces of limums
 Loss 500 pieces of element
-Limb
+Growth Coin
 Antaras's Award
-Papriion's Award
-Lind Viol's Award
+Phafurion's Award
+Lindvior's Award
 Valacas's Award
 Hero's Helm & Boots Package
 Hero's controlling ring package
@@ -31780,8 +31780,8 @@ Hero's package
 Hero's controlling box
 Fencer's book (Infinity: Dodge) (engraved)
 \aFEl Shabet Amulet
-\aFErsabe Crown
-Crystal Crystal (Hurricane) (Engraving)
+\aFEl Shabet Crown
+Spirit Crystal (Hurricane) (engraved)
 dummy
 dummy
 dummy
@@ -31825,7 +31825,7 @@ dummy
 19 anniversary treasure hunt event
 Bestowed article which lost its shine
 Of the 19 anniversary silver bestowed goods
-Of 19 laps pension bestowed goods
+Aden's Magic Box
 19 anniversary silver key
 19 anniversary Golden Key
 Go to the treasure hunt
@@ -31835,12 +31835,12 @@ Me fools! This curse is forever!
 Atuba King
 Hell of observer
 Death of dark dragon
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+I'll eat everything alone.
+Huh, it's pretty good. Then is it time to get serious?
+Mr. Beres! Give me power!
+The darkness will swallow everything.
+Is it possible to confront this power?
+This is the last.
 Mysterious seasonal forest
 dummy
 Fierce battle of Lamia
@@ -31902,7 +31902,7 @@ Disappear would no longer!
 dummy
 But I thought there is no 10%, such as the probability of losing in differents It looks like it was ... a mistake.
 I waited for you than two days. Finally I was able to meet.
-Differents is ...! I do not have met in the third floor of the arrogance of the tower!
+Differents is ...! I do not have met in the third floor of the Tower of the Arrogance!
 And also put to the sword of differents you do not have a four-stage attribute strengthening ... mortifying! !
 The differents can be obtained even killing me is just five teleport scroll.
 I do not see the appearance that are willing to get a +6 sword. It looks like the past of differents ...
@@ -31965,8 +31965,8 @@ Supplies merchant ^ tulle
 Entrance leading to the ants of the dungeon opened.
 We defeated the ant queen. After one minute, collapse of ant queen room.
 Beyond the maintenance before the room is lost, please return to the garrison.
-Ant queen of the room has collapsed. And then fed back to the garrison for safety.
-Ant queen was destroy the room. Failed to capture the Erushabe.
+Ant Queen of the room has collapsed. And then fed back to the garrison for safety.
+Ant Queen collapsed the room. I failed to capture El Shabet.
 Now, we open the Ant Queen room.
 Warrior-like ... to my room following the Please help me ... light ...
 It will be the key to glowing circle save me ... to there ...
@@ -32180,14 +32180,14 @@ PVP damage reduction ignore +10
 Technical resistance +8
 Philosophy resistance +8
 Secret technique resistance +8
-Fear resistant +8
-All resistant +3
+Fear resistance +8
+All resistance +3
 Technical lives +5
 Congest life +5
 Secret job +5
 Fear Life + 5
 All skills +3
-All attribute resistors +30
+All attribute resistance +30
 STR + 3
 DEX + 3
 CON + 3
@@ -32282,22 +32282,14 @@ dummy
 dummy
 dummy
 dummy
+Nana's Health Recovery Potion
+Event Merchant ^ Apis
 dummy
 dummy
 dummy
+Pure Elixir (EXP) Box
 dummy
-dummy
-dummy
-dummy
-Pure Elixer (Exp) Box
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Pure Elixir (EXP) Box
 dummy
 dummy
 dummy
@@ -32317,10 +32309,18 @@ dummy
 dummy
 dummy
 dummy
+Spell Scroll (Burning Weapon)
 dummy
 dummy
 dummy
 dummy
+dummy
+dummy
+Oath Health Recovery Potion
+Oath Mana Potion
+Space-time key (event)
+Space-time key box (event)
+Hourglass of Hidden Dimension (Event)
 dummy
 dummy
 dummy
@@ -32425,6 +32425,8 @@ dummy
 dummy
 dummy
 dummy
+Fencer's Book (Paradox) (Engraved)
+Fencer's Book (Judgment) (Engraved)
 dummy
 dummy
 dummy
@@ -32501,10 +32503,8 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
+(Impact)
+(Elven Gravity)
 What is the fate of what happened this way ...
 +5 Insignia of fighter
 +5 Insignia of
@@ -32571,7 +32571,7 @@ dummy
 +3 Room Tiss Package (Blue)
 +3 Room Tiss Package (Purple)
 +3 Room Tiss Package (Black)
-+3 Snapper package (physical strength)
++3 Snapper package (Constitution)
 +3 Snapper Package (Magic Resistance)
 +3 Snapper Package (Wisdom)
 +3 Snapper Package (Heroes)
@@ -32626,22 +32626,22 @@ dummy
 +3 Luna Earring
 + 4 Luna Iarling
 +5 Luna Earring
-[+5] Room Tiss Fighter Pendant (Blessing)
-[+6] Room Tiss Fighter Pendant (Blessing)
-[+7] Room Tiss Fighter Pendant (Blessing)
-[+8] Room Tiss Fighter Pendant (Blessing)
-[+5] Room Tiss Shorch Pendant (Blessing)
-[+6] Room Tiss Shorch Pendant (Blessing)
-[+7] Room Tiss Shorch Pendant (Blessing)
-[+8] Room Tiss Shorch Pendant (Blessing)
-[+5] Sorcerer Pendant (Blessing) of Room Tiss
-[+6] Sorcerer Pendant (Blessing) of Room Tes
-[+7] Sorcerer Pendant (Blessing) of Room Tes
-[+8] Sorcerer Pendant (Blessing) of Room Tes
-[+5] Hunter Pendant (Blessing) of Room Tiss Hunter
-[+6] Room Tiss Hunter Pendant (Blessing)
-[+7] Room Tiss Hunter Pendant (Blessing)
-[+8] Room Tiss Hunter Pendant (Blessing)
+[+5] Room Tiss Fighter Pendant (blessing)
+[+6] Room Tiss Fighter Pendant (blessing)
+[+7] Room Tiss Fighter Pendant (blessing)
+[+8] Room Tiss Fighter Pendant (blessing)
+[+5] Room Tiss Shorch Pendant (blessing)
+[+6] Room Tiss Shorch Pendant (blessing)
+[+7] Room Tiss Shorch Pendant (blessing)
+[+8] Room Tiss Shorch Pendant (blessing)
+[+5] Sorcerer Pendant (blessing) of Room Tiss
+[+6] Sorcerer Pendant (blessing) of Room Tes
+[+7] Sorcerer Pendant (blessing) of Room Tes
+[+8] Sorcerer Pendant (blessing) of Room Tes
+[+5] Hunter Pendant (blessing) of Room Tiss Hunter
+[+6] Room Tiss Hunter Pendant (blessing)
+[+7] Room Tiss Hunter Pendant (blessing)
+[+8] Room Tiss Hunter Pendant (blessing)
 dummy
 dummy
 dummy
@@ -32666,12 +32666,47 @@ dummy
 dummy
 dummy
 dummy
+Observer Zenith Queen
+Observer Shear
+Observer Vampire
+Watcher Zombie Road
+Observer Cougar
+Observer Mommy Road
+Observer Iris
+Watcher Nightbald
+Watcher Lich
+Observer Ugunus
+Shining Elmore Spear
+Hidden Demon Spear
+Hero Spear
+Knights Spear (engraved)
+Grandmaster Spear
+Commander Spear
+Abyss Spear
+Death Blood Spear
+\aHExecution of the ruler
 dummy
+Monarch blessing
+Knight blessing
+Elven blessing
+Wizard blessing
+Dark Elf blessing
+Dragon Knight blessing
+Illusionist blessing
+Warrior blessing
+Fencer blessing
+Lancer blessing
+Dragon Special Package
+Dragon Pure Elixir His Package
+Dragon Growth Package
+Pure Elixir Box
 dummy
 dummy
 dummy
 dummy
 dummy
+Mysterious dimensional cube
+Practitioner's Silver Spear
 dummy
 dummy
 dummy
@@ -32683,14 +32718,36 @@ dummy
 dummy
 dummy
 dummy
+Spearbook (Altinate)
+Spearbook (Force Wave)
+Spearbook (Vanguard)
+Spearbook (Recovery)
+Spearbook (Pressure)
+Spearbook (Cruel)
 dummy
+\aESpearbook (Cruel: Convection)
+\aHSpearbook (Pressure: Death Recall)
 dummy
+Spearbook (Dodge Break)
+Spearbook (Maelstrom)
+Spearbook (Deadly Strike)
+Spearbook (Vengens)
+Spearbook (Tactical Advance)
+Spearbook (Increase Range)
+Spearbook (Vanguard: Acceleration)
 dummy
 dummy
 dummy
 dummy
+(Alternate)
+(Force Wave)
+(Vanguard)
+(recovery)
+(pressure)
+(Cruel)
 dummy
 dummy
+(Pressure: Death Recall)
 dummy
 dummy
 dummy
@@ -32698,76 +32755,19 @@ dummy
 dummy
 dummy
 dummy
+(Vanguard: Acceleration)
 dummy
-Pure Elixer Box
 dummy
 dummy
 dummy
+(Execution of the ruler)
 dummy
+Enhancement Wizard ^ Hariin
 dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Warrior skill pack
 dummy
 dummy
 dummy
@@ -32865,10 +32865,90 @@ Dwarf gold box
 Dwarf Special Gold Box
 (Cherry Blossom)
 Move to the cherry blossom festival venue
+Magic damage reduction
+Dwarf Sakura Festival
+Luxury Rune Magic Remover
+Luxury Elixir Rune of Strength (91)
+Agile luxury elixir runes (91)
+Luxury Elixir Rune of Constitution (91)
+High-class elixir rune of intelligence (91)
+Luxury Elixir Rune of Wisdom (91)
+Strength Luxury Rune Bag (91)
+Agile luxury rune bag (91)
+Luxury rune bag of physical strength (91)
+Luxury rune bag of intelligence (91)
+Luxury rune bag of wisdom (91)
+Luxury runes that have lost their magical power (91)
+Old book of magical power (91)
+Luxury Elixir Rune of Strength (92)
+Agile luxury elixir runes (92)
+Luxury Elixir Rune of Constitution (92)
+High-class elixir rune of intelligence (92)
+Luxury Elixir Rune of Wisdom (92)
+Strength Luxury Rune Bag (92)
+Agile luxury rune bag (92)
+Luxury rune bag of physical strength (92)
+Luxury rune bag of intelligence (92)
+Luxury rune bag of wisdom (92)
+Luxury runes that have lost their magical power (92)
+Old book of magical power (92)
+Luxury Elixir Rune of Strength (93)
+Agile luxury elixir runes (93)
+Luxury Elixir Rune of Constitution (93)
+High-class elixir rune of intelligence (93)
+Luxury Elixir Rune of Wisdom (93)
+Strength Luxury Rune Bag (93)
+Agile luxury rune bag (93)
+Luxury rune bag of physical strength (93)
+Luxury rune bag of intelligence (93)
+Luxury rune bag of wisdom (93)
+Luxury runes that have lost their magical power (93)
+Old book of magical power (93)
+Luxury Elixir Rune of Strength (94)
+Agile luxury elixir runes (94)
+Luxury Elixir Rune of Constitution (94)
+High-class elixir rune of intelligence (94)
+Luxury Elixir Rune of Wisdom (94)
+Strength Luxury Rune Bag (94)
+Agile luxury rune bag (94)
+Luxury rune bag of physical strength (94)
+Luxury rune bag of intelligence (94)
+Luxury rune bag of wisdom (94)
+Luxury runes that have lost their magical power (94)
+Old book of magical power (94)
+Luxury Elixir Rune of Strength (95)
+Agile luxury elixir runes (95)
+Luxury Elixir Rune of Constitution (95)
+Luxury Elixir rune of Intelligence (95)
+Luxury Elixir Rune of Wisdom (95)
+Strength Luxury Rune Bag (95)
+Agile luxury rune bag (95)
+Luxury rune bag of physical strength (95)
+Luxury rune bag of intelligence (95)
+Luxury rune bag of wisdom (95)
+Luxury runes that have lost their magical power (95)
+Old book of magical power (95)
 dummy
-Sakura Festival of Dwarf
 dummy
 dummy
+Vowed health recovery agent bag (200 pieces)
+Oath Mana Potion Bag (50 Pieces)
+Depolo Jew's blessing
+Special Japanese beef steak
+Special salmon canape
+Special turkey roast
+Special birthday cake
+Oath of strength soul
+Oath agile soul
+Soul of Oath Knowledge
+Supply Merchant Somli
+Hero's growth proof box
+Proof of hero growth
+Hero Skill Dissolver
+Proof of growth of a soulful hero
+Proof of hero skill
+Proof of soulful hero skill
+Skill production ^ Scarla
 dummy
 dummy
 dummy
@@ -32881,6 +32961,8 @@ dummy
 dummy
 dummy
 dummy
+Blessing of Ein Hazard: 7th (Event)
+Blessing of Ein Hazard: 30th (Event)
 dummy
 dummy
 dummy
@@ -32904,89 +32986,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Proof of growth of hero
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Knights Magic Doll
 dummy
 Hero's Skill Production Book Fragment
 dummy
@@ -33323,6 +33323,248 @@ dummy
 dummy
 dummy
 dummy
+Clan event
+Elixir booster
+Number of items that can be purchased for each clan (days)
+Available for each clan (weeks)
+dummy
+Potion of growth
+Legendary growth potion
+Roomtis Earling Box Exchange Ticket
+Snapper ring box exchange ticket
+Safely up to +%d
+Amulet ticket for the Tower of the Arrogance
+dummy
+Roomtis Black Earling Box
+Roomtis Red Earling Box
+Roomtis Blue Earling Box
+Roomtis Purple Earling Box
+Snapper Health Ring Box
+Snapper magic resistance ring box
+Snapper Wisdom Ring Box
+Snapper Hero Ring Box
+Clan Producer ^ Tisper
+Roomtis Black Earling Box
+Roomtis Red Earling Box
+Roomtis Blue Earling Box
+Roomtis Purple Earling Box
+Snapper Health Ring Box
+Snapper magic resistance ring box
+Snapper Wisdom Ring Box
+Snapper Hero Ring Box
+dummy
+dummy
+Clan Daily Portal
+Oath key (1 day)
+Clan Loot Box (Death Knight)
+Clan Loot Box (Phoenix)
+Clan Loot Box (Balrog)
+dummy
+Clan Fragment Box
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Depoloju Skill Box (Fencer)
+Depoloju's glowing box
+Crown of El Shabe
+Dragon Slayer Gaiters
+Old Dranium Spaulder
+Depolo Jew's Giving Back Box
+Transformation control ring
+Shinmeiou's Execution Sword
+Windblade sword
+Holy Hedron Staff
+Red Shadow Dual Blade
+Gaia's rage
+Fear of Kronos
+Hyperion's despair
+Weight of His Will
+Grim Reaper Sword
++3 True King's Execution Sword
++3 Windblade Sword
++3 Holy Hedron Staff
++3 Red Shadow Dual Blade
++3 Gaia's Rage
++3 Kronos Fear
++3 Hyperion's Despair
++3 Titan's Wrath
++3 Grim Reaper Sword
+[Change] Porce's Sword
+[Change] Nightbald's Two-Handed Sword
+[Change] Nightmare Long Bow
+[Change] Zeros staff
+[Change] Roaring dual blade
+[Change] Chain Sword of the Extermination
+[Change] Key link for murder
+[Change] Tempest Ax
+[Change] Duke Defill Sword
+[Change] The Execution Sword of the True King
+[Change] Holy Hedron Staff
+[Change] Fear of Kronos
+[Change] Gaia's Rage
+[Change] Red Shadow Dual Blade
+[Change] Windblade Sword
+[Change] Hyperion's Despair
+[Change] Weight of His Will
+[Change] Grim Reaper Sword
++5 Antaras Grand Plate Mail
++5 Antaras Grand Robe
++5 Antaras Grand Leather Armor
++5 Antaras Grand Scale Mail
++5 Phafurion Hydro Plate Mail
++5 Phafurion Hydro Robe
++5 Phafurion Hydro Leather Armor
++5 Phafurion Hydroscale Mail
++5 Lindvior Storm Plate Mail
++5 Lindvior Storm Robe
++5 Lindvior Storm Leather Armor
++5 Lindvior Storm Scale Mail
++5 Valakas Flame Plate Mail
++5 Valakas Flame Robe
++5 Valakas Flame Leather Armor
++5 Valakas Flame Scale Mail
++6 Antaras Grand Plate Mail
++6 Antaras Grand Robe
++6 Antaras Grand Leather Armor
++6 Antaras Grand Scale Mail
++6 Phafurion Hydro Plate Mail
++6 Phafurion Hydro Robe
++6 Phafurion Hydro Leather Armor
++6 Phafurion Hydroscale Mail
++6 Lindvior Storm Plate Mail
++6 Lindvior Storm Robe
++6 Lindvior Storm Leather Armor
++6 Lindvior Storm Scale Mail
++6 Valakas Flame Plate Mail
++6 Valakas Flame Robe
++6 Valakas Flame Leather Armor
++6 Valakas Flame Scale Mail
++7 Antaras Grand Plate Mail
++7 Antaras Grand Robe
++7 Antaras Grand Leather Armor
++7 Antaras Grand Scale Mail
++7 Phafurion Hydro Plate Mail
++7 Phafurion Hydro Robe
++7 Phafurion Hydro Leather Armor
++7 Phafurion Hydroscale Mail
++7 Lindvior Storm Plate Mail
++7 Lindvior Storm Robe
++7 Lindvior Storm Leather Armor
++7 Lindvior Storm Scale Mail
++7 Valakas Flame Plate Mail
++7 Valakas Flame Robe
++7 Valakas Flame Leather Armor
++7 Valakas Flame Scale Mail
++8 Antaras Grand Plate Mail
++8 Antaras Grand Robe
++8 Antaras Grand Leather Armor
++8 Antaras Grand Scale Mail
++8 Phafurion Hydro Plate Mail
++8 Phafurion Hydro Robe
++8 Phafurion Hydro Leather Armor
++8 Phafurion Hydroscale Mail
++8 Lindvior Storm Plate Mail
++8 Lindvior Storm Robe
++8 Lindvior Storm Leather Armor
++8 Lindvior Storm Scale Mail
++8 Valakas Flame Plate Mail
++8 Valakas Flame Robe
++8 Valakas Flame Leather Armor
++8 Valakas Flame Scale Mail
++9 Antaras Grand Plate Mail
++9 Antaras Grand Robe
++9 Antaras Grand Leather Armor
++9 Antaras Grand Scale Mail
++9 Phafurion Hydro Plate Mail
++9 Phafurion Hydro Robe
++9 Phafurion Hydro Leather Armor
++9 Phafurion Hydroscale Mail
++9 Lindvior Storm Plate Mail
++9 Lindvior Storm Robe
++9 Lindvior Storm Leather Armor
++9 Lindvior Storm Scale Mail
++9 Valakas Flame Plate Mail
++9 Valakas Flame Robe
++9 Valakas Flame Leather Armor
++9 Valakas Flame Scale Mail
+Depoloju Relic Box
+Degree of contribution
+Clan Growth Buff 1 (1 day)
+Clan Growth Buff 2 (1 day)
+Clan Combat Buff 1 (2 hours)
+Clan Combat Buff 2 (2 hours)
+Cry of oath
+Escaped Spartoi
+Escaped skeleton fighter
+Escaped skeleton marksman
+Escaped skeleton guard
+Escaped Drake
+Ifrit escaped
+Escaped Burning Warrior
+Escaped Burning Archer
+Escaped horn Cerberus
+Escaped Ashitagio
+Beres who escaped
+Escaped rider
+Escaped witch
+Escaped cyclopes
+Escaped goblins
+Corrupted death knight
+Corrupted phoenix
+Corrupted Balrog
+Clan unity bag (Death Knight)
+Clan unity bag (Phoenix)
+Clan unity bag (balrog)
+Luxury Pure Elixir Box
+Oath Key (Weekly)
+Possible failure from% d
++9 Grim Reaper Sword
+Daily Clan Dungeon
+Rebellion Jill Letter
+Rebellion Brute
+Rebellion Incubus
+Rebellion Walker
+Rebellion spread
+Rebellion Calpis
+Rebellion Iceman
+Rebellion Armor Knight
+Rebellion Priest
+Rebellion Lesser Daemon
+Weekly Clan Dungeon
+Proof of oath
+Rhagades gap
+Clan voting present box
+Proof of oath (weekly)
+Rhagades Arrogant Tower% dth floor
+A suspicious shadow begins to appear on the% d floor of the Tower of Arrogance.
+A suspicious shadow escaped from the tower of arrogance.
+A suspicious shadow can still be felt on the% d floor of the Tower of Arrogance.
+Legendary Weapon Craft
+Enhanced Legendary Weapon Crafting Book
+Daily / Weekly Clan Dungeon
+dummy
+How to use the Daily / Weekly Clan Dungeon
+Clan dungeon keeper
+Depoloju's blessing box
+Clan Fragment Merchant
+Teleporter ^ Spacetime Wizard
+Reincarnation space-time
+Sandworm treasure chest
+Sandworm coin
+dummy
+dummy
+dummy
+Reincarnated Water Elemental
+Reincarnated Wind Elemental
+Great spirit of the land of reincarnation
+Reincarnated Fire Elemental
 dummy
 dummy
 dummy
@@ -33340,16 +33582,35 @@ dummy
 dummy
 dummy
 dummy
+Clan transformation spellbook
+Death Knight (Clan) ^ PVP Damage Reduction +3 ^ All Resistance +2 ^ HP +150
 dummy
+Technical book (Raging Force) (engraved)
+Spellbook (Meister Accuracy) (Engraved)
+Dragon Knight's calligraphy board (Force Layer: Brave) (engraved)
+Fencer's Book (Judgment) (Engraved)
+Clan Weekly Portal
 dummy
 dummy
 dummy
+Distorted predator
+Distorted Ugil
+Distortion watcher
+Distortion daemon
+Distortion clutter
+Distorted War Wolf
+Distortion Archer
+Distortion ruler
 dummy
 dummy
 dummy
 dummy
 dummy
+Clan Producer
+Senior Clan Fragment Box
 dummy
+\aFAncient heritage (sword)
+\aFAncient heritage (two-handed sword)
 dummy
 dummy
 dummy
@@ -33357,17 +33618,38 @@ dummy
 dummy
 dummy
 dummy
+Somewhere here there was an incomprehensible distortion.
 dummy
 dummy
 dummy
 dummy
 dummy
 dummy
+Roomtis Pendant Package (Warrior)
+Roomtis Pendant Package (Shooter)
+Roomtis Pendant Package (Sage)
+Roomtis Pendant Package (Hunter)
+Roomtis pendant fragment
++5 Roomtis Warrior Pendant
++5 Roomtis Archer Pendant
++5 Roomtis Sage Pendant
++5 Roomtis Hunter Pendant
 dummy
 dummy
 dummy
 dummy
 dummy
+[Special ability]
+Technical book (reduction armor: veteran) (engraved)
+Technical book (Absolute Blade) (engraved)
+Spirit Crystal (Soul of Flame) (Engraved)
+Spellbook (Shape Change) (Engraved)
+Crystal of the Dark Spirit (Lucifer: Destiny) (Engraved)
+Crystal of memory (impact) (engraved)
+Warrior's Seal (Titan Blitz) (Engraved)
+Fencer's Book (Survive) (Engraved)
+Spellbook (Death Heel) (Engraved)
+Weapon damage Ignore immunity
 dummy
 dummy
 dummy
@@ -33462,313 +33744,31 @@ dummy
 dummy
 dummy
 dummy
+Legendary craftsman ^ Zaruken
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Depotologue Reletes Box
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-+9 Sword of death god
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Room Tiss Pendant Package (Fighter)
-Room Tiss Pendant Package (Hand)
-Room Tiss Pendant Package (Sage)
-Room Tiss Pendant Package (Hunter)
-Room Tiss Pendant Fragments
-+5 Room Tiss Fighter Pendant
-+5 Room Tiss Shorch Pendant
-+5 Room Tiss Sorcerer Pendant
-+5 Room Tiss Hunter Pendant
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Spellbook (Cole Clan Advance)
+Spirit Crystal (Liberation)
+Spirit Crystal (Elven Strike)
+Spellbook (Meditation: Beyond)
+Spellbook (Mass Immun to Harm)
+Dark Spirit Crystal (Moving Acceleration: Maximum)
+Dark Spirit Crystal (Shadow Armor: Destiny)
+Dragon Knight Calligraphy Board (Solid Knot)
+Dragon Knight Calligraphy Board (Rampage)
+Crystal of Memory (Bone Break: Last)
+Warrior's Seal (Berserker)
+(Call Clan Advance)
+(Liberation)
+(Elven Strike)
+(Meditation: Beyond)
+(Mas Immun to Ham)
+(Moving Acceleration: Maximum)
+(Shadow Armor: Destiny)
+(Solid knot)
+(Rampage)
+(Bone break: last)
+(Berserker)
+Stun duration
 Aden King's Instructions
 Magic power equipment
 Cooling bomb (10 minutes)
@@ -33815,113 +33815,113 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Memories of murder
+The beginning of the legend
+Chaotic Temple
+A pair of rings
+The smaller the pepper, the more spicy it is
+Golem crusher
+Heavy but okay
+I am the best
+Weapon of those days I
+Weapons of those days II
+Weapons of those days III
+Silver than gold
+Go around and return to the original
+Magic activation weapon
+I hate cancellation
+Anti-magic test
+Fist crying
+Aden Trading Company's standard products
+Dissolving agent friend
+Crystal Chief
+Not automatic
+I'm sorry I couldn't protect Dragon Knight
+Iron set
+Familiar set of those days
+Leather set I
+Leather set II
+Studded leather set
+Dwarven Weapons
+Dwarven armor set
+Orc weapons
+Oak set
+Elven weapons
+Elven Privilege I
+Elven Privilege II
+Red Knights
+Apprentice Wizard
+Cloak collection
+Put on your pants and scream
+Curts set
+Death knight
+Daemon set
+Kerenis set
+Anti-king set
+It's summer but it's cool
+Aden's No. 1 Witch
+Memories of Rasta Bud I
+Memories of Rasta Bud II
+Memories of Rasta Bud III
+Memories of Rasta Bud IV
+Dark elf romance
+Distortion of time I
+Distortion of time II
+It will grow!
+Into the darkness I
+Into the darkness II
+Status 1 is added
+Gaiters used by unicorns
+Earth, fire, wind, water, and heart
+Ring than flower
+Sacred elf light
+For the Order of the Knights
+Real
+Dream is a great magician
+Will get caught someday
+Abbreviations are difficult
+Bounce anything
+Dark Forester
+Endangered Mambo
+Devil's weapon
+Indestructible
+Wind, wind, wind
+Arm / knowledge / machine ring 3 types
+3 sacred rings
+Amulet 3 types I
+Amulet 3 types II
+4 sacred amulets
+4 old belts
+3 types of belts
+4 types of glowing belts
+Someone's belt
+4 types of belts
+4 sacred belts
+2 types of ancient weapons
+Two ancient girders
+3 types of girders
+Water / wind / ground / fire girder
+Curse ring
+Curse amulet
+Els Amulet
+Nourishing
+Special jewelry
+Jewels found in the water
+Don't give up
+Metis present
+New Year's specialties II
+New Year's specialties II
+EXP + 10%, HP absorption (small amount)
+EXP + 15%, 4-step acceleration
+dummy
+Potential enhancement scroll (HP absorption)
+Potential enhancement scroll (4 steps acceleration)
+Potential Enhancement Scroll (Immune Effect Reduction-30%)
+Gold Castle Elixir Package for Strengthening Potential
+Potential Enhancement Scroll (Hero)
+Potential Enhancement Scroll (Legend)
+Potential Enhancement Scroll (Legend 2)
+Potential production ^ Kaum
 Aden King
 dummy
 dummy
@@ -33951,204 +33951,284 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Room Tiss + 1 Enhancement Ticket
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
++6 True King's Execution Sword
++6 Windblade Sword
++6 Holy Hedron Staff
++6 Red Shadow Dual Blade
++6 Gaia's Rage
++6 Kronos Fear
++6 Hyperion's Despair
++6 Titan's Wrath
++6 Grim Reaper Sword
++6 True King's Execution Sword (Engraved)
++6 Windblade Sword (engraved)
++6 Holy Hedron Staff (engraved)
++6 Gaia's Rage (Engraved)
++6 Hyperion's Despair (Engraved)
++6 Shinigami Sword (engraved)
+Haven Assistant ^ Allen
+Monster Seal Stone:%i
+Monster Seal Stone
+Pure Elixir
+Pure Elixir (EXP)
+Golden sun gaiters
+Misofia boots
+Misofia's Spaulder
+Scroll of the decisive battle (5 sheets)
+Aman's warehouse large release 3rd
+dark Knight
+Silver night
+Gold night
+Ark Knight
+Dark Ranger
+Silver ranger
+Gold Ranger
+Ark Ranger
+Dark Magister
+Silver Magister
+Gold Magister
+Archage Star
+Dark Lance Master
+Silver Lance Master
+Gold Lance Master
+Ark Lance Master
+Guardian Knight Isil Rote
+Dark Knight Astea
+Shining present box 1 stage
+Two stages of glowing present boxes
+Shining present box 3 stages
+Commander's Weapon Box
+Commander's armor box
+Commander's accessory box
+Unusual cube
+Lancer's grace
+Grandmaster's supplies
+Roomtis pendant box
+Advanced equipment box
+Growth Coupon 1st Stage Box (Level 65)
+Maelstrom activation rate
+Skill enhancement
+Potential-enhancing elixir box (12 pieces)
+Magic Doll Potential Package
+Box of subjugated items
+Roomtis +1 enhancement ticket
+Commander's Weapon Box
+Commander's armor box
+Commander's accessory box
+Weapon Box of the True King
+Weapon Box of the True King (Production)
+Shinmeiou Skill Box (Sale)
+Blessed Olim Ornament Enhanced Scroll Package
+Hermit ^ Olim
++7 Grim Reaper Ring
++7 rich ring
++7 Ancient Giant Ring
++7 Liaring
++7 Kronos belt
++7 Ogre King Belt
++7 Sacred Strike Ring
++7 Sacred Ring of Spirit
++7 Sacred Demon King's Ring
++7 Warrior Amulet
++7 Shining Siaha Amulet
++7 Sage Amulet
++8 Grim Reaper Ring
++8 rich ring
++8 Ancient Giant Ring
++8 Liaring
++8 Kronos belt
++8 Ogre King Belt
++8 Sacred Strike Ring
++8 Sacred Ring of Spirit
++8 Sacred Demon King's Ring
++8 Warrior Amulet
++8 Shining Siaha Amulet
++8 Sage Amulet
++9 Grim Reaper Ring
++9 rich ring
++9 Ancient Giant Ring
++9 Liaring
++9 Kronos belt
++9 Ogre King Belt
++9 Sacred Strike Ring
++9 Sacred Ring of Spirit
++9 Sacred Demon King's Ring
++9 Warrior Amulet
++9 Shining Siaha Amulet
++9 Sage Amulet
+Lancer Event ^ Remada
+Lancer experience (~ 8/10)
+Lancer Event Merchant ^ Pugda
+Lancer Event Merchant ^ Amis
+Lancer Event Production Merchant ^ Remada
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Class change box
+Aden Blessing Box
+Aden Hero Package
+Aden Quick Package
+Aden's blessing package
+Blessing of Aden
+Level 75 achievement present box
+Level 80 achievement present box
+Level 85 achievement present box
+Level 90 achievement present box
+Kruel present box
+dummy
+Hero transformation ring
+Aden's quick gaiters
+Hunting ground picture book booster
+spear
+Roomtis / Snapper +1 Strengthening Ticket (Event)
+Elixir 100% production ticket (event)
+Event production ^ flare
+Spellbook (Call Clan Advance) (Engraved)
+Spellbook (Prime) (Engraved)
+Technical book (Force Stan) (engraved)
+Spirit Crystal (Magic Shield) (Engraved)
+Spirit Crystal (Elven Strike) (Engraved)
+Spirit Crystal (Liberation) (Engraved)
+Spirit Crystal (Glory Earth) (Engraved)
+Spellbook (Immune to Ham: Saint) (Engraved)
+Spellbook (Meditation: Beyond) (Engraved)
+Spellbook (Mas Immun to Ham) (Engraved)
+Spellbook (Eternity) (Engraved)
+Dark Spirit Crystal (Double Break: Destiny) (Engraved)
+Dark Spirit Crystal (Moving Acceleration: Maximum) (Engraved)
+Dark Spirit Crystal (Shadow Armor: Destiny) (Engraved)
+Dark Spirit Crystal (Avenger) (Engraved)
+Dragon Knight's calligraphy board (rampage) (engraved)
+Dragon Knight's writing board (Halpas) (engraved)
+Crystal of Memory (Bone Break: Last) (Engraved)
+Memory Crystal (Potential) (Engraved)
+Warrior's Seal (Berserker) (Engraved)
+Warrior's Seal (Demonstration) (Engraved)
+Fencer's Book (Phantom: Reaper) (Engraved)
+Fencer's Book (Pantera: Shock) (Engraved)
+Spearbook (Vanguard) (engraved)
+Spearbook (Pressure) (Engraved)
+Spearbook (Vengens) (engraved)
+Spearbook (Dodge Break) (Engraved)
+Spearbook (Recovery) (Engraved)
+Spearbook (Increase Range) (Engraved)
+Spearbook (Maelstrom) (engraved)
+Spearbook (Cruel: Convection) (Engraved)
+Hero's Spear Book I
+Hero's Spearbook II
+Hero's Spearbook III
+Technical & Magic Instructor ^ Heiro
+Attribute 5 steps \aH+1 Execution of ruler
+Attribute 5 steps \aH+2 Execution of ruler
+Attribute 5 steps \aH+3 Execution of ruler
+Attribute 5 steps \aH+4 Execution of ruler
+Attribute 5 steps \aH+5 Execution of ruler
+Attribute 5 steps \aH+6 Execution of ruler
+Attribute 5 steps \aH+7 Execution of ruler
+Attribute 5 steps \aH+8 Execution of ruler
+Attribute 5 steps \aH+9 Execution of ruler
+Attribute 5 steps \aH+10 Execution of ruler
+Aden's health recovery agent
+Aden's mana recovery agent
+Aden's Black Pearl
+Aden's Strengthening Scroll
+Aden's agility scroll
+Aden's Intelligence Scroll
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Lancer Skill Box (Event)
 Buffcoin box
 Black coin box
 dummy
+Monarch (male) Ranker Transformation Turban
+Monarch (female) Ranker Transformation Turban
+Knight (male) Ranker Transformation Turban
+Night (female) ranker transformation turban
+Elf (male) Ranker Transformation Turban
+Elf (female) Ranker Transformation Turban
+Wizard (male) Ranker Transformation Turban
+Wizard (female) Ranker Transformation Turban
+Dark Elf (Male) Ranker Transformation Turban
+Dark Elf (Female) Ranker Transformation Turban
+Dragon Knight (male) Ranker Transformation Turban
+Dragon Knight (female) Ranker Transformation Turban
+Illusionist (male) Ranker Transformation Turban
+Illusionist (female) Ranker transformation turban
+Warrior (male) Ranker Transformation Turban
+Warrior (female) Ranker Transformation Turban
+Fencer (male) Ranker Transformation Turban
+Fencer (female) Ranker transformation turban
+Lancer (male) Ranker transformation turban
+Lancer (female) Ranker transformation turban
+Event Merchant ^ Secretary of the Kingdom of Aden
+Event Reward ^ Wizard of the Kingdom of Aden
+Event production ^ Craftsman of the Kingdom of Aden
+Event Teleporter ^ Wizard of the Kingdom of Aden
+Unidragon of another world
+Eldritch Skeleton Marksman
+Eldritch Orc Shaman
+Ghost of death in another world
+Eldritch Terra Dragon
+Archer of the Reaper of the Other World
+Marksman, the god of death in another world
+Succubus in another world
+Xellos' alter ego in another world
+Invitation to King Aden
+Aden present box exchange ticket
+Aden Lancer Coin
+Aden Consumables Box
+Aden Gunter's Certificate Box
+Aden Elixir Box
+Aden Skill Box
+Aden Transformation Festival (~ 9/9)
+Hero's accessory exchange ticket
+Hero slot expansion ticket box
+Hero's Spear Box
+Hero's Ring Expansion Ticket (Left)
+Hero's Ring Expansion Ticket (Right)
+Hero's Earling Expansion Ticket
+Hero's Spaulder Expansion Ticket
+Hero's Insignia Expansion Ticket
+Lancer Skillbook Merchant_Saint Ren
+Growth Coupon 1st Stage Box (Level 80)
+Growth Coupon 1st Stage (Level 80)
+Dragon silver package
+Dragon special package
+Dragon Ein Hazard Package
+Dragon Pure His Elixir Package
+Ein Hazard Point Charge Stone
+Luxury Pure Elixir Box
+Antlion
+Desert copper
+Camelman
+Ice Cal
+Ice spider
+Ice wolf
+Ice Golem King
+Stellaria
+Aden's blessing
+Aden's health recovery agent bag (200 pieces)
+Aden Mana Potion Bag (50 Pieces)
+Kingdom of Aden steak
+Aden Kingdom Fruit Salad
+Skewers of the Kingdom of Aden
+Kingdom of Aden Celebration Cake
+Supply Merchant ^ Lure
+Supply merchant lure
+Growth coin
+Oath box
+Aden's quick gaiters box
+Lancer growth commemoration
+Growing coin store
 dummy
 dummy
 dummy
@@ -34288,8 +34368,211 @@ dummy
 dummy
 dummy
 dummy
+Pure Elixir (EXP) Box (10 Pieces)
+Dragon's Pure Elixir Box (Event)
+Dragon's Pure Elixir (EXP) Box (Event)
+Magic scroll (event)
+Attribute magic scroll (event)
+True rapier (engraved)
+True warrior sword (engraved)
+Darkness Crossbow (engraved)
+Ice Queen staff (engraved)
+Darkness dual blade (engraved)
+Blood soccer (engraved)
+Cold and cold key link (engraved)
+Giant Ax (engraved)
+Abyss Spear (engraved)
+Divine Magic Helm (engraved)
+Stone glove (engraved)
+Divine protection cloakroom (engraved)
+Divine Elven Plate Mail (engraved)
+Black elder robe (engraved)
+Iron gaiters (engraved)
+Iron boots
+Golden Knights All-in-One Package
+Golden Knight Hero Package
+A set of armor of the Golden Knights
+Golden Knights Special Magic Doll Bag
+Growth coin box
++5 Dragon T-shirt exchange ticket
++4 Roomtis Earling Exchange Ticket
++4 snapper ring exchange ticket
++4 Roomtis pendant exchange ticket
++4 Insignia exchange ticket
++4 coat of arms exchange ticket
++4 Warrior Pendant
++4 archer pendant
++4 Sage's pendant
++4 hunter pendant
++4 Warrior Guardian Insignia
++4 Archer Guardian Insignia
++4 Guardian of the Sage Insignia
++4 Warrior Guardian Emblem
++4 Archer's Guardian Emblem
++4 Sage's Guardian Emblem
+Golden Knights Weapon Exchange Stone
+Dragon T-shirt protection scroll production
 dummy
 dummy
+Event reward guide
+Event reward production
+Chaos Crystal of Keprisha
+Keprisha Ornament Enhanced Scroll
+Ein Hazard Growth Potion
+Light of hope
+Keprisha's mana recovery agent
+Keprisha's Weapon Enhancement Scroll Cube
+Keprisha's Armor Enhanced Scroll Cube
+Keprisha food
+Keprisha's remedy
+Ein Hazard Battle Scroll
+Keprisha's Pure Elixir (EXP) Box
+Hero production craftsman ^ Saven
+Gold Castle Relic Package
+Gold Castle Relic Box
+Gold Castle Shining Box
+Lancer Skill Box
+Gold Castle Giving Back Box
+Gold Castle Gaiters (30 days)
+Gold Castle Gaiters Box
+Gold Castle Makeover Ring Box
++3 Accessory exchange ticket box
+Proof of Gold Castle
+Great Wizard Spaulder
+Siaha Spalder
+Commander Spaulder
+Pandora's Cube
+Pure Elixir Box
+Gold Castle Special Magic Doll Bag
+Hero Skill Dissolver
++10 true rapier
++10 True Warrior Tachi
++10 Darkness Crossbow
++10 Ice Queen Staff
++10 Darkness Dual Blade
++10 Blood Soccer
++10 Cold and cold key link
++10 Giant Ax
++10 Abyss Spear
++9 Porce's sword
++10 Porce's sword
++9 Nightbald's Two-Handed Sword
++10 Nightbald's Two-Handed Sword
++9 Nightmare Long Bow
++10 Nightmare Long Bow
++9 Zeros staff
++10 Zeros staff
++9 roaring dual blade
++10 roaring dual blade
++9 Destroyer's Chain Sword
++10 Destroyer's Chain Sword
++9 Killing key link
++10 murderous key link
++9 Tempest Ax
++10 Tempest Ax
++9 Commander Spear
++10 Commander Spear
++0 True King's Execution sword
++1 True King's Execution Sword
++2 True King's Execution Sword
++3 True King's Execution Sword
++4 True King's Execution Sword
++5 True King's Execution Sword
++6 True King's Execution Sword
++7 True King's Execution Sword
++8 True King's Execution Sword
++9 True King's Execution Sword
++10 True King's Execution Sword
++0 Windblade Sword
++1 Windblade Sword
++2 Windblade Sword
++3 Windblade Sword
++4 Windblade Sword
++5 Windblade Sword
++6 Windblade Sword
++7 Windblade Sword
++8 Windblade Sword
++9 Windblade Sword
++10 Windblade Sword
+�{0 Holy Hedron Staff
++1 Holy Hedron Staff
++2 Holy Hedron Staff
++3 Holy Hedron Staff
++4 Holy Hedron Staff
++5 Holy Hedron Staff
++6 Holy Hedron Staff
++7 Holy Hedron Staff
++8 Holy Hedron Staff
++9 Holy Hedron Staff
++10 Holy Hedron Staff
++0 Red Shadow His dual blade
++1 Red Shadow Dual Blade
++2 Red Shadow Dual Blade
++3 Red Shadow Dual Blade
++4 Red Shadow Dual Blade
++5 Red Shadow Dual Blade
++6 Red Shadow Dual Blade
++7 Red Shadow Dual Blade
++8 Red Shadow Dual Blade
++9 Red Shadow Dual Blade
++10 Red Shadow Dual Blade
++0 Gaia's Rage
++1 Gaia's Rage
++2 Gaia's Rage
++3 Gaia's Rage
++4 Gaia's Rage
++5 Gaia's Rage
++6 Gaia's Rage
++7 Gaia's Rage
++8 Gaia's Rage
++9 Gaia's Rage
++10 Gaia's Rage
++0 Kronos Fear
++1 Fear of Kronos
++2 Kronos Fear
++3 Kronos Fear
++4 Kronos Fear
++5 Kronos Fear
++6 Kronos Fear
++7 Kronos Fear
++8 Kronos Fear
++9 Kronos Fear
++10 Kronos Fear
++0 Hyperion's Despair
++1 Hyperion's despair
++2 Hyperion's despair
++3 Hyperion's Despair
++4 Hyperion's Despair
++5 Hyperion's Despair
++6 Hyperion's Despair
++7 Hyperion's Despair
++8 Hyperion's Despair
++9 Hyperion's Despair
++10 Hyperion Despair
++0 Titan's Wrath
++1 Weight of His Will
++2 Titan's Wrath
++3 Titan's Wrath
++4 Titan's Wrath
++5 Titan's Wrath
++6 Titan's Wrath
++7 Titan's Wrath
++8 Titan's Wrath
++9 Titan's Wrath
++10 Titan's Wrath
++10 Grim Reaper Sword
++0 Execution of The Ruler
++1 Execution of The Ruler
++2 Execution of The Ruler
++3 Execution of The Ruler
++4 Execution of The Ruler
++5 Execution of The Ruler
++6 Execution of The Ruler
++7 Execution of The Ruler
++8 Execution of The Ruler
++9 Execution of The Ruler
++10 Execution of The Ruler
+Execution of The Ruler
 dummy
 dummy
 dummy
@@ -34347,6 +34630,7 @@ dummy
 dummy
 dummy
 dummy
+Box of candles of hope
 dummy
 dummy
 dummy
@@ -34355,291 +34639,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Clan gathering key
 dummy
 dummy
 dummy
@@ -34700,7 +34700,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Unicorn Temple Keyed Box
 dummy
 dummy
 dummy
@@ -36621,3 +36621,189 @@ Cooled weapon event
 Cool purchase
 Cool production
 Cooled Weapon Enhancement Scroll
+dummy36624
+dummy36625
+dummy36626
+dummy36627
+dummy36628
+dummy36629
+dummy36630
+dummy36631
+dummy36632
+dummy36633
+dummy36634
+dummy36635
+dummy36636
+dummy36637
+dummy36638
+dummy36639
+dummy36640
+dummy36641
+dummy36642
+dummy36643
+dummy36644
+dummy36645
+dummy36646
+dummy36647
+dummy36648
+dummy36649
+dummy36650
+dummy36651
+dummy36652
+dummy36653
+dummy36654
+dummy36655
+dummy36656
+dummy36657
+dummy36658
+dummy36659
+dummy36660
+dummy36661
+dummy36662
+dummy36663
+dummy36664
+dummy36665
+dummy36666
+dummy36667
+dummy36668
+dummy36669
+dummy36670
+dummy36671
+dummy36672
+dummy36673
+dummy36674
+dummy36675
+dummy36676
+dummy36677
+dummy36678
+dummy36679
+dummy36680
+dummy36681
+dummy36682
+dummy36683
+dummy36684
+dummy36685
+dummy36686
+dummy36687
+dummy36688
+dummy36689
+dummy36690
+dummy36691
+dummy36692
+dummy36693
+dummy36694
+dummy36695
+dummy36696
+dummy36697
+dummy36698
+dummy36699
+dummy36700
+dummy36701
+dummy36702
+dummy36703
+dummy36704
+dummy36705
+dummy36706
+dummy36707
+dummy36708
+dummy36709
+dummy36710
+dummy36711
+dummy36712
+dummy36713
+dummy36714
+dummy36715
+dummy36716
+dummy36717
+dummy36718
+dummy36719
+dummy36720
+dummy36721
+dummy36722
+dummy36723
+dummy36724
+dummy36725
+dummy36726
+dummy36727
+dummy36728
+dummy36729
+dummy36730
+dummy36731
+dummy36732
+dummy36733
+dummy36734
+dummy36735
+dummy36736
+dummy36737
+dummy36738
+dummy36739
+dummy36740
+dummy36741
+dummy36742
+dummy36743
+dummy36744
+dummy36745
+dummy36746
+dummy36747
+dummy36748
+dummy36749
+dummy36750
+dummy36751
+dummy36752
+dummy36753
+dummy36754
+dummy36755
+dummy36756
+dummy36757
+dummy36758
+dummy36759
+dummy36760
+dummy36761
+dummy36762
+dummy36763
+dummy36764
+dummy36765
+dummy36766
+dummy36767
+dummy36768
+dummy36769
+dummy36770
+dummy36771
+dummy36772
+dummy36773
+dummy36774
+dummy36775
+dummy36776
+dummy36777
+dummy36778
+dummy36779
+dummy36780
+dummy36781
+dummy36782
+dummy36783
+dummy36784
+dummy36785
+dummy36786
+dummy36787
+dummy36788
+dummy36789
+dummy36790
+dummy36791
+dummy36792
+dummy36793
+dummy36794
+dummy36795
+dummy36796
+dummy36797
+dummy36798
+dummy36799
+dummy36800
+dummy36801
+dummy36802
+dummy36803
+dummy36804
+dummy36805
+dummy36806
+Point making ^ Alice
+Signature point
+Pearl coin 2

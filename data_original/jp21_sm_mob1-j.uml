@@ -1,0 +1,29 @@
+750.<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+		<p><font fg="fffaff"><br/><br/>
+		アデン国王の命により訓練場を設けた。<br/>
+		<br/>
+		いずれ訪れる大きな変化に向けて準備をしてくれ。</font><br/>
+		<br/>
+
+		<br/>
+		<br/>
+		</p>
+		<p><font fg="ffffaf">[アデン国王の訓練場に行く]</font></p>
+		<p><font fg="afffff"> 
+		- 入場条件：レベル75以上<br/>
+		- 入場料：2,021アデナ</font><br/>
+		</p>
+		<p><font fg="ffffaf"><a action="a">アデン国王の訓練場(1)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="b">アデン国王の訓練場(2)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="c">アデン国王の訓練場(3)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="d">アデン国王の訓練場(4)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="e">アデン国王の訓練場(5)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="f">アデン国王の訓練場(6)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="g">アデン国王の訓練場(7)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="h">アデン国王の訓練場(8)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="i">アデン国王の訓練場(9)へ行く</a></font></p>
+		<p><font fg="ffffaf"><a action="j">アデン国王の訓練場(10)へ行く</a></font></p>
+	</dialog>
+</npcdialog>

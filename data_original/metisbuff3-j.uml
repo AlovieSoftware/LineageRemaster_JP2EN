@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon></icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name>初のレベル97</name>
+		<job>[イベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<font fg="fffaff">
+		<br/>
+		こんにちは。メティスです。<br/>
+		<br/>
+		<br/>
+		<br/>
+		<font fg="ffffaf">リネージュ初のレベル97</font>の勇士様が現れました。<br/>
+		<br/>
+		<br/>
+		初のレベル97を達成されたのは<br/> 
+		<br/>
+		<font fg="ffafff">セバスチャンサーバー</font>の<font fg="ffafff">[フラワー]</font>様です！<br/>
+		<br/>
+		<br/>
+		<br/>
+		[フラワー]様はアデン大陸の歴史が始まってから<br/>
+		<br/>
+		<font fg="ffffaf">初のレベル93</font>から<font fg="ffffaf">初のレベル97</font>まで<br/> 
+		<br/>
+		常に<font fg="ffffaf">初記録</font>を達成されてこられました。<br/>
+		<br/>
+		<br/>
+		<br/>
+		驚きの<font fg="ffffaf">レベル97達成</font>を<br/>
+		<br/>
+		アデン大陸のすべての勇士様と一緒に<br/>
+		<br/>
+		お祝いいたします。<br/>
+		<br/>
+		<br/>
+		<font fg="ffffaf">本当におめでとうございます！</font><br/>
+		<br/>
+		<br/>
+		<br/>
+		<font fg="afffff"><a action="A">※ セバスチャンサーバーの[フラワー]にお祝いメッセージを伝える</a></font><br/>
+		<br/>
+		(クリック時、バフ獲得)
+		<br/></font>
+		</p>
+	</dialog>
+</npcdialog>

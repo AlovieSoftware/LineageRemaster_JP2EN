@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>静かなそよ風から絶望の爆風まで、風の精霊はもっとも変わりやすい性格を持つんだよ。</p>
+		<p>彼らの力を借りる風の系列の精霊魔法の特徴は、その速さにあると言われている。</p>
+		<p>風の精霊は、それを使う者にものすごい速さを手にする機会を与えてくれるだろう。</p>
+		<p>いつもよりずっと早い速度で飛んでいく矢を見たことがあるかい？</p>
+		<p>ある意味、矢を主に使うエルフたちにもっとも適した系列だと言えるだろうね。</p>
+		<p><img src="331" link="ellyonne4"/></p>
+	</dialog>
+</npcdialog>

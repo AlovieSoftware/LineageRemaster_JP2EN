@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデンの守護ウィザード</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>国王が話していたのはそなたか。噂どおり、ただものではない目をしているな。<br/>
+		<br/>
+		一時は戦場を駆け巡った私も、人間の限界はどうあがいても超えることができない。<br/>
+		今はそなたのような勇士を育てることが、国王のために私ができるすべてだと思っている。<br/>
+		<br/>
+		さあ、そなたの旅の助けとなるよう最善を尽くして準備したから必要なものを選ぶとよい。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

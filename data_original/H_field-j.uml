@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><br/>
+		<font fg="ffffaf">[テレポート]</font>
+		</p>
+		<panel type="Panel_Teleport_Winddragon">
+		   <button action="a"/>
+        </panel>
+	<p>ここは風竜リンドビオルが作り出す地域で、一般魔法では<font fg="ffaaff">テレポートが不可能</font>です。<br/>
+	<br/>
+	神秘的な魔力を持つ<font fg="ffaaff">テレポート支配リング</font>があれば、<br/>暴風に巻き込まれずにテレポートできるでしょう。<br/>
+	<br/>
+	<br/>
+	</p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>イリュージョニストの幻術魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">イリュージョニストの幻術魔法：レベル3</font><br/></p>
+	<p><font fg="ffffaf">ペイシェンス：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：25/0<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：術者が受ける苦痛を減少させます。<br/>
+	ダメージ減少+2、レベル80からレベルが4上がるごとに1増加<br/></p>
+	
+	<p><font fg="ffffaf">ファンタズム：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/25<br/>
+	持続時間：1～4秒<br/>
+	対象：術者から3セル内のPCまたはNPCの1人<br/>
+	効果：一定確率で、対象を無防備状態にします。<br/>
+	ただし、対象が攻撃を受けると状態を解除されます。<br/></p>
+	
+	<p><font fg="ffffaf">アイズ ブレイカー：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：一瞬<br/>
+	対象：15セル内の隠れている対象<br/>
+	効果：隠れているプレイヤーやNPCを見つけます。<br/>
+	この魔法で透明状態のプレイヤーや、隠れているスパルトイ、ストーン ゴーレムなどを見つけられます。<br/></p>
+	
+	<p><font fg="ffafff">イリュージョン[ゴーレム]：</font><br/>
+	種類：付与<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：対象をダイア ゴーレムだと錯覚させる幻想に陥らせます。<br/>
+	ACを10向上させます。<br/></p>
+	
+	<p><font fg="ffffaf">キューブ[リッチ]：</font><br/>
+	種類：操作<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	材料：属性石3個<br/>
+	持続時間：128秒<br/>
+	対象：パーティーメンバー<br/>
+	効果：パーティーメンバー全体にSP+2<br/>
+	パッシブ リッチと重複不可<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

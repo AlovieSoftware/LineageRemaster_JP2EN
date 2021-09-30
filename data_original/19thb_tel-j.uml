@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>精鋭騎士団パス</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		暗黒竜降臨の前兆で、モンスターが暴走してしまった。<br/>  
+		ぜひ討伐に協力してくれ。<br/>
+		<br/>
+		テレポート費用：2021アデナ<br/>
+		<br/>
+		(パーティ向け)<br/>
+		</p>
+			<p><a action="a">暗黒竜の棲処(1)へ行く</a></p>
+			<p><a action="b">暗黒竜の棲処(2)へ行く</a></p>
+			<p><a action="c">暗黒竜の棲処(3)へ行く</a></p>
+			<p><a action="d">暗黒竜の棲処(4)へ行く</a></p>
+			<p><a action="e">暗黒竜の棲処(5)へ行く</a></p>
+			<p><a action="f">暗黒竜の棲処(6)へ行く</a></p>
+			<p><a action="g">暗黒竜の棲処(7)へ行く</a></p>
+			<p><a action="h">暗黒竜の棲処(8)へ行く</a></p>
+			<p><a action="i">暗黒竜の棲処(9)へ行く</a></p>
+			<p><a action="j">暗黒竜の棲処(10)へ行く</a></p>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

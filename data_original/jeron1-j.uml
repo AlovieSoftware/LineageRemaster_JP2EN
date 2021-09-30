@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_029</portrait>
+		<name>ジェロン</name>
+		<job>[アックス製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 こんな年寄りに何の用だというのだ？<br/>
+		 <br/>
+		 ほう、勘が鋭いな。たしかに、わしはかつて一世を風靡した<font fg="ffffaf">アックス</font>職人じゃよ。ほほほ。<br/>
+		 <br/>
+		 久しぶりにその実力を見せてやってもよいぞ。<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+
+	</dialog>
+</npcdialog>

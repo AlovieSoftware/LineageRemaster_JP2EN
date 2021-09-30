@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_016</portrait>
+		<name>マーリン</name>
+		<job>[ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		 ところが数日前、誰かが侵入して迷路の結界が破られたのだ。<br/>
+		 噂では<font fg="ffffaf">金銀財宝</font>が見つかったそうだ。<br/>
+		 一体、監獄で何が起きたのか。あなたにはそれを調べてもらいたい。
+		<br/>
+		<br/>
+		 戻ってくるときは必ず<font fg="ffaaff">ファウスト</font>の行方を知らせて欲しい。
+		<br/>
+		<br/>
+		<br/>
+		<a action="D_giran">私をそこに送ってください</a><br/>
+		</p>
+	</dialog>
+</npcdialog>

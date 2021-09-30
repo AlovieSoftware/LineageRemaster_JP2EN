@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_033</portrait>
+		<name>ディリー シオス</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">獣の巣</font>に行ってきましたか？<br/>
+		<br/>
+		<font fg="ffffaf">獣の巣入場券</font>と<font fg="ffffaf">甘い玉を100個</font>持ってきてください！
+		<br/>
+		準備ができましたら、私の近くまで来られるよう<font fg="ffffaf">100アデナ</font>で
+		あなたを召喚いたします。<br/>
+		少し目がくらむかもしれないので気をつけてください。<br/>
+		<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>
+ 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<!--portrait> </portrait-->
+		<name>リドル</name>
+		<job>錬金術師</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>
+		<font fg="ffffff"></font></p><p align="left"><font fg="ffffff"><name/>：</font></p><br/>
+		<p> どの魔力の力が必要ですか？<br/>
+		<br/>
+		<br/> 
+		 <font fg="ffffaf">変更：</font><a action="str91">力のエリクサー ルーン</a><br/>
+		<br/>
+		 <font fg="ffffaf">変更：</font><a action="dex91">機敏のエリクサー ルーン</a><br/>
+		<br/>
+		 <font fg="ffffaf">変更：</font><a action="con91">体力のエリクサー ルーン</a><br/>
+		<br/>
+		 <font fg="ffffaf">変更：</font><a action="int91">知力のエリクサー ルーン</a><br/>
+		<br/>
+		 <font fg="ffffaf">変更：</font><a action="wis91">知恵のエリクサー ルーン</a><br/><br/></p>
+		
+		<p><img src="331" link="riddle1"/></p>
+	</dialog>
+</npcdialog>

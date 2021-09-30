@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_018</portrait>
+		<name>バミュト</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 カオス レザーは、キメラの皮をなめして作るんだが、これが大変でね。<br/>
+		 キメラの皮は4大属性の気が込められているから、4つの属性別に手入れをする必要がある。<br/><br/>
+		 普通の皮みたいに手入れをしたら、すぐに皮が駄目になってしまうんだぜ！<br/>
+		 <br/>
+		 キメラの皮は、ライオン/ドラゴン/ヤギ/スネークの4つがあるが、
+		 これらは順に火/水/風/地の4大属性が込められている。<br/><br/>
+		 手数料は1枚あたり500アデナだ！<br/>
+		<br/><br/>
+		<a action="request red skin of curse">カオス レザー(火)を製作する</a><br/>
+		<a action="request blue skin of curse">カオス レザー(水)を製作する</a><br/>
+		<a action="request yellow skin of curse">カオス レザー(風)を製作する</a><br/>
+		<a action="request green skin of curse">カオス レザー(地)を製作する</a><br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

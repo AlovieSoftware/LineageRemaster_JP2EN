@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">秘密の庭園</font>で<font fg="ffffaf">プレミアム コイン100枚</font>を集めてきたというのは本当か？<br/>
+		<br/>
+		まだ<font fg="ffffaf">成長の花束</font>を獲得できていないなら、我が<font fg="ffffaf">守護騎士</font>に聞くといいだろう！<br/>
+	<br/>
+	この祝祭は特別に<font fg="ffffaf">レベル55</font>の新人勇士も参加できるようにしておるが、まだそこまで達していないということはないだろうな？<br/>
+	修練を怠る者にはいかなる報賞もないことを覚えておくように。<br/>
+		 <br/>
+		 <br/>
+		</p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>英雄のアクセサリー交換券</title>
+
+	<dialog align="left">
+		<p>ギラン城下町製作石像で使用可能<br/> 
+		同じ強化数値のアイテムと交換時に消耗<br/> 
+		</p>
+		<p><font fg="FFFF00">※使用可能アイテム※</font><br/>
+		+6以上のルームティスのイアリング<br/>
+		+6以上のスナッパーのリング<br/>
+		+6以上の竜のTシャツ<br/>
+		+6以上のルームティスのペンダント<br/>
+		+6以上のエンブレム(合成)<br/>
+		+6以上のインシグニア(合成)</p>			
+		</dialog>
+</npcdialog>

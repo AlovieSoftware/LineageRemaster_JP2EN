@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アラクネ</name>
+		<job>森の守護者</job>
+		<text></text>
+	</npc>
+  <dialog>
+   <p>今は<font fg="ffffff">森とエルフの母の側で平和に物づくり</font>に熱中しているが、かつては我ら種族最高の戦士だった方だ。</p>
+   <p><img src="331" link="arachnee1"></img></p>
+	 </dialog>
+</npcdialog>

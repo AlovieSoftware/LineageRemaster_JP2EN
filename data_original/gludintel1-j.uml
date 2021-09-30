@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">[メインランドのダンジョン テレポート]</font>
+		</p>
+		<panel type="Panel_Teleport_Gludio">
+		   <button action="D_gludin"/>
+		   <button action="D_gludin2f"/>
+		   <button action="D_gludin3f"/>
+		   <button action="D_gludin4f"/>
+		   <button action="D_gludin5f"/>
+		   <button action="D_gludin6f"/>
+		   <button action="D_gludin7f"/>
+        </panel>
+        <p>赤く光る水晶に視線を奪われる。透明な水晶の中に、メインランドのダンジョンの姿がほのかに照らされるようだ。<br/>
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

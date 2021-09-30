@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>庭園管理者</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		もしかして…国王陛下の命で来られた勇士様ですか？<br/>
+		<br/>
+		やっぱり！<br/>
+		モンスターたちが庭園をめちゃくちゃにして困っていたのですが、<br/>
+		勇士様のおかげで少し落ち着きました！<br/>
+		<br/>
+		感謝の気持ちを込めて、花束を作ります。<br/>
+		<br/>
+		それでは、幸運を祈ります！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

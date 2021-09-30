@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p><br/>
+	<font fg="ffffff">鍛冶屋：</font>おっと、いらっしゃい！今度は何を修理して欲しいんだい？</p>
+	<panel type="Panel_Shop_Bt_Repair">
+			<button action="fix"/>
+    </panel>
+    <p><br/>
+		<a link="aanon2">武器はどんな時に壊れますか？</a><br/><br/><br/>
+		
+	</p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>ポール</name>
+		<job>釣り場ガイド</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		どう、釣りは楽しかった？フィッシュは何匹<br/>
+		釣れた？へへ…<br/>
+		帰る時は僕に一声かけてね。<br/></p>
+		<br/>
+		<panel type="Panel_StopFishing_Bt">
+				<button action="a"/>  
+				<button action="b"/>
+				<button action="c"/> 
+				<button action="d"/>
+				<button action="e"/>
+				<button action="f"/>
+        </panel>
+		
+		
+	</dialog>
+</npcdialog>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>マービン</name>
+		<job>[成長のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>必要な材料は以下となります。<br/><br/>
+		<font fg="ffffaf">[一般報賞材料]</font><br/><br/>
+		  1.不完全な魔法玉の欠片(1)<br/>
+		  2.凍りついた女の涙(100)<br/>
+		  3.象牙の塔の魔法の精粋(1)<br/><br/>
+                <br/>	
+		<font fg="ffffaf">[ドラゴンの報賞材料]</font><br/><br/>
+		  1.不完全な魔法玉の欠片(1)<br/>
+		  2.凍りついた女の涙(100)<br/>
+		  3.象牙の塔の魔法の精粋(1)<br/>
+		  4.ドラゴンの一般/高級/最高級ダイアモンド(1)<br/><br/>
+		<br/><br/>
+		<img src="331" link="marbinquest3"></img>
+		
+		</p>
+	</dialog>
+</npcdialog>

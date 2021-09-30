@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>英雄の製作職人</title>
+	<npc>
+		<portrait>PO_001</portrait>
+		<name>セイブン</name>
+		<job>英雄の製作職人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> <br/>ヘイブン兄さんの頼みで来たんだ。<br/><br/>
+		 強くなりたいのか？だったら俺が力を貸してやろう！<br/><br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft">
+				<button action="request craft"/>
+			</panel>
+		<p>
+			<br/>
+			俺の腕が信用ならないか？！<br/><br/>
+			珍しいアイテムがたくさんあるから、一度見ていきな。<br/><br/>
+		</p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>みんなは私をエリオンと呼ぶんだ。見ればわかると思うけど私はエルフさ。</p>
+		<p>ただがむしゃらに前向きな人間の影響なのか、私はいきなりエルフの森を飛び出したんだ。あれからどれくらい経ったんだろう。</p>
+		<p>ナルエン、テオドールは元気だろうか…気難しいネルファ婆やは相変わらずなんだろうな。</p>
+		<p>エルフの森でいつも私を嬉しそうに迎えてくれた守護者たち…胸にしみこむようなマザーツリーの香り…でも、もうエントの実の味は忘れてしまったみたいだ。</p>
+	</dialog>
+</npcdialog>

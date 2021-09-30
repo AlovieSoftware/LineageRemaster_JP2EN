@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>ポール</name>
+		<job>釣り場ガイド</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 ちょっと聞いてよ！<br/>
+		 実は<font fg="ffff0">ポールの成長の釣り竿</font>を作るのに成功<br/>
+		 したんだ！<br/>
+		 <br/>
+		 追加の経験値だけじゃなく希少アイテムも釣れるんだよ！<br/>
+		 <br/>
+		 しかも入場料もタダ！<br/></p>
+		 <br/>
+		<panel type="Panel_Fishing_Bt">
+				<button action="a"/>
+        </panel>
+		<p>
+		<a link="fk_in_3">釣りについて教えて欲しい</a><br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

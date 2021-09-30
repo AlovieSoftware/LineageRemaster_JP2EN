@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>ふむ…水の系列に興味あるのかい？</p>
+		<p>水は精霊の中でもっとも温和な性格なんだ。</p>
+		<p>可憐な水の精霊は、他人を傷つけることにほぼ関心がないと言える。</p>
+		<p>彼らの力は慈愛と愛が形になったもので、ウィザードの魔法を凌駕する治癒力を術者に与えるんだ。</p>
+		<p>暴力的な戦闘よりも、傷を負った人たちを助けることに喜びを感じるなら、水の精霊はきっと微笑んでくれるだろう。</p>
+		<p><img src="331" link="ellyonne4"/></p>
+	</dialog>
+</npcdialog>

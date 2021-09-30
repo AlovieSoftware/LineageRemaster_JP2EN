@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>リネム</name>
+		<job>[魔族製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 フフフ…そんな目で見るのはよせ。
+		 ここに来たおまえも結局は<font fg="ffafff">悪魔の力</font>を求めているのだ。<br/>
+		 <br/>
+		 だがおまえはだめだ。この力に見合った資格を備えていない。<br/>
+		 もう少し修練してから来い。<br/>
+		 <br/>
+		</p>
+	</dialog>
+</npcdialog>

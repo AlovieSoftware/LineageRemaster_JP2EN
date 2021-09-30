@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント商人</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>ソムリ</name>
+		<job>[補給商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		<br/>
+		こんなに長い間アデンに入れなくなるとは思わなかったよ。<br/>
+		知ってのとおり戦争が長引いて、君たちにアイテムを売ること自体が私たちにとって危険だったからね…<br/>
+		<br/>
+		暗黒竜ハルパスがアデン大陸に姿を現したそうだな。<br/>
+		これまでのように君たちがアデンの平和を守ってくれると信じているぞ。<br/>
+		<br/>
+		補給品を幅広く調達しなきゃならないから、<font fg="ffffaf">毎日</font>私のところにくるといい。<br/>
+		<br/>
+		<font fg="ffffaf">毎日午前6時から購入可能</font>だ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="non_npc buy"/></panel>
+	</dialog>
+</npcdialog>

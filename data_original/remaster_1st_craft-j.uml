@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ヘイロ</name>
+		<job>[技術&amp;魔法の教官]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>よく来たな。<br/>
+		<br/>
+		技術と魔法を職業に合ったものに交換できるぞ。<br/>
+	    古代の力によって作られた<font fg="ffffaf">英雄のスキル溶解剤</font>があればできるぞ。<br/>
+		<br/>
+		英雄のスキル溶解剤で特定スキルを溶かすと<font fg="ffffaf">英雄のスキルの証</font>を作ることができる。<br/>
+		それを持ってくるんだ。<br/>
+		<br/>
+		私が君の職業に合った技術と魔法を教えよう。<br/>
+		<br/><br/>
+		ただし、<font fg="ffffaf">ランサー</font>なら<font fg="ffffaf">英雄の槍術書I～III</font>が必要だ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

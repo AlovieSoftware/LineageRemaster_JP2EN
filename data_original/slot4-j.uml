@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		
+		<p>私の魔法は1週間だけ解放される。<br/></p>
+		<p>もちろん、能力があれば両方とも解放できる。<br/></p>
+		
+				
+	</dialog>
+
+</npcdialog>

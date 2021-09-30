@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+	    <br/>
+		<p><font fg="ffffaf">[系列を選択する]</font></p>
+		<panel type="Panel_Learn_Spell_06">
+				<button action="gfw"/>
+				<button action="gfa"/>
+				<button action="gfe"/>
+				<button action="gwa"/>
+				<button action="gwe"/>
+				<button action="gae"/>
+        </panel>
+		<p>新しい精霊系列を受け入れる準備ができたようだね。</p>
+		<p>精霊の魔法は、言葉どおりこの世の根本的な力の具現とも言える精霊の力を受けて使う魔法のことだよ。</p>
+		<p>もし特定の系列を覚える決心がついたら声をかけておくれ。</p>
+		<p>精霊の魔法は大きく<a link="ellyonne8">地</a>、<a link="ellyonne5">火</a>、<a link="ellyonne7">風</a>、<a link="ellyonne6">水</a>、そして、葉の道の5つに分けられる。</p>
+		<p>最後に言った葉の道の場合、充分な経験を積んで制御できるエルフであれば、誰でも覚えることができる。</p>
+		<p>問題は残り4種類の各属性の道…精霊の力をひとつに融合するのは難しく、4種類のうちひとつだけ選べるんだ。</p>
+		<p>もし別の属性を習いたい場合、今持っているものを捨ててもう一度純粋を取り戻さなければならない。</p>
+		<p><img src="331" link="ellyonne16"/></p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>shop</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>商店</title>
+	<npc>
+		<portrait>PO_014</portrait>
+		<name>デン</name>
+		<job>[コイン収集商人]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>よく来たな。私は羽の研究をしているフェザーだ。</p>
+		<p>最近発見されている黄金の羽は、私の研究に大いに役立つんだ。</p>
+		<p>しかし数が圧倒的に足りなくてな…</p>
+		<p>もし<font fg="ffaaff">黄金の羽</font>を持っていたら、私が集めたピクシーの箱と交換しないか？</p>
+		<panel type="Panel_Shop_Bt_Buy">
+			<button action="buy"/>
+		</panel>
+	</dialog>
+</npcdialog>

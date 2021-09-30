@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_024</portrait>
+		<name>グレン</name>
+		<job>[ベルト製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 一時はゲートルをだぼっと履くのが流行ってたが、やっぱり戦いにくいようでね。
+		 <font fg="ffffaf">ベルト</font>を新たに製作する人たちがずいぶん増えましたわ。<br/>
+		 <br/>
+		 どんなベルトをお探しで？<br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

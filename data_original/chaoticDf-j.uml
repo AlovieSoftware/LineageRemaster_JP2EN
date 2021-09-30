@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title></title>
+  <dialog>
+	<p><font fg="fffaff">…暗黒の扉…</font><br/></p>
+	<br/>
+	<p><font fg="fffaff">
+		<br/>
+		誰にでも<br/>
+		<br/>
+		いつでも<br/>
+		<br/>
+		入れる場所ではない…<br/>
+		<br/>
+		<br/>
+		<br/>
+		月が雲の後ろに隠れ、光を失う<br/>
+		<br/>
+		<font fg="ffffaf">夜中の1時から翌日の9時</font>までは<br/>
+		<br/>
+		この扉も閉ざされる。<br/>
+		<br/>
+		<br/>
+		<br/>
+		<font fg="ffffaf">レベル80</font>に達しているか<br/>
+		<br/>
+		<font fg="ffffaf">5万アデナ</font>は持っているか<br/>
+		<br/>
+		自らを振り返ることだ。<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/></font>
+		<p><font fg="ffafff">[利用条件]<br/>
+		レベル：80以上<br/>
+		入場料：50,000アデナ<br/>
+		利用不可：01～09時<br/>
+		</font></p>
+		<br/>
+
+		<br/>
+	</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

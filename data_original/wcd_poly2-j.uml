@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_045</portrait>
+		<name><var src="name"/></name>
+		<job>謎の魔術師</job>
+		<text>蟻のダンジョンの混乱をもたらしたのは君か？それとも私たちを助けに来てくれたのか？分からない…</text>
+	</npc>
+	
+	<dialog>		
+		<p>アント クイーンが面白いことを思いついたんだ。<br/>蟻たちとは違って人間は敵味方がコロコロ変わるからな。<br/><br/><br/>
+		自らの欲望と快楽のためには家族すらも裏切るのが人間というものだ。法律や道徳などに抑え込まれたその本性を解き放てば…どうなるか分かるだろ？<br/><br/>むしろ人間の本性を見透かすクイーン様が不思議だ。まるで、人間の心を覗いているようじゃないか？フフ…クククキキキキ…</p>
+		
+		<p><br/><br/><br/><a link="wcd_poly3">この者は一体…</a><br/></p>
+
+	</dialog>
+
+</npcdialog>

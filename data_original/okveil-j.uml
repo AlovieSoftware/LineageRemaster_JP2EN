@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon>
+
+<npc>
+	<name>ドルーガベール</name>
+	<job>ドルーガバッグ販売人</job>
+	<!--portrait> </portrait-->
+	<!--text> </text-->
+</npc>
+	
+<dialog>
+<p>はい！これだよ。</p>
+<br/>
+<p>ドラゴンとの戦いはそう甘くはないぞ、気をつけるんだな。</p>
+<p>キーは<font fg="fff000">3時間</font>を過ぎると消えて、ポータルを開くと</p>
+<p> <font fg="fff000">30分間</font>レイドが進行するから注意するんだ！</p>
+</dialog>
+
+</npcdialog>

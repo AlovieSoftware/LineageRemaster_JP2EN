@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[エヴァ王国水路テレポート]</font><br/>
+	：<font fg="ffafff">レベル75</font>以上が入場可能
+	</p>
+	<panel type="Panel_Teleport_Eva">
+		   <button action="a"/>
+		   <button action="b"/>
+		   <button action="c"/>
+    </panel>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

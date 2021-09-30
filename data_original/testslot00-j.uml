@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text></text-->
+	</npc>
+	
+	<dialog align="left">
+		<p>こんにちは！</p>
+		<p>英雄たちの友達、スナッパーといいます。</p>
+		<p>ここでも皆さんのお役に立とうと頑張ったのですが、</p>
+		<p>英雄の力が<font fg="e5bdd7">封印</font>されたここでは、すべての<font fg="e5bdd7">封印</font>を解除するのは今は難しいです。</p>
+		<p>もっともっと頑張りますが、</p>
+		<p>どうです、まだ完璧ではないですが、リングのスロットをひとつ解放して使ってみませんか？</p>
+		<p><a action="A">※<font fg="ffaaff">55</font>リングスロット[<font fg="ffaaff">10,000,000</font>アデナ]</a></p>
+		<p><a action="B">※<font fg="ffaaff">60</font>リングスロット[<font fg="ffaaff">30,000,000</font>アデナ]</a></p>
+		<p><a action="C">※<font fg="ffaaff">59</font>イアリングスロット[<font fg="ffaaff">2,000,000</font>アデナ]</a></p>
+		<p><a link="disring">イベントリングと有料リング</a>は<font fg="fff796">2個</font>まで装備可能で、</p>
+		<p>同じリングも<font fg="fff796">2個</font>まで装備可能です。よ～く選んではめてくださいね。</p>
+		<p>参考までに、イアリングは<font fg="ffaaff">同じもの</font>でなければ、すべて装備できるよう私が魔法を掛けています。</p>
+		<p>スロットを解放して、より強くなった自分を見つけられることを願って！ </p>
+	</dialog>
+	
+</npcdialog>
+

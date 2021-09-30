@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>ドラゴン用品</title>
+  <npc>
+    <image>Talk_NPC_002</image>
+    <name>ドルーガベール</name>
+    <text>そうかそうか！</text>
+  </npc>
+	  <dialog>
+    <p>
+		やはり私の目に狂いはなかったようだな！鋼鉄ギルドのドワーフたちも大人しく渡してくれるだろうから、必要なキーを言ってくれ！<br/>
+		<br/>
+		もちろんドワーフには対価を払わないとならない。1,000万アデナあればいいだろう…<br/></p>
+		<p>
+		キーは<font fg="fff00">3時間</font>を過ぎると消えて、ポータルを開くと<font fg="fff00">30分</font>間レイドが進行するから注意するんだ！</p>
+		<p><a action="a">アンタラス！</a><br/>
+    <br/>
+    <a action="b">パプリオン！</a><br/>
+		<br/>
+    <a action="c">リンドビオル！</a><br/>
+		<br/>
+    <a action="d">ヴァラカス！</a></p>
+		<p><br/></p>
+    
+		<p><br/></p>
+    <p><img src="331" link="veil1"/></p>
+  </dialog>
+</npcdialog>

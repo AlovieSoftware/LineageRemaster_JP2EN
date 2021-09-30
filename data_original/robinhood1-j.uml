@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_027</portrait>
+		<name>ロビン</name>
+		<job>[ボウ製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 ああ、風に乗って漂う故郷の香り…<br/>
+		 おっと、お客様。こんなのどかな日には、決まってエルフの森を思い出すのです…ハハハ。<br/>
+		 <br/>
+		 <font fg="ffffaf">ボウ</font>が必要なのですね？
+		 やはり素早く敵を制圧するにはボウが最高です。ゆっくり見ていってください。<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

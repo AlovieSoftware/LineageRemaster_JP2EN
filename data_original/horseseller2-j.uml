@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+   <npc>
+	<portrait>PO_039</portrait>
+    <name><var src="name"/></name>
+  </npc>
+  <dialog>
+    <p><br/>野生の馬を手なづけることは簡単なことではありません。</p>
+	<p>そこでウィザードに協力を求め、彼らの力を借りて馬を手なづけることに成功しました。<br/></p>
+	<p>馬は元来気性の荒い動物のため、騎乗しているときは一瞬たりとも油断してはなりません。<br/>
+	そのため、<font fg="ffffaf">騎馬用ヘルム</font>を必ず着用させるために、馬を操ることができる不思議な力をヘルムに込めたのです。<br/><br/>
+    ヘルムに込めた力には限りがあるため、一定時間を過ぎると馬が君主様の命令を聞かなくなります。<br/>
+    そのときは、隣にいる私の同僚に新たに力を入れてもらってください。<br/><br/></p>
+	<p><img src="331" link="horseseller1"></img></p>
+  </dialog>
+</npcdialog>

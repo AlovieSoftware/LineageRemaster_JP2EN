@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+	<p>
+		<br/>
+		ぼ…く…イエティ…とも…だち…ゴー…レム…<br/>
+		<br/>
+		あつ…いの…キライ…とけ…ちゃう…<br/>
+		<br/>
+		た…すけ…て…はや…く…も…って…きて…<br/>
+		<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon></icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name>中央移動魔法陣</name>
+		<job>[テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		<br/>市場内で<font fg="e8aee7">クイック移動</font>を手伝う魔法陣です。<br/>
+		</p>
+		<br/>
+		<panel type="Panel_Tradeguard02_Bt">
+				<button action="teleport Mobjtele1"/>
+				<button action="EnterSeller"/>
+				<button action="teleport Mobjtele2"/>
+        </panel>
+
+		<p><br/>
+		＊マップを開き、<font fg="e8aee7">地域や中心地域</font>を押すと、行きたい場所へ簡単に移動できます。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

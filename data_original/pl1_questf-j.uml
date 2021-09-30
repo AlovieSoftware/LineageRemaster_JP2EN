@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">生命の樹</font>を守る資格を持つ者なのか？<br/>
+		そなたの勇猛さを証明するために、生命の庭園から<font fg="ffffaf">祝福の葉100個</font>を持ってきてくれたまえ。<br/>
+		<br/>
+
+	<br/>
+	さもや<font fg="ffffaf">レベル60</font>に達していないのではないか？<br/>
+	修練を怠る者にはいかなる報賞もないことを覚えておくように。<br/>
+		 <br/>
+		 <br/>
+		</p>
+	</dialog>
+</npcdialog>

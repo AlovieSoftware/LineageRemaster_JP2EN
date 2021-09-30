@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>イリュージョニストの幻術魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">イリュージョニストの幻術魔法：レベル5</font><br/></p>
+	<p><font fg="ffffaf">インパクト</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：40/0<br/>
+	材料：属性石5個<br/>
+	持続時間：15秒<br/>
+	対象：パーティーメンバー<br/>
+	効果：パーティーメンバー全体に、すべてのスキル命中+5、レベル80からレベル1ごとに1ずつ向上し、最大10まで向上します。<br/></p>
+	
+	<p><font fg="ffffaf">フォーカス スピリッツ</font><br/>
+	種類：付与<br/>
+	レベル：75<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	材料：属性石1個<br/>
+	持続時間：300秒<br/>
+	対象：術者<br/>
+	効果：魔法クリティカル+5%効果付与。<br/></p>
+	
+	<p><font fg="ffffaf">メビウス</font><br/>
+	種類：操作<br/>
+	レベル：85<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	材料：属性石1個<br/>
+	持続時間：6秒<br/>
+	対象：術者<br/>
+	効果：一定時間、遠距離防御のバリアが生成されます。<br/>
+	遠距離ダメージ20%減少効果<br/>
+	レベル85からレベルが1上がるごとに遠距離ダメージ減少1%増加(最大+30%)<br/></p>
+	
+	<p><font fg="ffffaf">ダークホース</font><br/>
+	種類：付与<br/>
+	レベル：80<br/>
+	性向：Illusion/Passive<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：ユグドラ服用時、攻撃速度向上効果が追加されます。<br/></p>
+	
+	<p><font fg="ffffaf">ポテンシャル</font><br/>
+	種類：付与<br/>
+	レベル：85<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：30/0<br/>
+	材料：属性石2個<br/>
+	持続時間：128秒<br/>
+	対象：術者<br/>
+	効果：術者の能力を限界まで引き出します。<br/>
+	HP/MP/DG/ER/MR/SPが20%向上<br/></p>
+	
+	<p><font fg="ffffaf">ボーン ブレイク：ラスト</font><br/>
+	種類：付与<br/>
+	レベル：85<br/>
+	性向：Illusion<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：ボーン ブレイクの持続時間が増加します。<br/></p>
+	
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

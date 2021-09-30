@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>ブラッド</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p>君は酷寒の神殿に入場する条件を満たしていないな。火炎の気を持っているか確認してくれ。</p>
+	<p><br/>	
+	<font fg="FF0000">Hard</font>：<font fg="ffafff">火炎の気</font>5個<br/>
+	<font fg="00D8FF">一般</font>：<font fg="ffafff">火炎の気</font>1個<br/>	
+	</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

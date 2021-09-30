@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+<icon>dialog</icon>
+<title>会話</title>
+  <npc>
+  	<portrait>PO_002</portrait>
+	<name><var src="name"/></name>
+    <job>[ユニコーンテンプル管理人]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+ 夢幻の島には平和が戻ってきましたが、ユニコーンテンプルにはより強力になった異界の存在が押し寄せています。</p>
+ <p>どうかユニコーンテンプルをお守りください。</p>
+<br/>
+	<panel type="Panel_Unicorn_Bt">
+		<button action="a"/>
+    </panel>
+<br/>
+<br/>
+  </dialog>
+</npcdialog>

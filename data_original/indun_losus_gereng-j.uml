@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name>長老</name>
+		<job>[ゲレン]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>今からでも遅くはない。<br/>
+		 誰もおぬしを臆病者などと言わないだろう。<br/>
+		 だが、その命が少しでも惜しければ、引き返したほうがいいぞ。<br/>
+		 <br/>
+		 おぬしの意志が固いなら、少しでも役に立つものを贈りたい。<br/>
+		 おぬしが持っている<font fg="ffffaf">希望の炎</font>をこちらに。<br/>
+		 <br/>
+		 さあ、選ぶのだ。<br/>
+		 おぬしの力になるといいが。<br/>
+		 <br/></p>
+		<p>
+		<font fg="ffafff"><a action="a">火炎の力をもらう</a></font><br/>		
+		 - ファイアー グラウンド<br/>
+		 - メテオ ストライク<br/>
+		 - ファイアー ストーム<br/>
+		</p>
+		<p>
+		<font fg="fffaff"><a action="b">閃光の力をもらう</a></font><br/>		
+		 - ライトニング ブリザード<br/>
+		 - ライトニング ビーム<br/>
+		 - ライトニング ストーム<br/>
+		</p>
+		<p>
+		<font fg="25a6d6"><a action="c">酷寒の力をもらう</a></font><br/>		
+		 - ブリザード<br/>
+		 - アイス リッジ<br/>
+		 - アイス メテオ<br/>
+		</p>
+	</dialog>
+</npcdialog>

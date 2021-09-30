@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>英雄の槍術教官</title>
+	<npc>
+		<portrait></portrait>
+		<name>デューク ランスロット</name>
+		<job>[ランスマスター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>魂まで見透かす目が基本だ。<br/>
+		<br/>
+		アデン王国の繁栄と栄光のために戦う準備はできたか？<br/>
+	    準備が整ったら<font fg="ffffaf">英雄の槍術書</font>を与えよう。<br/>
+		<br/>
+		ランサーの上位スキルを製作するためには英雄の槍術書が必要になる。<br/>
+		スキルの難易度によって槍術書のレベルが分かれているから、よく調べて購入するように。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

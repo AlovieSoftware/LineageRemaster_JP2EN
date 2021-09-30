@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>臨時</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>冷たくなった裏切り者</job>
+		<text>人ではないので表情は分からないが…お金がないと言ったとたん相手の視線が冷たくなったようだ。</text>
+	</npc>
+	<dialog>
+		<p>…残念ですが、お金がないならお送りできません。<br/>
+		一人でも多く参加してほしいですが、私にも事情がありまして…<br/><br/> 
+		今着ている装備を売るなりして資金を調達してくるか、位置を教えますので自分の足で行ってください。砂漠オアシスのすぐ右側に入口があるはずです…さあ、早く！</p>
+	</dialog>
+</npcdialog>

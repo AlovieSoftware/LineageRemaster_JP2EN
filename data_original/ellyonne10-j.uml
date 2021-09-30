@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>精霊の魔法は、言葉どおりこの世の根本的な力の具現とも言える精霊の力を受けて使う魔法のことだよ。</p>
+		<p>エルフに比べて精霊との親和力が格段に足りない人間がその魔法を使えないのも、そのためと言われているんだよ。</p>
+		<p>精霊の魔法は大きく5つの系列に分けられる。</p>
+		<p>共通系列、火の系列、水の系列、風の系列、最後に地の系列さ。</p>
+		<p><img src="331" link="ellyonne9"/></p>
+	</dialog>
+</npcdialog>

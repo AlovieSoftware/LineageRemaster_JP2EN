@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフの王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		桜まつり会場に行ってきたと？<br/>
+		<br/>
+		桜まつり会場に行ってきたら<font fg="ffffaf">火の欠片100個</font>と
+		<font fg="ffffaf">冷寒の気</font>を持ってきてもらいたい。<br/>
+		<br/>
+	<br/>
+	    まだ<font fg="afffff">レベル60</font>に到達していないなら、報賞は<br/>
+	    渡せない。 
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

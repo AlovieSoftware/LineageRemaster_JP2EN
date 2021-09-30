@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 おぉ…これはパプリオンの血痕コインですね！<br/><br/>
+		 ん～でもリンドビオルの気を感じないので、コインの力を引き出すのは難しいかもしれません。
+		 もう少し時間が経ってから持ってきてみてください。<br/>
+		<br/><br/><br/>
+		<img src="331" link="bs_01"/>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

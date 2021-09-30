@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon></icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name>記念の銅像</name>
+		<job>[イベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/> 
+		 「ハルパス」ワールドの再誕を記念する。<br/><br/>
+		
+		<p align="right">
+		 ―アデン王国
+		</p>
+		<br/>
+		<br/>
+		 <a action="A">記念の強化魔法を受けます</a><br/>
+		</p>	
+	</dialog>
+</npcdialog>

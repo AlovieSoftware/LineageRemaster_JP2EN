@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_030</portrait>
+		<name>バエミ</name>
+		<job>[スタッフ製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 一体何を持ってきたというんです？<br/>
+		 <br/>
+		 フン、ここまで訪ねてきた誠意に免じて話は聞いてあげましょう。
+		 やはりあなたも<font fg="ffffaf">スタッフ</font>を作りたいのですか？<br/>
+		 いいでしょう。ただし、私の作るスタッフがただのスタッフではないということは、ご存知ですね？<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

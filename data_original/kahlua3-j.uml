@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_021</portrait>
+		<name><var src="name"/></name>
+		<job>[シールド製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+	<p><br/>
+ <font fg="ffffaf">古代弓射手のガーダー</font>を作るには、<br/><br/>
+ ビショップ ローブ1個、<br/>
+ エントの表皮50個、<br/>
+ ミスリルの糸50個、<br/>
+ アラクネの抜け殻20個、<br/>
+ フェアリーの羽20個、<br/>
+ ブラックミスリル プレート3枚、<br/>
+ 1000000アデナが必要だ。<br/><br/>
+<font fg="ffffaf">製作：</font><a action="B">古代弓射手のガーダー</a><br/><br/>
+<img src="331" link="kahlua1"/>
+</p>
+</dialog>
+</npcdialog>

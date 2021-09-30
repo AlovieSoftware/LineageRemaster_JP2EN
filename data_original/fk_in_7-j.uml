@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>釣り場</title>
+	<npc>
+		<portrait></portrait>
+		<name>ポール</name>
+		<job>釣り場ガイド</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 エサは1種類だけだよ。<br/>
+		 僕の隣にいるおじいさんが売ってるから、必要なだけ買って使ってね。<br/><br/>
+		 それから、追加で役立つ情報！<br/>
+		 リールを装着すれば、もっと良いものが釣れるよ。<br/>
+		 僕の隣にいるおじいさんに声をかけてみて。<br/>
+		 リールの質が良いほど良いアイテムが釣れるらしいよ。<br/>
+		今日はきっと良いベリアナが釣れると思うよ～<br/>
+		 <br/><br/><br/>
+		<br/><img src="331" link="fk_in_3"></img>
+		
+		</p>
+	</dialog>
+</npcdialog>

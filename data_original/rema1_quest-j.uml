@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ハハハッ！<br/>
+		そなたは他の者たちとは違うオーラを感じる。<br/>
+		<br/>
+		祝祭を心ゆくまで楽しんでおるかな？<br/>
+		我が特別に製作した<font fg="ffffaf">プレミアム コイン100個</font>を持ってくれば、そなたにさらなる報賞を授けよう。<br/>
+		<br/>
+		これからもそなたの成長に目を置くとしよう。
+		アデンが誇る立派な勇士となることを願っておる。<br/>
+		<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		我が報賞はそなたの成長に大いに役立つだろう。<font fg="ffffaf">報賞のEXPはレベル52基準である。レベル55未満</font>ならば、さらに成長してから来るがよい。<br/>
+		</p>
+	</dialog>
+</npcdialog>

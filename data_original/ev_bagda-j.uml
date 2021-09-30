@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		どうも！俺はゲーム上では手に入らない珍しい 
+		アイテムを売っているんだ！<br/>
+		多分見たらビックリして気絶するかもよ？ハハハ！
+		<br/>
+		<br/>
+		ちなみに、一部アイテムは1週間に1個しか購入できないから、それは忘れないように！
+		<br/>
+		<br/>
+		</p><p align="center">
+		</p><panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>
+

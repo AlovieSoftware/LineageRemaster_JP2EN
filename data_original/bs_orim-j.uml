@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>強化ウィザード</title>
+  <npc>
+	<name>オリム</name>
+    <job>[強化ウィザード]</job>
+  </npc>
+  <dialog>
+	<p>やっときたか。</p>
+	<p>私は今、デスナイトを押さえているため動けないが、私が力を貸せるところまでは手伝ってやろう。<br/><br/></p>
+	<p>まずは目の前にいる<font fg="0000ff">デスナイト</font>に触れて、力を分けてもらうと良い。バフやスペル スクロールは私の力を貸そう。</p>
+	<p>ただし、材料を象牙の塔から調達するには<font fg="ffffaf">それなりの費用</font>が必要だ。<br/><br/></p>
+	<p><font fg="ffffaf">コイン：</font><a action="z">黒蛇の加護をもらう</a><br/><br/><br/></p>
+	<p><a action="a">強化魔法を受ける</a><br/><br/></p>
+	<p>[スペル スクロール製作]</p>
+	<p><font fg="ffffaf">製作：</font><a action="1">1個</a>/<a action="2">5個</a>/<a action="3">10個</a>/<a action="4">100個</a>/<a action="5">500個</a></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ガーデン ラムゼイ</name>
+		<job>[19周年イベント シェフ]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		アデンワールド19周年記念においしい料理を持って<br/>
+		遠路はるばるやってきたぞ！<br/>
+		祭りにおいしい料理は欠かせないだろう？<br/>
+		さぁ、選んでくれ！私が厳選した極上の料理ばかりだ。<br/>
+		19周年記念コインでしか買えないぞ。<br/>
+		<br/>
+		では、味わってくれ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="non_npc buy"/></panel>
+	</dialog>
+</npcdialog>

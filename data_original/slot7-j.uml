@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<!--portrait> </portrait-->
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		<p>真の英雄にならないかい！<br/><br/>
+		</p>
+        <panel type="Panel_Snaper_Bt">
+				<button action="statusopen"/>
+        </panel>
+		<p>スロットをすべて解放して初めて真の英雄となれるだろう！</p>
+        <p><font fg="ffffaf"><a action="searchDiscountCoupon">割引券</a></font>があればイアリング、リング、インシグニア、スポールダースロットを無料で解放しよう。<br/><br/></p>
+		<p>イベントリングと有料リングは<font fg="fff796">2個</font>まで装備可能で、</p>
+		<p>同じリングも<font fg="fff796">2個</font>まで装備可能だ。<br/>よ～く選んではめてくれ。<br/><br/></p>
+		<p>参考までに、イアリングは<font fg="ffaaff">同じもの</font>でなければ、すべて装備できるよう私が魔法を掛けている。<br/><br/></p>
+		<p>スポールダーとインシグニアは装備位置が違うから、よく確認してくれ。って、まさか知らないわけじゃないよな？<br/></p>		
+	</dialog>
+
+</npcdialog>

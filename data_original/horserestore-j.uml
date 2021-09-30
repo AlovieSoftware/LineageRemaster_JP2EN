@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>アデン守護騎馬団員</name>
+  </npc>
+  <dialog>
+    <p><br/>もしかして騎馬用ヘルムに問題があるのではないでしょうか？<br/><br/>
+	馬が言うことを聞かなくなったのは、ヘルムに宿る魔力が尽きてしまっているからです。<br/><br/>
+	ヘルムに新たな魔力を補充するのには10万アデナかかります。<br/><br/> 
+	どうなさいますか？<br/><br/></p>
+			<panel type="Panel_horsepower_Bt">
+				<button action="c"/>
+        </panel>
+  </dialog>
+</npcdialog>

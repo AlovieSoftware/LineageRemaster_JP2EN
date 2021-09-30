@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>ハッピーバースデー</title>
+	<npc>
+		<portrait></portrait>
+		<name>バースデープレゼントの妖精</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 姫様から、勇士様の誕生日を祝うために、ささやかなプレゼントを送られました。<br/>
+		 キレイで美味しいケーキですよ。<br/>
+		 <br/>
+		 えぇ！？まだ自分の誕生日がわからないのですか？<br/>
+		 アデンに降り立つ前のことを思い出してみてください。<br/>
+		 あなたならきっと誕生日を思い出せるはずですよ。<br/>
+		 <br/>
+		<a action="A">誕生日プレゼントを受ける</a><br/>
+		<a action="B">エルフの真心を見せる</a><br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

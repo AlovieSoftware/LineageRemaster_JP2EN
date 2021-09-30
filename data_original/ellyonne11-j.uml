@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+        <p><br/>
+        精霊の魔法は、言葉どおりこの世の根本的な力の具現とも言える精霊の力を受けて使う魔法<br/>のことだよ。</p>
+        <p>もし別の属性を習いたい場合、今持っているものを捨ててもう一度純粋を取り戻さなければならない。</p>
+        <p>純粋を取り戻す対価として、何ができるかい？</p>
+        <br/>
+        <panel type="Panel_Initialization_01_Bt">
+            <button action="count"/>
+            <button link="ellyonne14"/>
+        </panel>
+		
+	</dialog>
+</npcdialog>

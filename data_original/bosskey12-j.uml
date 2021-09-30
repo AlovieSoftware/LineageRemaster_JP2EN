@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 フム…初めてお見受けする方のようですが、ここで訓練を受けたことはありますか？<br/>
+		<br/>
+		 私が忘れているだけでしたら、ご無礼をお許しください。<br/>
+		<br/>
+		 無事に訓練を終えたのでしたらなによりです。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

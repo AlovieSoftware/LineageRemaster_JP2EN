@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+		<!--portrait></portrait-->
+		<name>エント</name>
+		<job>[森の守護者]</job>
+		<!--text></text-->
+	</npc>
+  <dialog>
+		<p>…</p>
+  </dialog>
+</npcdialog>

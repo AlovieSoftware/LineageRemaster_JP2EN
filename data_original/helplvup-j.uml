@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>キャラクター</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">キャラクター：クラス別レベルアップ</font><br/></p>
+	<p>以下の項目のうち、お望みの項目をクリックしてください。<br/></p>
+	<p><a link="helplvprc">君主</a></p>
+	<p><a link="helplvknt">ナイト</a></p>
+	<p><a link="helplvelf">エルフ</a></p>
+	<p><a link="helplvwzd">ウィザード</a></p>
+	<p><a link="helplvdelf">ダークエルフ</a></p>
+	<p><a link="helplvdkn">ドラゴンナイト</a></p>
+	<p><a link="helplvill">イリュージョニスト</a></p>
+	<p><a link="helplvwar">ウォリアー</a></p>
+	<p><a link="helplvfen">フェンサー</a></p>
+	<p><a link="helplvlan">ランサー</a></p>
+	<p><img src="331" link="help"/></p>
+	 </dialog>
+</npcdialog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>この濁った気…久しぶりに感じるね。</p>
+		<p>魂が清らかでない者に伝えることは何もないよ。</p>
+	</dialog>
+</npcdialog>

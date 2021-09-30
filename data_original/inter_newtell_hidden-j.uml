@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>時空のウィザード</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p>おお！来たか！</p>
+	<p>新たなアデンの勇士が来たと今さっき連絡を受けたが、ここまでついに来たか！</p>
+	<p>ここは前にあった<font fg="ffffaf">暗黒の時空</font>と同じようで同じではないぞ…不思議だろ？</p>
+	<p>我々もここで密かに研究を進めていたが、実に神秘的なところだ。君たち！ここも一度探検してみるか？ただし、所定の<font fg="ffafff">費用</font>を払わないとならない。我々もここで研究するための<font fg="ffafff">研究費用</font>が必要なんだよ。</p>
+	<p><br/></p>
+	<panel type="Panel_Teleport_Wizard">
+		<button action="a"/>
+		<button action="b"/>
+    </panel>
+
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

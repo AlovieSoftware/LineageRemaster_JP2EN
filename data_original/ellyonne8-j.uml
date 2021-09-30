@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	<npc>
+		<portrait>PO_034</portrait>
+		<name><var src="name"/></name>
+		<job>[精霊魔法伝授者]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>地はあまりにも静かだから、誰もが自分がいつも地を踏んでいることすら忘れがちだが、彼らの力を無視できる者は一人もいないよ。</p>
+		<p>この地の力を借りる精霊魔法は、巨大な大地と同様に堅固さを与えてくれるだろう。</p>
+		<p>子どもを育てる母親のような気持ちで、まさに我々みんなの母なる大地の力はそれを使う者を守ってくれるだろう。</p>
+		<p><img src="331" link="ellyonne4"/></p>
+	</dialog>
+</npcdialog>

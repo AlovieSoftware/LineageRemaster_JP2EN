@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国の職人</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">アデンのプレゼントボックス交換券</font>を持っていらっしゃいますか？<br/>
+		交換券をお持ちであれば、各種箱をお作りします。<br/>
+		<br/>
+		<br/>
+		アデンの消耗品箱、アデンのグンターの証箱、アデンのエリクサー箱、アデンのスキル箱が<br/>
+		作れます。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

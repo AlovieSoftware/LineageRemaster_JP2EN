@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 はい、我々のように積極的にアデン大陸に出ていくウィザートがいる一方で、じっくりこの変化を見守って研究しようとしている方もいます。それが誰かと言うと… 
+		<br/><br/>
+		 …これは別に言う必要なかったですね。とにかく我々の魔法の力で勇敢に戦ってください！
+		<br/>
+		<br/>
+		<br/>
+		<img src="331" link="bs_04"></img>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

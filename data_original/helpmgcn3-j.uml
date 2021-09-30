@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>エルフ精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">共通精霊魔法：レベル3</font><br/></p>
+	<p><font fg="ffffaf">リターン トゥ ネイチャー：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/0<br/>
+	材料：精霊の玉2個<br/>
+	持続時間：一瞬<br/>
+	対象：1体の魔法召喚またはテイミング モンスター<br/>
+	効果：魔法で召喚、または魔法等で飼いならしたモンスター1体の、召喚/テイミング状態を解除します。<br/></p>
+	
+	<p><font fg="ffffaf">ブラッディ ソウル：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/25<br/>
+	材料：精霊の玉1個<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：術者のHPを消耗して、MPを15回復します。<br/>
+		  On状態で5秒に1回ずつ自動使用される<br/></p>
+	
+	<p><font fg="ffffaf">エレメンタル プロテクション：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：6/0<br/>
+	材料：精霊の玉1個<br/>
+	持続時間：64秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、術者固有属性魔法の防御力を50%向上させます。<br/></p>
+	
+	<p><font fg="ffffaf">トリプル アロー：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：15/0<br/>
+	持続時間：一瞬<br/>
+	対象：術者から10セル内のPCまたはNPCの1人<br/>
+	効果：瞬時に矢を3連射します。この魔法はボウ装備時のみ、使用できます。<br/></p>
+	<p><img src="331" link="helpmgcn"/><br/><br/></p>
+	</dialog>
+</npcdialog>

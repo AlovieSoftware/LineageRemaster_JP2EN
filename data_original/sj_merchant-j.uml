@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>王国の書記官</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>書記官がここで何しているのかって？<br/>
+		見ての通り、商売しているんだよ。<br/>
+		国の一大事だっていうのに、職務云々なんて言ってられないだろ？<br/>
+		まずは自分ができることから行動に移そうと思ってな。<br/>
+		<br/>
+		それはそうと、<font fg="ffffaf">故障した機械</font>のせいで困ったことになっているんだ。<br/>
+		あの悪いやつらが我々を苦しめているんだろ？<br/>
+		これだからウィザードは信用できない…<br/>
+		<br/>
+		でも、ウィザードも悪いやつらばかりじゃないからな。<br/>
+		これを見てみろ、すごい代物だろ。<br/>
+		王室と象牙の塔のウィザードが作ったこの爆弾でやつらを懲らしめてくれ！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

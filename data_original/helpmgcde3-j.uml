@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>黒精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ダークエルフの黒精霊魔法：レベル3</font><br/></p>
+	<p><font fg="ffffaf">ダブル ブレイク：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：192秒<br/>
+	触媒：ダーク ストーン1個<br/>
+	対象：術者<br/>
+	効果：持続時間中、一定確率で2倍のダメージを出せるようになります。<br/>
+	この魔法はデュアルブレード/クロウを装備した時のみ、使用できます。<br/>
+	レベル60から、レベルが5上がるごとに発動率が1%ずつ向上します。<br/></p>
+	
+	<p><font fg="ffffaf">アンキャニー ドッジ：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：40/0<br/>
+	持続時間：960秒<br/>
+	触媒：ダーク ストーン1個<br/>
+	対象：術者<br/>
+	効果：持続時間中、近距離回避率が向上します。<br/>
+	この能力値はDGの影響を受けます。<br/></p>
+	
+	<p><font fg="ffffaf">シャドウ ファング：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：192秒<br/>
+	触媒：ダーク ストーン1個<br/>
+	対象：術者が持つ武器の一つ<br/>
+	効果：対象武器のダメージを5増加させます。<br/></p>
+	
+	<p><font fg="ffffaf">ドレス イベイジョン：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/0<br/>
+	持続時間：自動/常時<br/>
+	対象：術者<br/>
+	効果：遠距離攻撃に対する回避能力を向上させます。<br/>
+	この能力値はERの影響を受けます。<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

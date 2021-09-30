@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデンの守護騎士</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		いらっしゃい。<br/>
+		<br/>
+		国王が大切になされている<font fg="ffffaf">秘密の庭園</font>について聞いたか？
+		<br/>
+		庭園の管理者が助けを求めているそうなんだ。何でも、招待されなかったモンスターたちが庭園をめちゃくちゃにしているんだとか。<br/>
+		<br/>
+		モンスターたちを追い払い、庭園の奥に行けば管理者に会えるはずだ。彼女に<font fg="ffffaf">勇士認証書</font>を渡すんだ。<br/>
+		<br/>
+		<font fg="ffffaf">アデン国王のプレミアム コイン</font>を集め<font fg="ffffaf">国王</font>に謁見すれば、君が優秀な勇士であることを再び証明できるんじゃないか？
+		<br/>
+		君の幸運を祈っているよ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

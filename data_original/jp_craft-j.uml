@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アーリス</name>
+		<job>[ポイント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ようこそ！<br/>
+		<br/>
+		私は伝説の製作職人から秘法を受け継ぎました！<br/>
+		<br/>
+		必要なものがあったらおっしゃってください。<br/>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

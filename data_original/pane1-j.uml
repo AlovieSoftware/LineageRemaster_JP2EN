@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>パン</name>
+		<job>[森の守護者]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 おいこら、どけ！艶やかな毛が傷むだろ！どかないならお前もぺちゃんこにしてやるからな！<br/><br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

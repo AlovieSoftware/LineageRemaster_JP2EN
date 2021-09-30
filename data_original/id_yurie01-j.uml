@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>時空旅行</title>
+	<npc>
+		<portrait>PO_038</portrait>
+		<name><var src="name"/></name>
+		<job>時空旅行の研究員</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		象牙の塔派遣要員のユリエです！<br/>
+		<br/><br/>
+		暗黒竜ハルパスの登場により時空の歪みがさらに強くなったそうです。<br/>
+		<br/>
+		時空の歪みに入れる<font fg="ffafff">時空の鍵10個</font>が入った
+		<font fg="ffafff">時空の鍵箱</font>を<font fg="ffffaf">400万アデナ</font>で販売していますので、新しい世界の探検に
+		挑戦してください！<br/></p>
+		<br/>
+		<panel type="Panel_KeyBox_Bt">
+				<button action="b"/>
+        </panel>
+		<p>
+		<br/>
+		<a link="id_yurie02">もう少し詳しく知りたいです</a><br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

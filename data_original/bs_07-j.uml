@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 こんにちは、<font fg="ffffaf">バフコイン</font>を提示してもらえれば、あなたにバフをかけるか、お安く<a link="bs_m5">スペル スクロール</a>を製作してあげますよ。<br/><br/><br/>
+		 <font fg="ffffff">[近距離攻撃に有利な魔法]</font><br/>
+		<a action="d">火炎魔法を受ける</a><br/><br/><br/>
+		 <font fg="ffffff">[遠距離攻撃に有利な魔法]</font><br/>
+		<a action="e">疾風魔法を受ける</a><br/><br/><br/>
+		 <font fg="ffffff">[魔法の活用に有利な魔法]</font><br/>
+		<a action="f">魂の魔法を受ける</a><br/><br/><br/><br/>
+		<font fg="ffffff">[スペル スクロール製作]</font><br/>
+		 <font fg="ffffaf">少量製作：</font><a action="1">1個</a>/<a action="2">5個</a>/<a action="3">10個</a><br/>
+		 <font fg="ffffaf">大量製作：</font><a action="4">100個</a>/<a action="5">500個</a><br/>
+		<br/><br/><br/>
+		  崩壊していくラスタバドと共に、我々の種族も壊れていくのは心苦しいですが、もう取り返しのつかないことです。
+		  過ぎた欲に手を出した末路なんです。内部は崩壊直前なので、私の魔法を受けてから
+		  移動した方が安全でしょうね。ではご武運を祈ります。
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

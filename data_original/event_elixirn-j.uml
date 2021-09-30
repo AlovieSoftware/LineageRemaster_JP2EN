@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">エリクサー100%製作イベント</font><br/></p>
+	<p>ステータスポイント1を永久に上昇させる<font fg="ffffaf">エリクサー</font>の製作材料。<br/><br/></p>
+	<p>[NPC製作場所]<br/></p>
+	<p><img src="14206"></img><br/><br/></p>
+	<p>[お知らせからの製作]</p>
+	<p><img src="14207"></img><br/><br/></p>
+	<p>[製作材料]<br/></p>
+	<p>- ピュア エリクサー35個<br/></p>
+	<p>- 邪悪な活力80個<br/></p>
+	<p>- エリクサー100%製作券(イベント)</p>
+  </dialog>
+</npcdialog>

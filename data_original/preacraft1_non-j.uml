@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>フレア</name>
+		<job>[イベント製作]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>リネージュイベント担当のフレアです。<br/>
+		 いろいろなイベントを用意しました。<br/> 
+		 <font fg="FFFF00">エリクサー100%製作券</font>を持ってきてください！<br/>
+		 <font fg="FFFF00">ピュア エリクサー35個</font>と<font fg="FFFF00">邪悪な活力80個</font>で<br/>
+		 ピュア エリクサーの確定製作を行います。<br/>
+		 さらにもう一つ！<br/>
+		 <font fg="FFFF00">ルームティス/スナッパー+1強化券</font>を持っていると<br/>
+		 +3～+5までのルームティス/スナッパーが製作できます。<br/>
+		 製作券の使用は一度だけですので注意してください。<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+	<p><font fg="fffaff">
+		<br/><br/>
+		訓練場で集めた<font fg="ffafff">コイン</font>を持ってくれば、消耗品やアイテムを獲得できる<font fg="ffafff">箱</font>と交換しますぞ。<br/>
+		<br/>
+		ぜひ、冒険にお役立てください。</font>
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

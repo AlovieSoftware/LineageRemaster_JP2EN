@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<dialog>
+		<p><br/>
+		<font fg="ffffff"><var src="name"/>：</font><br/></p>
+<p>埃が積もった本の山のなかで目に留まる本が一冊見える。</p>
+<br/>
+		<panel type="Panel_Quest_Oldbook_Bt">
+				<button action="a"/>
+        </panel>
+</dialog>
+
+</npcdialog>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 一緒に訓練する方たちにキーを分けた後に、私に見せてくだされば訓練場にご案内します。<br/>
+		<br/>
+		 訓練場のレンタル時間は最大4時間で、訓練中でもレンタル時間が終了すると、次の人のために訓練場の使用が中止されます。<br/>
+		<br/>
+		 訓練用モンスターを召喚する時は、必ず訓練場の残り使用時間を確認してください。<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

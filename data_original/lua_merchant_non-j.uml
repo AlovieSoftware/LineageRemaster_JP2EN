@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント商人</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>ルアー</name>
+		<job>[補給商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>アデン王国にようこそお越しくださいました。<br/>
+		<br/>
+		遥か遠い地から戦争をかいくぐり、アデン王国にやって来てもう何年経つか…<br/>
+		あの尖った槍先を手入れしておられるナイトは新しく来られた方のようですよ。<br/>
+		(溢れ出るオーラが尋常じゃない！)<br/>
+		<br/>
+		そうだ！私の紹介が遅れましたね！<br/>
+		<br/>
+		私は皆さんの補給品を調達している<font fg="ffffaf">ルアー</font>と言います！<br/>
+		アデン王国は慌ただしいですが、これまでのようにみなさんがアデンの平和を守ってくださると信じています。<br/>
+		<br/>
+		戦いの助けに少しでもなればと、私の補給品を提供しています！<br/>
+		<font fg="ffffaf">毎日</font>私のところにいらしてください。<br/>
+		<br/>
+		<font fg="ffffaf">毎日午前6時から購入可能</font>です！忘れないでくださいね！<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="non_npc buy"/></panel>
+	</dialog>
+</npcdialog>

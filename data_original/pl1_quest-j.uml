@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		過去の戦争でも大いに活躍したそうだな。<br/>
+		<br/>
+		勇猛なそなたならば、死の樹を倒すこともできるだろう。<br/>
+		<br/>
+		死の樹を指揮しているのはケンラウヘルだ。<br/>
+		彼らが生命の樹を消滅させれば、アデンは再び闇に飲み込まれてしまう。<br/>
+		<br/>
+		<br/>
+		アデン王国のために、生命の樹を守ってくれ。<br/>
+		<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		そなたが生命の樹を守る者の証拠として<font fg="ffffaf">ガーディアン リング</font>と、 
+		<font fg="ffffaf">祝福の葉100個</font>を持っているならば、特別な報賞を出そう。<br/>
+		<br/>
+		我が報賞はそなたの成長に大いに役立つだろう。<font fg="ffffaf">報賞のEXPはレベル52基準である。レベル60未満</font>ならば、さらに成長してから来るがよい。<br/>
+		</p>
+	</dialog>
+</npcdialog>

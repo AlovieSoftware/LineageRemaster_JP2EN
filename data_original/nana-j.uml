@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント商人</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アピス</name>
+		<job>イベント商人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>こんにちは！<br/>
+		<br/>
+		<font fg="FF0000">成長のコイン</font>をお持ちですか？<br/>
+		<br/>
+		各大陸のプレミアム コインを集めているのですが<br/>
+		<font fg="FF0000">成長のコイン</font>をお持ちであれば、私が持っている<br/>
+		アイテムと交換いたします。<br/>
+		<br/>
+		どうぞ見ていってください。<br/>
+		<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>
+

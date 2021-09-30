@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 訓練相手を選択すると、中央の魔法陣からモンスターが現れます。<br/>
+		<br/>
+		 慌てず、落ち着いて相手を制圧するように！<br/>
+		<br/>
+		<font fg="ffffaf">訓練対象：</font><a action="A">ハーディンの分身</a><br/><br/>
+		<font fg="ffffaf">訓練対象：</font><a action="B">ダークウィザード</a><br/><br/>
+		<font fg="ffffaf">訓練対象：</font><a action="C">デーモン</a><br/><br/>
+		<font fg="ffffaf">訓練対象：</font><a action="D">堕落</a><br/><br/>		<br/>
+
+		<img src="331" link="bosskey8"/><br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

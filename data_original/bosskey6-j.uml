@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 すでに訓練場のキーをお持ちのようですね。<br/>
+		<br/>
+		 多くの方に利用してもらうために、訓練場は一人に一つのみお貸ししています。<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>
+

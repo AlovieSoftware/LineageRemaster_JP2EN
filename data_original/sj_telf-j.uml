@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>王国のウィザード</name>
+		<job>[イベント テレポート]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		これはこれは。<br/>
+		協力いただけることはありがたいのですが、<br/>
+		危険を伴いますので、条件は確認してください。<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：9,900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：60分</font><br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル60以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

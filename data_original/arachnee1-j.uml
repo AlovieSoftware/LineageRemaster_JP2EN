@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アラクネ</name>
+		<job>森の守護者</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 我らアラクネ族は、誰もが創造的だ。この森の中にあるどんな些細な物でも、それを使って新しい価値を創造しているのだ。<br/><br/>
+		 長老の一人である<a link="arachnee2">ネルファ</a>は我らの中でも最も優れた創造者だ。彼女の可憐な手から生み出されるモノを見ていると、幼生のアラクネ族の脱皮を見ているような神秘的な気持ちになる。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

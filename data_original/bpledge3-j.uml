@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>血盟</title>
+	<npc>
+		<portrait>PO_036</portrait>
+		<name>血盟執行員</name>
+		<job>[血盟創設]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		私は血の誓約の執行人です。血盟関連業務を処理していますが…</p>
+		<p>
+		これ以上私が関わることができなくなりました…<br/>
+		<br/>
+		MENU - 血盟 - 血盟創設から、血盟関連の業務を行ってください…<br/>
+		<br/>
+		君主様の今後の祝福と栄光をお祈りしております…<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

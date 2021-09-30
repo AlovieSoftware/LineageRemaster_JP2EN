@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>ハッピーバースデー</title>
+	<npc>
+		<portrait></portrait>
+		<name>バースデープレゼントの妖精</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 誕生日おめでとうございます！<br/>
+		 <br/>
+		 勇士様の狩りに役立つ魔法をプレゼントしました！<br/>
+		 これからも精進して、来年も姫様からの美味しいケーキのプレゼントを受け取ってくださいね！<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

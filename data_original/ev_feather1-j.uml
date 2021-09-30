@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>shop</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>商店</title>
+	<npc>
+		<portrait>PO_014</portrait>
+		<name>デン</name>
+		<job>[コイン収集商人]</job>
+		<!--text></text-->
+	</npc>
+	<dialog>
+		<p>こんにちは。私は各種コインを収集している「デン」と申します。</p>
+		<p>これまで多くのコインを集めてきましたが、<font fg="ffaaff">ピクシーのコイン</font>は手に入りませんでした。</p>
+		<p>「ピクシーのコイン」を持ってきてくだされば、価値のあるものを差し上げましょう。</p>
+		<panel type="Panel_Shop_Bt_Buy">
+			<button action="buy"/>
+		</panel>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<name>ユリス</name>
+		<job>善の使者</job>
+		<text>アインハザードの祝福が共にあらんことを…</text>
+	</npc>
+	<dialog>
+		<p><br/>
+		私はアインハザードの祝福でもって、あなたが罪を償うことができるよう手助けする者です。</p>
+		<br/>
+		<panel type="Panel_Reading_Bt">
+			<button action="0"/>
+			<button action="1"/>
+			<button action="2"/>
+			<button action="3"/>
+        </panel>
+		<p>あなたが悪行を犯し、世の人々があなたをないがしろにするときに、その罪を償えるようお助けします。</p>
+		<p>贖罪の聖書はこの世界では手に入りませんが、罪を償おうとする人ならば手に入れる機会があるでしょう。</p>
+		<p>あなたの後悔が神に届くよう聖書を朗読してください。	</p>
+	</dialog>
+	
+</npcdialog>

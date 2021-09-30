@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>訓練場</title>
+	<npc>
+		<portrait>PO_025</portrait>
+		<name><var src="name"/></name>
+		<job>訓練場管理人</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 訓練途中で問題があったと聞きました。本当に申し訳ございません。<br/>
+		<br/>
+		 幸い、セシリアが消滅直前のソウルクリスタルとダンジョン キーを封印することに成功しました。<br/>
+		<br/>
+		 このソウルクリスタルかダンジョン キーを持っていけば、また訓練を受けられます。<br/></p>
+		<br/>
+		<panel type="Panel_Soulstone_Bt">
+				<button action="1"/>
+        </panel>
+		<br/>
+		<br/>
+		
+		
+	</dialog>
+</npcdialog>
+

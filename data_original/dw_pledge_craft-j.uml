@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>血盟ダンジョン</title>
+	<npc>
+		<portrait></portrait>
+		<name>血盟ダンジョン キーパー</name>
+		<job>[血盟ダンジョン利用方法]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>初めまして！私は血盟ダンジョン キーパーです。<br/>
+		<br/>
+		血盟ダンジョンの利用方法が分からない血盟員のために私が分かりやすく説明しますね。<br/>
+	    血盟を創設すると、血盟君主は<font fg="ffffaf">血盟商店</font>を利用できます！<br/>
+		<br/>
+		君主に<font fg="ffffaf">血盟商店</font>で<font fg="ffffaf">誓いのキー</font>を購入したいと伝えてください。<br/>
+		そうだ！<font fg="ffffaf">貢献度</font>がないと購入できないので、血盟員全員で狩りを楽しんでください。<br/>
+		そうすれば早く貢献度が貯まって、キーを購入することができます。<br/>
+		<br/>
+		誓いのキーを購入したら、君主とともに<font fg="ffffaf">地下アジト</font>に移動してください。<br/>
+		君主が<font fg="ffffaf">地下アジト</font>で<font fg="ffffaf">誓いのキー</font>を使って血盟ポータルを開いてくれるでしょう。<br/>
+		<br/>
+		<font fg="ffffaf">誓いのキー(1日)</font>は1日1回のみ使用でき、<br/>
+		<font fg="ffffaf">誓いのキー(ウィークリー)</font>は1週間に1回のみ使用できるのはご存じですよね？<br/>
+		<br/>
+		ちなみに血盟ダンジョンはとても難しいですよ。<br/>
+		制限時間内にボスを見つけて倒してください！<br/>
+		ボスを倒すと獲得できる報賞は素晴らしいものですので、頑張ってください！<br/>
+		<br/>
+		<font fg="ffffaf">デイリー/ウィークリー血盟ダンジョン</font>の制限時間は<font fg="ffffaf">20分</font>です。<br/>
+		<font fg="ffffaf">血盟ポータル(1日)</font>は、開いてから<font fg="ffffaf">3分</font>で消滅し、
+		<font fg="ffffaf">血盟ポータル(ウィークリー)</font>は、<font fg="ffffaf">1分</font>で消滅します。<br/>
+		</p>
+		<panel type=""><button action="npc request craft"/></panel>
+	</dialog>
+</npcdialog>
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <dialog>
+    <p align="left"><br/><font fg="ffffff">時空の鍵：グルーディオ研究室</font><br/>
+		<br/>
+		<br/></p>
+	<p>過去の遺物を持ちし者よ！<br/></p>
+	<p>この鍵は時空の歪みが変形したためもう使えない。<br/><br/></p>
+	<p>各村の<font fg="ffffaf">アデン商団</font>に持っていけば相応の値段がつく。
+	商団を訪ねるがよい。<br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name>マービン</name>
+		<job>[成長のウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		姉が失踪したと聞いて、エキンス師匠様にせがんでこうしてオーレン村まで来たはいいけれど、何から始めたらいいのか…途方に暮れています。<br/>
+		<br/>
+		 僕の軟弱な体じゃオーレン雪山には行けないし…。<br/>
+		<br/>
+		 厳しいとは思いますが、オーレン雪山に行ってそこで起こっていることを30日間調査しながら、姉に関する手がかりを見つけてきてくれませんか？<br/>
+		<br/>
+		 とても危険な場所なので、行くなら十分お気をつけください。<br/>
+		<br/>
+		<br/>
+		<a action="b">手伝うと言う</a><br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

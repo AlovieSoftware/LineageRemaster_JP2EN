@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+	<p>
+		<br/>
+		訓練場で集めたコインを持ってくれば、消耗品やアイテムを獲得できる箱と交換しますぞ。<br/>
+		<br/>
+		ぜひ、冒険にお役立てください。
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

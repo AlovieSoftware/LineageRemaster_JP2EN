@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>魔法と技術</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">キャラクター：魔法と技術</font><br/></p>
+	<p><font fg="ffffaf">魔法全般</font><br/>
+	<a link="helpmgc0">全般</a><br/>
+	<a link="helpmgc11">魔法その他</a><br/></p>
+
+	<p><font fg="ffffaf">君主の魔法</font><br/>
+	<a link="helpmgcp0">全般</a><br/>
+	<a link="helpmgcp11">君主魔法その他</a><br/>
+	<a link="helpmgcp1">レベル1</a><br/>
+	<a link="helpmgcp2">レベル2</a><br/>
+	<a link="helpmgcp3">特殊</a><br/></p>
+
+	<p><font fg="ffffaf">ナイトの技術</font><br/>
+	<a link="helpmgckn0">全般</a><br/>
+	<a link="helpmgckn11">技術その他</a><br/>
+	<a link="helpmgckn1">技術の種類</a><br/></p>
+
+	<p><font fg="ffffaf">エルフの精霊魔法</font><br/>
+	<a link="helpmgcn">共通系</a><br/>
+	<a link="helpmgce">地属性系</a><br/>
+	<a link="helpmgcf">火属性系列</a><br/>
+	<a link="helpmgca">風属性系</a><br/>
+	<a link="helpmgcw">水属性系</a><br/></p>
+
+	<p><font fg="ffffaf">ウィザードの魔法</font><br/>
+	<a link="helpmgc1">レベル1</a><br/>
+	<a link="helpmgc2">レベル2</a><br/>
+	<a link="helpmgc3">レベル3</a><br/>
+	<a link="helpmgc4">レベル4</a><br/>
+	<a link="helpmgc5">レベル5</a><br/>
+	<a link="helpmgc6">レベル6</a><br/>
+	<a link="helpmgc7">レベル7</a><br/>
+	<a link="helpmgc8">レベル8</a><br/>
+	<a link="helpmgc9">レベル9</a><br/>
+	<a link="helpmgc10">レベル10</a><br/>
+	<a link="helpmgc12">レベル11</a><br/>
+	<a link="helpmgc13">パッシブ</a><br/></p>
+
+	<p><font fg="ffffaf">ダークエルフの黒精霊魔法</font><br/>
+	<a link="helpmgcde0">全般</a><br/>
+	<a link="helpmgcde4">黒精霊魔法その他</a><br/>
+	<a link="helpmgcde1">レベル1</a><br/>
+	<a link="helpmgcde2">レベル2</a><br/>
+	<a link="helpmgcde3">レベル3</a><br/>
+	<a link="helpmgcde5">レベル4</a><br/></p>
+
+	<p><font fg="ffffaf">ドラゴンナイトの魔法</font><br/>
+	<a link="helpmgcdk0">全般</a><br/>
+	<a link="helpmgcdk1">レベル1</a><br/>
+	<a link="helpmgcdk2">レベル2</a><br/>
+	<a link="helpmgcdk3">レベル3</a><br/>
+	<a link="helpmgcdk4">レベル4</a><br/></p>
+
+	<p><font fg="ffffaf">イリュージョニストの魔法</font><br/>
+	<a link="helpmgcir0">全般</a><br/>
+	<a link="helpmgcir1">レベル1</a><br/>
+	<a link="helpmgcir2">レベル2</a><br/>
+	<a link="helpmgcir3">レベル3</a><br/>
+	<a link="helpmgcir4">レベル4</a><br/>
+	<a link="helpmgcir5">レベル5</a><br/></p>
+
+	<p><font fg="ffffaf">ウォリアーの技術</font><br/>
+	<a link="helpmgcwr0">全般</a><br/>
+	<a link="helpmgcwr1">技術その他</a><br/>
+	<a link="helpmgcwr2">技術の種類</a><br/></p>
+
+	<p><font fg="ffffaf">フェンサーの技術</font><br/>
+	<a link="helpmgcfc0">全般</a><br/>
+	<a link="helpmgcfc1">技術その他</a><br/>
+	<a link="helpmgcfc2">技術の種類</a><br/></p>
+	
+	<p><font fg="ffffaf">ランサーの技術</font><br/>
+	<a link="helpmgclc0">全般</a><br/>
+	<a link="helpmgclc1">技術その他</a><br/>
+	<a link="helpmgclc2">技術の種類</a><br/></p>
+	<p><img src="331" link="help"/><br/></p>
+	
+	 </dialog>
+	 
+</npcdialog>

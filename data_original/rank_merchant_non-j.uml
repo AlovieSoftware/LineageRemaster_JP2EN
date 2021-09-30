@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_029</portrait>
+		<name>オウール</name>
+		<job>[イベント商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>いらっしゃい。<br/>
+		<br/>
+		アデン大陸の最強者の姿をこめた玉を作ったんだ…<br/>
+		だけど玉にこめた魔法の気で<font fg="FF0000">9月9日まで</font>しか使えないんだ…<br/>
+		だから仕方なく急いで売っているんだ。<br/>
+		急いで来たから他の商品がないんだ、申し訳ないね…<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="non_npc buy"/></panel>
+	</dialog>
+</npcdialog>

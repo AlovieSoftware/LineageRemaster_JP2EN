@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>時空のウィザード</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p>ここは得体のしれない力を持つ存在が支配している場所なのだ…</p>
+	<p>我々がここで彼らについて研究して分かったことだが、彼らは<font fg="ffffaf">神秘的な何か</font>を持っているようだ。</p>
+	<p>その神秘的な何かによって、とてつもない力を持つものを作れるようだが…我々もまだ見たことがないんだ。もしそれを持ってこれるなら、私にも一度見せてもらえるか…ハハハ。</p>
+	<p>そこに行ってみたいか？彼らがいる場所に行けるよう力を貸すことはできるが、<font fg="ffafff">費用</font>がかかるぞ。ここで研究するための<font fg="ffafff">研究費用</font>が馬鹿にならなくてな、我々にも少しだけ協力してほしい。</p>
+	<p><br/></p>
+	<panel type="Panel_Teleport_Wizard">
+		<button action="a"/>
+		<button action="b"/>
+    </panel>
+
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

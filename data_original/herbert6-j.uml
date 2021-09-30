@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_023</portrait>
+		<name><var src="name"/></name>
+		<job>[マント製作職人]</job>
+		<text></text>
+	</npc>
+  <dialog>
+    <p>うむうむ、司令官様から話はきいておる。兵士たちが着る服を作って欲しいと言っておったな。だが困ったことに…</p>
+    <p>服を作るには木綿糸がいるんだが…使い切ってしまってな。お前さんが仕入れてきてくれんかね？<br/><br/><br/></p>
+    <p><a action="request sixth goods of war">木綿糸を仕入れてきました</a><br/></p>
+  </dialog>
+</npcdialog>

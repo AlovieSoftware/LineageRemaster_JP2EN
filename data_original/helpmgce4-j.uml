@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>地の精霊魔法</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">地の精霊魔法：レベル4</font><br/></p>
+	<p><font fg="ffffaf">アース バインド：</font><br/>
+	種類：ホールド<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：18/0/2<br/>
+	材料：精霊の玉2個<br/>
+	持続時間：最大8秒<br/>
+	対象：術者から6セル内のPCの1人<br/>
+	効果：対象は持続時間中、戦闘できず、回復効果を受けられません。<br/></p>
+
+	<p><font fg="ffffaf">アース ガーディアン：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/10<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、大地の守護者が術者を包み込みます。<br/>
+	600秒間、ダメージ減少+2<br/>
+	レベル80からレベルが4上がるごとにダメージ減少+1追加<br/></p>
+	
+	<p><font fg="ffffaf">サンド ストーム：</font><br/>
+	種類：付与<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/0<br/>
+	材料：エルヴン ワッフル1個<br/>
+	使用条件：ソード装備<br/>
+	持続時間：480秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、術者の攻撃および移動速度を向上させます。<br/></p>
+	<p><img src="331" link="helpmgce"/><br/><br/></p>
+	</dialog>
+</npcdialog>

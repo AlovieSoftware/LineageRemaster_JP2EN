@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>Conversation</title>
+  <dialog>
+    <p><font fg="ffffff"><var src="0"/>：</font></p>
+    <p><br/><br/>Welcome to our inn.<br/></p>
+	<p>We are working hard every day so that our customers can take a rest at any time.<br/><br/></p>
+		<panel type="Panel_GuestHouse_Bt">
+				<button action="room"/>
+				<button action="hall"/>
+				<button action="enter"/>
+				<button action="return"/>
+        </panel>return
+  </dialog>
+</npcdialog>

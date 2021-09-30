@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_021</portrait>
+		<name><var src="name"/></name>
+		<job>[シールド製作職人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+	<p><br/>
+ <font fg="ffffaf">破滅者のチェーンソード</font>を作るには<br/><br/>
+ ダイアモンド30個、<br/>
+ ルビー30個、<br/>
+ ファアグリオの遺産30個、<br/>
+ エヴァの遺産30個、<br/>
+ マーブルの遺産30個、<br/>
+ サイハの遺産30個、<br/>
+ 邪悪な活力20個、<br/>
+ ツーハンド ソード1個、<br/>
+ ドラゴンナイトのツーハンド ソード1個、<br/>
+ 1000000アデナが必要だ。<br/><br/>
+<font fg="ffffaf">製作：</font><a action="A">破滅者のチェーンソード</a><br/><br/>
+<img src="331" link="kahlua1"/>
+</p>
+</dialog>
+</npcdialog>

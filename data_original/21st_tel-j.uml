@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ピエロ ジョー</name>
+		<job>[19周年イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		いらっしゃいませ。<br/>
+		<br/>
+		アデンの勇士のために準備した春の散策が台無しになってしまったそうですね。<br/>
+		国王が準備された下賜品を盗賊が盗み、季節まで変えてしまったなんて私も悔しいです。<br/>
+		<br/>
+		お願いです！盗賊たちを退治して下賜品を取り返してください！<br/>
+		<br/>
+		<br/>
+		テレポート費用：4900アデナ<br/>
+		</p>
+		<panel type="Panel_Teleport">
+			<button action="a"/>
+		</panel>
+		<br/>
+		<br/>
+	</dialog>
+</npcdialog>

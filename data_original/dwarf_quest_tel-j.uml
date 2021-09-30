@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ドワーフの王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">桜まつり会場</font>で<font fg="ffffaf">火の欠片100個</font>を集めてきたと？<br/>
+		<br/>
+		本当に感謝する。<br/>
+		おかげで会場がめちゃくちゃにならなくて済んだぞ。<br/>
+		<br/>
+		我のところまで来るならば、いつでも言うがよい。<br/>
+		<font fg="afffff">100アデナ</font>で召喚しよう。<br/>
+		<br/>
+		少しばかり目がくらむから気をつけるのだぞ。<br/>
+		<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>
+ 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><font fg="ffffff"><var src="name"/>：</font><br/><br/></p>
+		<p><br/>成長のコインをお持ちでないようですね。<br/>
+		頑張って成長した勇士にのみアイテムをお渡ししています。<br/><br/>
+		<br/></p>
+  </dialog>
+</npcdialog>

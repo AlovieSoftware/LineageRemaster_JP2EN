@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>歪みのウィザード</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	準備を終えた方は外にお送りしていますが、<br/>死神の支配力の影響で希望の場所にお送りするのは<br/>難しいです。</p>
+	<p>どこに降り立つかわかりませんので気をつけてください。</p>
+	<br/>
+    <panel type="Panel_Dominate_02_Bt">
+			<button action="23"/>
+    </panel>
+
+
+  </dialog>
+</npcdialog>

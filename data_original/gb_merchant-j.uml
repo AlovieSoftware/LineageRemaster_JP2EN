@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+		<p>あ～もう！暑い！！<br/>
+		<br/>
+		こんにちは、僕は雪山に住んでいる<br/>
+		イエティ。<br/>
+		<br/>
+		暑くてバテている君たちのために特別なプレゼントを持ってきたよ。<br/>
+		<br/>
+		手に持つだけで身体の芯まで冷える<font fg="afffff">涼しげな武器</font>だよ！<br/>
+		どう？買いたくなったでしょ？<br/>
+		<br/>
+		運よく<font fg="ffafff">+10強化に成功</font>したら、僕の友達<font fg="ffafff">アイス ゴーレム</font>に持っていってみて。<br/>
+		<font fg="ffffaf">特別なプレゼントボックス</font>や<font fg="ffffaf">伝説級武器</font>と交換してくれるよ。<br/>
+		<br/>
+		<br/>
+		君にいいことがありますように。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

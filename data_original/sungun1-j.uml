@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait></portrait>
+		<name><name/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>
+		<br/>
+		今は激戦のコロシアムに入場できません。<br/>
+		次のコロシアムの入場時間は<font fg="ffffaf">22時30分</font>で、5分前から入場できます。<br/>
+		激戦のコロシアムは一度入場すると再入場が<font fg="ffffaf">できません</font>。<br/>
+		競技は<font fg="ffaaff">トーナメント制</font>で、モンスターの討伐が一番遅かったチームが脱落し、最終ラウンドは1チームしか進出できません。<br/>
+		進行事項はコロシアム専用UIで確認できます。<br/>
+		<br/>
+		激戦のコロシアムの入場ルールは以下のとおりです。<br/>
+		<br/>
+		最低参加可能レベル：レベル85以上<br/>
+		最高参加可能レベル：レベル99以下<br/>
+		入場方式：ランダム入場<br/>
+		競技方式：トーナメント<br/>
+		再入場：不可能<br/>
+		テレポート：不可能<br/>
+		復活：不可能<br/>
+		ポーション使用：可能<br/>
+		HP自然回復：0<br/>
+		MP自然回復：0<br/>
+		サモン/テイミング モンスター及びペット使用：不可能<br/>
+		PVP方式：可能<br/></p>
+		<p><img src="331" link="hi_colos"/><br/><br/></p>
+	</dialog>
+</npcdialog>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>shop</icon>
+	<title>商店</title>
+	<npc>
+		<portrait>PO_033</portrait>
+		<name>ゾウア</name>
+		<job>[騎士団のコイン交換]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 勇士様！グンターの印章かアデナをお持ちですか？<br/>
+		 もしあれば私にお譲りください！<br/>
+		 代わりに騎士団のコインを差し上げます！
+		<br/><br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Sell">
+			<button action="sell"/>
+		</panel>
+	</dialog>
+</npcdialog>

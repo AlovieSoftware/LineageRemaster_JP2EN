@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_037</portrait>
+		<name><var src="name"/></name>
+		<job>[日記帳交換]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ラララララ～
+		<br/><br/>
+		あら、私の歌を聴いてたんですか？そんなに見つめないでください。赤くなっちゃう…。
+		<br/><br/>
+		<br/><br/>
+		勇士様もこの日記帳と水晶球についてご存知なんですか？ 
+		もし旅の途中で手に入れたら、いつでも持ってきてください。
+		不思議なものを作って差し上げますから。
+		<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

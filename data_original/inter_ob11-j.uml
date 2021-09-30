@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>歪みのウィザード</name>
+    <job>[テレポーター]</job>
+  </npc>
+  <dialog>
+	<p>準備を終えた方は外にお送りしていますが、死神の支配力の弱い地域のみ可能です。</p>
+	<p>行きたい方はおっしゃってください。</p>
+	<p>ああ、移動の際には所定の<font fg="ffafff">費用</font>をいただいております。ここの魔力に耐えるために設置した魔具の<font fg="ffafff">維持費</font>ですので、ご協力お願いします。</p>
+	<p><br/></p>
+	<panel type="Panel_Teleport_Wizard">
+		<button action="14"/>
+		<button action="15"/>
+    </panel>
+
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

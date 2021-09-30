@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>カイロ シュケイン</name>
+		<job>[イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ちょっと待ちなさい！<br/>
+		準備のできた者のみが生命の樹を守ることができるのだ！<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：4900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：30分</font> <br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル60以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

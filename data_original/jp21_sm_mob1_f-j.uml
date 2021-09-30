@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+		<p><br/><br/><font fg="fffaff">
+		どうやら準備が整っていないようだ。<br/>
+		もう一度確認してくれ。</font><br/>
+		<br/>
+		<br/><font fg="afffff">
+		入場条件：レベル75以上<br/>
+		入場料：2,021アデナ<br/></font>
+		</p>
+	</dialog>
+</npcdialog>

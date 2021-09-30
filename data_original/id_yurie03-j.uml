@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>時空旅行</title>
+	<npc>
+		<portrait>PO_038</portrait>
+		<name><var src="name"/></name>
+		<job>時空旅行の研究員</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		鍵箱に入っている時空の鍵があれば、ルームを開設することができます。<br/>
+		<br/>
+		鍵箱を購入されますか？<br/>
+		<br/><br/><br/>
+		<a action="b">時空の鍵箱購入：400万アデナ</a><br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

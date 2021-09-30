@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">生命の庭園</font>に行ってきたのか？<br/>
+		<br/>
+		<font fg="ffffaf">ガーディアン リング</font>と、そこで活躍した証拠として 
+		<font fg="ffffaf">祝福の葉100個</font>を持って、そなたの勇猛さを証明してくれたまえ。<br/>
+		<br/>
+		準備が出来ているなら、我の近くまで来れるよう<font fg="ffffaf">100アデナ</font>で
+		コールクランを使い、召喚することとしよう。<br/>
+		少しばかり目がくらむから気をつけるのだ。<br/>
+		<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>

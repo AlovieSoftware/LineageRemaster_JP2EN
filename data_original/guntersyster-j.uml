@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>shop</icon>
+	<title>商店</title>
+	<npc>
+		<portrait>PO_014</portrait>
+		<name>エバンス</name>
+		<job>[騎士団の装備商人]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/><br/>
+		 よく来たな。<br/>
+		 <font fg="ffffaf">騎士団のコイン</font>は持っているのか？<br/><br/>
+		 必要な装備があれば<br/>
+		 交換してやろう。<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy">
+			<button action="buy"/>
+		</panel>
+	</dialog>
+</npcdialog>

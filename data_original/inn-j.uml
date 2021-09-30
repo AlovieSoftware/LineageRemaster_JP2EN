@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+    <p><font fg="ffffff"><var src="0"/>：</font></p>
+    <p><br/><br/>我が宿へようこそお越しくださいました。<br/></p>
+	<p>どんな時でもお客さまがゆっくりお休みいただけるよう、日々努力いたしております。<br/><br/></p>
+		<panel type="Panel_GuestHouse_Bt">
+				<button action="room"/>
+				<button action="hall"/>
+				<button action="enter"/>
+				<button action="return"/>
+        </panel>return
+  </dialog>
+</npcdialog>

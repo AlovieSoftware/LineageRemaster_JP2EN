@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ランサーたちの復帰を記念した祭りに参加されますか？<br/>
+		<br/>
+		報賞を獲得するには、魔法の空間に移動して<font fg="ffffaf">アデンのランサー コイン</font>を持ってきてください。<br/>
+		アデン国王の招待状とコインを私にください。<br/>
+		<br/>
+		もしかして、材料がすべて集まったのですか？<br/>	
+		それでは<font fg="ffffaf">100アデナ</font>を寄付してくだされば、私のところまで召喚いたします。<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>
+ 

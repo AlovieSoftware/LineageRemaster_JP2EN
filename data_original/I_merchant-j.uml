@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>shop</icon>
+	<title>雑貨商人</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name><var src="name"/></name>
+		<job>[雑貨商人]</job>
+		<text>この場所でのみ使用できる攻城消耗品を、本土より低価格で販売</text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 アデン大陸の勇士様だけに、本土よりもお手頃価格で品物を販売しています。<br/>
+		 ただ、ここで作られた品物だからか、外に持ち出すことができないんです。<br/><br/>
+		 つまり、<font fg="ffffaf">私が販売する品物は本土に持っていくと使えなくなるので、使う分だけ購入</font>してくださいね！<br/>
+		
+		<br/>
+		</p><p align="center">
+		</p><panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+		<p>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

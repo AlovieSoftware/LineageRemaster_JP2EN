@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>歪みの魂</name>
+    <job>[次元のテレポーター]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	こちらの次元は大変不安定です。いつでもここから離れられるようお手伝いしますよ。</p>
+	<p>もとの次元にお戻りになられますか？</p>
+	<br/>
+	<panel type="Panel_AntHouse_03_Bt">
+		<button action="a"/>
+    </panel>
+
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+<icon>warehouse</icon>
+<title>倉庫</title>
+  <npc>
+    <name>ドラム</name>
+		<job>[統合倉庫番]</job>
+  </npc>
+  <dialog>
+	<p>すみません、あなたのアイテムはまだ預かることができません。もっとレベルを上げてからおいでください。</p>
+  </dialog>
+</npcdialog>

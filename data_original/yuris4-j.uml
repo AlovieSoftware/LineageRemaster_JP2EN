@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_041</portrait>
+		<name>ユリス</name>
+		<job>善の使者</job>
+		<text>アインハザードの祝福が共にあらんことを…</text>
+	</npc>
+	<dialog>
+		<p>思っていたよりも犯した罪が多いようです。</p>
+		<p>あなたが犯した罪が消え去るぐらい、聖書を朗読してください。</p>
+		<p>清い心があるならば、あなたの後悔が神に届くはずです。</p>
+		<p><a action="1">贖罪の聖書を3回朗読する</a></p>
+		<p><a action="2">贖罪の聖書を5回朗読する</a></p>
+		<p><a action="3">贖罪の聖書を10回朗読する</a></p>
+	</dialog>
+	
+</npcdialog>

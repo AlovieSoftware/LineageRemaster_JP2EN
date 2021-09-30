@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>時空旅行</title>
+	<npc>
+		<portrait>PO_038</portrait>
+		<name><var src="name"/></name>
+		<job>時空旅行の研究員</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		時空の鍵箱が支給されました！隠された過去の記憶をどうぞお楽しみください！<br/>
+		<br/>
+		インベントリに鍵があると箱を開けられないのでご注意くださいね！<br/>
+		<br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ピエロ ジョー</name>
+		<job>[19周年イベント テレポーター]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		あっ！<br/>
+		準備ができた方のみ不思議な季節の森に入場できます！<br/>
+		<br/>
+		<br/>
+		<br/><font fg="ffffaf">1. 必要アイテム：4900アデナ</font><br/><br/>
+		<br/><font fg="ffffaf">2. 制限時間：60分</font><br/><br/>
+		<br/><font fg="ffffaf">3. 必要レベル：レベル60以上</font><br/><br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

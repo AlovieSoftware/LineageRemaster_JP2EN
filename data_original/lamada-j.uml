@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_016</portrait>
+		<name>リマダ</name>
+		<job>[ランサー イベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> いらっしゃい。<br/>
+		 あなた…初めて見る顔ですね。<br/><br/>
+		 ここではアデン大陸を旅するのに必ず必要なものを作っています。<br/>
+		 さあ～どうぞ必要なものを作ってみてください！<br/>
+		 楽しい旅を！<br/><br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

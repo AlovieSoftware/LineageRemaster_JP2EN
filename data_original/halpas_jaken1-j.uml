@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>光の剣士 ザケン</name>
+    <job>[レイド強化ウィザード]</job>
+  </npc>
+  <dialog>
+	<p>私の力を差し上げました。</p>
+	<p>どうか<font fg="0000ff">暗黒竜</font>を倒してください。</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

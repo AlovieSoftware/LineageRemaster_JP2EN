@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>秘技</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ドラゴンナイトの秘技：レベル1</font><br/></p>
+	
+	<p><font fg="ffffaf">バーニング スラッシュ：</font><br/>
+	種類：付与/火<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：0/6<br/>
+	持続時間：60秒<br/>
+	対象：術者<br/>
+	効果：持続時間中、1回の攻撃に限り炎の力が付与された強烈な一撃になります。<br/></p>
+	
+	<p><font fg="ffffaf">デストロイ：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/20<br/>
+	持続時間：16秒<br/>
+	対象：PCまたはNPCの1人<br/>
+	効果：一定確率で敵の防具を破壊し、ACを10低下させます。<br/></p>
+	
+	<p><font fg="ffffaf">マグマ ブレス：</font><br/>
+	種類：攻撃/火<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：10/0<br/>
+	持続時間：一瞬<br/>
+	対象：対象から1セル以内の敵<br/>
+	効果：対象とその周囲の敵たちに、強力な火の玉を飛ばします。<br/></p>
+	
+	<p><font fg="ffffaf">覚醒[アンタラス]：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：20/10<br/>
+	材料：刻印のボーン ピース1個<br/>
+	持続時間：600秒<br/>
+	対象：術者<br/>
+	効果：自分の肉体を覚醒させて、地竜の力を引き出します。<br/>
+	持続時間中、AC3、MR5%上昇効果が適用<br/></p>
+		
+	<p><font fg="ffafff">ドラゴン スキン：</font><br/>
+	種類：付与/地<br/>
+	性向：Neutral<br/>
+	持続時間：常時<br/>
+	対象：術者<br/>
+	効果：潜在的な竜の力を引き出して、受けるダメージを減少させます。<br/>
+	ダメージ減少+5、レベル80からレベルが2上がるごとにダメージ減少+1<br/>
+	</p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

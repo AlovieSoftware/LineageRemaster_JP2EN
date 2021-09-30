@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>釣り場</title>
+	<npc>
+		<portrait></portrait>
+		<name>ポール</name>
+		<job>釣り場ガイド</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 ホントに初めてなんだね。わかった。教えてあげるよ。ふふっ。<br/>
+		 まずは釣り竿。僕の隣にいる<font fg="ffff0">マルコ</font>じいさんが売ってるやつを使えばいいよ。
+		 一度買った<font fg="ffff0">釣り竿</font>は永久に使えるんだ。
+		 <font fg="ffff0">エサ</font>も<font fg="ffff0">マルコ</font>じいさんに言ったら売ってくれるよ。<br/><br/>
+		 釣り竿とエサの用意ができたら、水面に近づいて釣り竿を使ってね。そしたら浮きを投げる場所を決めろって出てくるんだ。<br/>
+		 水中に浮きを投げるとすぐに釣りが始まるってわけ。簡単でしょ？<br/>
+		 次からはエサがあるならずっと魚を釣れるようになるよ。<br/>
+		 あっ、でも、あんまり近すぎるところや、釣り糸が届かない場所へは投げられないから、気をつけてね。陸地もだめだよ。ふふっ。<br/>
+		<br/><br/><br/>
+		<br/><img src="331" link="fk_in_3"></img>
+		
+		</p>
+	</dialog>
+</npcdialog>

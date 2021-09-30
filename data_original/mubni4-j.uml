@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+	<portrait>PO_043</portrait>
+    <name>ムブニ</name>
+    <job>[傲慢の製作商人]</job>
+  </npc>
+  <dialog>
+    <p> 下位層の傲慢の塔テレポートスクロールを上位層の傲慢の塔テレポートスクロールに変えるのは、低い水準の錬金術なんだ…。<br/>
+	手数料を少しとスクロールをよこしな。手数料は同じく300アデナだ。</p>
+    <p><br/></p>
+	<p>材料：<br/>1階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 11f">傲慢の塔11階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>11階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 21f">傲慢の塔21階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>21階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 31f">傲慢の塔31階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>31階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 41f">傲慢の塔41階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>41階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 51f">傲慢の塔51階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>51階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 61f">傲慢の塔61階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>61階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 71f">傲慢の塔71階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>71階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 81f">傲慢の塔81階テレポート スクロール</a></p>
+	<p><br/></p>
+	<p>材料：<br/>81階テレポート スクロール(2)</p>
+	<p><a action="request scroll of oman tower 91f">傲慢の塔91階テレポート スクロール</a></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

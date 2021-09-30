@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>会話</title>
+	
+	<npc>
+		<portrait>PO_042</portrait>
+		<name>スナッパー</name>
+		<job>スロット解放専門家</job>
+		<!--text> </text-->
+	</npc>
+	
+	<dialog>
+		
+		<p>スロット解放のためには英雄になる条件が必要なんだ。<br/></p>
+		<p>持っているアデナと現在のレベルを確認してほしいんだが、まさか足りてないことはないよな？<br/></p>
+		
+				
+	</dialog>
+
+</npcdialog>

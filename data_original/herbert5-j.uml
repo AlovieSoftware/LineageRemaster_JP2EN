@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_023</portrait>
+		<name><var src="name"/></name>
+		<job>[マント製作職人]</job>
+		<text></text>
+	</npc>
+  <dialog>
+    <p>プロテクション クロークをつくるには赤い布地5枚、蒼い布地5枚、白い布地10枚が必要なんだ。手数料は2万アデナだよ。<br/><br/><br/></p>
+    <p><a action="request cloak of protection">プロテクション クロークをつくる</a><br/></p>
+  </dialog>
+</npcdialog>

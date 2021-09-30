@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン王国のウィザード</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		祭りは盛況ですが、お餅を一つ残さず泥棒に盗まれました。<br/>
+		でも、それより月明りの欠片を奪おうと浮島に侵入したことの方がもっと驚きです。<br/>
+		<br/>
+		浮島で<font fg="ffffaf">月明りの欠片</font>とお餅を取り戻して来てください。<br/>
+		<br/>
+		私に<font fg="ffffaf">浮島の入場券</font>と月明りの欠片をください。<br/>	
+		一緒に<font fg="ffffaf">ドラゴンのダイアモンド</font>をくだされば、追加報賞も差し上げます。<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		<br/>
+		私の報賞は<font fg="ffffaf">レベル52が基準で、レベル55未満</font>の場合はもう少し力をつけてからいらしてください。<br/>
+		報賞を獲得するには<font fg="ffffaf">浮島の入場券</font>とお持ちの<font fg="ffffaf">月明りの欠片</font>をすべて持ってきてください。<br/>
+		浮島の入場券がないと、そこへは二度と行くことができませんのでご注意ください。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

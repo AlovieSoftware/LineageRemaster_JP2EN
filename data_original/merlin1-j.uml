@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<npc>
+		<portrait>PO_016</portrait>
+		<name>マーリン</name>
+		<job>[ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_GiranJail">
+		   <button action="D_giran"/>
+    </panel>
+		<p>むかしむかし、ギランのダンジョンは監獄だった。<br/>
+		死なない程度の食料しか支給されず、看守の<br/>拷問も絶えないひどいところだった。<br/>
+		<br/>
+		罪人の中で一番タチの悪かったのが<font fg="ffaaff">ファウスト</font>だった。そいつは悪魔に魂を売り渡して、アデンに災をもたらせるほどのものすごい力を得たという。<br/>
+		<br/>
+		アデンの国王は監獄の封印を命じた。誰も外に出てこれないように迷路の結界が張られたんだ。<br/>
+		<br/>
+		しかし先日、何者かの侵入により迷路の結界が解けてしまった。噂では<font fg="ffffaf">金銀財宝</font>が見つかったとか。<br/>
+		<br/>
+		 監獄で何が起きたのか調べてもらいたいんだ。そして、戻るときは必ず<font fg="ffaaff">ファウストの行方</font>を知らせてほしい。
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

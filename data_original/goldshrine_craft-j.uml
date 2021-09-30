@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>ゴールド キャッスル イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ゴールド キャッスル イベント案内人</name>
+		<job>[ゴールド キャッスル イベント説明]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>こんにちは！<br/>
+		ゴールド キャッスル イベントの案内人です。<br/>
+		<br/>
+		ゴールド キャッスルに関するイベントが多くて分かりづらいですよね？<br/>
+		<br/>
+		イベントに漏れなく参加できるよう<br/>
+		私が分かりやすくご説明いたします！<br/>
+		<br/>
+		<font fg="ffffaf">サンドワーム イベント</font><br/> 
+		- <font fg="ffafaf">サンドワームが出現すると「サンドワームを追跡する」で簡単に利用できます！</font><br/>
+		- <font fg="ffafaf">サンドワームのコインを集めてアイテムを購入/製作しましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">補給商人イベント</font><br/> 
+		- <font fg="ffafaf">毎日1回必要な補給品を「ルアー」から購入しましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">竜のTシャツ保護スクロール イベント</font><br/> 
+		- <font fg="ffafaf">竜のTシャツ+5～+9まで安全強化にチャレンジしましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">ネットカフェ狩り場イベント</font><br/> 
+		- <font fg="ffafaf">毎日2時間「見棄てられた者たちの地(PC)」で狩りをしましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">成長のコイン イベント</font><br/> 
+		- <font fg="ffafaf">狩りをするとインベントリに入る「成長のコイン」</font><br/>
+		- <font fg="ffafaf">集めた「成長のコイン」でアイテムを購入しましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">血盟商店イベント</font><br/> 
+		- <font fg="ffafaf">血盟商店アイテムが20%割引！</font><br/>
+		- <font fg="ffafaf">一般ランク以上であれば購入できる「誓いの箱」も毎日1回購入しましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">エリクサー ルーン(91～92)割引イベント</font><br/> 
+		- <font fg="ffafaf">91～92のエリクサー ルーンを30%割引で製作しましょう！</font><br/>
+		<br/>
+		<font fg="ffffaf">狩り場図鑑イベント</font><br/> 
+		- <font fg="ffafaf">狩り場図鑑完了回数が1日3回に変わります！</font><br/>
+		- <font fg="ffafaf">狩り場図鑑ブースターを使うと、経験値追加報賞があります！！(新規サーバー専用)</font><br/>
+		<br/>
+		<font fg="ffffaf">ゴールド キャッスルの祝福イベント</font><br/> 
+		- <font fg="ffafaf">「アインハザードの祝福」状態で狩りをしましょう！</font><br/>
+		- <font fg="ffafaf">EXPブースト効果が300%！</font><br/>
+		<br/>
+		「ゴールド キャッスル」に関するイベントは<br/>
+		<font fg="ffffaf">10月21日定期メンテナンス前</font>までです！<br/>
+		<br/>
+		主な内容だけを簡潔に話しましたが、<br/>
+		今回の「ゴールド キャッスル」イベントで<br/>
+		少しでも役に立てたら嬉しいです！<br/>
+		<br/>
+		</p>
+		<panel type=""><button action="npc request craft"/></panel>
+	</dialog>
+</npcdialog>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><br/>
+		<font fg="ffffff"><var src="name"/>：</font><br/><br/>        
+		<br/>
+		村の外はとても危険です。それでも出なければならないなら…
+		</p>
+		<br/>
+		<panel type="Panel_Talkinggate02_Bt">
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+				<button action="e"/>
+        </panel>
+
+	</dialog>
+</npcdialog>

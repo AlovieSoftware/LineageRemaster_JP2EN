@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><br/>
+		<font fg="ffffff"></font></p><p align="left"><font fg="ffffff"><var src="name"/>：</font></p>
+		<p>暗黒色の穴が口を開けている。<br/>
+		歪んだ隙間から強力な気が流れてきている…<br/><br/>
+		入っても良いのだろうか？
+		</p>
+		<br/>
+		<panel type="Panel_Dominate_01_Bt">
+				<button action="4"/>
+        </panel>
+
+
+	</dialog>
+</npcdialog>

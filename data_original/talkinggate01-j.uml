@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><br/>
+		<font fg="ffffff"><var src="name"/>：</font><br/></p>
+		<p><br/>ブラックナイトから村を<br/>守ることが私の任務。</p>
+		<p>話せる島の村に入りますか？</p>
+		<p>村の中央広場に案内します。<br/><br/></p>
+		<panel type="Panel_Talkinggate01_Bt">
+				<button action="a"/>
+        </panel>
+
+	</dialog>
+</npcdialog>

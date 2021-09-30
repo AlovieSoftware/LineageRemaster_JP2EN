@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait>PO_023</portrait>
+		<name><var src="name"/></name>
+		<job>[マント製作職人]</job>
+		<text></text>
+	</npc>
+  <dialog>
+    <p>マジック クロークをつくるには赤い布地10枚、蒼い布地2枚、白い布地1枚が必要なんだ。手数料は1,000アデナだよ。<br/><br/><br/></p>
+    <p><a action="request cloak of magic resistance">マジック クロークをつくる</a><br/></p>
+  </dialog>
+</npcdialog>

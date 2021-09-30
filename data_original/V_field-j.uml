@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <dialog>
+	<p><br/>
+	<font fg="ffffaf">[テレポート]</font>
+	</p>
+	<panel type="Panel_Teleport_Firedragon">
+		   <button action="a"/>
+    </panel>
+	<p>
+	ここは火竜ヴァラカスが熱気を吐き出す地域で、<br/>
+	通常の魔法では<font fg="ffaaff">テレポートが不可能</font>です。</p>
+	<p>神秘的な力を持つ<font fg="ffaaff">テレポート支配リング</font>があれば、<br/>
+	ヴァラカスの怒りを買わずにテレポートすることができます。</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

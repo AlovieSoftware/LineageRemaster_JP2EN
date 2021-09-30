@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>craft</icon>
+	<title>製作</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> ラッキーゲームで獲得した「激運の印章」や「幸運の宝玉」を持ってきたら、珍しいアイテムを作って差し上げます。<br/>
+		 <br/>
+		 10月13日までしか製作できませんのでお急ぎください。<br/>
+		 <br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

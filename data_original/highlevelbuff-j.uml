@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="0"/></name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 なんと！アデンで新たなレベル90の勇士が誕生しました！<br/>
+		 <br/>
+		 これを記念して<font fg="ffafff"><var src="0"/>がギラン城下町に1時間設置されます。</font><br/>
+		 ぜひ記念バフを受け取ってください！<br/>
+		 <br/>
+		 <br/>
+		<a action="A">*レベル90勇士誕生記念バフ</a><br/>
+		<br/>
+
+		</p>
+	</dialog>
+</npcdialog>

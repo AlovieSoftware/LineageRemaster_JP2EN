@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>ハッピーバースデー</title>
+	<npc>
+		<portrait></portrait>
+		<name>バースデープレゼントの妖精</name>
+		<job></job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 プレゼントを受けられる期間は、勇士様の誕生日を含めて、3日前から3日後までです。<br/>
+		 誕生日期間にまた来てくださいね。<br/>
+		 <br/>
+		
+		</p>
+	</dialog>
+</npcdialog>

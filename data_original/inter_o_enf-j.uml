@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p>
+		<font fg="ffffff"></font></p><p align="left"><font fg="ffffff"><var src="name"/>：</font></p><br/>
+		<p>暗黒色の穴が口を開けているが、特別なエネルギーは感じられない。<br/><br/>
+		中に入るための<font fg="ffffaf">コントロールアミュレット</font>がないのだろうか？または<font fg="ffffaf">次元との連結が途切れた</font>のかも知れない。<br/><br/><br/>
+		 
+		</p>
+	</dialog>
+</npcdialog>

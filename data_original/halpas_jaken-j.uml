@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+    <name>光の剣士 ザケン</name>
+    <job>[レイド強化ウィザード]</job>
+  </npc>
+  <dialog>
+	<p><font fg="bbbbbb">光の剣士として暗黒竜討伐の力になるために来ました。</font></p>
+	<p><font fg="0000ff">暗黒竜</font><font fg="bbbbbb">の気がここまで感じられます。</font></p>
+	<p><font fg="bbbbbb">私はアデンの勇士たちの手助けしかできません。</font></p>
+	<p><br/></p>
+	<p><font fg="bbbbbb">私に手をのせてくだされば、力を差し上げます。</font></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<p><a action="a">手をのせてザケンの力を得る</a></p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>アデン国王</name>
+		<job>[イベント報賞]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		<font fg="ffffaf">プレミアム コイン100個</font>を集めたというのか！<br/>
+		<br/>
+		ハハハッ、これが生まれ持った力というものか。<br/>
+		<br/>
+		我の近くまで来れるよう<font fg="ffffaf">100アデナで</font>
+		コールクランを使い、召喚することとしよう。<br/>
+		少しばかり目がくらむから気をつけるのだ。<br/>
+		<br/>
+		</p>
+ 		<panel type="Panel_Teleport">
+			<button action="non_npc a"/>
+		</panel>
+		<br/>
+	</dialog>
+</npcdialog>
