@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Enhancement Wizard</title>
+	<npc>
+		<portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[Enhancement Wizard]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 Yes, while there are wizards like us who are actively going out to the continent of Aden, others are trying to keep an eye on this change and study it. Who is it ...
+		<br/><br/>
+		 ... I didn't have to say this separately. Fight bravely with our magical powers anyway!
+		<br/>
+		<br/>
+		<br/>
+		<img src="331" action="0"></img>
+		
+		
+		</p>
+	</dialog>
+</npcdialog>
+

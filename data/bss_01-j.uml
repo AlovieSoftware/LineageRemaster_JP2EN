@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>Conversation</title>
+  <npc>
+	<portrait>PO_015</portrait>
+    <name>Piddle</name>
+    <job>[Suspicious Enhancement Wizard]</job>
+  </npc>
+  <dialog>
+  	<p><br/>
+	Hello! I'm buffing it with <font fg="ffffaf">Pixie's golden feathers</font>.<font fg="ffaaff">(Internet cafe: 2 / general: 3)</font><br/><br/>
+	</p>
+	<p><font fg="afffff">[Receive enhanced magic]</font></p>
+	<panel type="Panel_Enchant_Bt_Strength">
+	<button action="b"/>
+    </panel>
+	<p><font fg="ffffaf">Coins：</font><a action="z">Get the blessing of the Black Snake</a></p>
+		<br/><br/>
+	<p>The flow of magical power in the continent of Aden is changing. Soon the chaotic dark clouds may swallow the world.</p>
+	<p>You are the only hero who shakes off the darkness and brings us light.<br/><br/></p>
+	<p>Please understand that we charge a small fee to help you with the instructions of Mr. Taras and to pay for the training of the junior wizard.</p>
+	<p><br/></p>
+	<p><br/></p>
+  </dialog>
+</npcdialog>
