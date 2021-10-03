@@ -402,7 +402,7 @@ Trade
 Pledge
 On
 Off
-obtained {0}.
+Obtained {0}.
 A character below level {0} cannot whisper or do party chatting.
 For the real-name system in Lineage, you have to register your resident registration number and contact information again.
 You have to wait at least a week to delete a character you've created.
@@ -685,7 +685,7 @@ wind
 earth
 Different elemental spirit, can not be learned.
 Holy Weapon: DMG +1, HIT +1, Undead DMG +1
-Decrease weight: You feel your baggage becoming lighter.
+Light Weight: You feel your baggage becoming lighter.
 Week Elemental: Identifying Vulnerable Properties
 Counter Magic: Dispel magic once
 Meditation: MP Recovery +5 (extra with mana potion)
@@ -2182,7 +2182,7 @@ Absolute Barrier's horsepower disappears.
 The magic of advanced spirit is lost.
 The magic of the Meditation is gone.
 Nature's Touch's energy returns to nature.
-Diskee Weights lose their magical power.
+Light Weights lose their magical power.
 The magic of the decay potion disappears.
 The magic of silence disappears.
 Disease's magical power disappears.
@@ -7591,7 +7591,7 @@ Weekly charge reset reset at 6:00 PM every Wednesday
 Hidden hunting ground integrated charges up to 21 hours
 Hunting ground
 Giran Village "Cadel" npc to enter the hunting ground
-How to Obtain a Hidden Dimensional Hourglass
+How to obtain a Hidden Dimensional Hourglass
 Will be released later
 dummy7596
 coming soon
@@ -7733,7 +7733,7 @@ Top middle point
 Move out of the safe zone
 Move to the Tower of Domination
 Would you like to use your discount voucher to unlock %s slots?
-There is no discount voucher in the inventory of the hero. \n Do you want to unlock the %s slot with %d0000 Adena? \n\n (Please check if you have a discount voucher in the warehouse!)
+There is no discount voucher in your inventory.\n%d0000 adena to unlock the %s slot?\n\n(Please check a voucher in the warehouse!)
 The %s slot was unlocked with a discount voucher without wasting Adena. \n\n "%s" was provided to commemorate the unlock.
 The %s slot has been unlocked. \n\n "%s" was provided to commemorate the unlock.
 The %s slot was not unlocked due to insufficient Adena possession.
