@@ -810,7 +810,7 @@ A USB keyboard was detected.
 Show tips at startup
 The server you selected is exclusively for PC rooms. You can only connect to this server at PC rooms that subscribe to Lineage. Please contact Lineage Customer Support for further details.
 File initialization error related to nProtect has occurred. Log in through the administrator account and run the game. Thank you.
-Pledge: The Blood Pledge emblem is too small (standard 16x12 pixels, 24bit)
+Pledge: The Blood Pledge emblem is too small (standard 25x25 pixels, 24bit)
 Siege: You need a Blood Pledge emblem in order to participate in a siege.
 {0} gave {2}% {1}.
 Enchant Venom:  Your weapon is filled with poison and gushes with dangerous energy.
@@ -4053,7 +4053,7 @@ Please enter the character name to invite.
 %s Would you like to delegate to the party leader?
 Please enter your title.
 Please enter the name of the character to be blocked.
-[ %s ] In the folder of^Bring up the blood mark image. The file save format supports 24 bit bitmaps.
+Bring up the blood mark image in the folder [%s] ^ The file save format supports 25x25 pixels 24 bit BMP.
 There is no clan added. \Join n Clan.
 Enchant: {0} %s Overcome the brink of extinction.
 knowledge
