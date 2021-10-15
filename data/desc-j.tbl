@@ -117,7 +117,7 @@ Log house
 village
 leather armor
 Equipment
-Erven Leather Helm
+Elven Leather Helm
 Leather cap
 Aquis Helm
 Iron skull cap
@@ -308,7 +308,7 @@ Underground practice
 Bafet
 Golden key
 Pearl silver key
-Integrated warehouse number ^ Dorin
+Integrated warehouse ^ Dorin
 total:
 Giant Spider's Nail
 Red Night Cloak
@@ -333,7 +333,7 @@ Glove
 Necromancer
 Weapon armor merchant ^
 Miscellaneous goods merchants ^ Lotte
-Integrated warehouse number ^ Calim
+Integrated warehouse ^ Calim
 Baltazar
 Caspar
 Melchiol
@@ -406,8 +406,8 @@ map
 Death to something that can be lively!
 Clipping crow
 Olim
-Faugrio Great Sword
-Faugrio Nagasu
+Faagrio Great Sword
+Faagrio Long Spear
 Saiyha Helm
 Saiyha shoes
 Craymore
@@ -415,22 +415,22 @@ Great Ax
 Crown
 Night Visor
 Gradius
-Dice dagger
-Douume blade
-Berserker Ax
-Eva shield
+Dice Dagger
+Doom Blade
+Berserker Axe
+Eva Shield
 Eva Scale Mail
-Eva's tears
-Faugrio feathers
-Saiyha's grace
-Saint Night's sword
-Saint Night Mail
-Failure Ax
+Eva's Tears
+Faagrio's Feathers
+Saiha's Grace
+Saint Night's Sword
+Saint Night's Mail
+Failure Axe
 Hatredor
 Porses sword
 Tower shield
 Blacksmith ^ Gale
-Saiyha's ring
+Saiha's ring
 Camber's fear ^ Issmoel
 Kent
 Is completely broken
@@ -451,7 +451,7 @@ Mur
 Kana
 Master of Ryokan ^ Loria
 Farbo
-Merchant of Ajito ^ Jainto
+Hideout Merchant ^ Jainto
 Zeta
 Leng
 Phenn
@@ -467,7 +467,7 @@ Magical Store "Sherman House"
 Barrack
 Please do not do enough here.
 Yes, only lives help ~ ~ ~
-Integrated warehouse number ^ Bahof
+Integrated warehouse ^ Bahof
 Attacking
 Defense
 rest
@@ -567,7 +567,7 @@ Spellbook (Greater Resurrection)
 Spellbook (Greater Slow)
 \aESpellbook (Disintegrate)
 of
-Integrated warehouse number ^ Slam
+Integrated warehouse ^ Slam
 Magic Helm
 Oak staff
 Mage staff
@@ -590,11 +590,11 @@ White vest
 Gold
 Black
 Tortoise A Lobby
-Erven Long Sword
+Elven Long Sword
 Elven Long Bow
-Elven coat
-Elvench mesh
-Erven chain mail
+Elven Coat
+Elven Mesh
+Elven Chain Mail
 Archery Globe
 New green cloak
 Damascus Sword
@@ -748,7 +748,7 @@ I will start semifinals from now on!
 I will start the finals from now on!
 Participation confirmation
 Mother of forest and elf
-Elf production craftsman ^ Nerfa
+Elf Production Craftsman ^ Nerfa
 Elf warehouse number ^ El
 Magic Transfer ^ Horn
 Forest guardian ^ Aracune
@@ -795,7 +795,7 @@ Oriharcon Horn
 Mailbreaker
 Acupuncture
 Power glove
-Erven chain mail
+Elven Chain Mail
 Dupergenone amulet
 Wooden jacket
 Luxury
@@ -837,7 +837,7 @@ Teleporter ^ Daniel
 Andrew
 Brunette
 Sydney
-Grove production craftsman ^ Philip
+Glove Production Craftsman ^ Philip
 Evan
 Pet breeder ^ Rodney
 nail
@@ -845,7 +845,7 @@ Mandel
 James
 Luke
 Marwin
-Helm Manufactured Craftsman ^ Hector
+Helm Production Craftsman ^ Hector
 Terry
 Leather technical worker ^ Vincent
 Cloth tradition ^ Evert
@@ -858,8 +858,8 @@ Wursing up ^ Jason
 Lavan
 Potion merchant ^ randal
 Lappa merchant ^ Rety
-Ore production craftsman ^ Dio
-Geter production craftsman ^ Anton
+Gem Production Craftsman ^ Dio
+Gaiters Production Craftsman ^ Anton
 Hunter ^ Derek
 Mono
 Helen
@@ -887,8 +887,8 @@ Doris
 Tracy
 Lappa merchant ^ Rita
 Iora
-Ajitian manager ^ Marina
-Ajitian manager ^ Emma
+Hideout caretaker ^ Marina
+Hideout caretaker ^ Emma
 Morley
 Miscellaneous goods merchants ^ Verita
 Depotologue server
@@ -947,9 +947,9 @@ Wisdom potion
 Vest
 Teleporter ^ tray
 Teleporter ^ Met
-Integrated warehouse number ^ turkin
-Integrated warehouse number ^ gossum
-Integrated warehouse number ^ Bogin
+Integrated warehouse ^ Turkin
+Integrated warehouse ^ Gossum
+Integrated warehouse ^ Bogin
 Widwood Castle
 duck
 Ogre
@@ -1048,10 +1048,10 @@ Impeller
 Glemin
 Oulberry
 Great Sword
-Faaglio server
-Eva server
-Saiya server
-Muffle server
+Faagrio servant
+Eva servant
+Saiha servant
+Maffre servant
 Leather craftsman ^ ladder
 Item Manufacturer ^ Farlin
 Bone frost manager ^ Ryan
@@ -1063,16 +1063,16 @@ Water attribute resistance
 Wind attribute resistance
 Area attribute resistance
 Mana staff
-Fire elixir
-Water elixir
-Wind elixir
-Erikser
-Teleporter of Village Village ^ Keith
-Teleporter in Village Village ^ Harrison
-Teleporter of Village Village ^ Hoffer
-Teleporter of Village Village ^ Cobb
-Teleporter of Village Village ^ Bunch
-Integrated warehouse number ^ Kuhatin
+Fire Elixir
+Water Elixir
+Wind Elixir
+Earth Elixir
+Village Teleporter ^ Keith
+Village Teleporter ^ Harrison
+Village Teleporter ^ Hoffer
+Village Teleporter ^ Cobb
+Village Teleporter ^ Bunch
+Integrated warehouse ^ Kuhatin
 Gau! Gau! Grull
 Letter paper
 Valin
@@ -1098,7 +1098,7 @@ To find out me ... I will use it!
 It is attacking me from here and there ... if you're frustrating, it will run away.
 Spartoy bone
 Elven Sword: Vitality
-Erven Bow: Agate
+Elven Bow: Agate
 Grinding wheel
 Map: Actin A Special
 Map: Island that can speak
@@ -1245,10 +1245,10 @@ Guillain
 wood
 Hunterbow
 leather
-Manto maker ^ Hellbert
+Cloak Production Craftsman ^ Hellbert
 Cheering trumpet
-Integrated warehouse number ^ Suram
-Integrated warehouse number ^ Nodim
+Integrated warehouse ^ Suram
+Integrated warehouse ^ Nodim
 Master of Ryokan ^ Morley
 Concentrated Health Recovery Potion
 Concentrated Luxury Health Recovery Potion
@@ -1305,49 +1305,49 @@ Avin
 Glover
 Barain
 Alex
-Ajitian manager ^ Diane
-Ajitian manager ^ Beth
-Ajitian manager ^ Henrietta
-Ajitian manager ^ Justin
-Ajitian manager ^ Eve
-Ajitian manager ^ Beleka
-Ajito Administrator ^ Carmel
-Ajitian manager ^ Bubina
-Ajitian manager ^ Levina
-Ajitian manager ^ Zilda
-Ajitian manager ^ Sarah
-Ajitian manager ^ Tecella
-Ajito Administrator ^ Ellinola
-Ajitian manager ^ Mary
-Ajitian manager ^ Nicoline
-Ajitian manager ^ Eeralia
-Ajitian manager ^ Julia
-Ajitian manager ^ Catriona
-Ajitian manager ^ Milliyam
-Ajitian manager ^ Mennefa
-Ajitian manager ^ Osa
-Ajitian manager ^ Joanna
-Ajitian manager ^ Teodora
-Ajitian manager ^ Mergerie
-Ajitian manager ^ Greded
-Ajitian manager ^ Nooela
-Ajitian manager ^ Lutida
-Ajitian manager ^ Minerva
-Ajitian manager ^ Geraldin
-Ajitian manager ^ Paulina
-Ajitian manager ^ Memila
-Ajitian manager ^ Juliana
-Ajitian manager ^ Saloma
-Ajitian manager ^ Verenis
-Ajitian manager ^ Caloria
-Ajitian manager ^ karin
-Ajitian manager ^ Leonora
-Ajitian manager ^ Ione
-Ajito Administrator ^ Guin Bra
-Ajitian manager ^ Duana
-Ajito manager ^ Siglide
-Ajitian manager ^ Tesa
-Ajitian manager ^ Erma
+Hideout caretaker ^ Diane
+Hideout caretaker ^ Beth
+Hideout caretaker ^ Henrietta
+Hideout caretaker ^ Justin
+Hideout caretaker ^ Eve
+Hideout caretaker ^ Beleka
+Hideout caretaker ^ Carmel
+Hideout caretaker ^ Bubina
+Hideout caretaker ^ Levina
+Hideout caretaker ^ Zilda
+Hideout caretaker ^ Sarah
+Hideout caretaker ^ Tecella
+Hideout caretaker ^ Ellinola
+Hideout caretaker ^ Mary
+Hideout caretaker ^ Nicoline
+Hideout caretaker ^ Eeralia
+Hideout caretaker ^ Julia
+Hideout caretaker ^ Catriona
+Hideout caretaker ^ Milliyam
+Hideout caretaker ^ Mennefa
+Hideout caretaker ^ Osa
+Hideout caretaker ^ Joanna
+Hideout caretaker ^ Teodora
+Hideout caretaker ^ Mergerie
+Hideout caretaker ^ Greded
+Hideout caretaker ^ Nooela
+Hideout caretaker ^ Lutida
+Hideout caretaker ^ Minerva
+Hideout caretaker ^ Geraldin
+Hideout caretaker ^ Paulina
+Hideout caretaker ^ Memila
+Hideout caretaker ^ Juliana
+Hideout caretaker ^ Saloma
+Hideout caretaker ^ Verenis
+Hideout caretaker ^ Caloria
+Hideout caretaker ^ karin
+Hideout caretaker ^ Leonora
+Hideout caretaker ^ Ione
+Hideout caretaker ^ Guin Bra
+Hideout caretaker ^ Duana
+Hideout caretaker ^ Siglide
+Hideout caretaker ^ Tesa
+Hideout caretaker ^ Erma
 Ader
 Tecrera
 Abb
@@ -1379,7 +1379,7 @@ win
 Terza
 Hermia
 Couple ring
-Integrated warehouse number ^ Tofen
+Integrated warehouse ^ Tofen
 price
 Auction manager
 Auction bulletin board
@@ -1413,15 +1413,15 @@ Guillain Return scroll
 Singing Island Return scroll
 Seahoh
 Luder
-Miscellaneous goods merchants ^ Johan
+Miscellaneous Goods Merchant ^ Johan
 Professional ^ Therapist
 Magic Transfer ^ Siris
-Talking island teleporters ^ iSitter
+Talking Island Teleporter ^ Ishtar
 Teleporter ^ Geno
 Bergetter
 Beginner merchant ^ Fraun
 Professional ^ Therapist
-Beginner Telepter ^ Ile Dras
+Beginner Teleporter ^ Ile Dras
 Teleporter ^ Dryist
 Hidden Valley Return Scroll
 Sea Anemone
@@ -1516,7 +1516,7 @@ Heine
 Pets management people ^ Elan
 Arms and Armor merchant ^ shebang
 Miscellaneous goods merchant ^ Brit
-Teleporters ^ Rioru
+Teleporter ^ Rioru
 Derrick
 Halley
 Shannon
@@ -1595,7 +1595,7 @@ Heart strengthening surgery nurse ^ Iberubin
 Pelt
 Miscellaneous goods merchant ^ Berry
 Arms and Armor merchant ^ Ralph
-Teleporters ^ Leslie
+Teleporter ^ Leslie
 Pets management people ^ Cobb
 Gavin
 daily
@@ -1603,14 +1603,14 @@ Attack
 Steel guild
 Flexon
 Exterior east gate
-Integrated warehouse number ^ Exeron
+Integrated warehouse ^ Exeron
 Valacas
 Christmas card
 Map: Solution of fire dragons
 Ashtaji ash
 Coliseum manager
 Coliseum admission ticket
-Integrated warehouse number ^ cryom
+Integrated warehouse ^ Cryom
 Until the start of the competition
 It remains.
 It remains. If you want to participate, please join us now.
@@ -1730,13 +1730,13 @@ Mobo
 Rubber
 Teaio
 Dungeon Teleporter ^ Kun
-繧ｭ 繝ｪ
-Miscellaneous goods merchants ^ pago
+Kiyori
+Miscellaneous goods merchants ^ Pago
 What is the basement dungeon?
 It seems that something happens if you take it there ...
 When is the person who is written in the prophet?
 If the seal of the underground dungeon has been solved ...
-Dungeon teleportor ^ Coco
+Dungeon Teleporter ^ Coco
 Sky
 Carsd Brute
 Carsd Bug Bear
@@ -1877,7 +1877,7 @@ Spellbook (Ice Spike)
 Crystal merchant ^ Erie
 Miscellaneous goods merchants ^ phall
 Miscellaneous goods merchant ^ Diko
-Integrated warehouse number ^ Hirim
+Integrated warehouse ^ Hirim
 Ivory tower wizard
 Cleaning ... Cleaning ...
 Inside the tower of ivory, no abnormality!
@@ -2074,7 +2074,7 @@ Bronze pumpkin
 Pumpkin mask
 Mutant Ant Queen
 Mutant Ant Soldier
-Erven T-shirt
+Elven T-shirt
 Dish of monarch
 Secret key
 Mysterious Crystal Ball
@@ -2091,13 +2091,13 @@ Ramia room key
 Spellbook (Call Clan)
 Reward from Aria
 Elf treasure
-Integrated warehouse number ^ Orclon
+Integrated warehouse ^ Orclon
 Cleaning staff
 Papriion Magic Armor
 Antaras Magic Armor
 Valakas Magic Armor
 Lind Vior Magic Armor
-Teleporter ^ Beginner's teleportor
+Teleporter ^ Beginner's Teleporter
 Bandit
 Bandit boss
 Doppelganger
@@ -2123,8 +2123,8 @@ Duty party
 Weapon armor merchant ^ Defman
 Miscellaneous goods merchants ^ Laon
 Pet manager ^ pau
-Integrated warehouse number ^ cam
-Integrated warehouse number ^ Oigi
+Integrated warehouse ^ Cam
+Integrated warehouse ^ Oigi
 Teleporter ^ Sirius
 Camber fear ^ Timmon
 Mercenary Captain ^ Bi Wast
@@ -2204,10 +2204,10 @@ Kelenis Globe
 Kelenis Lobe
 Map: Aden
 Guardian Tower: Eva
-Guardian Tower: Faaglio
-Guardian Tower: Marble
+Guardian Tower: Faagrio
+Guardian Tower: Maffre
 Guardian Tower: Saiha
-Marble abx
+Marble Axe
 Valacas
 Aden premium coin
 Lind Vior
@@ -2227,9 +2227,9 @@ Mysterious bag
 Guardian ring
 Ice Queen ...
 Soul Crystal ... My Study ...
-Integrated warehouse number ^ Cardim
-Integrated warehouse number ^ juke
-Integrated warehouse number ^ Timpkin
+Integrated warehouse ^ Cardim
+Integrated warehouse ^ Juke
+Integrated warehouse ^ Timpkin
 Miscellaneous goods merchant ^ Catherine
 Cooking Material Merchant ^ Charles
 Teleporter ^ Kinin
@@ -2270,77 +2270,77 @@ Decal Dica Soldier
 Sapphire engagement ring
 Diamond Engagement Ring
 Ghost bag
-Ajitian manager ^ Odia
-Ajitian manager ^ Morin
-Ajitian manager ^ Candice
-Ajitian manager ^ Serina
-Ajitian manager ^ Cindy
-Ajitian manager ^ dina
-Ajitian manager ^ Ebony
-Ajitian manager ^ Lija
-Ajitian manager ^ Boby
-Ajito Administrator ^ Levin
-Ajitian manager ^ Amier
-Ajitian manager ^ Liz
-Ajitian manager ^ Beth
-Ajitian manager ^ Diana
-Ajitian manager ^ Nash
-Ajitian manager ^ Mitchell
-Ajitian manager ^ Acacia
-Ajitian manager ^ Mindy
-Ajitian manager ^ Angelin
+Hideout caretaker ^ Odia
+Hideout caretaker ^ Morin
+Hideout caretaker ^ Candice
+Hideout caretaker ^ Serina
+Hideout caretaker ^ Cindy
+Hideout caretaker ^ dina
+Hideout caretaker ^ Ebony
+Hideout caretaker ^ Lija
+Hideout caretaker ^ Boby
+Hideout caretaker ^ Levin
+Hideout caretaker ^ Amier
+Hideout caretaker ^ Liz
+Hideout caretaker ^ Beth
+Hideout caretaker ^ Diana
+Hideout caretaker ^ Nash
+Hideout caretaker ^ Mitchell
+Hideout caretaker ^ Acacia
+Hideout caretaker ^ Mindy
+Hideout caretaker ^ Angelin
 Rolling
 Samora
 Tlass Magical Bag
 Night's apprenticeship Sword
-Ajitian manager ^ Edie
-Ajitian manager ^ Alana
-Ajitian manager ^ Beverly
-Ajito manager ^ Mao
-Ajitian manager ^ prlam
-Ajito Administrator ^ Genes
-Ajito Administrator ^ Judith
-Ajitian manager ^ Lucy
-Ajitian manager ^ Isabel
-Ajitian manager ^ Losiri
-Ajitian manager ^ Nadin
-Ajito manager ^ Sibia
-Ajitian manager ^ Sophia
-Ajitian manager ^ Aberel
-Ajitian manager ^ Carrot
-Ajitian manager ^ ROSIS
-Ajitian manager ^ Shelley
-Ajitian manager ^ Care
-Ajitian manager ^ Angelina
-Ajitian manager ^ Mitcheri
-Ajitian manager ^ Natalia
-Ajitian manager ^ Violet
-Ajitian manager ^ Mariel
-Ajitian manager ^ Bianka
-Ajitian manager ^ Bella
-Ajitian manager ^ Florina
-Ajito Administrator ^ Wanda
-Ajitian manager ^ May
-Ajitian manager ^ Joan
-Ajito Administrator ^ Oferia
-Ajitian manager ^ Bonier
-Ajitian manager ^ Mela
-Ajitian manager ^ Teresa
-Ajitian manager ^ Nona
-Ajito Administrator ^ Sedy
-Ajitian manager ^ Brittee
-Ajitian manager ^ Tamara
-Ajito Administrator ^ Lucinda
-Ajitian manager ^ Angelica
-Ajitian manager ^ Celenny
-Ajitian manager ^ Lakesier
-Ajitian manager ^ Calys
-Ajitian manager ^ Silvia
-Ajitian manager ^ Zenith
-Ajitian manager ^ Nita
-Ajitian manager ^ Makkarie
-Ajito Administrator ^ Dried
-Ajitian manager ^ Helena
+Hideout caretaker ^ Edie
+Hideout caretaker ^ Alana
+Hideout caretaker ^ Beverly
+Hideout caretaker ^ Mao
+Hideout caretaker ^ prlam
+Hideout caretaker ^ Genes
+Hideout caretaker ^ Judith
+Hideout caretaker ^ Lucy
+Hideout caretaker ^ Isabel
+Hideout caretaker ^ Losiri
+Hideout caretaker ^ Nadin
+Hideout caretaker ^ Sibia
+Hideout caretaker ^ Sophia
+Hideout caretaker ^ Aberel
+Hideout caretaker ^ Carrot
+Hideout caretaker ^ ROSIS
+Hideout caretaker ^ Shelley
+Hideout caretaker ^ Care
+Hideout caretaker ^ Angelina
+Hideout caretaker ^ Mitcheri
+Hideout caretaker ^ Natalia
+Hideout caretaker ^ Violet
+Hideout caretaker ^ Mariel
+Hideout caretaker ^ Bianka
+Hideout caretaker ^ Bella
+Hideout caretaker ^ Florina
+Hideout caretaker ^ Wanda
+Hideout caretaker ^ May
+Hideout caretaker ^ Joan
+Hideout caretaker ^ Oferia
+Hideout caretaker ^ Bonier
+Hideout caretaker ^ Mela
+Hideout caretaker ^ Teresa
+Hideout caretaker ^ Nona
+Hideout caretaker ^ Sedy
+Hideout caretaker ^ Brittee
+Hideout caretaker ^ Tamara
+Hideout caretaker ^ Lucinda
+Hideout caretaker ^ Angelica
+Hideout caretaker ^ Celenny
+Hideout caretaker ^ Lakesier
+Hideout caretaker ^ Calys
+Hideout caretaker ^ Silvia
+Hideout caretaker ^ Zenith
+Hideout caretaker ^ Nita
+Hideout caretaker ^ Makkarie
+Hideout caretaker ^ Dried
+Hideout caretaker ^ Helena
 Author of love ^ Eriel
 Professional ^ Hayster
 Cooper
@@ -2441,7 +2441,7 @@ Lodec
 Atosin
 Toda
 Burdica
-Dragon production craftsman ^ Kup
+Dragon Production Craftsman ^ Kup
 Assassin Master Tracker
 Roger
 Assassin
@@ -2491,7 +2491,7 @@ unicorn
 Will Owis
 Savor
 Professional ^ Hadesti
-Integrated warehouse number ^ Leis
+Integrated warehouse ^ Leis
 Teleporter ^ Ena
 Miscellaneous goods merchant ^ squee
 Dark elf ranger
@@ -2517,28 +2517,28 @@ Burdica assassination
 (Final Barn)
 Silver sting
 Heavy sting
-Dark Spirit Crystal (blind hiding)
+Dark Spirit Crystal (Blind Hiding)
 Dark Spirit Crystal (Enchant Venome)
 Dark Spirit Crystal (Shadow Armor)
 Dark Spirit Crystal (Bling Stone)
 Dark Spirit Crystal (Moving Acceleration)
 Dark Spirit Crystal (Burning Spirits)
-Dark Spirit Crystal (shadow sleep)
+Dark Spirit Crystal (Shadow Sleep)
 Dark Spirit Crystal (Venom Resist)
-Dark Spirit Crystal (double break)
-Dark Spirit Crystal (Ankanyidododge)
+Dark Spirit Crystal (Double Break)
+Dark Spirit Crystal (Uncanny Dodge)
 Dark Spirit Crystal (Shadow Fang)
-Dark Spirit Crystal (Final Barn)
-Elixir: Armmart
-Elixir: My strength
-Elixir: Houseworthy
-Elixir: intelligence
-Elixir: Magical
-Elixir: Charm
+Dark Spirit Crystal (Final Burn)
+Elixir: Strength
+Elixir: Constitution
+Elixir: Agility
+Elixir: Intelligence
+Elixir: Magical power
+Elixir: Charisma
 Dark Elf's Learning Sword
-Dark Elf Helm
-Dark elf boots
-Dark Elf Manto
+Dark Elf's Helm
+Dark Elf's Boots
+Dark Elf's Manto
 Khan bag
 Londe bag
 Burdica bag
@@ -2573,7 +2573,7 @@ Golden seeds
 Dark executor
 Light executor
 Pereria
-Bow production craftsman ^ Robin
+Bow Production Craftsman ^ Robin
 Quick Health Recovery Potion
 Quick Luxury Health Recovery Potion
 Quick Strong Health Recovery Potion
@@ -2770,7 +2770,7 @@ Vesse boots
 Borrest staff who lost magic
 Anto Queen Golden Wing
 Anto Queen Silver Wing
-Ancient Erven Bowgun
+Ancient Elven Bowgun
 Ancient Dark Elf Sword
 Cartogrov
 Cart Armor
@@ -3052,9 +3052,9 @@ Types of items
 (Dress Mighty)
 (Dress Dictionary)
 Cariff lucky bag
-Market teleportor
+Market Teleporter
 Teleporter ^ Market Guard
-Integrated warehouse number ^ junk
+Integrated Warehouse ^ Junk
 Honor coin
 Trust coin
 Wisdom coin
@@ -3063,15 +3063,15 @@ Golem heart
 Phoenix heart
 Ice Queen's Heart
 Drake heart
-Heritage of Marble
-Heritage of Faaglio
+Heritage of Maffre
+Heritage of Faagrio
 Eva Heritage
 Saiyha's heritage
 Vampire Manto
 Des robe
-Integrated warehouse number ^ Klon
-Integrated warehouse number ^ Torak
-Integrated warehouse number ^ Kushan
+Integrated warehouse ^ Klon
+Integrated warehouse ^ Torak
+Integrated warehouse ^ Kushan
 Baranka crow
 Baranka Armor
 Baranca Helm
@@ -3128,7 +3128,7 @@ Ohm's elder
 Sex recovery ^ Atonement messenger
 Teleporter ^ Dials
 Miscellaneous goods merchants ^ Calp
-Integrated warehouse number ^ cowl
+Integrated warehouse ^ Cowl
 Teleporter ^ Diabeth
 Miscellaneous goods merchants ^ EmaT
 Warehouse galin
@@ -3220,10 +3220,10 @@ Japanese style T-shirt
 Chipao T-shirt
 Taha
 PM Coin of King Aden
-Teleporter ^ Market Telepter
-Integrated warehouse number ^ Luke
-Integrated warehouse number ^ Denitz
-Integrated warehouse number ^ Carsham
+Teleporter ^ Market Teleporter
+Integrated warehouse ^ Luke
+Integrated warehouse ^ Denitz
+Integrated warehouse ^ Carsham
 Sign exchange person ^ Yuno
 Item exchange person ^ quarnill
 Item exchange person ^ Toyoyo
@@ -3236,7 +3236,7 @@ Valencia
 Item Manufacturer ^ Blaze
 calculator
 Thin metal plate
-Yorozu Merchant ^ Aden Business
+General Merchant ^ Aden Business
 Teleporter ^ Royal Palace Gatekeeper
 Teleporter ^ Fortress Gatekeeper
 Courage ring
@@ -3448,7 +3448,7 @@ It is satisfied just by just looking at you.
 This is not the end!
 Royal Palace Chef Spice
 Ader's Royal Palace Chef ^ Olive
-Magic Doll Producer ^ Alka
+Magic Doll Production Craftsman ^ Alka
 Magic doll bag
 Suspicious merchant
 Halloween huge pumpkin seeds
@@ -3525,7 +3525,7 @@ Seoul piece
 Teleporter ^ Ancient spirit
 Drake
 Hosographer in the inn ^ Mele
-Integrated warehouse number ^ cude
+Integrated warehouse ^ Cude
 Pet manager ^ Berrick
 Cursed emerald ring
 Weapon armor merchant ^ duron
@@ -3550,7 +3550,7 @@ Hideaur Return Scroll
 Teleport Scrolling Manufacturer ^ Consur
 Alchemist
 Large cavity teleporter
-Suspicious teleporters ^ Spirit Orb
+Suspicious Teleporter ^ Spirit Orb
 Relly horse
 Diad scrolling end
 Diad Teleport Scroll
@@ -3562,8 +3562,8 @@ Quest Guide ^ Kadomos
 Quest Guide ^ Resta
 Quest Guide ^ Ludian
 Kenis
-Integrated warehouse number ^ Tigs
-Integrated warehouse number ^ Zidal
+Integrated warehouse ^ Tigs
+Integrated warehouse ^ Zidal
 Pet manager ^ Ally
 Pet manager ^ Leonard
 Small box
@@ -3856,7 +3856,7 @@ Bishop book
 Manto Maiko Manto
 Magician army king robe
 Beast of Beast Bulk Boots
-Grove of assassination
+Glove of assassination
 Ring of the Milk King
 Amulet of the Magical Bulk
 Dual blade of assassination
@@ -4573,7 +4573,7 @@ Winning of the duke crafted
 Earring thin worker ^ Room tis
 Guiltas heart
 Giltas crystals
-Rasterbad Production Craftsman ^ Adelrio
+Rastabad Production Craftsman ^ Adelrio
 Book of des Night
 Completed Rasterbad's history book
 Choosei-Choosei ^ Chlorence
@@ -5028,7 +5028,7 @@ Water purity
 Acidic emulsion
 Medusa blood
 Jeron's Philone
-Ax producer ^ Geron
+Axe Production Craftsman ^ Geron
 Mercenary leader ^ Tion
 Shinto ^ Gibril
 Ein Hazard's holy water
@@ -5064,12 +5064,12 @@ Card of Castor
 Certificate of Kerenis
 Cardiel of Kenrau Hel
 Cellulos
-Faugrio proof
+Faagrio's proof
 Papri's proof
 Grand Cape proof
 Guidance
 Valacas proof
-Saiyha's proof
+Saiha's proof
 Sebastian's proof
 Cardiac
 Astear's proof
@@ -5190,7 +5190,7 @@ Summoner of water spirits
 Cheru's contract
 Contract of blood
 Pet manager ^ Austin
-Ajito peeling merchant ^ Philis
+Hideout Taxidermy Merchant ^ Philis
 Production request form of exercise
 Card of hunting: Ant
 Card of hunting: Bear
@@ -5296,12 +5296,12 @@ Chase
 Gerico
 Fishing area guide ^ Ladyia
 Repaired broken right ring
-Ajitian manager ^ Michelle
-Ajitian manager ^ Fubbie
-Ajitian manager ^ Eriisa
-Ajitian manager ^ Dorothy
-Ajitian manager ^ Natasha
-Ajitian manager ^ Minoel
+Hideout caretaker ^ Michelle
+Hideout caretaker ^ Fubbie
+Hideout caretaker ^ Eriisa
+Hideout caretaker ^ Dorothy
+Hideout caretaker ^ Natasha
+Hideout caretaker ^ Minoel
 Gold dragon
 Hamel's breath
 Pet Match Gold Medal
@@ -5560,7 +5560,7 @@ Leather Armor of Sea
 Benarea robe
 Manten Manto
 Bottled Boots
-Grove of the sky
+Glove of the sky
 Heavenly Food
 Heavenly Armor Reinforced Scroll
 Heavenly Weapon Enhancement Scroll
@@ -5572,10 +5572,10 @@ AC bonus
 Herpy Transformation Turban
 Black Wizard Transformation Turban
 Gold box
-Destiny earing
-Yellow of the maker
-Flasher's earring
-Great Magician Earling
+Destiny Earring
+Great Archer Earring
+Gladiator Earring
+Great Wizard Earring
 Struggle guard
 Hero's follower
 Mobile order book
@@ -5624,7 +5624,7 @@ The fourth letter of Silence
 5th letter of Silence
 Silne bag
 Elf Forest Teleport Scroll
-迚・譚・Teleport scroll
+Ivory Tower Village Teleport Scroll
 Woodbeck Village Teleport Scroll
 Weldan Village Teleport Scroll
 Rusted whistle
@@ -5872,7 +5872,7 @@ Blacksmith ^ Bastor
 Ralk
 Agile
 New Year's Eve
-Magic Saler ^ Jepal
+Magic Seller ^ Jepal
 Teleporter ^ Dekavia
 Blacksmith ^ Pure
 Talion
@@ -6083,7 +6083,7 @@ Specialized color pack
 Ivory tower
 assistant
 Transformation stone
-Silberia teleportor ^ Illogenist Ausha
+Silberia Teleporter ^ Illogenist Ausha
 Behmstere porter ^ Dragon Night Piena
 Transform
 bag
@@ -6562,7 +6562,7 @@ Leather Armor of Sea
 Benarea robe
 Manten Manto
 Bottled Boots
-Grove of the sky
+Glove of the sky
 Heavenly food
 Heavenly Armor Reinforced scroll
 Bottom weapon reinforced scroll
@@ -7739,10 +7739,10 @@ Concentrated Brave Potion
 Concentrated Mana Potion
 Concentrated Wisdom Potion
 Concentrated Transformation Potion
-Spaorder Manufactured Craftsman ^ Hyos
+Spaulder Production Craftsman ^ Hyos
 Item Manufacturer ^ Straight Shune
 Item Manufacturer ^ Patterned Doho
-Staff production craftsman ^ Baiemi
+Staff Production Craftsman ^ Baiemi
 Doruga bag seller ^ Doruga Ber
 Arc Transformation scroll
 Dragon Key Sales Notification Bulletin Board
@@ -7776,7 +7776,7 @@ Merchant ^ Hank
 Hatching Replacee ^ Bank
 Merchant ^ Munk
 Miscellaneous goods merchants ^ Ilbagil
-Integrated warehouse number ^ Pamirido
+Integrated warehouse ^ Pamirido
 Breath of the frame
 Green hatchlin eggs
 Yellow hatching egg
@@ -8421,7 +8421,7 @@ Alophos Mega
 Alophobia
 Tonal
 Miscellaneous goods merchants ^ Kaimsum
-Integrated warehouse number ^ Bearsam
+Integrated warehouse ^ Bearsam
 Big shell
 Shellfish
 Blessed Teleport Scrolling Cloud
@@ -8546,8 +8546,8 @@ Mymyo
 Conducter's cloak
 Iris Helm Box
 Drake Helm Box
-Suspicious cook
-Suspicious teleportor
+Suspicious Cook
+Suspicious Teleporter
 Additional warehouse ^ Bazaar
 Additional warehouse ^ Badar
 Additional warehouse ^ Bagor
@@ -8572,9 +8572,9 @@ Alchemist ^ Rio
 Alchemist ^ Gelian
 Alchemist ^ Ashmall
 Market teleporter ^
-Market teleportor ^ Elba
+Market Teleporter ^ Elba
 Market teleporter ^ Elbow
-Market teleportor ^ Berger
+Market Teleporter ^ Berger
 Atonement messenger ^ Yona
 Atonement messenger ^ junk
 Atonement messenger ^ Deonish
@@ -8991,7 +8991,7 @@ Benefits Item Manager
 Japan Standardized COLMAN
 Japan Standardized Colteller
 Miscellaneous goods merchants ^ Shivere
-Integrated warehouse number ^ Fredy
+Integrated warehouse ^ Fredy
 Leader Cufam of secret society
 Members of secret society
 Secret society
@@ -9289,7 +9289,7 @@ Episquitative Rune Bag
 Lunes bag of physical strength
 Lunes bag of intelligence
 Wisdom Rune Bag
-Erikusar Rune Production Craftsman ^ Sale
+Elixir Rune Production Craftsman ^ Sale
 Alchemist ^ Ledol
 Magical Missante Merchant ^ Phoe
 Old report
@@ -9935,9 +9935,9 @@ Mana enhancer (3 tablets)
 Hot enhancer (1 grain)
 Hot enhancer (2 tablets)
 Hot enhancer (3 tablets)
-Faugrio messenger
+Faagrio messenger
 Pure Ericser
-Faugrio's grace
+Faagrio's grace
 Halloween pumpkin amulet
 Crack fragment (level 51)
 Crack fragment (level 52)
@@ -11148,9 +11148,9 @@ Magic Doll: Vampire
 Magic Doll: Baranka
 Destruction of: +%d
 Growing heraldic bag
-Recovery coat of arms
+Recovery Emblem
 Crystal sphere of production table ^ relic
-Coat of arms
+Emblem
 Growth emblem
 Recovering emblem
 +3 Grain of growth
@@ -11894,7 +11894,7 @@ dummy
 dummy
 dummy
 Alchemy Research Institute ^ "Mysterious Harmony"
-Ajito store ^ "Diverse house"
+Hideout store ^ "Diverse house"
 Miscellaneous goods shop ^ "Summary buying is cheap"
 Jewelry shop ^ "Glow star"
 Weapon Store ^ "Discussion and Shield"
@@ -12248,7 +12248,7 @@ White flounder grilled spicy illusion
 Green flounder grilled spicy illusion
 Soup pot of spicy illusion
 Rare Turtle soup spicy illusion
-Teleporters ^ Peter
+Teleporter ^ Peter
 Halloween pumpkin Globe 2012
 Halloween pumpkin Longbow 2011
 Halloween pumpkin Tsuhando Sword 2011
@@ -12453,7 +12453,7 @@ Let's do it early. Dead right now!
 dummy
 Halloween Pumpkin Long Sword 2011
 Pumpkin Agiti Maid
-Integrated warehouse number ^ Louis
+Integrated warehouse ^ Louis
 Adene article exchange ^ Beat
 Aden article exchange exchange ^ Shiyan
 Aden article exchange ^ Bill Lyme
@@ -12742,7 +12742,7 @@ table
 Lighthouse
 A man who got on a horse
 Suspicious pillar
-Twin teleportor ^ Maenob's flame
+Twin Teleporter ^ Maenob's flame
 dummy
 dummy
 dummy
@@ -14024,7 +14024,7 @@ dummy
 dummy
 dummy
 Suspicious pet manager ^ piglet
-Suspicious teleportor ^ Piato
+Suspicious Teleporter ^ Piato
 Suspicious warehouse number ^ pies
 Suspicious reinforcement Wizard ^ Piddle
 Suspicious toy merchant ^ Donkey
@@ -14129,7 +14129,7 @@ Everyone can hide properly ...
 King's hunting ground
 King's hunting ground (Internet cafe)
 Teleporter ^ Doria
-Integrated warehouse number ^ Tree
+Integrated warehouse ^ Tree
 Magic Transfer ^ Pay Has
 Beginner Guide ^ Cassiope
 Beginner guide person ^ Bafemet's illusion
@@ -14196,7 +14196,7 @@ Sealed +4 teacher solid shield
 Sealed + 4 teacher Divine Helm
 Sealed + 4 teacher Divine Lobe
 Sealed + 4 teacher Divine Mant
-Sealed + 4 teacher Divine Grove
+Sealed + 4 teacher Divine Glove
 Sealed + 4 teachers Divine boots
 Sealed + 4 teacher Divine shield
 Subquest ^ Basic training instructors
@@ -14229,7 +14229,7 @@ Solid shield of teacher
 Conducter Divine Helm
 Conductor Divine Love
 Conductor Divine Manto
-Conducter's Divine Grove
+Conducter's Divine Glove
 Conducter Divine Boots
 Conducter's Divine Shield
 Sassy guy! Everyone died!
@@ -14368,10 +14368,10 @@ Spirit: 5 steps
 Water spirit: 5 steps
 Vertical: 5 steps
 Gebird: 5 steps
-Spirit attribute change scroll
+Fire spirit attribute change scroll
 Water spirit attribute change scroll
-Spiritual attribute change scroll
-Geil attribute change scroll
+Wind spirit attribute change scroll
+Earth spirit attribute change scroll
 I will show my powerful power!
 Suspicious Bandit
 Pixie's evil spirit
@@ -14587,7 +14587,7 @@ dummy
 Medal of ordeal
 Strengthening wizard ^ Jinasu
 Integrated warehouse guard ^ Kyuku
-Teleporters ^ Siegfried
+Teleporter ^ Siegfried
 Reconnaissance captain ^ Faini
 Site management ^ parrot
 Or go back unexpected for! ?
@@ -15413,7 +15413,7 @@ dummy
 dummy
 dummy
 dummy
-Teleporters ^ syringe
+Teleporter ^ syringe
 Integration Sokoban ^ Jifu
 Of other world Tipon
 Another world of Hell Creature
@@ -15709,7 +15709,7 @@ I will send you to Hell!
 Necromancer appeared
 Death Night appeared
 Diary book exchange ^ erase
-Shielded craftsman ^ Carloa
+Shield Production Craftsman ^ Carloa
 Ancient goods: Helm
 Ancient goods: T-shirt
 Ancient goods: Mail
@@ -16077,7 +16077,7 @@ dummy
 dummy
 dummy
 dummy
-Integrated warehouse number ^ Kuwell
+Integrated warehouse ^ Kuwell
 Return teleporter ^ Welcome
 Return brave training center
 (Earth Guardian)
@@ -17625,7 +17625,7 @@ Papurion of darkness
 Papurion of fear
 Rindobioru of darkness
 Rindobioru of fear
-Teleporters ^ unicorn temple patron Wizard
+Teleporter ^ unicorn temple patron Wizard
 The key to the box of the central temple
 The key to the golden box of the central temple
 Phantom Porushisu
@@ -18621,7 +18621,7 @@ Tears of concentrated ice queen
 Flame of Crystal
 Ham bag of
 True Desunaito Flame blade
-Teleporters ^ Erudonashu
+Teleporter ^ Erudonashu
 Tower wizard ^ hum of ivory
 Burning Fox
 Burning Bear
@@ -18724,21 +18724,21 @@ dummy
 dummy
 dummy
 Fruits of growth 3 days
-Blacksmith of Faagurio
-Crystal of Faagurio
-Blacksmith of the contract of Faagurio
-Mallet of Faagurio
-Traces of Faagurio
-Tears of Faagurio
+Blacksmith of Faagrio
+Faagrio's Crystal
+Blacksmith of Faagrio's Contract
+Faagrio's Mallet
+Faagrio's Traces
+Faagrio's Tears
 dummy
 Do not anyone?
-Faagurio of contract gift box
-Mallet gift box of Faagurio
-Blacksmith of Faagurio ^ great man
-Disciple of Faagurio
-Faagurio of gold (100 million)
+Faagrio's Contract Gift Box
+Faagrio's Mallet Gift Box
+Blacksmith of Faagrio ^ Great Man
+Disciple of Faagrio
+Faagrio's gold (100 million)
 Adena (100 million)
-Faagurio gift
+Faagrio gift
 dummy
 dummy
 dummy
@@ -18936,7 +18936,7 @@ Room Tiss Enhancement Scroll
 dummy
 Phosphorene
 Messenger of teleporters ^ Chiryu
-Teleporters ^ water dragon of the messenger
+Teleporter ^ water dragon of the messenger
 dummy
 dummy
 dummy
@@ -18969,8 +18969,8 @@ Possession rate of weight increase
 dummy
 Consumable bag
 [Set bonus]
-Amulet of Faagurio
-Special contract of Faagurio
+Faagrio's Amulet
+Faagrio's Special Contract
 Giant
 Giant Warrior
 Giant Sherman
@@ -19659,11 +19659,11 @@ dummy
 dummy
 dummy
 dummy
-Technology Technology Resistant T-Shirt Box: Special Made
-EpiSword Magic Resistance T-shirt Box: Special Made
-Episervent Technology Resistance T-shirt Box: Special Made
-Magic Resistance T-shirt Box of intelligence: special
-Technology Resistant T-Shirt Box for Intelligence: Special Made
+Strength Technology Resistant T-shirt Box: Special
+Agile Magic Resistance T-shirt Box: Special
+Agile Technology Resistant T-shirt Box: Special
+Intelligence Magic Resistance T-shirt Box: Special
+Intelligence Technology Resistant T-shirt Box: Special
 dummy
 dummy
 dummy
@@ -20555,10 +20555,10 @@ dummy
 dummy
 dummy
 dummy
-Iron gate
-Body fitness gate
-Magic Defense Geter
-Dark Star Geter
+Iron Gaiters
+Body Fitness Gaiters
+Magic Defense Gaiters
+Dark Star Gaiters
 God's hand Mr. K's return box (arm power-magic resistance)
 God's hand Mr. K's return box (Eggy-Magic Resistance)
 God's hand Mr. K's return box (intelligence-magic resistance)
@@ -20775,7 +20775,7 @@ dummy
 dummy
 dummy
 Christmas bronze statue
-Suspicious teleportor ^ Pia
+Suspicious Teleporter ^ Pia
 dummy
 dummy
 Defense Success Reward
@@ -20814,9 +20814,9 @@ Miscellaneous carriers ^ Corps of black forest
 Dimension of dimension
 Honorary box
 Loser box
-Integrated warehouse number ^ basil
-Integrated warehouse number ^
-Integrated warehouse number ^ spoon
+Integrated warehouse ^ Basil
+Integrated warehouse ^ Sid
+Integrated warehouse ^ Spoon
 HP / MP Bar
 HP / MP Bar Recovery Status Display
 View the mouse cursor larger
@@ -20882,7 +20882,7 @@ Magic Doll: Valacas
 Magic Doll: Anturas
 Magic Doll: Papri
 dummy
-Lucky chest ﾎｳ
+Lucky chest γ
 Lineage Thanks Box
 Drake Magic Doll
 King Bug Bear Magic Doll
@@ -21053,7 +21053,7 @@ Since the area of 窶銀逆he direction we are governed, it can invade the darknes
 Since the area of 窶銀逆he direction we are dominated, you can invaded the army camp of the flame without interference from other corps.
 Proceeding in this direction, please be careful because there are enemies in a stone's throw.
 We do not have any enemies in the vicinity of the entrance. Please come out from the opposite of the entrance if you want to encounter the enemy.
-Orb teleporters ^ teleport
+Orb Teleporter ^ teleport
 Let's take away the dimensions of the pieces to defeat the enemy.
 Fragments of dimensions combat as collect if you collect many will be advantageous.
 Compensation will be given and collect the dimensions of the pieces more than two thousand.
@@ -21061,12 +21061,12 @@ Valentine's participation ticket
 Ivory Tower of Talisman (3 days)
 dummy
 VIP Aden shop ^ Aya
-Blacksmith of premium Faagurio ^ Alberto
+Blacksmith of premium Faagrio ^ Alberto
 VIP strengthening wizard ^ Arun
-VIP teleporters ^ ear
+VIP Teleporter ^ ear
 VIP Misute are those who were of the earth ^ Lily
 Sokoban ^ Keruka
-VIP teleporters ^ Chou
+VIP Teleporter ^ Chou
 Experience VIP card (Red)
 A small bag of Marvin
 Premier Ice Cube
@@ -21146,10 +21146,10 @@ Occupation war preparation time
 Occupation war preparation time
 Hide avoidance effect
 Claudia's good messenger ^ Lara
-Magic teach people ^ Moulder
+Magic Instructor ^ Moulder
 Sokoban ^ queue Bear
 Miscellaneous goods merchant ^ serine
-Teleporters ^ Sophie
+Teleporter ^ Sophie
 [China] raid Wanted house ^ cowl
 Old man Mopu
 Lady Sarah
@@ -22607,7 +22607,7 @@ Waterfall of Ain hazard
 \aLOrc totem
 Terra Dragon soul
 Practitioners weapons and armor merchant ^ Kesun
-Elemental magic teach people ^ Erarion
+Elemental Magic Instructor ^ Erarion
 dummy
 dummy
 Battlefield admission guide people ^ Crimson messenger of the Knights
@@ -22645,10 +22645,10 @@ dummy
 dummy
 dummy
 Lara
-Magic teach people ^ Moulder
-Sokoban ^ queue Bear
-Knights of goods merchant ^ serine
-Teleporters ^ Sophie
+Magic Instructor ^ Molda
+Warehouse ^ Cuebear
+Knights' miscellaneous goods merchant ^ Serine
+Teleporter ^ Sophie
 Cowl
 Morph
 Sera
@@ -22685,7 +22685,7 @@ Of the underground world Jinosu
 Saku Marsh
 Fear box of ancient Kronos
 Fear of ancient Kronos
-Magic seller of the Knights ^ Simon
+Knights' Magic Seller ^ Simon
 Gunther of the nomination form
 Great Sword of Ginha
 Earrings of Faust of evil spirits
@@ -23072,7 +23072,7 @@ Knight's Yugudra Fruit
 Knight's Dark Stone
 Bone piece of knight mark seal
 Knight's Attribute Stone
-Talking island teleporters ^ Loti
+Talking island Teleporter ^ Loti
 dummy
 dummy
 Goddess of blessing
@@ -24276,7 +24276,7 @@ dummy
 dummy
 dummy
 dummy
-Admission teleporters ^ Sudoru
+Admission Teleporter ^ Sudoru
 dummy
 dummy
 dummy
@@ -24464,20 +24464,20 @@ dummy
 dummy
 dummy
 dummy
-Proof of the Unicorn of growth
+Unicorn Proof of Growth
 Bag of Unicorn Magic Doll
-Gaiters of Unicorn of physical strength
-Agility of Gaiters of Unicorn
-Gaiters of Unicorn of intelligence
-Armor Reinforced scroll of the Unicorn
+Unicorn Gaiters of Strength
+Unicorn Gaiters of Agility
+Unicorn Gaiters of Intelligence
+Unicorn Armor Reinforced Scroll
 Treasure of the Unicorn Temple
 Gift of Unicorn
 Treasure Chest of Abisshi
 Treasure Chest of Asumodan
-[General] unicorn of armor reinforcement scroll
-[Curse] unicorn of armor reinforcement scroll
-[Blessing] unicorn of armor reinforcement scroll
-Production craftsman ^ Tamusu
+[General] Unicorn Armor Reinforced Scroll
+[Curse] Unicorn Armor Reinforced Scroll
+[Blessing] Unicorn Armor Reinforced Scroll
+Production Craftsman ^ Tamusu
 dummy
 dummy
 dummy
@@ -24582,12 +24582,12 @@ Alka Special Magic Doll Bag (Rank 3)
 Alka Special Magic Doll Bag (Rank 4)
 Alka Special Magic Doll Bag (Rank 5)
 Magic Doll: Earth Giant
-Magic Doll Producer ^ Alka
+Magic Doll Production Craftsman ^ Alka
 Magic Doll Egg
 dummy
 Relevant Helm
 dummy
-Faugrio agreement
+Faagrio agreement
 Earth Giant Magic Doll
 VIP coin
 Growth Box (Test Server)
@@ -24596,7 +24596,7 @@ Growth shop (test server)
 Power manager (test server)
 Is a shadding
 Kinomagatsuchi appearance
-Net cafe teleportor
+Net cafe Teleporter
 Amulet of Tennai
 Ring of Tennai
 Heroes Helm
@@ -24921,10 +24921,10 @@ dummy
 Black Night Helm
 Divine Protection Cloak
 Guardian Knight Braser
-Guardian Knight Power Grove
+Guardian Knight Power Glove
 Divine Bless of Elm
 Divine Elven Plate Mail
-Divine Erven Shield
+Divine Elven Shield
 True yellow pier
 Sacred arm power amulet
 Sacred agile amulet
@@ -25051,7 +25051,7 @@ Dark dragon of the assassin
 Centurion of the dark dragon
 Black magician of the dark dragon
 Dominated hive
-Teleporters ^ wizard lead
+Teleporter ^ wizard lead
 dummy
 dummy
 Barrier the first floor of domination
@@ -25365,12 +25365,12 @@ dummy
 dummy
 dummy
 dummy
-Coat of arms bags of physical strength
-Agile coat of arms bags
-Coat of arms bags of intelligence
-Emblem of physical strength
-Emblem of agile
-Coat of arms of the intelligence
+Strength Emblem Bag
+Agility Emblem Bag
+Intelligence Emblem Bag
+Emblem of Strength
+Emblem of Agility
+Emblem of Intelligence
 Valakasu of the car: the short-range
 dummy
 dummy
@@ -25506,7 +25506,7 @@ Secret Beads (Dragon Skin)
 Kipya Beads (Battle Strengthening)
 Secret Beads (Advanced Spirits)
 Platinum Administrator ^ Kuru
-VIP teleportor ^ Momo
+VIP Teleporter ^ Momo
 VIP Ancient Giant's Tomb ^ Dada
 Bethellan Ax
 + 5 Bethellan Ax Bag
@@ -25529,7 +25529,7 @@ dummy
 Absolute MP Nature Recovery
 Strengthening bonus damage
 Halpas's genus
-Integrated warehouse number ^ Laz
+Integrated warehouse ^ Laz
 Miscellaneous goods merchant ^ Kcombol
 Raid Strengthening Wizard ^ Des Night
 Valakas: Guu 縺・... A great cousin kera ....
@@ -25656,7 +25656,7 @@ Orta Stone Scroll Synthesis ^ Alter
 Survey Corps ^ Arton
 Survey Corps ^ Gilian
 Sennos Treasure Seoul Crystal
-Special Faugrio Blacksmith
+Special Faagrio Blacksmith
 Dragon Hunter Bag
 Event merchant ^ Dragon hunter
 Awakening papri
@@ -25674,7 +25674,7 @@ Water dragon bag
 Wind dragon bag
 Fire dragon bag
 Halloween event ^ Candy Boy Jun
-Event teleportor ^ Pumpkin tree
+Event Teleporter ^ Pumpkin tree
 dummy
 Pumpkin Candy Bar
 Halloween backpack
@@ -25706,14 +25706,14 @@ Mutated blood
 Mutated blue blood (net cafe)
 Blood mark collection test tube
 Blood mark collection test tube (net cafe)
-Event teleportor ^ erylin
+Event Teleporter ^ erylin
 Event Reporting Prize ^ Poon
 Event merchant ^ Ulty
 Hidden dragon land
 dummy
 dummy
-Silver Night Spaorder
-Hunter's spaorder
+Silver Night Spaulder
+Hunter's Spaulder
 Prophet Spaorda
 Old spolder
 Fighter's Insignier Box
@@ -25873,14 +25873,14 @@ dummy
 dummy
 dummy
 dummy
-[Hero] +6 Ascension Almapper Gatur
-[Hero] +6 Ascension Agate Gather
-[Hero] +6 Ascension intellectual force gate
+[Hero] +6 Ascension Gaiters of Strength
+[Hero] +6 Ascension Gaiters of Agility
+[Hero] +6 Ascension Gaiters of Intelligence
 dummy
 [Hero] +6 Ascension Cloak
 dummy
 [Hero] +8 Beginning Magic Book
-[Hero] [Return] Ascension Garder
+[Hero] [Return] Ascension Girder
 [Hero] +5 Assension Belt
 dummy
 [Hero] +8 Beginning Vanbrace
@@ -26120,7 +26120,7 @@ dummy
 dummy
 dummy
 dummy
-Event teleportor ^ Jack
+Event Teleporter ^ Jack
 Event Report Award ^ Night
 Event Merchant ^ Beans House
 Jack box
@@ -26388,7 +26388,7 @@ dummy
 dummy
 dummy
 dummy
-Unicorn Guitar
+Unicorn Gaiters
 dummy
 dummy
 dummy
@@ -26485,12 +26485,12 @@ dummy
 dummy
 dummy
 dummy
-Coat of arms: Growth
+Emblem: Growth
 Episquitative emblem: Growth
 Intelligence Essentials: Growth
-Coat of arms: Recovery
+Emblem: Recovery
 Essential emblem: Recovery
-Intelligence coat of arms: Recovery
+Intelligence Emblem: Recovery
 Coat of adhesion of recovery: Growth
 Red Magic Strengthening Curse Box
 dummy
@@ -26528,60 +26528,60 @@ Hakken of fire dragons
 4 element + sulfur = fire potion
 4 element + mercury = fire potion
 4 elemental + salt = fire potion
-+3 Eye coat of arms: Growth
-+4 Armmart Emblem: Growth
-+5 Armmarts Emblem: Growth
-+6 Armmarts Eharpery: Growth
-+7 Armmart Emblem: Growth
-+8 Armmart Emblem: Growth
-+9 Coat of arm power: Growth
-+10 Armmart Emblem: Growth
-+3 Essential Emblem: Growth
-+4 Essential Emblem: Growth
-+5 Essential Emblem: Growth
-+6 Essential Emblem: Growth
-+7 Elasting of Elasts: Growth
-+ 8 Elasto Emblem: Growth
-+9 Elasting Emitting: Growth
-+10 Elasting Emitting: Growth
-+3 Instructive arms of intelligence: Growth
++3 Strength Emblem: Growth
++4 Strength Emblem: Growth
++5 Strength Emblem: Growth
++6 Strength Emblem: Growth
++7 Strength Emblem: Growth
++8 Strength Emblem: Growth
++9 Strength Emblem: Growth
++10 Strength Emblem: Growth
++3 Agility Emblem: Growth
++4 Agility Emblem: Growth
++5 Agility Emblem: Growth
++6 Agility Emblem: Growth
++7 Agility Emblem: Growth
++8 Agility Emblem: Growth
++9 Agility Emblem: Growth
++10 Agility Emblem: Growth
++3 Intelligence Emblem: Growth
 +4 Intelligence Emblem: Growth
-+5 Insource of intelligence: Growth
-+6 Heart of intelligence: Growth
-+7 Instructive armature: Growth
-+8 Insource of intelligence: Growth
-+9 Heart of intelligence: Growth
-+10 Membrane of intelligence: Growth
-+3 Armmart Eharpery: Recovery
-+4 Armmart Emblem: Recovery
-+5 Creative Earrho: Recovery
-+6 Armmart Emblem: Recovery
-+7 Armmart Emblem: Recovery
-+8 Armmart Emblem: Recovery
-+9 Coat of arm power: Recovery
-+10 Armmart Eharpery: Recovery
-+3 Elasting Emailing: Recovery
-+4 Elasting of Heratinear: Recovery
-+5 Elasting Emblem: Recovery
-+6 Elasting Emitting: Recovery
-+7 Elasting Emitting: Recovery
-+ 8 Heart of Heart: Recovery
-+9 Elasts of Eat of Heric: Recovery
-+10 Elasting Emailing: Recovery
-+3 Membraneous arms of intelligence: Recovery
++5 Intelligence Emblem: Growth
++6 Intelligence Emblem: Growth
++7 Intelligence Emblem: Growth
++8 Intelligence Emblem: Growth
++9 Intelligence Emblem: Growth
++10 Intelligence Emblem: Growth
++3 Strength Emblem: Recovery
++4 Strength Emblem: Recovery
++5 Strength Emblem: Recovery
++6 Strength Emblem: Recovery
++7 Strength Emblem: Recovery
++8 Strength Emblem: Recovery
++9 Strength Emblem: Recovery
++10 Strength Emblem: Recovery
++3 Agility Emblem: Recovery
++4 Agility Emblem: Recovery
++5 Agility Emblem: Recovery
++6 Agility Emblem: Recovery
++7 Agility Emblem: Recovery
++8 Agility Emblem: Recovery
++9 Agility Emblem: Recovery
++10 Agility Emblem: Recovery
++3 Intelligence Emblem: Recovery
 +4 Intelligence Emblem: Recovery
-+5 Heart of intelligence: Recovery
-+6 Insource of intelligence: Recovery
-+7 Heart of intelligence: Recovery
++5 Intelligence Emblem: Recovery
++6 Intelligence Emblem: Recovery
++7 Intelligence Emblem: Recovery
 +8 Intelligence Emblem: Recovery
-+9 Membrint of intelligence: Recovery
-+10 Insource of intelligence: Recovery
++9 Intelligence Emblem: Recovery
++10 Intelligence Emblem: Recovery
 +3 Recovery Emblem: Growth
 +4 Recovery Emblem: Growth
 +5 Recovery Emblem: Growth
 +6 Recovery Emblem: Growth
 +7 Recovery Emblem: Growth
-Appearance of +8 recovery: Growth
++8 Recovery Emblem: Growth
 +9 Recovery Emblem: Growth
 +10 Recovery Emblem: Growth
 Blessed life leaves
@@ -26983,13 +26983,13 @@ Aggress
 \aFGrim Reachy Shimoga Chip
 \aHDeath breath
 \aFNightbard's gate
-\aFNightbard Spaorder
+\aFNightbard Spaulder
 \aFRich Ring
 \aFRich Crystal Ball
 \aMummy Road Gatur
 \aFMummy Road Ring
 \aFMummy Road Boots
-\aFMummy Road Grove
+\aFMummy Road Glove
 \aFVampire's Gatel
 \aFGrim reaper ring
 \aFSheer shield
@@ -27010,15 +27010,15 @@ Philosopher of combat enhanced scroll box
 Skin of the chimeric
 Chaos leather
 dummy
-Salvation of the messenger ^ Andrea
-Salvation of the messenger ^ Mahdia
-Salvation of the messenger ^ Mika
-Salvation of the messenger ^ Johanna
-Salvation of the messenger ^ Nathanael
-Salvation of the messenger ^ Baorona
-Salvation of the messenger ^ Yoda
-Salvation of the messenger ^ Jordan
-Salvation of the messenger ^ Barnabas
+Messenger of the Salvation ^ Andrea
+Messenger of the Salvation ^ Mahdia
+Messenger of the Salvation ^ Mika
+Messenger of the Salvation ^ Johanna
+Messenger of the Salvation ^ Nathanael
+Messenger of the Salvation ^ Baorona
+Messenger of the Salvation ^ Yoda
+Messenger of the Salvation ^ Jordan
+Messenger of the Salvation ^ Barnabas
 Girder of Hirei
 Girder of Kazerei
 Girder of Mizurei
@@ -27495,7 +27495,7 @@ Ah ... sorry ... I wanted to play more ...
 ... The door of death opens ...
 ... Anthropogenic power that was divided was completed ...
 ... It is ready to receive the offering ...
-Dimension teleportor ^ distortion soul
+Dimension Teleporter ^ distortion soul
 Telepter ^ distortion wizard
 The soul of violent death
 Militants of the patron Insignia
@@ -27523,8 +27523,8 @@ Philosopher's patron Insignia
 \aLearth elements (large)
 Orc erader
 Black Knight secretary
-Unicorn guardian gaiters box
-Unicorn guardian gaiters
+Unicorn Guardian Gaiters Box
+Unicorn Guardian Gaiters
 Gaiters Relay Certificate
 Spaulders Relay Certificate
 Red magic enhancement box
@@ -27805,7 +27805,7 @@ Dominated Kawataro
 Minions of the demon
 Chieftain of the demon
 Event reward paid ^ Fukufuku
-Events teleporters ^ security length
+Events Teleporter ^ security length
 Silver weapons production
 dummy
 dummy
@@ -28069,54 +28069,54 @@ Overall
 dummy
 Bean tree
 Mayo
-Fighter's emblem
-Archment of the archer
-Sage heraldic
-Crest of guardian
-Fighter's coat of arms
-Archment coat of arms
-Sorcerer's coat of arms
-Guardian coat of arms
-Fighter's Guardian
-Archer's guardian
-Sorcerer's guardian
-+1 Fighter's coat of arms
-+2 Fighter's coat of arms
-+3 Fighter's coat of arms
-+4 Fighter's coat of arms
-+5 Fighter's coat of arms
-+6 Fighter's emblem
-+7 Fighter's coat of arms
-+8 Emblem of fighter
-+1 coat of armor
-+2 coat of armor
-+3 coat of armor
-+4 coat of armor
-+5 coat of armor
-+6 coat of armor
-+7 coat of armor
-+8 coat of armor
-+1 Sorcerer's coat of arms
-+2 Sorcerer's Emblem
-+3 Sorcerer's coat of arms
-+4 Sorcerer's Emblem
-+5 Sorcerer's Emblem
-+6 Sorcerer's Emblem
-+7 Sorcerer's Emblem
-+8 Sorcerer's coat of arms
-+5 Fighter's Guardian
-+6 Fighter's Guardian
-+7 Fighter's guardian
-+8 Fighter's Guardian
-+5 Protection of shooter
-+6 Heart guardian
-+7 Hakko's guardian
-+8 Protection of shooter
-+5 Sorcerer's Guardian
-+6 Sorcerer's Guardian
-+7 Sorcerer's Guardian
-+8 Sorcerer's Guardian
-Customer Equipment Merchant ^ Evans
+Fighter's Emblem
+Archer's Emblem
+Sage's Emblem
+Guardian Emblem
+Fighter's Emblem Bag
+Archer's Emblem Bag
+Sage's Emblem Bag
+Guardian Emblem Bag
+Fighter's Guardian Emblem
+Archer's Guardian Emblem
+Sage's Guardian Emblem
++1 Fighter's Emblem
++2 Fighter's Emblem
++3 Fighter's Emblem
++4 Fighter's Emblem
++5 Fighter's Emblem
++6 Fighter's Emblem
++7 Fighter's Emblem
++8 Fighter's Emblem
++1 Archer's Emblem
++2 Archer's Emblem
++3 Archer's Emblem
++4 Archer's Emblem
++5 Archer's Emblem
++6 Archer's Emblem
++7 Archer's Emblem
++8 Archer's Emblem
++1 Sage's Emblem
++2 Sage's Emblem
++3 Sage's Emblem
++4 Sage's Emblem
++5 Sage's Emblem
++6 Sage's Emblem
++7 Sage's Emblem
++8 Sage's Emblem
++5 Fighter's Guardian Emblem
++6 Fighter's Guardian Emblem
++7 Fighter's Guardian Emblem
++8 Fighter's Guardian Emblem
++5 Archer's Guardian Emblem
++6 Archer's Guardian Emblem
++7 Archer's Guardian Emblem
++8 Archer's Guardian Emblem
++5 Sage's Guardian Emblem
++6 Sage's Guardian Emblem
++7 Sage's Guardian Emblem
++8 Sage's Guardian Emblem
+Knights' Equipment Merchant ^ Evans
 Production table ^ Equipment of Knights
 Soldier's Head
 Magician's Head
@@ -28128,12 +28128,12 @@ Giant sniper remains
 Reinforced soldier's corpse
 Disting Cemetery Guardian
 Suspicious man
-Event teleportor ^ yelich
+Event Teleporter ^ yelich
 Event production ^ Ellington
 Training instructor ^ Harper
-+0 Fighter's emblem
-+0 coat of armor
-+0 Sorcerer's coat of arms
++0 Fighter's Emblem
++0 Archer's Emblem
++0 Sage's Emblem
 Arinhazard Prayer Fragments
 Elixir Rune of Strength (80)
 Elixir Rune of Agility (80)
@@ -28180,7 +28180,7 @@ dummy
 dummy
 A soul of a bad death
 Making Stone Statue ^ Dragon Gems
-Production stone statue ^ coat of arms
+Production stone statue ^ Emblem
 Production stone statue ^ Room tissue earring
 Production stone statue ^ Snapper ring
 Production stone statue ^ In Signia
@@ -28252,8 +28252,8 @@ dummy
 Magic Doll: Cash
 Magic Doll: Carts
 Magic Doll: Bafemet
-Unicorn Guitar
-Unicorn resistor gate
+Unicorn Guardian Gaiters
+Unicorn Resistance Gaiters
 Moonbound bag
 Month Relle 1,000 times
 Monthly fishing rod
@@ -28385,30 +28385,30 @@ Doberman
 Shepherd
 Husky
 Kishu dog
-Sacred Arm Strength Belt
-Sacred agile belt
-Holy intelligent belt
-Sacred wisdom belt
-+ 5 Sacred Arm Strength Belt
-+ 6 Sacred Arm Strength Belt
-+ 7 Holy Strength Belt
-+ 8 Holy Strength Belt
-+9 Holy Strength Belt
-+5 Sacred Affairs Belt
-+ 6 Holy Episervent Belt
-+ 7 Holy Episervent Belt
-+ 8 Holy Episervent Belt
-+9 Sacred Ayaku Belt
-+5 Sacred intelligent belt
-+6 Sacred intelligent belt
-+7 Sacred intelligent belt
-+ 8 Holy intelligent belt
-+9 Sacred intelligent belt
-+5 Sacred wisdom belt
-+6 Sacred wisdom belt
-+ 7 Sacred wisdom belt
-+ 8 Sacred wisdom belt
-+9 Sacred wisdom belt
+Sacred Strength Belt
+Sacred Agile Belt
+Sacred Intelligent Belt
+Sacred Wisdom Belt
++5 Sacred Strength Belt
++6 Sacred Strength Belt
++7 Sacred Strength Belt
++8 Sacred Strength Belt
++9 Sacred Strength Belt
++5 Sacred Agile Belt
++6 Sacred Agile Belt
++7 Sacred Agile Belt
++8 Sacred Agile Belt
++9 Sacred Agile Belt
++5 Sacred Intelligent Belt
++6 Sacred Intelligent Belt
++7 Sacred Intelligent Belt
++8 Sacred Intelligent Belt
++9 Sacred Intelligent Belt
++5 Sacred Wisdom Belt
++6 Sacred Wisdom Belt
++7 Sacred Wisdom Belt
++8 Sacred Wisdom Belt
++9 Sacred Wisdom Belt
 dummy
 dummy
 dummy
@@ -29782,7 +29782,7 @@ Magic Protection Leather Armor
 Magic Protection Lobe
 Bishop book
 Guarder of guardian
-Divine Erven Shield
+Divine Elven Shield
 Gelachin's physical strength amulet
 dummy
 dummy
@@ -30064,13 +30064,13 @@ Servant of the earth
 Greedy predators
 Temptation of the deep sea
 dummy
-Sword maker ^ Ken
-Dual blade maker ^ hover
-Amulet maker ^ Suria
-Ring maker ^ Warin
+Sword Production Craftsman ^ Ken
+Dual Blade Production Craftsman ^ hover
+Amulet Production Craftsman ^ Suria
+Ring Production Craftsman ^ Warin
 Frigid craftsman ^ Colt
 Asmodian craftsman ^ Rinemu
-Belt maker ^ Glen
+Belt Production Craftsman ^ Glen
 Production statue ^ dragon T-shirt
 dummy
 Tekutasu
@@ -30138,7 +30138,7 @@ Shining pumpkin belt
 Shining pumpkin amulet
 Really I annoying!
 Thirst for blood of the flame
-Teleporters ^ squall
+Teleporter ^ squall
 dummy
 dummy
 dummy
@@ -30220,7 +30220,7 @@ dummy
 dummy
 Unicorn Temple of the key (events)
 dummy
-Knight's of the coin exchange ^ Zoua
+Knight's Coin Exchange ^ Zoua
 dummy
 dummy
 dummy
@@ -30425,7 +30425,7 @@ dummy
 dummy
 Lost love ^ Nibasu
 Event production ^ unique
-Events teleporters ^ Jeff
+Events Teleporter ^ Jeff
 I went on a journey ^ Heina
 Events merchant ^ Kai
 Letter sincerity was rice
@@ -30574,7 +30574,7 @@ Enter the hunting ground
 dummy
 dummy
 dummy
-Tower of the Arrogance's teleporters ^ Tower of the Arrogance's teleport image
+Tower of the Arrogance's Teleporter ^ Tower of the Arrogance's teleport image
 dummy
 dummy
 dummy
@@ -30706,7 +30706,7 @@ Delicate Eidolon
 Wicked Imp
 Hungry Mandragora
 Siege has begun!
-Dimension of teleporters ^ distortion spirit of
+Dimension of Teleporter ^ distortion spirit of
 Ultimate Battle
 dummy
 dummy
@@ -30758,7 +30758,7 @@ dummy
 dummy
 dummy
 Battle scroll of
-Suspicious production craftsman ^ coma
+Suspicious Production Craftsman ^ coma
 Ain hazard of the car: 30 days
 Level-up box
 Complete gift box
@@ -30952,10 +30952,10 @@ dummy
 dummy
 dummy
 Gunter's Growth Potion
-[+3] Fighter's coat of arms
-[+3] Hand coat of armor
+[+3] Fighter's Emblem
+[+3] Archer's Emblem
 [+3] Sorcerer's Emblem
-[+3] Guardian's coat of arms
+[+3] Guardian's Emblem
 [+3] Fighter's Insignia
 [+3] Archer's Insignia
 [+3] Sorcerer's Insignia
@@ -31221,7 +31221,7 @@ dummy
 dummy
 dummy
 Blessing of the tree of guardian ^ Cairo Shukein
-Events teleporters ^ Cairo Shukein
+Events Teleporter ^ Cairo Shukein
 dummy
 (Weapon Attack)
 dummy
@@ -31276,7 +31276,7 @@ Knight's Weapon Box
 Knight's Gift Box
 Fencer's Proof Box of Growth
 Fencer's Testament to the Growth
-Heroes of production craftsman ^ Haven
+Heroes of Production Craftsman ^ Haven
 Valley skeleton Fighter
 Valley of the skeleton Marksman
 Valley of the skeleton guard
@@ -31636,19 +31636,19 @@ Dragon Heart Teleporter ^ Fire Dragon Cave
 \aFValacas Long Sword
 \aFValacas's Two-handed Sword
 \aFPapriion Long Bow
-\aFPapriion dual blade
-\aFAntaras Ax
-\aFAntaras staff
-\aFLynd Viol chain Sword
+\aFPapriion Dual Blade
+\aFAntaras Axe
+\aFAntaras Staff
+\aFLynd Viol Chain Sword
 \aFLind Viol Key Link
 \aHHalpas Dark Plate Mail
 \aHHalpas Dark Scale Mail
-\aHHalpas Dark Lobe
-\aFDragon Slayer Gather
-Commander Spaorder
-Saiyha spolder
-Demonstration Spaorda
-Old drench spaorder
+\aHHalpas Dark Robe
+\aFDragon Slayer Gaiters
+Commander Spaulder
+Saiyha Spaulder
+Demonstration Spaulder
+Old drench Spaulder
 Black dragon magic eye
 Sealed black dragon magic eye
 Absolute magical eye
@@ -31747,9 +31747,9 @@ Blessing exp
 +4 Roomtis Blue Earning
 +4 Roomtis Purple Earning
 +4 Roomtis Black Earning
-+4 Fighter's coat of arms
-+4 coat of armor
-+4 Sorcerer's Emblem
++4 Fighter's Emblem
++4 Archer's Emblem
++4 Sage's Emblem
 +4 Insignia of fighter
 +4 Insignia of shooter
 +4 Sorcerer's Insignia
@@ -31958,7 +31958,7 @@ Warrior-like, it will be taken the soul and more stays here.
 Someday also believe that he will come to help me. Anabolic Take care ...
 No way I wonder if I thought even if go home alive from here?
 It is stupid. Already in my hands your soul! Hahaha'!
-Wizard of teleporters ^ anonymous
+Wizard of Teleporter ^ anonymous
 Security personnel ^ Minjei
 Strengthening wizard ^ Waniru
 Supplies merchant ^ tulle
@@ -32000,7 +32000,7 @@ Kneeling in front of me!
 After a long time in interesting I guys came
 Get out! Cute creation!
 Don't get angry! !
-Integrated warehouse number ^ drum
+Integrated warehouse ^ Drum
 Don't feel strange if it is ...
 Black magic power ...
 Kelenis ...
@@ -33343,7 +33343,7 @@ Snapper Health Ring Box
 Snapper magic resistance ring box
 Snapper Wisdom Ring Box
 Snapper Hero Ring Box
-Clan Producer ^ Tisper
+Clan Production Craftsman ^ Tisper
 Roomtis Black Earling Box
 Roomtis Red Earling Box
 Roomtis Blue Earling Box
@@ -33606,7 +33606,7 @@ dummy
 dummy
 dummy
 dummy
-Clan Producer
+Clan Production Craftsman
 Senior Clan Fragment Box
 dummy
 \aFAncient heritage (sword)
@@ -33798,7 +33798,7 @@ A city that became ruined
 Event production ^ 迚・
 Event Reporting Prize ^ ivory tower wizard
 Event Merchant ^ Kingdom Country
-Event teleportor ^ Kingdom Wizard
+Event Teleporter ^ Kingdom Wizard
 Kingdom-clean event
 Item purchase
 Hunting field teleport
@@ -34399,7 +34399,7 @@ Growth coin box
 +4 snapper ring exchange ticket
 +4 Roomtis pendant exchange ticket
 +4 Insignia exchange ticket
-+4 coat of arms exchange ticket
++4 Emblem exchange ticket
 +4 Warrior Pendant
 +4 archer pendant
 +4 Sage's pendant
@@ -34427,7 +34427,7 @@ Keprisha food
 Keprisha's remedy
 Ein Hazard Battle Scroll
 Keprisha's Pure Elixir (EXP) Box
-Hero production craftsman ^ Saven
+Hero Production Craftsman ^ Saven
 Gold Castle Relic Package
 Gold Castle Relic Box
 Gold Castle Shining Box
