@@ -4,7 +4,7 @@
 	<title>Event</title>
 	<npc>
 		<portrait></portrait>
-		<name>Pumpkin tree</name>
+		<name>Pumpkin Tree</name>
 		<job>[Halloween event]</job>
 		<text></text>
 	</npc>

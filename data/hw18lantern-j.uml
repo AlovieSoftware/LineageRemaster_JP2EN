@@ -4,7 +4,7 @@
 	<title>Event</title>
 	<npc>
 		<portrait></portrait>
-		<name>Jack'O Lantern</name>
+		<name>Jack O'Lantern</name>
 		<job>[Halloween event]</job>
 		<text></text>
 	</npc>
