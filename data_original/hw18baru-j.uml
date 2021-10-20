@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>カカシのミア</name>
+		<job>[ハロウィンイベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>ハッピーハッピーハロウィン～！<br/>
+		<br/>
+		今年のハロウィンは特別に<font fg="ffffaf">ハロウィン麦わら帽子</font>を準備しました。<br/>
+		帽子をかぶると獲得できる<font fg="ffffaf">パンプキンストーン</font>をジュンに持っていくと、狩りに役立つアイテムが作れます。<br/>
+		<br/>
+		<br/>
+        それと、<font fg="ffffaf">ハロウィンパンプキンランタン</font>をパンプキンツリーにかけると、面白いことが起きます。<br/>
+		<br/>
+		灯りをつけるのに必要な<font fg="ffffaf">パンプキンストーン10個</font>を持っていくのも忘れないでくださいね。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

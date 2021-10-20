@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Jack'O Lantern</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> Uhihihi, it's been a long time. If you don't give me Adena, I'll mess up Aden! Baboon, that's a joke.<br/>
+		<br/>
+		 We sell <font fg="ffffaf">dust-covered pumpkin belt, amulet, scroll</font>.<br/>
+		What? Is it expensive? If you can strengthen this to the extent that it shines brightly, it will be a tremendously good item! Hihihi.<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

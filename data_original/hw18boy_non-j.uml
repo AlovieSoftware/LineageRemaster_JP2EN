@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>キャンディボーイ ジュン</name>
+		<job>[ハロウィンイベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>おいしい<font fg="ffffaf">キャンディー</font> はいかがですか？<font fg="ffffaf">パンプキンストーン</font>がもっと必要なら僕が作りますよ。<br/>
+		<br/>
+		<font fg="ffafff">強化に5回成功</font>した埃をかぶったパンプキンベルト、アミュレット、強化スクロールを持ってきてくれたら、<font fg="ffafff">輝くアイテム</font>と交換しますよ！<br/>
+		すでに使った<font fg="ffffaf">パンプキンベルト</font>や<font fg="ffffaf">パンプキンアミュレット</font>も交換します。<br/>
+		それと少し手数料もいただきます！<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="non_npc request craft"/></panel>
+	</dialog>
+</npcdialog>

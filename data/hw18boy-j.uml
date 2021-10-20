@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Candy Boy Jun</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>How about a <font fg="ffffaf">delicious candy</font>? If you need more <font fg="ffffaf">pumpkin stones</font>, I'll make one.<br/>
+		<br/>
+		Bring a dusty pumpkin belt, amulet, and reinforced scroll that have been <font fg="ffafff">successfully reinforced 5 times</font> and exchange them for <font fg="ffafff">shining items</font>!<br/>
+		Replace the <font fg="ffffaf">pumpkin belt</font> or <font fg="ffffaf">pumpkin amulet</font> you have already used.<br/>
+		There is also a small fee!<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>

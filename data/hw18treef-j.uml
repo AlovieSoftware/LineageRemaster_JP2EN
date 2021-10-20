@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Pumpkin tree</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		What didn't you listen to me?<br/>
+		<br/>
+		Bring a <font fg="ffffaf">pumpkin lantern</font> and the <font fg="ffffaf">10 pumpkin stones</font> you need to turn on the lights.
+		Don't know where to get it? Just ask <font fg="ffffaf">Kakashi Mia</font>.<br/>
+	<br/>
+	    Or isn't it <font fg="ffffaf">level 60</font> yet? Then come again after getting a little stronger.<br/>
+		<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>
