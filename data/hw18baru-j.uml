@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Kakashi Mia</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>Happy Happy Halloween~!<br/>
+		<br/>
+		For this year's Halloween, we have prepared a special <font fg="ffffaf">Halloween straw hat</font>.<br/>
+		If you bring the <font fg="ffffaf">pumpkin stone</font> that you can get by wearing a hat to Jun, you can make items that are useful for hunting.<br/>
+		<br/>
+		<br/>
+        And when you hang a <font fg="ffffaf">Halloween pumpkin lantern</font> on a pumpkin tree, something interesting happens.<br/>
+		<br/>
+		Don't forget to bring the <font fg="ffffaf">10 pumpkin stones</font> you need to turn on the lights.<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

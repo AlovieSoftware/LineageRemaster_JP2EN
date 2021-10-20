@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>ジャックオーランタン</name>
+		<job>[ハロウィンイベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p> ウヒヒヒ、久しぶりだな。アデナをくれなきゃアデンをめちゃくちゃにしてやるぞ！ヒヒ、冗談だよ。<br/>
+		<br/>
+		 <font fg="ffffaf">埃をかぶったパンプキンベルト、アミュレット、スクロール</font>を売ってるぞ。<br/>
+		何？高いって？こら、これをピカピカに輝くぐらい強化できたら、とてつもなくいいアイテムになるんだぞ！ヒヒヒ。<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

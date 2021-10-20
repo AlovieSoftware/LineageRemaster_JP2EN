@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait></portrait>
+		<name>パンプキンツリー</name>
+		<job>[ハロウィンイベント]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		ヘイヨ～！私が持っているランタンの灯りがどんどん消えていってる！急いで！<br/>
+ <br/>
+ 早く私に<font fg="ffffaf">ハロウィンパンプキンランタン</font>をかけてくれたら、いいものをあげるから。<br/>
+ ランタンの灯りをつけるのに必要な<font fg="ffffaf">パンプキンストーン10個</font>も忘れずに一緒に持ってきて！<br/>
+ 準備が出来たら声を掛けて。<font fg="ffffaf">100アデナ</font>で私のそばまで来られるよう魔法をかけてあげるから。へへへ。<br/></p>
+		<p>
+		<font fg="25a6d6"><a action="non_npc a">経験値をもらいにいく</a></font><br/>		
+		</p>
+	</dialog>
+</npcdialog>

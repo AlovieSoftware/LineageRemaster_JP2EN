@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Pumpkin tree</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		Hey yo~! The lights of the lantern I have are going out! Quickly!<br/>
+ <br/>
+ If you give me a <font fg="ffffaf">Halloween pumpkin lantern</font> as soon as possible, I'll give you something good.<br/>
+ Don't forget to bring the <font fg="ffffaf">10 pumpkin stones</font> you need to turn on the lantern lights!<br/>
+ Call me when you're ready. I'll cast a spell on you so that you can come to my side with <font fg="ffffaf">100 Adena</font>. Hehehe.<br/></p>
+		<p>
+		<font fg="25a6d6"><a action="non_npc a">Go get experience points</a></font><br/>		
+		</p>
+	</dialog>
+</npcdialog>

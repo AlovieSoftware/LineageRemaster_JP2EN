@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Event</title>
+	<npc>
+		<portrait></portrait>
+		<name>Pumpkin tree</name>
+		<job>[Halloween event]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 The main character is here tonight! <br/>
+		That's why I have to shine the most.<br/>
+		I would like to thank you for bringing me the Halloween <font fg="ffffaf">Pumpkin Lantern</font> and <font fg="ffffaf">10 Pumpkin Stones</font>.<br/>
+		</p>
+    <panel type="Panel_Exp_Reward">
+				<button action="a"/>
+				<button action="b"/>
+				<button action="c"/>
+				<button action="d"/>
+    </panel>
+		<p>
+		<br/>
+		The reward is based on <font fg="ffffaf">level 52</font>, and if it is less than <font fg="ffffaf">level 60</font>, please come after becoming a little stronger.<br/>
+		<br/>
+		If you have a dragon diamond, I'll give you a better one. That's natural, right? Fufufu.<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>
