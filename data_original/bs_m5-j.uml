@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 ブランク スクロールと一定の手数料を払ってくれたら、便利なスペル スクロールを製作してあげますよ。<br/><br/>
+		<font fg="ffffaa">[1段階魔法リスト]</font>：手数料<font fg="ffaaff">50</font>アデナ<br/>ライト/シールド/エネルギー ボルト/ホーリー ウェポン/ヒール<br/><br/>
+		<font fg="ffffaa">[2段階魔法リスト]</font>：手数料<font fg="ffaaff">100</font>アデナ<br/>ディクリース ウェイト/ディテクション/エンチャント ウェポン/キュア ポイズン/ファイアー アロー<br/><br/>
+		<font fg="ffffaa">[3段階魔法リスト]</font>：手数料 <font fg="ffaaff">100</font>アデナ<br/>ライトニング/ブレスド アーマー/エキストラ ヒール/フローズン クラウド/ターン アンデッド<br/><br/>
+		<font fg="ffffaa">[4段階魔法リスト]</font>：手数料<font fg="ffaaff">200</font>アデナ<br/>メディテーション/ファイアー ボール/フィジカル エンチャント：DEX/カウンター マジック/スロー<br/><br/>
+		<font fg="ffffaa">[5段階魔法リスト]</font>：手数料<font fg="ffaaff">200</font>アデナ<br/>グレーター ヒール/リムーブ カーズ/マナ ドレイン/コーン オブ コールド/コール ライトニング<br/><br/><br/>
+		<br/>基本的に、段階に合った<font fg="ffaaaa">ブランク スクロール</font>と<font fg="ffaaaa">手数料</font>が必要です。カウンター マジック/スローの魔法の場合、<font fg="ffaaaa">魔力の石</font>も必要です。<br/><br/></p>
+		
+	</dialog>
+</npcdialog>
+

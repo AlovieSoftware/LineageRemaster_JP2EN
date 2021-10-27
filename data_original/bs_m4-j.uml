@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 製作して欲しい魔法を選んでください。<br/>
+		 選択した数：<font fg="ffffaa"><var src="5"/>枚</font><br/>
+		</p><p align="left">
+		[1段階：手数料<font fg="ffaaff"><var src="0"/></font>アデナ]<br/>
+		 <img src="5514" tooltip="ライト^(1段階)" action="A"/>
+		 <img src="5515" tooltip="シールド^(1段階)" action="B"/>
+		 <img src="5517" tooltip="エネルギー ボルト^(1段階)" action="C"/>
+		 <img src="5520" tooltip="ホーリー ウェポン^(1段階)" action="D"/>
+		 <img src="5521" tooltip="ヒール^(1段階)" action="E"/><br/>
+		[2段階：手数料<font fg="ffaaff"><var src="1"/></font>アデナ]<br/>
+		 <img src="5522" tooltip="ディクリース ウェイト^(2段階)" action="F"/>
+		 <img src="5523" tooltip="ディテクション^(2段階)" action="G"/>
+		 <img src="5525" tooltip="エンチャント ウェポン^(2段階)" action="H"/>
+		 <img src="5526" tooltip="キュア ポイズン^(2段階)" action="I"/>
+		 <img src="5527" tooltip="ファイアー アロー^(2段階)" action="J"/><br/>
+		[3段階：手数料<font fg="ffaaff"><var src="2"/></font>アデナ]<br/>
+		 <img src="5528" tooltip="ライトニング^(3段階)" action="K"/>
+		 <img src="5529" tooltip="ブレスド アーマー^(3段階)" action="L"/>
+		 <img src="5530" tooltip="エキストラ ヒール^(3段階)" action="M"/>
+		 <img src="5532" tooltip="フローズン クラウド^(3段階)" action="N"/>
+		 <img src="5533" tooltip="ターン アンデッド^(3段階)" action="O"/><br/>
+		[4段階：手数料<font fg="ffaaff"><var src="3"/></font>アデナ]<br/>
+		 <img src="5534" tooltip="メディテーション^(4段階)" action="P"/>
+		 <img src="5535" tooltip="ファイアー ボール^(4段階)" action="Q"/>
+		 <img src="5537" tooltip="フィジカル エンチャント：DEX^(4段階)" action="R"/>
+		 <img src="5538" tooltip="カウンター マジック^(4段階：魔力の石)" action="S"/>
+		 <img src="5539" tooltip="スロー^(4段階：魔力の石)" action="T"/><br/>
+		[5段階：手数料<font fg="ffaaff"><var src="4"/></font>アデナ]<br/>
+		 <img src="5540" tooltip="グレーター ヒール^(5段階)" action="U"/>
+		 <img src="5541" tooltip="リムーブ カーズ^(5段階)" action="V"/>
+		 <img src="5542" tooltip="マナ ドレイン^(5段階)" action="W"/>
+		 <img src="5543" tooltip="コーン オブ コールド^(5段階)" action="X"/>
+		 <img src="5544" tooltip="コール ライトニング^(5段階)" action="Y"/>
+		<br/><br/></p>
+		
+
+	</dialog>
+</npcdialog>
+

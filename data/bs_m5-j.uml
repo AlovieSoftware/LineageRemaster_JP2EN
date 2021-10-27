@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Enhancement Wizard</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[Enhancement Wizard]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 If you pay a blank scroll and a certain fee, we will make a convenient spell scroll.<br/><br/>
+		<font fg="ffffaa">[1 Stage Magic List]</font>： fee<font fg="ffaaff">50</font> Adena<br/>Light / Shield / Energy Bolt / Holy Weapon / Heal<br/><br/>
+		<font fg="ffffaa">[2 Stage Magic List]</font>： fee<font fg="ffaaff">100</font> Adena<br/>Decrease Weight / Detection / Enchantment Weapon / Cure Poison / Fire Arrow<br/><br/>
+		<font fg="ffffaa">[3 Stage Magic List]</font>： fee <font fg="ffaaff">100</font> Adena<br/>Lightning / Blessed Armor / Extra Heal / Frozen Cloud / Turn Undead<br/><br/>
+		<font fg="ffffaa">[4 Stage Magic List]</font>： fee<font fg="ffaaff">200</font> Adena<br/>Meditation / Fireball / Physical Enchantment: DEX / Counter Magic / Slow<br/><br/>
+		<font fg="ffffaa">[5 Stage Magic List]</font>： fee<font fg="ffaaff">200</font> Adena<br/>Greater Heal / Remove Curse / Mana Drain / Cone of Cold / Call Lightning<br/><br/><br/>
+		<br/>Basically, you need a <font fg="ffaaaa">blank scroll</font> and a <font fg="ffaaaa">commission</font> that match the stage. For counter magic / slow magic, you also need a <font fg="ffaaaa">magic stone</font>.<br/><br/></p>
+		
+	</dialog>
+</npcdialog>
+
