@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Supply Merchant</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>Somuri</name>
+		<job>[Supply Merchant]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p>Welcome.<br/>
+		<br/>
+		I had a hard time coming this far.<br/>
+		<br/>
+		There is still a long way to go, so check the <font fg="ffffaf">equipment</font> before you go.<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Buy"><button action="buy"/></panel>
+	</dialog>
+</npcdialog>

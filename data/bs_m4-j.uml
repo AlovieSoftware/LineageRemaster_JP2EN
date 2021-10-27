@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>Enhancement Wizard</title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[Enhancement Wizard]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 Please choose the magic you want to make.<br/>
+		 Number of selections:<font fg="ffffaa"><var src="5"/>scrolls</font><br/>
+		</p><p align="left">
+		[1 stage: Fee<font fg="ffaaff"><var src="0"/></font>Adena]<br/>
+		 <img src="5514" tooltip="Light^(1 step)" action="A"/>
+		 <img src="5515" tooltip="Shield^(1 step)" action="B"/>
+		 <img src="5517" tooltip="Energy bolt^(1 step)" action="C"/>
+		 <img src="5520" tooltip="Holy Weapon^(1 step)" action="D"/>
+		 <img src="5521" tooltip="Heal^(1 step)" action="E"/><br/>
+		[2 stage: Fee<font fg="ffaaff"><var src="1"/></font>Adena]<br/>
+		 <img src="5522" tooltip="Decrease Weight^(2 step)" action="F"/>
+		 <img src="5523" tooltip="Detection^(2 step)" action="G"/>
+		 <img src="5525" tooltip="Enchantment Weapon^(2 step)" action="H"/>
+		 <img src="5526" tooltip="Cure Poison^(2 step)" action="I"/>
+		 <img src="5527" tooltip="Fire Arrow^(2 step)" action="J"/><br/>
+		[3 stage: Fee<font fg="ffaaff"><var src="2"/></font>Adena]<br/>
+		 <img src="5528" tooltip="Lightning^(3 step)" action="K"/>
+		 <img src="5529" tooltip="Blessed Armor^(3 step)" action="L"/>
+		 <img src="5530" tooltip="Extra Heal^(3 step)" action="M"/>
+		 <img src="5532" tooltip="Frozen Cloud^(3 step)" action="N"/>
+		 <img src="5533" tooltip="Turn Undead^(3 step)" action="O"/><br/>
+		[4 stage: Fee<font fg="ffaaff"><var src="3"/></font>Adena]<br/>
+		 <img src="5534" tooltip="Meditation^(4 step)" action="P"/>
+		 <img src="5535" tooltip="Fireball^(4 step)" action="Q"/>
+		 <img src="5537" tooltip="Physical enchantment：DEX^(4 step)" action="R"/>
+		 <img src="5538" tooltip="Counter Magic^(4 step, magic stone)" action="S"/>
+		 <img src="5539" tooltip="Slow^(4 step, magic stone)" action="T"/><br/>
+		[5 stage: Fee<font fg="ffaaff"><var src="4"/></font>Adena]<br/>
+		 <img src="5540" tooltip="Greater Heal^(5 step)" action="U"/>
+		 <img src="5541" tooltip="Remove Curse^(5 step)" action="V"/>
+		 <img src="5542" tooltip="Mana Drain^(5 step)" action="W"/>
+		 <img src="5543" tooltip="Cone of Cold^(5 step)" action="X"/>
+		 <img src="5544" tooltip="Call Lightning^(5 step)" action="Y"/>
+		<br/><br/></p>
+		
+
+	</dialog>
+</npcdialog>
+

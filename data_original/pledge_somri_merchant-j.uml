@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npcdialog>
 	<icon>dialog</icon>
-	<title>装備商人</title>
+	<title>補給商人</title>
 	<npc>
 		<portrait>PO_002</portrait>
 		<name>ソムリ</name>
-		<job>[装備商人]</job>
+		<job>[補給商人]</job>
 		<text></text>
 	</npc>
 	<dialog>
