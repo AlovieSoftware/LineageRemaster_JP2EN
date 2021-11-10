@@ -9,6 +9,3 @@ There is some helpfull instruments in the "utils" directory:
 
 Screenshot:
 https://drive.google.com/file/d/1Lhge6KFv7peqRkPARidkhHBeL88AqpB1/view?usp=sharing
-
-Japanese game client from 2021-09-23 with patch applied:
-https://drive.google.com/file/d/1AQpuhoYU6fbo361p93w_l4Toq9Rxmk7v/view?usp=sharing
