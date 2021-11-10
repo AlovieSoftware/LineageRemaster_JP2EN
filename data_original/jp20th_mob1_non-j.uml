@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<dialog>
+	<p>
+		<br/>
+		エヌシージャパンは、2021年11月におかげさまで創立20周年を迎えます。
+		<br/>
+		これを記念して様々なイベントやキャンペーンをご用意しています。
+		<br/><br/>
+		モンスターから獲得した<font fg="ffafff">記念コイン</font>をお持ちいただければイベントアイテムを製作させていただきます。
+		<br/>
+		<br/>
+		</p>
+		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
+	</dialog>
+</npcdialog>
