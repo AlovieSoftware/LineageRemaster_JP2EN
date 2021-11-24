@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title></title>
+	<npc>
+		<portrait></portrait>
+		<name><var src="name"/></name>
+		<job>[Teleporter]</job>
+		<text>Belongs to the Ivory Tower. He is in charge of dispatching to recapture the castle found over space-time.</text>
+	</npc>
+	<dialog>
+		<p>
+		A part of the castle that disappeared from the continent of Aden after the unexplained change was found on the other side of space-time.<br/>
+		Of course, those from another world are also on the lookout.<br/><br/>
+		As a result of the investigation by the starting lineup...<br/><font fg="ffffaf">approximately once every two weeks, around 21:30 on Sunday</font> the cracks that connect to space-time are activated. If you aim at that time, you can go beyond space-time through the cracks.<br/><br/><br/>
+		You can always send it near the crack, but make sure you know when it will activate.<br/>And in an unstable situation <font fg="ffffaf">those who make a gap will be nearby.</font> Be careful if you have many enemies.<br/><br/><br/><br/><br/>
+		
+		<a action="a">Please send to the front of the crack</a><br/>
+		</p>
+	</dialog>
+</npcdialog>
