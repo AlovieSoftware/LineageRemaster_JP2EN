@@ -14,18 +14,21 @@ def get_dir_stat(src):
         stat = os.stat(dir)
         ret.append((dir, stat.st_mtime))
         for v_file in file:
-            # skip temporary files
-            if os.path.splitext(v_file)[1] == '.bro':
-                continue
-            stat = os.stat(os.path.join(dir, v_file))
-            ret.append((os.path.join(dir, v_file), stat.st_mtime))
+            try:
+                # skip temporary files
+                if os.path.splitext(v_file)[1] == '.bro':
+                    continue
+                stat = os.stat(os.path.join(dir, v_file))
+                ret.append((os.path.join(dir, v_file), stat.st_mtime))
+            except FileNotFoundError as e:
+                print("File has been deleted already.\n{}".format(str(e)))
     return ret
 
-def copy_all_files(src, dest, wait = 5):
+def copy_all_files(src, dest, wait = 1):
     try:
         res = copy_tree(str(src), str(dest))
     except DistutilsFileError as e:
-        print("Cannot copy a file while downloading {}. Waiting for {} sec...".format(str(e), wait))
+        print("Cannot copy a file while downloading\n{}. Waiting for {} sec...".format(str(e), wait))
         time.sleep(wait)
 
 def show_time(ts):
@@ -51,4 +54,5 @@ while 1:
         copy_all_files(src, dest)
         before_stat = after_stat     
     else:
-        time.sleep(1)
+        #time.sleep(1)
+        None
