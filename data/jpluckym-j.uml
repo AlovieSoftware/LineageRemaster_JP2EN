@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npcdialog>
 	<icon>craft</icon>
-	<title>製作</title>
+	<title>Production</title>
 	<npc>
 		<portrait></portrait>
 		<name><var src="name"/></name>
@@ -9,9 +9,11 @@
 		<text></text>
 	</npc>
 	<dialog>
-		<p> ラッキーゲームで獲得した「激運の印章」や「幸運の宝玉」を持ってきたら、珍しいアイテムを作って差し上げます。<br/>
+		<p>How to use<br/>
 		 <br/>
-		 1月12日までしか製作できませんのでお急ぎください。<br/>
+		 Please choose your favorite item by putting "Stamp of Good Luck" or "Gem of Good Luck".<br/>
+		 <br/>
+		 If you have the "Seal of Luck" or "Gem of Luck", you can use it at any time until January 12th.
 		 <br/>
 		</p>
 		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
