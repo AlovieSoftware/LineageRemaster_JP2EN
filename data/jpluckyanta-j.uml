@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npcdialog>
 	<icon>craft</icon>
-	<title>製作</title>
+	<title>Production</title>
 	<npc>
 		<portrait></portrait>
 		<name><var src="name"/></name>
@@ -9,9 +9,9 @@
 		<text></text>
 	</npc>
 	<dialog>
-		<p> ラッキーゲームで獲得した「激運の印章」や「幸運の宝玉」を持ってきたら、珍しいアイテムを作って差し上げます。<br/>
+		<p> If you bring the "stamp of luck" or "jewel of luck" that you got in the lucky game, we will make a rare item and give it to you.<br/>
 		 <br/>
-		 1月12日までしか製作できませんのでお急ぎください。<br/>
+		 Please hurry as it can only be manufactured until January 12th.<br/>
 		 <br/>
 		</p>
 		<panel type="Panel_Shop_Bt_Craft"><button action="request craft"/></panel>
