@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+  <portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>強化ウィザード</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		 見知らぬ地を旅していて、インベントリに<font fg="ffffaf">1000アデナ</font>もないのか！<br/>
+		 知っている間柄とはいえ、タダではかけられないな。<br/>
+		 <br/>
+		 <br/>
+		<br/>		
+		</p>
+	</dialog>
+</npcdialog>
+

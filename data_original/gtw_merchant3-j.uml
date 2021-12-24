@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>shop</icon>
+  <title>商店</title>
+  <npc>
+  <portrait>PO_042</portrait>
+    <name>ゴールド キャッスル</name>
+    <job>[補給品管理]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	ハハハッ！久しぶりだな！<br/>
+	<br/>
+	新しい装備が必要だって、私のところを訪ねてきた時のことを覚えているか！<br/>
+	今は時代が良くなって、わざわざ来なくても良くなったのが少し残念だがな。<br/>
+	<br/>
+	知っての通り、私は負ける争いはしない。<br/>
+	だから君たち<font fg="ffffaf">ゴールド キャッスル</font>の勝利に私の全財産を賭けたんだ。<br/>
+	<br/>
+	必要なものがあれば何でもサポートするから、全力で戦うんだぞ！
+	分かったな！<br/>
+	<br/>
+	<br/>
+	<br/></p>
+	<panel type="Panel_Shop_Bt_Buy">
+		<button action="buy"/>
+	</panel>
+  </dialog>
+</npcdialog>

@@ -1,0 +1,224 @@
+260
+0 Heal
+1 Light
+2 Shield
+3 Energy Bolt
+4 Teleport
+5 Ice Dagger
+6 Wind Cutter
+7 Holy Weapon
+8 Cure Poison
+9 Chill Touch
+10 Curse Poison
+11 Enchantment Weapon
+12 Detection
+13 Decrease Weight
+14 Fire Arrow
+15 Starack
+16 Lightning
+17 Turn Undead
+18 Extra Heal
+19 Curse Blind
+20 Blessed Armor
+21 Frozen Cloud
+22 Week Elemental
+24 Fireball
+25 Physical Enchantment: DEX
+26 Weapon Break
+27 Vampirick Touch
+28 Slow
+29 Earth Jail
+30 Counter Magic
+31 Meditation
+32 Curse Paralyze
+33 Call Lightning
+34 Greater Heal
+35 Taming Monster
+36 Remove Curse
+37 Cone of Cold
+38 Mana Drain
+39 Darkness
+40 Create Zombie
+41 Physical Enchantment: STR
+42 Haste
+43 Cancellation
+44 Illusion
+45 Sunburst
+46 Weakness
+47 Bless Weapon
+48 Heal All
+49 Freezing Armor
+50 Summon Monster
+51 Holy Walk
+52 Tornado
+53 Greater Haste
+54 Berserker
+55 Enchantment Accuracy
+56 Full Heal
+57 Firewall
+58 Blizzard
+59 Invisibility
+60 Resurrection
+61 Earth Quake
+62 Life Stream
+63 Silence
+64 Lightning Storm
+65 Fog of Sleeping
+66 Shape Change
+67 Immune to Harm
+68 Mass Teleport
+69 Fire Storm
+70 Decay Potion
+71 Counter Detection
+72 Death Heal
+73 Meteor Strike
+74 Greater Resurrection
+75 Greater Slow
+76 Disintegrate
+77 Absolute Barrier
+78 Advanced Spirits
+79 Ice Spike
+86 Shock Stan
+87 Reduce Armor
+88 Bounce Attack
+89 Solid carriage
+90 Counter Barrier
+91 Absolute Blade
+96 Blind Hiding
+97 Enchantment Venom
+98 Shadow Armor
+99 Bring Stone
+100 Moving Acceleration
+102 Shadow Sleep
+103 Venom Resist
+104 Double Break
+105 Uncanny Dodge
+106 Shadow Fang
+107 Final Burn
+108 Dress Mighty
+109 Dress Dexterity
+111 Armor Break
+112 True Target
+113 Growing Weapon
+114 Shining Shield
+115 Shining Armor
+116 Brave Mental
+117 Majesty
+118 Divine Sacrifice
+119 Avatar
+120 Aura
+121 Grace
+122 Empire
+128 Resist Magic
+129 Body to Mind
+130 Teleport to Mother
+131 Triple Arrow
+132 Elemental Falldown
+133 Elven Gravity
+134 Soul Barrier
+135 Inferno
+136 Clear Mind
+137 Resist element
+138 Marble
+144 Return to Nature
+145 Bloody Soul
+146 Elemental Protection
+147 Fire Weapon
+148 Wind Shot
+149 Wind Walk
+150 Earth Skin
+151 Entangle
+152 Erase Magic
+153 Summon Lesser Elemental
+154 Dancing Blaze
+155 Storm Eye
+156 Earth Bind
+157 Nature's Touch
+158 Earth Guardian
+159 Aqua Protector
+160 Area Silence
+161 Greater Elemental
+162 Burning Weapon
+163 Nature's Blessing
+164 Call of Nature
+165 Storm Shot
+166 Cyclone
+167 Iron Skin
+168 Exotic Vitalize
+169 Water Life
+170 Elemental Fire
+171 Storm Walk
+172 Polute Water
+173 Striker Gail
+174 Soul of Flame
+175 Additional Fire
+180 Dragon Skin
+181 Burning Slash
+182 Destroy
+183 Magma Breath
+184 Awakening [Antaras]
+185 Blood Lust
+186 Force Layer
+188 Magma Arrow
+189 Awakening [Paplion]
+190 Mortal Body
+191 Thunder Grapp
+193 Eye of Dragon
+194 Awakening [Varacus]
+198 Shadow Step
+200 Mirror Image
+201 Confusion
+202 Smash Energy
+203 Illusion [Ogre]
+204 Cube [Ignition]
+205 Concentration
+206 Mind Break
+207 Bone Break
+209 Cube [Quake]
+210 Patience
+211 Phantasm
+212 Eyes Breaker
+214 Cube [Shock]
+215 Insight
+216 Panic
+217 Reduce Weight
+218 Illusion [Avatar]
+219 Cube [Balance]
+221 Impact
+223 Mobius
+224 Howl
+225 Gigantic
+226 dummy
+227 Power Grip
+228 Tomahawk
+229 Desperado
+230 Titan Rising
+231 dummy
+232 Assassin
+233 Lucifer
+234 Judgment
+235 Phantom
+236 Panthera
+237 Hellfire
+238 Blade
+239 Ashura
+240 Prime
+241 Force Stan
+242 Eternity
+243 Avenger
+244 Halphas
+245 Potential
+246 Demolition
+247 Alternate
+248 Force Wave
+249 Vanguard
+250 Recovery
+251 Pressure
+252 Kruel
+253 Cole Clan Advance
+254 Liberation
+255 Elven Strike
+256 Mass Immune to Harm
+257 dummy
+258 Berserker
+259 Divine Protection

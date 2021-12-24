@@ -1869,7 +1869,7 @@ Spellbook (Berserker)
 Spellbook (Disease)
 Spellbook (Lifestream)
 Spellbook (Silence)
-Spellbook (Deceiption)
+Spellbook (Fatal Potion)
 Spellbook (Counter Detection)
 Spellbook (Absolute Barrier)
 Spellbook (Advanced Spirits)
@@ -1988,8 +1988,8 @@ Exportin
 (Berserker)
 (Dizz)
 (Lifestream)
-(silence)
-(Decay Position)
+(Silence)
+(Fatal potion)
 (Counter Detection)
 (Absolute barrier)
 (Advanced Spirits)
@@ -7375,18 +7375,18 @@ snake
 Monkey
 HP Regen
 MP Regen
-%i pink crystal ring
+%i Pink Crystal Ring
 %i Blue Crystal Ring
-%i red crystal ring
+%i Red Crystal Ring
 %i Green Crystal Ring
-%i yellow crystal ring
+%i Yellow Crystal Ring
 %i White Crystal Ring
 Pink present box
-Blue presents box
+Blue present box
 Red present box
-Green presents box
+Green present box
 Yellow present box
-White Present Box
+White present box
 Candy gift box
 Uki!
 Ukkkie! !
@@ -7743,7 +7743,7 @@ Spaulder Production Craftsman ^ Hyos
 Item Manufacturer ^ Straight Shune
 Item Manufacturer ^ Patterned Doho
 Staff Production Craftsman ^ Baiemi
-Doruga bag seller ^ Doruga Ber
+Dragon Heritage Seller ^ Drugabert
 Arc Transformation scroll
 Dragon Key Sales Notification Bulletin Board
 Dragon Portal
@@ -10141,13 +10141,13 @@ Magic Doll ^ Niddice
 Magic Doll: Snowman
 Dragon medallion
 Tiger's incarnation ^ Beautiful girl of white dressing
-+ 8 Mana Bazeld Box
-+8 Laging Wind Box
++8 Mana Baselar Box
++8 Raging Wind Box
 +8 Distraction Box
-+8 Angel staff box
-+ 8 freesing lancer box
-+8 Lightning edge box
-+ 8 Luna Long Bow Box
++8 Angel Staff Box
++8 Freezing Lancer Box
++8 Lightning Edge Box
++8 Luna Long Bow Box
 Snowman Magic Doll
 Ben Lyle! Cerge York ...
 Ben Lyle! Cerge York ...
@@ -12638,20 +12638,20 @@ dummy
 dummy
 dummy
 Magical Weapon Protection Scroll
-% i arm power of the hero
-% I Hero's agility
-% i Charm of hero
-% I Magic of Heroes
-% I Hero's Stan
-% I Hero Hold
-% I Magic resistance of the hero
-% i arm power
-% i's agility
-% i's charm
-% i magic
-% i Stan
-% i Hold
-% i magic resistance
+%i Hero's strength
+%I Hero's agility
+%i Hero's charm
+%i Hero's magical power
+%i Hero Stun
+%i Hero Hold
+%i Hero's magic resistance
+%i strength
+%i agility
+%i charm
+%i magical power
+%i stun
+%i hold
+%i magic resistance
 Hero
 Experience point
 dummy
@@ -13268,7 +13268,7 @@ Chastity Naru spirit of floral fragrance: T-shirt [7 days]
 Chastity Naru physical strength of floral fragrance: T-shirt [7 days]
 Chastity Naru charm of floral fragrance: T-shirt [7 days]
 Kraken
-Conversion stone: + 11T shirt
+Conversion stone: +11 T-shirt
 Clade
 [Monarch man]
 [Monarch woman]
@@ -13314,9 +13314,9 @@ Hero of the scroll (Kerenisu)
 Hero of the scroll (Herubain)
 Hero of the scroll (Dantesu)
 Hero of the scroll (lance master 75)
-Pandora gift box: + 5T shirt
-Pandora gift box: + 6T shirt
-Pandora gift box: + 7T shirt
+Pandora gift box: +5 T-shirt
+Pandora gift box: +6 T-shirt
+Pandora gift box: +7 T-shirt
 Bride Transformation turban
 Transformation turban of Groom
 Magic Doll: Bride
@@ -13819,18 +13819,18 @@ Cool summer shop ^ Vacation
 I want to eat cold watermelon!
 Item Manufacturer ^ Elephant Lava Golem
 Angel staff
-Sealed + 7 Mana Bazalad
-Sealed +7 laving wind
-Sealed + 7 short
+Sealed +7 Mana Baselard
+Sealed +7 Raging Wind
+Sealed +7 Distraction
 Sealed +7 Angel Staff
-Sealed +7 freesing lancer
+Sealed +7 Freezing Lancer
 Sealed +7 Lightning Edge
 Sealed +7 Angel Slayer
-Sealed +8 Mana Bazalad
-Sealed +8 laving wind
-Sealed + 8 short
-Sealed +8 Angel staff
-Sealed +8 freesing lancer
+Sealed +8 Mana Baselard
+Sealed +8 Raging Wind
+Sealed +8 Distraction
+Sealed +8 Angel Staff
+Sealed +8 Freezing Lancer
 Sealed +8 Lightning Edge
 Sealed +8 Angel Slayer
 Miscellaneous carrier "Hope flower"
@@ -13893,10 +13893,10 @@ dummy
 dummy
 dummy
 Destruction dual blade
-Cloud of sealed +7 destruction
-Sealed +7 destruction dual blade
-Cloud of sealed +8 destruction
-Sealed +8 destruction dual blade
+Sealed +7 Destruction Crow
+Sealed +7 Destruction Dual Blade
+Sealed +8 Destruction Crow
+Sealed +8 Destruction Dual Blade
 First Orc Force Suit-out
 Hidden first Orc Forces Outpost
 Second Orc Formation Outpost
@@ -14187,18 +14187,18 @@ Proof of basic training
 Shorter's amulet
 Ring of teachers
 Conductor belt
-Sealed + 4 teacher solid Helm
-Sealed +4 teacher solid armor
-Sealed + 4 teacher solid cloak
-Sealed +4 teacher solid gloves
-Sealed + 4 teacher solid boots
-Sealed +4 teacher solid shield
-Sealed + 4 teacher Divine Helm
-Sealed + 4 teacher Divine Lobe
-Sealed + 4 teacher Divine Mant
-Sealed + 4 teacher Divine Glove
-Sealed + 4 teachers Divine boots
-Sealed + 4 teacher Divine shield
+Sealed +4 Trainer's Solid Helm
+Sealed +4 Trainer's Solid Armor
+Sealed +4 Trainer's Solid Cloak
+Sealed +4 Trainer's Solid Gloves
+Sealed +4 Trainer's Solid Boots
+Sealed +4 Trainer's Solid Shield
+Sealed +4 Trainer's Divine Helm
+Sealed +4 Trainer's Divine Robe
+Sealed +4 Trainer's Divine Cloak
+Sealed +4 Trainer's Divine Gloves
+Sealed +4 Trainer's Divine Boots
+Sealed +4 Trainer's Divine Shield
 Subquest ^ Basic training instructors
 Subquest ^ Last Training Examiner
 Daily Quest ^ Dogs
@@ -15357,12 +15357,12 @@ dummy
 dummy
 dummy
 dummy
-Illusion of chain Sword
-Resonance of the key link
-Sealed +7 illusion of chain Sword
-Sealed +7 resonance of the key link
-Sealed +8 illusion of chain Sword
-Sealed +8 resonance of the key link
+Phantom Chain Sword
+Resonance Key Link
+Sealed +7 Phantom Chain Sword
+Sealed +7 Resonance Key Link
+Sealed +8 Phantom Chain Sword
+Sealed +8 Resonance Key Link
 dummy
 dummy
 dummy
@@ -15899,19 +15899,19 @@ Golden key of warehouse number
 Fulfillment
 Rabbit hat
 Moonlight Long Sword
-Moonlight staff
-Moonlight crow
+Moonlight Staff
+Moonlight Crow
 Moonlight Long Bow
-Moonlight cloak
-Moonlight boots
-Moonlight glove
-Moonlight chain Sword
-Monthly Key Link
-+ May Light Long Sword Box
-+ May Light Crow Box
-+ May Light Long Bow Box
-+ May Light Chain Sword Box
-+ May Light Key Link Box
+Moonlight Cloak
+Moonlight Boots
+Moonlight Glove
+Moonlight Chain Sword
+Moonlight Key Link
++5 Moonlight Longsword Box
++5 Moonlight Crow Box
++5 Moonlight Longbow Box
++5 Moonlight Chain Sword Box
++5 Moonlight Key Link Box
 Tsukinokuni's defensive member appointment certificate
 Tsukinokuni's defense force captain
 Tsukinokuni's Defense Corps
@@ -15983,7 +15983,7 @@ dummy
 dummy
 dummy
 PVP Additional Damage
-+ May Light Staff Box
++5 Moonlight Staff Box
 dummy
 dummy
 dummy
@@ -16020,7 +16020,7 @@ River
 Hungry soul
 Lastened soul
 Hell
-魴ｺ
+Nue
 Hellogue of hell
 dummy
 Logant soul fluid
@@ -16162,9 +16162,9 @@ dummy
 +7 Dual blade of destruction
 +8 Dual blade of destruction
 +7 Phantom Chain Sword
-+ 8 Phantom Chain Sword
-+ 7 resonance key link
-+8 resonance key link
++8 Phantom Chain Sword
++7 Resonance key link
++8 Resonance key link
 dummy
 dummy
 \aHPublic King's Execution Sword
@@ -16274,11 +16274,11 @@ Destruction dual blade (special grade)
 Angel staff (special grade)
 Special order mechanism
 Special Class Secret Mechanism
-+6 Fantasma blade box
-+6 Fanthama dual blade box
-+6 Fantasuma Crow Box
-+6 Fantasma staff box
-+9 Fantasma Crossbow Box
++6 Phantasm Blade Box
++6 Phantasm Dual Blade Box
++6 Phantasm Crow Box
++6 Phantasm Staff Box
++9 Phantasm Crossbow Box
 Water special class Golem
 Temporary class Golem
 Geographical Golem
@@ -18200,33 +18200,33 @@ dummy
 dummy
 dummy
 dummy
-+1 Battle globe
-+2 Battle globe
-+3 Battle globe
-+4 Battle globe
-+5 Battle Globe
-+6 Battle globe
-+7 Battle Gloves
-+8 Battle globe
-+9 Battle globe
-+1 Battle of blood battle
-+2 Battle of blood battle
-+3 Battle of blood battle
-+4 Battle Blaiser
-+5 Battle Blaiser
-+6 Battle Battleer
-+7 Battle Blaiser
-+8 Battle of blood battle
-+9 Battle Blaiser
-+1 Miton of blood battle
-+2 Miton of blood battle
-+3 Mitons of blood battle
-+4 Miton of blood battle
-+5 Miton of blood battle
-+6 Miton of blood battle
-+7 Mitons of blood battle
-+8 Mitons of blood battle
-+9 Miton of blood battle
++1 Blood Battle Gloves
++2 Blood Battle Gloves
++3 Blood Battle Gloves
++4 Blood Battle Gloves
++5 Blood Battle Gloves
++6 Blood Battle Gloves
++7 Blood Battle Gloves
++8 Blood Battle Gloves
++9 Blood Battle Gloves
++1 Blood Battle Bracer
++2 Blood Battle Bracer
++3 Blood Battle Bracer
++4 Blood Battle Bracer
++5 Blood Battle Bracer
++6 Blood Battle Bracer
++7 Blood Battle Bracer
++8 Blood Battle Bracer
++9 Blood Battle Bracer
++1 Blood Battle Mitten
++2 Blood Battle Mitten
++3 Blood Battle Mitten
++4 Blood Battle Mitten
++5 Blood Battle Mitten
++6 Blood Battle Mitten
++7 Blood Battle Mitten
++8 Blood Battle Mitten
++9 Blood Battle Mitten
 dummy
 dummy
 dummy
@@ -18288,8 +18288,8 @@ dummy
 -Equisive experience value is level 52 standard
 Here is a mobile guest.
 Meet <Kruna> at the TAM Shop and buy growth balls (fragments).
-If you talk to <Hate>, you can enter the island of the dream, but you need a growing ball (fragment).
-You can earn experience values 窶銀仇ith five growth balls (pieces) and five demons.
+If you talk to <Hate>, you can enter the island of the dream, but you need a growth ball (fragment).
+You can earn experience points with growth balls (shards) and 5 evil spirit seeds.
 dummy
 dummy
 TAM Public Relations ^ Crew
@@ -20107,39 +20107,39 @@ dummy
 dummy
 dummy
 dummy
-Greaves of Kessen
-+1 Kessen Greaves of
-+2 Kessen Greaves of
-+3 Greaves of Kessen
-Greaves of +4 Kessen
-+5 Greaves of Kessen
-+6 Kessen Greaves of
-+7 Kessen Greaves of
-+8 Kessen Greaves of
-+9 Kessen Greaves of
-Boots of Kessen
-+1 Kessen boots
-+2 Kessen boots
-+3 Kessen boots
-Boots +4 Kessen
-+5 Kessen boots
-+6 Kessen boots
-+7 Kessen boots
-+8 Kessen boots
-+9 Kessen boots
-Baskin of Kessen
-+1 Kessen Baskin of
-+2 Kessen Baskin of
-+3 Baskin of Kessen
-Baskin +4 Kessen
-+5 Baskin of Kessen
-+6 Kessen Baskin of
-+7 Kessen Baskin of
-+8 Kessen Baskin of
-+9 Kessen Baskin of
-Boots strengthening scroll of Kessen
-Boots strengthening scroll nine boxes of Kessen
-Boots strengthening scroll 30 sheets box of Kessen
+Bloody Greaves
++1 Blood Battle Greaves
++2 Blood Battle Greaves
++3 Blood Battle Greaves
++4 Blood Battle Greaves
++5 Blood Battle Greaves
++6 Blood Battle Greaves
++7 Blood Battle Greaves
++8 Blood Battle Greaves
++9 Blood Battle Greaves
+Blood war boots
++1 Blood Battle Boots
++2 Blood Battle Boots
++3 Blood Battle Boots
++4 Blood Battle Boots
++5 Blood Battle Boots
++6 Blood Battle Boots
++7 Blood Battle Boots
++8 Blood Battle Boots
++9 Blood Battle Boots
+Bloody Baskin
++1 Blood Battle Baskin
++2 Blood Battle Baskin
++3 Blood Battle Baskin
++4 Blood Battle Baskin
++5 Blood Battle Baskin
++6 Blood Battle Baskin
++7 Blood Battle Baskin
++8 Blood Battle Baskin
++9 Blood Battle Baskin
+Blood Battle Boots Enhanced Scroll
+Blood Battle Boots Reinforced Scroll 9 Box
+Blood Battle Boots Reinforced Scroll 30 Box
 dummy
 Dragon Stone
 Dragonic Halloween Armor
@@ -20935,39 +20935,39 @@ dummy
 dummy
 dummy
 Absolute recovery
-Blood battle cloak
-+1 Battle Manto
-+2 Battle Manto
-+3 Battle Manto
-+4 Battle Manto
-+5 Battle Manto
-+6 Battle Manto
-+7 Battle Manto
-+8 Battle Manto
-+9 Battle Manto
-Battle Cape
-+1 Cape of blood battle
-+2 Battle Cape
-+3 Cape of blood battle
-+4 Battle Cape Cape
-+5 Cape of blood battle
-+6 Battle Cape Cape
-+7 Cape of blood battle
-+8 Cape of blood battle
-+9 Cape of blood battle
-Battle cloak
-+1 Battle cloak
-+2 Battle cloak
-+3 Battle cloak
-+4 Battle cloak
-+5 Battle cloak
-+6 Battle cloak
-+7 Battle cloak
-+8 Battle cloak
-+9 Battle cloak
-Blood battle cloax reinforced scroll
-Battle Cloam Enhancement Scroll 9 Boxes
-Blood battle cloax reinforcement scroll 30 sheets
+Blood Battle Mantle
++1 Blood Battle Mantle
++2 Blood Battle Mantle
++3 Blood Battle Mantle
++4 Blood Battle Mantle
++5 Blood Battle Mantle
++6 Blood Battle Mantle
++7 Blood Battle Mantle
++8 Blood Battle Mantle
++9 Blood Battle Mantle
+Blood Battle Cape
++1 Blood Battle Cape
++2 Blood Battle Cape
++3 Blood Battle Cape
++4 Blood Battle Cape
++5 Blood Battle Cape
++6 Blood Battle Cape
++7 Blood Battle Cape
++8 Blood Battle Cape
++9 Blood Battle Cape
+Blood Battle cloakroom
++1 Blood Battle Cloak
++2 Blood Battle Cloak
++3 Blood Battle Cloak
++4 Blood Battle Cloak
++5 Blood Battle Cloak
++6 Blood Battle Cloak
++7 Blood Battle Cloak
++8 Blood Battle Cloak
++9 Blood Battle Cloak
+Blood Battle Cloak Enhancement Scroll
+Blood Battle Cloak Enhancement Scroll 9 Box
+Blood Battle Cloak Strengthening Scroll 30 Box
 dummy
 dummy
 dummy
@@ -21259,17 +21259,17 @@ dummy
 Possession weight increase
 dummy
 dummy
-Dark epidemic Tsuhebi strengthening scroll
-+1 dark epidemic Tsuhebi
-+2 dark epidemic Tsuhebi
-+3 dark epidemic Tsuhebi
-+4 dark epidemic Tsuhebi
-+5 dark epidemic Tsuhebi
-+6 dark epidemic Tsuhebi
-+7 dark epidemic Tsuhebi
-+8 dark epidemic Tsuhebi
-+9 dark epidemic Tsuhebi
-+10 dark epidemic Tsuhebi
+Darkness Snake strengthening scroll
++1 Darkness Snake
++2 Darkness Snake
++3 Darkness Snake
++4 Darkness Snake
++5 Darkness Snake
++6 Darkness Snake
++7 Darkness Snake
++8 Darkness Snake
++9 Darkness Snake
++10 Darkness Snake
 Stan level rise +1
 Stan level rise +2
 dummy
@@ -21923,7 +21923,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Cougar
 dummy
 dummy
 dummy
@@ -21988,7 +21988,7 @@ Guardian of Seyahi
 Corruption of the Guardian
 Ranker Transformation ^ top 20 ^ each class best 5 ^ PVP additional damage +2
 dummy
-Sealed +3 daemon staff
+Sealed +3 Daemon Staff
 Warrior of the gift box
 dummy
 dummy
@@ -22997,25 +22997,25 @@ Kakashi is up to level 5 can attack.
 Generals ^ Las
 Genial researcher
 Conductor Heroes of the Shoro
-Saken reinforcement scroll
+Sacrificial reinforcement scroll
 +1 Sacrifice Sword
 +2 Sacrifice Sword
 +3 Sacrifice Sword
-+1 Sacrifice bow
-+2 Sacrifice bow
++1 Sacrifice Bow
++2 Sacrifice Bow
 +3 Sacrifice Bow
-+1 Sacrifice staff
-+2 Sacrifice staff
-+3 Sacrifice staff
++1 Sacrifice Staff
++2 Sacrifice Staff
++3 Sacrifice Staff
 +1 Sacrifice Crow
 +2 Sacrifice Crow
 +3 Saclifice Crow
 +1 Sacrifice Chain Sword
 +2 Sacrifice Chain Sword
 +3 Sacrifice Chain Sword
-+1 Sacrifice key link
++1 Sacrifice Key Link
 +2 Sacrifice Key Link
-+3 Sacrifice key link
++3 Sacrifice Key Link
 Corrosion is intense. It will disappear soon.
 dummy
 dummy
@@ -23921,7 +23921,7 @@ dummy
 dummy
 dummy
 dummy
-+0 Iron Mana staff
++0 Iron Mana Staff
 dummy
 dummy
 dummy
@@ -24131,23 +24131,23 @@ dummy
 dummy
 dummy
 Fear hit: +%d
-Chiryu of T-shirt
+Earth Dragon T-shirt
 Fire Dragon T-shirt
-KazeRyu of T-shirt
+Wind Dragon T-shirt
 Water dragon T-shirt
-Dragon T-shirt strengthening scroll
-Chiryu of T-shirt box
-Fire Dragon T-shirt box
-KazeRyu of T-shirt box
-Water dragon T-shirt box
-+7 Chiryu of T-shirt box
-+7 fire dragon T-shirt box
-+7 KazeRyu of T-shirt box
-+7 water dragon T-shirt box
-T-shirts box of sealed Chiryu
-Sealed fire dragon T-shirt box
-T-shirts box of sealed KazeRyu
-Sealed water dragon T-shirt box
+Dragon T-shirt Enhanced Scroll
+Earth Dragon T-shirt Box
+Fire Dragon T-shirt Box
+Wind Dragon T-shirt Box
+Water Dragon T-shirt Box
++7 Earth Dragon T-shirt Box
++7 Fire Dragon T-shirt Box
++7 Wind Dragon T-shirt Box
++7 Water Dragon T-shirt Box
+Sealed Earth Dragon T-shirt Box
+Sealed Fire Dragon T-shirt Box
+Sealed Wind Dragon T-shirt Box
+Sealed Water Dragon T-shirt Box
 dummy
 dummy
 dummy
@@ -24357,16 +24357,16 @@ dummy
 +5 Sacrifice Sword
 +4 Sacrifice Bow
 +5 Sacrifice Bow
-+4 Sacrifice staff
-+5 Sacrifice staff
++4 Sacrifice Staff
++5 Sacrifice Staff
 +4 Sacrifice Crow
 +5 Sacrifice Crow
-+4 Sacrifice chain Sword
-+5 Sacrifice chain Sword
-+4 Sacrifice key link
-+5 Sacrifice key link
-+4 Sacrifice Ax
-+5 Sacrifice Ax
++4 Sacrifice Chain Sword
++5 Sacrifice Chain Sword
++4 Sacrifice Key Link
++5 Sacrifice Key Link
++4 Sacrifice Axe
++5 Sacrifice Axe
 dummy
 dummy
 dummy
@@ -24429,14 +24429,14 @@ The finest treasure box of Dragon
 dummy
 dummy
 Spam automatic shut-off
-[+3] Room Sevilla Red earring (general)
-[+3] Room Sevilla blue earring (general)
-[+3] Room Sevilla purple earring (general)
-[+3] Room Sevilla black earring (general)
-[+3] Snapper Ring of Constitution (general)
-[+3] Snapper Ring of Magic Resistance (general)
-[+3] Snapper Ring of Wisdom (general)
-[+3] Snapper Ring of the mighty (general)
+[+3] Roomtis Red Earling (general)
+[+3] Roomtis Blue Earling (general)
+[+3] Roomtis Purple Earling (general)
+[+3] Roomtis Black Earling (general)
+[+3] Snapper Health Ring (general)
+[+3] Snapper magic resistance ring (general)
+[+3] Snapper Wisdom Ring (general)
+[+3] Snapper Hero Ring (general)
 [+3] Earth Dragon T-shirt (general)
 [+3] Fire Dragon T-shirt (general)
 [+3] Wind Dragon T-shirt (general)
@@ -24937,67 +24937,67 @@ Fragments of sacred ornaments
 +7 Antaras Grand Lobe
 +7 Antaras Grand Leather Armor
 +7 Antaras Grand Scale Mail
-+7 Papriion Hydro Plate Mail
-+7 Papriion Hydro Robe
-+7 Papriion Hydro Leather Armor
-+7 Papriion Hydro Scail Mail
-+7 Lind Vior Storm Plate Mail
-+7 Lind Vior Storm Love
-+7 Lind Vior Storm Leather Armor
-+7 Lind Vior Storm Scale Mail
-+7 Varakus Fraym Plate Mail
++7 Phafurion Hydro Plate Mail
++7 Phafurion Hydro Robe
++7 Phafurion Hydro Leather Armor
++7 Phafurion Hydro Scail Mail
++7 Lindvior Storm Plate Mail
++7 Lindvior Storm Love
++7 Lindvior Storm Leather Armor
++7 Lindvior Storm Scale Mail
++7 Valacas Fraym Plate Mail
 +7 Valacas Flame Love
 +7 Valacas Fraym Leather Armor
-+7 Varakus Fraymscail Mail
++7 Valacas Fraymscail Mail
 +8 Antaras Grand Plate Mail
 +8 Antaras Grand Lobe
-+ 8 Antaras Grand Leather Armor
++8 Antaras Grand Leather Armor
 +8 Antaras Grand Scale Mail
-+8 Papriion Hydro Plate Mail
-+8 Papriion Hydro Robe
-+8 Papriion Hydro Leather Armor
-+8 Papriion Hydro Skail Mail
-+8 Lind Vior Storm Plate Mail
-+8 Lind Vior Storm Love
-+8 Lind Vior Storm Leather Armor
-+8 Lind Vior Storm Scale Mail
++8 Phafurion Hydro Plate Mail
++8 Phafurion Hydro Robe
++8 Phafurion Hydro Leather Armor
++8 Phafurion Hydro Skail Mail
++8 Lindvior Storm Plate Mail
++8 Lindvior Storm Love
++8 Lindvior Storm Leather Armor
++8 Lindvior Storm Scale Mail
 +8 Valacas Fraym Plate Mail
 +8 Valacas Fraym Love
 +8 Valacas Fraym Leather Armor
-+ 8 Varakus Frame Scail Mail
++8 Valacas Frame Scail Mail
 +9 Antaras Grand Plate Mail
 +9 Antaras Grand Lobe
 +9 Antaras Grand Leather Armor
 +9 Antaras Grand Scale Mail
-+9 Papriion Hydro Plate Mail
-+9 Papriion Hydro Robe
-+9 Papriion Hydro Leather Armor
-+9 Papriion Hydro Scail Mail
-+9 Lind Vior Storm Plate Mail
-+9 Lind Vior Storm Love
-+9 Lind Vior Storm Leather Armor
-+9 Lind Vior Storm Scale Mail
-+9 Varakus Fray Metail
++9 Phafurion Hydro Plate Mail
++9 Phafurion Hydro Robe
++9 Phafurion Hydro Leather Armor
++9 Phafurion Hydro Scail Mail
++9 Lindvior Storm Plate Mail
++9 Lindvior Storm Love
++9 Lindvior Storm Leather Armor
++9 Lindvior Storm Scale Mail
++9 Valacas Fray Metail
 +9 Valacas Flame Lobe
 +9 Valacas Fraym Leather Armor
 +9 Valacas Fraymscail Mail
-Attribute 3 steps + 1 Dragon Slayer
-Attribute 3 steps + 2 Dragon Slayer
-Attribute 3-stage + 3 Dragon Slayer
-Attribute 3-stage + 4 Dragon Slayer
-Attribute 3 steps + 5 Dragon Slayer
-Attribute 3-stage + 6 Dragon Slayer
-Attribute 3 steps + 7 Dragon Slayer
-Attribute 3-stage + 8 Dragon Slayer
-Attribute 3-stage + 9 Dragon Slayer
-Attribute 3 steps + 10 Dragon Slayer
+Attribute 3-stage +1 Dragon Slayer
+Attribute 3-stage +2 Dragon Slayer
+Attribute 3-stage +3 Dragon Slayer
+Attribute 3-stage +4 Dragon Slayer
+Attribute 3 steps +5 Dragon Slayer
+Attribute 3-stage +6 Dragon Slayer
+Attribute 3 steps +7 Dragon Slayer
+Attribute 3-stage +8 Dragon Slayer
+Attribute 3-stage +9 Dragon Slayer
+Attribute 3 steps +10 Dragon Slayer
 Probabilistic melee damage
 Dragon Slayer
 Attribute 4-stage Dragon Slayer
-Attribute 4-stage + 1 Dragon Slayer
-Attribute 4-stage + 2 Dragon Slayer
-Attribute 4-stage + 3 Dragon Slayer
-Attribute 4-stage + 4 Dragon Slayer
+Attribute 4-stage +1 Dragon Slayer
+Attribute 4-stage +2 Dragon Slayer
+Attribute 4-stage +3 Dragon Slayer
+Attribute 4-stage +4 Dragon Slayer
 Attribute 4-stage +5 Dragon Slayer
 Attribute 4-stage +6 Dragon Slayer
 Attribute 4-stage +7 Dragon Slayer
@@ -25034,17 +25034,17 @@ dummy
 Fall Magic Doll
 Empty House
 Ancient goods Alchemist
-Golem ^ (Cha 25/1)
-Orufi ^ (Cha 25/1)
-War Orufi (Cha 25/1)
-Bogey ^ (Cha 25/1)
-Load bogey ^ (Cha 25/1)
-King clover ^ (Cha 25/1)
-Deika ^ (Cha 35/1)
-War Deika ^ (Cha 35/1)
-RANTES ^ (Cha 35/1)
-Load RANTES ^ (Cha 35/1)
-Khan Rogner ^ (Cha 35/1)
+Golem
+Orphee
+War Orphee
+Bogey
+Load Bogey
+King Klover
+Deika
+War Deika
+Rantes
+Lord Rantes
+Khan Logner
 Soldiers of the dark dragon
 Dark dragon warrior
 Dark dragon of the assassin
@@ -25097,15 +25097,15 @@ Room Eustis purple earring (events)
 Warrior support box
 The mighty support Corps of legend
 Sex change tickets
-+4 magic resistance ring exchange tickets
++4 Magic resistance ring exchange tickets
 +4 Constitution ring exchange tickets
-+4 Room Eustis earrings exchange tickets
-+3 magic resistance ring exchange tickets
-+3 stamina ring exchange tickets
-+3 Room Eustis earrings exchange tickets
-+2 magic resistance ring exchange tickets
-+2 stamina ring exchange tickets
-+2 room Eustis earrings exchange tickets
++4 Roomtiss earrings exchange tickets
++3 Magic resistance ring exchange tickets
++3 Stamina ring exchange tickets
++3 Roomtiss earrings exchange tickets
++2 Magic resistance ring exchange tickets
++2 Stamina ring exchange tickets
++2 Roomtiss earrings exchange tickets
 Asmodian weapon protection scroll exchange tickets (5 pictures)
 Asmodian weapon protection scroll exchange tickets (four)
 Asmodian weapon protection scroll exchange tickets (three)
@@ -25360,7 +25360,7 @@ dummy
 dummy
 dummy
 [9] Dragon Treasure Chest
-[+8] Darkness dual blade
+[+8] Darkness Dual Blade
 [+8] Darkness Crow
 dummy
 dummy
@@ -25508,8 +25508,8 @@ Secret Beads (Advanced Spirits)
 Platinum Administrator ^ Kuru
 VIP Teleporter ^ Momo
 VIP Ancient Giant's Tomb ^ Dada
-Bethellan Ax
-+ 5 Bethellan Ax Bag
+Bethellan Axe
++ 5 Bethellan Axe Bag
 Gold Enhancement Wizard ^ Shear
 Platinum Reinforcement Wizard ^ Sea
 VIP space-time moth
@@ -25846,14 +25846,14 @@ Ascension shield
 Bugining agile boots
 Bugning intelligent boots
 Bugning arm power boots
-[Hero] Spirit: 4-stage + 9 Beginning Dagger
-[Hero] Spirit: 4-stage + 9 Beginning Ax
-[Hero] Spirit: 4-stage + 9 Beginning staff
-[Hero] Spirit: 4-stage + 9 Beginning Sword
-[Hero] Spirit: 4 steps + 9 Beginning Bow
-[Hero] Spirit: 4 steps + 9 Beginning Crow
-[Hero] Spirit: 4-stage + 9 Beginning Key Link
-[Hero] Spirit: 4-stage + 9 Beginning Chain Sword
+[Hero] Spirit: 4-stage +9 Beginning Dagger
+[Hero] Spirit: 4-stage +9 Beginning Ax
+[Hero] Spirit: 4-stage +9 Beginning staff
+[Hero] Spirit: 4-stage +9 Beginning Sword
+[Hero] Spirit: 4-stage +9 Beginning Bow
+[Hero] Spirit: 4-stage +9 Beginning Crow
+[Hero] Spirit: 4-stage +9 Beginning Key Link
+[Hero] Spirit: 4-stage +9 Beginning Chain Sword
 dummy
 dummy
 dummy
@@ -26153,22 +26153,22 @@ dummy
 dummy
 dummy
 dummy
-Spirit: 4-stage + 9 Beginning Dagger
-Spirit: 4-stage + 9 Beginning Ax
-Spirit: 4-stage + 9 Beginning staff
-Spirit: 4-stage + 9 Beginning Sword
-Spirit: 4-stage + 9 Beginning Bow
-Spirit: 4-stage + 9 Beginning Crow
-Spirit: 4-stage + 9 Beginning Key Link
-Spirit: 4-stage + 9 Beginning Chain Sword
-Spirit: 3 steps + 8 Buginal Dagger
-Spirit: 3 steps + 8 Beginning Ax
-Spirit: 3 steps + 8 Beginning staff
-Spirit: 3 steps + 8 Buging Sword
-Spirit: 3 steps + 8 Beginning Bow
-Spirit: 3 steps + 8 Beginning Crow
-Spirit: 3 steps + 8 Beginning Key Link
-Spirit: 3-stage + 8 Beginning Chain Sword
+Spirit: 4-stage +9 Beginning Dagger
+Spirit: 4-stage +9 Beginning Axe
+Spirit: 4-stage +9 Beginning staff
+Spirit: 4-stage +9 Beginning Sword
+Spirit: 4-stage +9 Beginning Bow
+Spirit: 4-stage +9 Beginning Crow
+Spirit: 4-stage +9 Beginning Key Link
+Spirit: 4-stage +9 Beginning Chain Sword
+Spirit: 3-stage +8 Buginal Dagger
+Spirit: 3-stage +8 Beginning Axe
+Spirit: 3-stage +8 Beginning staff
+Spirit: 3-stage +8 Buging Sword
+Spirit: 3-stage +8 Beginning Bow
+Spirit: 3-stage +8 Beginning Crow
+Spirit: 3-stage +8 Beginning Key Link
+Spirit: 3-stage +8 Beginning Chain Sword
 dummy
 dummy
 dummy
@@ -26253,8 +26253,8 @@ Dated material
 Old Material
 Awakening light
 grid
-Ivory Tower Production Magician
-迚・tower magician
+Ivory Tower Crafting Wizard
+Ivory Tower Wizard
 Wind golem
 Nightmare Killer Bee
 Nightmare Lightning
@@ -26348,30 +26348,30 @@ dummy
 dummy
 dummy
 dummy
-[+5] Ring of sacred arm power
-[+5] Ring of sacred agility
-[+5] Ring of sacred knowledge
-[+6] Ring of sacred arm power
-[+6] Holy Easy Feature Ring
-[+6] Ring of sacred knowledge
-[+7] Ring of sacred arm power
-[+7] Holy Easy Feature Ring
-[+7] Ring of sacred knowledge
-[+8] Ring of sacred arm power
-[+8] Ring of sacred agility
-[+8] Ring of sacred knowledge
-[+9] Ring of sacred arm power
-[+9] Holy Easy-to-His Aya Ring
-[+9] Ring of sacred knowledge
+[+5] Sacred Ring of Strength
+[+5] Sacred Ring of Agility
+[+5] Sacred Ring of Knowledge
+[+6] Sacred Ring of Strength
+[+6] Sacred Ring of Agility
+[+6] Sacred Ring of Knowledge
+[+7] Sacred Ring of Strength
+[+7] Sacred Ring of Agility
+[+7] Sacred Ring of Knowledge
+[+8] Sacred Ring of Strength
+[+8] Sacred Ring of Agility
+[+8] Sacred Ring of Knowledge
+[+9] Sacred Ring of Strength
+[+9] Sacred Ring of Agility
+[+9] Sacred Ring of Knowledge
 [+7] Divine Protection Cloak
 [+8] Divine Protection Cloak
 [+9] Divine Protection Cloak
-[5] Fragments of sacred arts
-[7] Fragments of sacred areas
-[10] Fragments of sacred arts
-[15] Fragments of sacred areas
-[20] Fragments of sacred arts
-[25] Fragments of sacred areas
+[5] Fragments of sacred ornaments
+[7] Fragments of sacred ornaments
+[10] Fragments of sacred ornaments
+[15] Fragments of sacred ornaments
+[20] Fragments of sacred ornaments
+[25] Fragments of sacred ornaments
 [200] Fragments of sacred ornaments
 dummy
 dummy
@@ -26395,21 +26395,21 @@ dummy
 Ring of sacred depression
 Ring of sacred devil
 A ring of blow
-[+5] Ring of sacred depression
-[+6] Ring of sacred depression
-[+7] Ring of sacred depression
-[+8] Ring of sacred depression
-[+9] Ring of sacred depression
-[+5] Ring of sacred devil
-[+6] Ring of sacred devil
-[+7] Ring of sacred devil
-[+8] Ring of sacred devil
-[+9] Ring of sacred devil
-[+5] Ring of sacred blow
-[+6] Ring of sacred blow
-[+7] Ring of sacred blow
-[+8] Ring of sacred blow
-[+9] Ring of sacred blow
+[+5] Sacred Ring of Spirit
+[+6] Sacred Ring of Spirit
+[+7] Sacred Ring of Spirit
+[+8] Sacred Ring of Spirit
+[+9] Sacred Ring of Spirit
+[+5] Sacred Ring of Demon King
+[+6] Sacred Ring of Demon King
+[+7] Sacred Ring of Demon King
+[+8] Sacred Ring of Demon King
+[+9] Sacred Ring of Demon King
+[+5] Sacred Ring of Hit
+[+6] Sacred Ring of Hit
+[+7] Sacred Ring of Hit
+[+8] Sacred Ring of Hit
+[+9] Sacred Ring of Hit
 Coin
 Production table ^ Fishing rod
 dummy
@@ -27287,35 +27287,35 @@ Minor Silver Ax practitioners
 Yarn of \aLsticky spider
 \aLsturdy thread
 Production ^ mystery made pond
-[Return] Hirei: 3-stage +7 beginning Dagger
-[Return] Hirei: 3-stage +7 beginning Ax
-[Return] Hirei: 3-stage +7 beginning staff
-[Return] Hirei: 3-stage +7 beginning Sword
-[Return] Hirei: 3-stage +7 beginning Bow
-[Return] Hirei: 3-stage +7 beginning Crow
-[Return] Hirei: 3-stage +7 beginning key link
-[Return] Hirei: 3-stage +7 beginning chain Sword
+[Return] Hirei: 3-stage +7 Beginning Dagger
+[Return] Hirei: 3-stage +7 Beginning Axe
+[Return] Hirei: 3-stage +7 Beginning Staff
+[Return] Hirei: 3-stage +7 Beginning Sword
+[Return] Hirei: 3-stage +7 Beginning Bow
+[Return] Hirei: 3-stage +7 Beginning Crow
+[Return] Hirei: 3-stage +7 Beginning Key Link
+[Return] Hirei: 3-stage +7 Beginning Chain Sword
 [Return] +5 Ascension Helm
-[Return] +5 Ascension mask
-[Return] +3 beginning plate mail
-[Return] +3 beginning Scale Mail
-[Return] +3 beginning leather armor
-[Return] +3 beginning robe
-[Return] +5 Ascension brute strength of gaiters
-[Return] +5 Ascension agility of Gaiters
-[Return] +5 ascension intelligence Gaiters
-[Return] +5 beginning agility of boots
-[Return] +5 Beginning intelligence boots
-[Return] +5 beginning brute strength of boots
-[Return] +5 Ascension cloak
-[Return] +7 beginning magic book
-[Return] +6 Ascension shield
-[Return] Ascension girder
-[Return] +7 beginning van Brace
-[Return] +7 beginning glove
-[Return] +1 Ascension belt
-[Return] +1 beginning amulet
-[Return] +5 Ascension cloak
+[Return] +5 Ascension Mask
+[Return] +3 Beginning Plate mail
+[Return] +3 Beginning Scale Mail
+[Return] +3 Beginning Leather armor
+[Return] +3 Beginning Robe
+[Return] +5 Ascension Brute strength of gaiters
+[Return] +5 Ascension Agility of Gaiters
+[Return] +5 Ascension Intelligence Gaiters
+[Return] +5 Beginning Agility of boots
+[Return] +5 Beginning Intelligence boots
+[Return] +5 Beginning Brute strength of boots
+[Return] +5 Ascension Cloak
+[Return] +7 Beginning Magic book
+[Return] +6 Ascension Shield
+[Return] Ascension Girder
+[Return] +7 Beginning Vambrace
+[Return] +7 Beginning Glove
+[Return] +1 Ascension Belt
+[Return] +1 Beginning Amulet
+[Return] +5 Ascension Cloak
 dummy
 dummy
 \aLWolf of the skin
@@ -27807,9 +27807,9 @@ Chieftain of the demon
 Event reward paid ^ Fukufuku
 Events Teleporter ^ security length
 Silver weapons production
-dummy
-dummy
-dummy
+Red Dragon
+Green Dragon
+Blue Dragon
 dummy
 dummy
 dummy
@@ -27939,10 +27939,10 @@ jewelry
 ore
 Oriharcon
 dummy
-+3 Carts Fighter In Signer Box
-+3 Cartelater Insigny Box
-+3 Corporate Sorcerer's Insigny Box
-+3 Cart Protection In Signer Box
++3 Kurts Warrior Insignia Box
++3 Kurts Archer Insignia Box
++3 Kurts Sage's Insignia Box
++3 Kurts Guardian Insignia Box
 Blessing effort efficiency
 dummy
 dummy
@@ -29741,8 +29741,8 @@ dummy
 [Siege Battle]
 dummy
 dummy
-Proof of Siege Warrior
-Siege Battle Teleport Amulet
+dummy
+dummy
 Magic doll automatic registration for three-stage special synthesis
 Magic doll automatic registration for four-stage special synthesis
 Magic doll automatic registration for five-stage special synthesis
@@ -29763,8 +29763,8 @@ Controlled tower
 dummy
 dummy
 dummy
-Giran Castle Lord Dusera
 dummy
+Heine Castle Lord Trodon
 dummy
 dummy
 dummy
@@ -30066,7 +30066,7 @@ Temptation of the deep sea
 dummy
 Sword Production Craftsman ^ Ken
 Dual Blade Production Craftsman ^ hover
-Amulet Production Craftsman ^ Suria
+Amulet / Earring Craftsman ^ Suria
 Ring Production Craftsman ^ Warin
 Frigid craftsman ^ Colt
 Asmodian craftsman ^ Rinemu
@@ -30472,16 +30472,16 @@ dummy
 dummy
 dummy
 dummy
+The power of orc magic.
+Slowly die.
 dummy
 dummy
 dummy
-Komon
-I'll burn everything up.
-It won't be scratched.
-I'll disturb the battlefield.
 dummy
 dummy
 dummy
+dummy
+The bottom ends will be dealt with together.
 dummy
 dummy
 dummy
@@ -30490,7 +30490,7 @@ Ivory tower talisman box
 The soul of violence god: The time came ... but it seems like a soul that is not enough to take ...
 A soul of a bad death god: Retirement ... more than this is a waste of time ...
 +9 Blood Soccer
-+9 Blessed Oriharcon Dagger
++9 Blessed Orichalcum Dagger
 Alagan Geiser
 Aragence Golem
 Alaganas Sensup
@@ -30578,10 +30578,10 @@ Tower of the Arrogance's Teleporter ^ Tower of the Arrogance's teleport image
 dummy
 dummy
 dummy
-[+4] Room Sevilla Red earring (general)
-[+4] Room Sevilla blue earring (general)
-[+4] Room Sevilla purple earring (general)
-[+4] Room Sevilla black earring (general)
+[+4] Room Tiss Red earring (general)
+[+4] Room Tiss Blue earring (general)
+[+4] Room Tiss Purple earring (general)
+[+4] Room Tiss Black earring (general)
 [+4] Snapper Ring of Constitution (general)
 [+4] Snapper Ring of Magic Resistance (general)
 [+4] Snapper Ring of Wisdom (general)
@@ -30981,7 +30981,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Ein Hazard Present Box
 Eva Waterway
 dummy
 dummy
@@ -31090,30 +31090,30 @@ Elixir 100% production tickets
 Snapper +1 strengthening tickets
 Event production ^ Jiguro
 Box of special elixir
-+4 Room Eustis Red earring (General)
-+4 Room Eustis blue earring (General)
-+4 Room Eustis purple earring (General)
-+4 Room Eustis black earring (General)
++4 Room Tiss Red earring (General)
++4 Room Tiss Blue earring (General)
++4 Room Tiss Purple earring (General)
++4 Room Tiss Black earring (General)
 +5 Room Tiss Red Earrings (General)
 +5 Room Tiss Blue Earring (General)
 +5 Room Tiss Purple Earrings (General)
 +5 Room Tiss Black Earrings (General)
-+6 Room Eustis Red earring (General)
-+6 Room Eustis blue earring (General)
-+6 Room Eustis purple earring (General)
-+6 Room Eustis black earring (General)
-+4 Room Eustis Red earring (blessing)
-+4 Room Eustis blue earring (blessing)
-+4 Room Eustis purple earring (blessing)
-+4 Room Eustis black earring (blessing)
++6 Room Tiss Red earring (General)
++6 Room Tiss Blue earring (General)
++6 Room Tiss Purple earring (General)
++6 Room Tiss Black earring (General)
++4 Room Tiss Red earring (blessing)
++4 Room Tiss Blue earring (blessing)
++4 Room Tiss Purple earring (blessing)
++4 Room Tiss Black earring (blessing)
 +5 Room Tiss Red Earrings (blessing)
 +5 Room Tiss Blue Earring (blessing)
 +5 Room Tiss Purple Earrings (blessing)
 +5 Room Tiss Black Earrings (blessing)
-+6 Room Eustis Red earring (blessing)
-+6 Room Eustis blue earring (blessing)
-+6 Room Eustis purple earring (blessing)
-+6 Room Eustis black earring (blessing)
++6 Room Tiss Red earring (blessing)
++6 Room Tiss Blue earring (blessing)
++6 Room Tiss Purple earring (blessing)
++6 Room Tiss Black earring (blessing)
 +4 Snapper Ring of Constitution (general)
 +4 Snapper Ring of Magic Resistance (general)
 +4 Snapper Ring of Wisdom (general)
@@ -31358,10 +31358,10 @@ dummy
 dummy
 dummy
 dummy
-+7 Philosopher's dragon T-shirt box
-+7 militants of dragon T-shirt box
-+7 shooter dragon T-shirt box
-+7 patron of the dragon T-shirt box
++7 Sage Dragon T-shirt Box
++7 Warrior Dragon T-shirt Box
++7 Archer Dragon T-shirt Box
++7 Guardian Dragon T-shirt Box
 dummy
 Shasuki of Kyofu has emerged.
 Gale Shasuki has emerged.
@@ -31629,18 +31629,18 @@ dummy
 dummy
 dummy
 dummy
-Antaras Dragon Heart Telepter ^ Game Dragon's Orb
-Dragon inhabiting ground teleporter ^ Water dragon well
-Dragon Heart Teleporter ^ Cave of Wind Dragon
-Dragon Heart Teleporter ^ Fire Dragon Cave
+Dragon Habitat Teleporter ^ Earth Dragon Orb
+Dragon Habitat Teleporter ^ Water Dragon Well
+Dragon Habitat Teleporter ^ Wind Dragon Cave
+Dragon Habitat Teleporter ^ Fire Dragon Cave
 \aFValacas Long Sword
-\aFValacas's Two-handed Sword
-\aFPapriion Long Bow
-\aFPapriion Dual Blade
+\aFValacas Two-handed Sword
+\aFPhafurion Long Bow
+\aFPhafurion Dual Blade
 \aFAntaras Axe
 \aFAntaras Staff
-\aFLynd Viol Chain Sword
-\aFLind Viol Key Link
+\aFLindvior Chain Sword
+\aFLindvior Key Link
 \aHHalpas Dark Plate Mail
 \aHHalpas Dark Scale Mail
 \aHHalpas Dark Robe
@@ -31654,14 +31654,14 @@ Sealed black dragon magic eye
 Absolute magical eye
 \aEHalpas Heart
 \aEDragon Key (Halpas)
-(Valakas soul: Long Sword)
+(Valacas's soul: Long Sword)
 (Valacas's soul: Great Sword)
-(Papriion's soul: Long Bow)
-(Papriion's soul: dual blade)
-(Anturas' s soul: Ax)
-(Anturas' s soul: staff)
-(Lind Viol's soul: chain Sword)
-(Lind Viol's soul: Key link)
+(Phafurion's soul: Long Bow)
+(Phafurion's soul: Dual Blade)
+(Antaras' s soul: Axe)
+(Antaras' s soul: Staff)
+(Lindvior's soul: Chain Sword)
+(Lindvior's soul: Key Link)
 Rosas does not make use of your suit!
 Uuu ... I will come back again.
 ... If you get angry ... that person will not forgive you!
@@ -31825,7 +31825,7 @@ dummy
 19 anniversary treasure hunt event
 Bestowed article which lost its shine
 Of the 19 anniversary silver bestowed goods
-Aden's Magic Box
+Rune's Magic Box
 19 anniversary silver key
 19 anniversary Golden Key
 Go to the treasure hunt
@@ -32506,10 +32506,10 @@ dummy
 (Impact)
 (Elven Gravity)
 What is the fate of what happened this way ...
-+5 Insignia of fighter
-+5 Insignia of
-+5 Sorcerer's Insignia
-+5 Protect in Signia
++5 Warrior Insignia
++5 Archer Insignia
++5 Sage Insignia
++5 Guardian Insignia
 dummy
 dummy
 dummy
@@ -32571,7 +32571,7 @@ dummy
 +3 Room Tiss Package (Blue)
 +3 Room Tiss Package (Purple)
 +3 Room Tiss Package (Black)
-+3 Snapper package (Constitution)
++3 Snapper Package (Constitution)
 +3 Snapper Package (Magic Resistance)
 +3 Snapper Package (Wisdom)
 +3 Snapper Package (Heroes)
@@ -32626,19 +32626,19 @@ dummy
 +3 Luna Earring
 + 4 Luna Iarling
 +5 Luna Earring
-[+5] Room Tiss Fighter Pendant (blessing)
-[+6] Room Tiss Fighter Pendant (blessing)
-[+7] Room Tiss Fighter Pendant (blessing)
-[+8] Room Tiss Fighter Pendant (blessing)
-[+5] Room Tiss Shorch Pendant (blessing)
-[+6] Room Tiss Shorch Pendant (blessing)
-[+7] Room Tiss Shorch Pendant (blessing)
-[+8] Room Tiss Shorch Pendant (blessing)
-[+5] Sorcerer Pendant (blessing) of Room Tiss
-[+6] Sorcerer Pendant (blessing) of Room Tes
-[+7] Sorcerer Pendant (blessing) of Room Tes
-[+8] Sorcerer Pendant (blessing) of Room Tes
-[+5] Hunter Pendant (blessing) of Room Tiss Hunter
+[+5] Room Tiss Warrior Pendant (blessing)
+[+6] Room Tiss Warrior Pendant (blessing)
+[+7] Room Tiss Warrior Pendant (blessing)
+[+8] Room Tiss Warrior Pendant (blessing)
+[+5] Room Tiss Archer Pendant (blessing)
+[+6] Room Tiss Archer Pendant (blessing)
+[+7] Room Tiss Archer Pendant (blessing)
+[+8] Room Tiss Archer Pendant (blessing)
+[+5] Room Tiss Sage Pendant (blessing)
+[+6] Room Tiss Sage Pendant (blessing)
+[+7] Room Tiss Sage Pendant (blessing)
+[+8] Room Tiss Sage Pendant (blessing)
+[+5] Room Tiss Hunter Pendant (blessing)
 [+6] Room Tiss Hunter Pendant (blessing)
 [+7] Room Tiss Hunter Pendant (blessing)
 [+8] Room Tiss Hunter Pendant (blessing)
@@ -32685,7 +32685,7 @@ Commander Spear
 Abyss Spear
 Death Blood Spear
 \aHExecution of the ruler
-dummy
+\aGMarble's Anguish
 Monarch blessing
 Knight blessing
 Elven blessing
@@ -32945,9 +32945,9 @@ Supply Merchant Somli
 Hero's growth proof box
 Proof of hero growth
 Hero Skill Dissolver
-Proof of growth of a soulful hero
+Proof of the Wizard
 Proof of hero skill
-Proof of soulful hero skill
+Proof of skill of a soulful hero
 Skill production ^ Scarla
 dummy
 dummy
@@ -33567,7 +33567,7 @@ Great spirit of the land of reincarnation
 Reincarnated Fire Elemental
 dummy
 dummy
-dummy
+\aGEva's Pledge
 dummy
 dummy
 dummy
@@ -33589,7 +33589,7 @@ Technical book (Raging Force) (engraved)
 Spellbook (Meister Accuracy) (engraved)
 Dragon Knight's calligraphy board (Force Layer: Brave) (engraved)
 Fencer's Book (Judgment) (engraved)
-Clan Weekly Portal
+Dragon habitat entrance
 dummy
 dummy
 dummy
@@ -33612,12 +33612,12 @@ dummy
 \aFAncient heritage (sword)
 \aFAncient heritage (two-handed sword)
 dummy
+\aFAncient heritage (staff)
 dummy
 dummy
 dummy
 dummy
-dummy
-dummy
+\aFAncient heritage (spear)
 Somewhere here there was an incomprehensible distortion.
 dummy
 dummy
@@ -33652,6 +33652,50 @@ Spellbook (Death Heal) (engraved)
 Weapon damage Ignore immunity
 dummy
 dummy
++5 Warrior Guardian Insignia
++5 Archer Guardian Insignia
++5 Sage's Guardian Insignia
++5 Guardian Insignia
++5 Warrior Guardian Emblem
++5 Archer's Guardian Emblem
++5 Sage's Guardian Emblem
++5 Guardian coat of arms
++5 Warrior Guardian Insignia (Synthetic)
++5 Archer Guardian Insignia (Synthetic)
++5 Sage's Guardian Insignia (Synthetic)
++6 Warrior Guardian Insignia (Synthetic)
++6 Archer's Guardian Insignia (Synthetic)
++6 Sage's Guardian Insignia (Synthetic)
++7 Warrior Guardian Insignia (Synthetic)
++7 Archer's Guardian Insignia (Synthetic)
++7 Sage's Guardian Insignia (Synthetic)
++5 Warrior Guardian Emblem (Synthetic)
++5 Archer's Guardian Emblem (Synthetic)
++5 Sage's Guardian Emblem (Synthetic)
++6 Warrior Guardian Emblem (Synthetic)
++6 Archer's Guardian Emblem (Synthetic)
++6 Sage's Guardian Emblem (Synthetic)
++7 Warrior Guardian Emblem (Synthetic)
++7 Archer's Guardian Emblem (Synthetic)
++7 Sage's Guardian Emblem (Synthetic)
++5 Warrior Guardian Insignia (Strengthen)
++5 Archer Guardian Insignia (Strengthened)
++5 Sage's Guardian Insignia (Strengthen)
++6 Warrior Guardian Insignia (Strengthen)
++6 Archer Guardian Insignia (Strengthened)
++6 Sage's Guardian Insignia (Strengthen)
++7 Warrior Guardian Insignia (Strengthen)
++7 Archer Guardian Insignia (Strengthened)
++7 Sage's Guardian Insignia (Strengthen)
++5 Warrior Guardian Emblem (Strengthened)
++5 Archer's Guardian Emblem (Strengthened)
++5 Sage's Guardian Emblem (Strengthen)
++6 Warrior Guardian Emblem (Strengthened)
++6 Archer's Guardian Emblem (Strengthened)
++6 Sage's Guardian Emblem (Strengthened)
++7 Warrior Guardian Emblem (Strengthened)
++7 Archer's Guardian Emblem (Strengthened)
++7 Sage's Guardian Emblem (Strengthened)
 dummy
 dummy
 dummy
@@ -33673,56 +33717,12 @@ dummy
 dummy
 dummy
 dummy
+(Eva's referee)
 dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+(Marble message)
 dummy
 dummy
 dummy
@@ -33780,10 +33780,10 @@ Luxury pulse bomb (70 minutes)
 Aden King's Supply Box
 King's production request form
 King's ring
-+ 5 King's Ring
-+ 6 Ring of King King
-+7 Ring of King King
-+ 8 Ring of king
++5 King's Ring
++6 King's Ring
++7 King's Ring
++8 King's Ring
 +9 King's Ring
 Fire spirit machine
 Water spirit machine
@@ -33795,8 +33795,8 @@ Main machine for wind
 Main machine of the ground
 Spirit Machinery Teacher
 A city that became ruined
-Event production ^ 迚・
-Event Reporting Prize ^ ivory tower wizard
+Event production ^ Ivory tower craftsman
+Event Reporting Prize ^ Ivory tower wizard
 Event Merchant ^ Kingdom Country
 Event Teleporter ^ Kingdom Wizard
 Kingdom-clean event
@@ -34021,7 +34021,7 @@ Shinmeiou Skill Box (Sale)
 Blessed Olim Ornament Enhanced Scroll Package
 Hermit ^ Olim
 +7 Grim Reaper Ring
-+7 rich ring
++7 Rich ring
 +7 Ancient Giant Ring
 +7 Liaring
 +7 Kronos belt
@@ -34033,7 +34033,7 @@ Hermit ^ Olim
 +7 Shining Siaha Amulet
 +7 Sage Amulet
 +8 Grim Reaper Ring
-+8 rich ring
++8 Rich ring
 +8 Ancient Giant Ring
 +8 Liaring
 +8 Kronos belt
@@ -34045,7 +34045,7 @@ Hermit ^ Olim
 +8 Shining Siaha Amulet
 +8 Sage Amulet
 +9 Grim Reaper Ring
-+9 rich ring
++9 Rich ring
 +9 Ancient Giant Ring
 +9 Liaring
 +9 Kronos belt
@@ -34074,7 +34074,7 @@ Aden Blessing Box
 Aden Hero Package
 Aden Quick Package
 Aden's blessing package
-Blessing of Aden
+Blessing of Rune
 Level 75 achievement present box
 Level 80 achievement present box
 Level 85 achievement present box
@@ -34133,8 +34133,8 @@ Attribute 5 steps \aH+7 Execution of ruler
 Attribute 5 steps \aH+8 Execution of ruler
 Attribute 5 steps \aH+9 Execution of ruler
 Attribute 5 steps \aH+10 Execution of ruler
-Aden's health recovery agent
-Aden's mana recovery agent
+Rune's health recovery agent
+Rune's Mana Restoration Agent
 Aden's Black Pearl
 Aden's Strengthening Scroll
 Aden's agility scroll
@@ -34396,12 +34396,12 @@ Golden Knights Special Magic Doll Bag
 Growth coin box
 +5 Dragon T-shirt exchange ticket
 +4 Roomtis Earling Exchange Ticket
-+4 snapper ring exchange ticket
++4 Snapper ring exchange ticket
 +4 Roomtis pendant exchange ticket
 +4 Insignia exchange ticket
 +4 Emblem exchange ticket
 +4 Warrior Pendant
-+4 archer pendant
++4 Archer pendant
 +4 Sage's pendant
 +4 hunter pendant
 +4 Warrior Guardian Insignia
@@ -34445,7 +34445,7 @@ Pandora's Cube
 Pure Elixir Box
 Gold Castle Special Magic Doll Bag
 Hero Skill Dissolver
-+10 true rapier
++10 True rapier
 +10 True Warrior Tachi
 +10 Darkness Crossbow
 +10 Ice Queen Staff
@@ -34494,7 +34494,7 @@ Hero Skill Dissolver
 +8 Windblade Sword
 +9 Windblade Sword
 +10 Windblade Sword
-＋0 Holy Hedron Staff
++0 Holy Hedron Staff
 +1 Holy Hedron Staff
 +2 Holy Hedron Staff
 +3 Holy Hedron Staff
@@ -34618,7 +34618,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Pure Elixir Box
 dummy
 dummy
 dummy
@@ -34650,7 +34650,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
+Items cannot be acquired
 dummy
 dummy
 dummy
@@ -34708,6 +34708,8 @@ dummy
 dummy
 dummy
 dummy
+Proof of a dragon hunter
+Dragon heritage
 dummy
 dummy
 dummy
@@ -34761,6 +34763,11 @@ dummy
 dummy
 dummy
 dummy
+Disappear, greedy humans ...
+Green dragon
+blue Dragon
+Red Dragon
+It's not over yet…
 dummy
 dummy
 dummy
@@ -34773,6 +34780,7 @@ dummy
 dummy
 dummy
 dummy
+Dragon loot
 dummy
 dummy
 dummy
@@ -34823,13 +34831,31 @@ dummy
 dummy
 dummy
 dummy
+The portal will close soon.
+There are seconds left.
 dummy
 dummy
 dummy
 dummy
 dummy
 dummy
+Growth coin (~ 2/9)
 dummy
+Number of available purchases per server (days)
+Available for each server (week)
+Lazarus has appeared.
+Pixie's health recovery agent
+Pixie's mana recovery agent
+
+Magic Doll: Halpas
+Magic Doll: Aurakia
+Magic Doll: Behemoth
+Halpas Magic Doll
+Aurakia Magic Doll
+Behemoth Magic Doll
+Madness amulet
+Death Blood Earling
+Dragon spallder
 dummy
 dummy
 dummy
@@ -34858,14 +34884,58 @@ dummy
 dummy
 dummy
 dummy
+Teleporter ^ Semin
+Integrated Sokoban ^ Delent
+Enhancement Wizard ^ Gomel
+Miscellaneous goods merchant ^ Lumin
+The owner of the inn ^ Shabin
+Medal of the Red Knights
+Black Knight Medal
+Gold Castle Medal
+Battlefield loot
+Guardian's Loot
+Looter's loot
+Loot Box at Heine Castle
+Kadel's disciple ^ Adele
+Mysterious Eva Kingdom Waterway / Mysterious Atuba Oak Hidden
 dummy
 dummy
 dummy
+Blacksmith ^ Tace
+Astrologer ^ Erindy
+Enhancement Wizard ^ Mundle
+Hero's magic stone
+Wizard ^ Lidili
++8 Blessed Snapper Health Ring
++8 Blessed Snapper Magic Resistance Ring
++8 Blessed Snapper Wisdom Ring
++8 Blessed Snapper Hero Ring
++8 Blessed Roomtis Red Earling
++8 Blessed Roomtis Blue Earling
++8 Blessed Roomtis Purple Earlings
++8 Blessed Roomtis Black Earling
++8 Warrior Guardian Insignia (Strengthen)
++8 Archer Guardian Insignia (Strengthened)
++8 Sage's Guardian Insignia (Strengthen)
++8 Warrior Guardian Emblem (Strengthened)
++8 Archer's Guardian Emblem (Strengthened)
++8 Sage's Guardian Emblem (Strengthened)
 dummy
 dummy
+Lazarus
+The spirit of terrible flame
+Cold and cold debris
+Distorted earth sound
+West wind of death
+The master of the distorted space
 dummy
 dummy
 dummy
+The number of people is full
+You cannot enter with a dragon hunter's proof.
+I can't enter the portal.
+Dungeon usage time
+There are seconds left.
 dummy
 dummy
 dummy
@@ -34875,6 +34945,11 @@ dummy
 dummy
 dummy
 dummy
+Messenger of salvation ^ Sarinda
+grid
+Grid Liz
+Grid Mage
+Grid King
 dummy
 dummy
 dummy
@@ -34888,10 +34963,18 @@ dummy
 dummy
 dummy
 dummy
+The Grid King has appeared.
 dummy
 dummy
 dummy
+Run Castle Village
+Cursed mine
 dummy
+Hmm ... surprisingly ...
+Are you scared ...?
+So ... can this be tolerated?
+Oh God…
+All that remains is ... Gurululu ...
 dummy
 dummy
 dummy
@@ -34911,7 +34994,17 @@ dummy
 dummy
 dummy
 dummy
+Rune's Secret Box
+Rune's Golden Secret Box
+(Disintegrate: Nemesis)
+(Holy Walk: Evolution)
+(Aetherial Circle)
+(Divine protection)
 dummy
+\aESpellbook (Disintegrate: Nemesis)
+\aESpellbook (Holy Walk: Evolution)
+\aESpellbook (Aetherial Circle)
+\aESpellbook (Divine Protection)
 dummy
 dummy
 dummy
@@ -34941,7 +35034,73 @@ dummy
 dummy
 dummy
 dummy
+Drugabert: If I remember correctly, the dragon should be hiding himself!
+Everything is dead.
+I wonder if that was the case ... but!
 dummy
+(Greater Summon Monster)
+\aESpellbook (Greater Summon Monster)
++1 Daemon Amulet
++2 Daemon Amulet
++3 Daemon Amulet
++4 Daemon Amulet
++5 Daemon Amulet
++6 Daemon Amulet
++7 Daemon Amulet
++8 Daemon Amulet
++9 Daemon Amulet
++10 Daemon Amulet
++1 Dragon Earling
++2 Dragon Earling
++3 Dragon Earling
++4 Dragon Earling
++5 Dragon Earling
++6 Dragon Earling
++7 Dragon Earling
++8 Dragon Earling
++9 Dragon Earling
++10 Dragon Earling
+The competition will start in 10 seconds.
+The competition will start in 5 seconds.
+First Army rush!
+The rush of the 1st Army monster is complete.
+Soon the First Army boss will rush.
+After 20 seconds, the Second Army will begin to enter.
+Enter the Second Army!
+The rush of the 2nd Army monster is complete.
+Soon the Second Army boss will rush.
+Twenty seconds later, the Third Army will begin to enter.
+3rd Army rushes!
+The rush to the 3rd Army has been completed.
+Soon the 3rd Army boss will rush.
+After 20 seconds, the 4th Army will begin to enter.
+4th Army rush!
+The rush to the 4th Army has been completed.
+Soon the 4th Army boss will rush.
+Twenty seconds later, the Fifth Army will begin to enter.
+Enter the 5th Army!
+The rush to the 5th Army has been completed.
+Soon the 5th Army boss will rush.
+There is 1 minute left until the end of the competition.
+The competition will end after 30 seconds.
+The competition will end in 20 seconds.
+The competition will end in 10 seconds.
+The competition will end in 5 seconds.
+After 30 seconds, the secret boss will rush.
+Kuuuuu ...
+Proof of Ultimate Hero
+Ultimate Battle Keeper (1st Army)
+Chaotic Nightbald
+Chaotic Zombie Road
+Chaotic iris
+Chaotic vampire
+Chaotic crimson
+Chaotic Succubus Queen
+Chaotic Asmodeus
+Chaotic cougar
+Chaotic sheer
+Chaotic Mommy Road
+Rich belt
 dummy
 dummy
 dummy
@@ -34960,7 +35119,33 @@ dummy
 dummy
 dummy
 dummy
+Magic damage +%d%%
+After 10 seconds, the Second Army will begin to enter.
+After 10 seconds, the Third Army will begin to enter.
+After 10 seconds, the 4th Army will start rushing.
+After 10 seconds, the Fifth Army will begin to enter.
+The Ultimate Battle Keeper has arrived.
+Ultimate Battle Keeper (2nd Army)
+Ultimate Battle Keeper (3rd Army)
+Ultimate Battle Keeper (4th Army)
+Ultimate Battle Keeper (5 Army)
+Stupid hero ...
+Who woke me up to a deep sleep ...
+Will you face me with that dullness ...
+I ... the ruler of darkness ...
+If I break my seal ... Aden World will be in ruins ...
+Do you care about my ... existence?
+If you want to see me ... I'll give you a hint ...
+In a limited time ... with my seal stone ... keeper ...
+Find and defeat 5 keeper!
+Seal ... If the seal is broken ...
+I'll turn the Coliseum that sealed me into a sea of ??fire ...
+No one can stop me ...
+hurry up! Break my seal!
+others
+4-step acceleration
 dummy
+effect
 dummy
 dummy
 dummy
@@ -34972,8 +35157,30 @@ dummy
 dummy
 dummy
 dummy
+A little more ...
+Defeat my minions sooner!
+Seal ... Seal is ... Kuaaaa!
+The last secret boss has appeared.
+Kuhahahaha! I feel it after a long time ... It's the power of magic ...
+I'll blow you all away with the overflowing magical power.
+Is this the best ... Do more!
+Coliseum ... Are you trying to seal me again ... Wow ...
+Red Knights
+Gold Castle
+Black knight
 dummy
 dummy
+grim Reaper
+Dimensional teleporter ^ guard
+Reinforcement Wizard ^ Red Knights
+Enhancement Wizard ^ Black Knight
+Enhancement Wizard ^ Gold Castle
+Supply Merchant ^ Red Knights
+Supply Merchant ^ Black Knight
+Supply Merchant ^ Gold Castle
+Fencer's Book (Pantera: Shock)
+Spearbook (Cruel: Convection)
+Ultimate Battle Skill Fragment
 dummy
 dummy
 dummy
@@ -35083,6 +35290,32 @@ dummy
 dummy
 dummy
 dummy
+Albion
+Maidon
+Saffien
+Aquila
+Frey
+Sigir
+Attribute 5-stage \aG+1 Eva's pledge
+Attribute 5-stage \aG+2 Eva's pledge
+Attribute 5-stage \aG+3 Eva's pledge
+Attribute 5-stage \aG+4 Eva's pledge
+Attribute 5-stage \aG+5 Eva's pledge
+Attribute 5-stage \aG+6 Eva's pledge
+Attribute 5-stage \aG+7 Eva's pledge
+Attribute 5-stage \aG+8 Eva's pledge
+Attribute 5-stage \aG+9 Eva's pledge
+Attribute 5-stage \aG+10 Eva's pledge
+Attribute 5-stage \aG+1 Marble's anguish
+Attribute 5-stage \aG+2 Marble's anguish
+Attribute 5-stage \aG+3 Marble's anguish
+Attribute 5-stage \aG+4 Marble's anguish
+Attribute 5-stage \aG+5 Marble's anguish
+Attribute 5-stage \aG+6 Marble's anguish
+Attribute 5-stage \aG+7 Marble's anguish
+Attribute 5-stage \aG+8 Marble's anguish
+Attribute 5-stage \aG+9 Marble's anguish
+Attribute 5-stage \aG+10 Marble's anguish
 dummy
 dummy
 dummy
@@ -35143,6 +35376,11 @@ dummy
 dummy
 dummy
 dummy
+Heine Guardian Tower
+Heine North Tower
+Heine East Tower
+Heine South Tower
+Heine West Tower
 dummy
 dummy
 dummy
@@ -35161,21 +35399,62 @@ dummy
 dummy
 dummy
 dummy
+Dimensional Teleporter ^ Regin
+Dimensional Teleporter ^ Rona
+Admission to Heine Castle ^ Red Knights Guards
+Admission to Heine Castle ^ Black Knight Guard
+Admission to Heine Castle ^ Gold Castle Guard
+Lindviol's magic ball
+Dimensional Loot Box (Fri)
+Dimensional Loot Box (Silver)
+Dimensional loot box (copper)
+Greg's Weapon (Staff)
+Greg's Weapon (Keylink)
+Greg's Weapon (Spear)
+We will give you a magic ball with the power of a dragon. Check your inventory.
 dummy
 dummy
 dummy
+Death Blood Spear
+Old Dranium Spaulder
 dummy
 dummy
 dummy
 dummy
 dummy
 dummy
+Everything is chaotic. Please confront with the wisdom of the hero.
+Soon the dimensional door will close. Please do your best a little more.
+The dimensional door has closed. Summon the hero to a safe place.
+Greg's Weapon (Axe)
+Rune Castle Magic Doll Package
+General magic doll bag
+Special magic doll bag
 dummy
 dummy
 dummy
 dummy
 dummy
 dummy
+It looks like all the stupid keepers have disappeared ...
+Even if you defeat the keeper, it will surround me ...
+This barrier of light doesn't seem to disappear easily ...
+I can't reach me as it is ... Move faster!
+Free me from this annoying barrier as soon as possible!
+A little more ... a little more ...
+With my power ... to break this barrier ...!
+It looks like we're just a little closer ...
+How long have you been waiting for this moment ...
+My magical power that was sealed has become even stronger!
+I'll make this Coliseum your graveyard ...
+I dominate the Aden World ...
+It is not a vessel that is sealed in such a Coliseum!
+I don't seem to have much time ...
+It seems that the barrier of light was not completely broken ...
+Gradually ... slowly ... surround me again ...
+Benzalkonium
+[Lv85 ~] Heine Occupation Battle
+Admission to Heine Castle
 dummy
 dummy
 dummy
@@ -35201,288 +35480,9 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+A vortex of cracks occurred before the Heine dock. The occupation battle has begun.
+The Heine Occupation Battle is over. The crack was swallowed by the waves.
+You can participate in the Heine Occupation Battle through the whirlpool in front of the Heine dock.
 dummy
 dummy
 dummy

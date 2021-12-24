@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>sign</icon>
+  <title>レベル5</title>
+  <dialog>
+	<p align="center"><font fg="ffffff">ウィザードの魔法：レベル5</font><br/></p>
+	<p><font fg="ffffaf">カーズ パラライズ：</font><br/>
+	種類：呪い/地<br/>
+	性向：Chaotic<br/>
+	消耗MP/HP：80/0<br/>
+	材料：魔力の石2個<br/>
+	対象：隣にいるPCまたはNPCの1人<br/>
+	効果：一定確率で対象を麻痺させます。<br/></p>
+	
+	<p><font fg="ffffaf">コール ライトニング：</font><br/>
+	種類：攻撃/風<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：18/0<br/>
+	持続時間：一瞬<br/>
+	対象：術者から6セル内のPCまたはNPCの1人<br/>
+	効果：空から雷を落とし、対象に大ダメージを与えます。<br/></p>
+	
+	<p><font fg="ffffaf">グレーター ヒール：</font><br/>
+	種類：治癒/水<br/>
+	性向：Lawful<br/>
+	消耗MP/HP：25/0<br/>
+	持続時間：一瞬<br/>
+	対象：術者<br/>
+	効果：術者のHPを回復させます。<br/></p>
+	
+	<p><font fg="ffffaf">テイミング モンスター：</font><br/>
+	種類：操作<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：30/20<br/>
+	材料：魔力の石1個<br/>
+	持続時間：3600秒<br/>
+	対象：術者から15セル内のモンスターNPCの1人<br/>
+	効果：対象に催眠術をかけて、一定確率で自分の命令に従うようになります。対象のHPが低いほど成功率が向上します。ただし、この魔法がかからないモンスターも存在します。<br/></p>
+	
+	<p><font fg="ffffaf">リムーブ カーズ：</font><br/>
+	種類：蘇生/水<br/>
+	性向：Lawful<br/>
+	消耗MP/HP：20/0<br/>
+	持続時間：一瞬<br/>
+	対象：術者から8セル内のPCまたはNPCの1人<br/>
+	効果：一定確率で対象がかかっている、あらゆる呪いを解除します。<br/></p>
+	
+	<p><font fg="ffffaf">コーン オブ コールド：</font><br/>
+	種類：攻撃/水<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：18/0<br/>
+	持続時間：一瞬<br/>
+	対象：術者から6セル内のPCまたはNPCの1人<br/>
+	効果：氷の塊を生成し、対象に飛ばしてダメージを与えます。<br/></p>
+
+	<p><font fg="ffffaf">マナ ドレイン：</font><br/>
+	種類：変化<br/>
+	性向：Neutral<br/>
+	消耗MP/HP：1/50<br/>
+	持続時間：一瞬<br/>
+	対象：術者から4セル内のPCまたはNPCの1人<br/>
+	効果：対象のMPの一部を剥ぎとり、その一部を自分のMPにします。<br/></p>
+	
+	<p><font fg="ffffaf">ダークネス：</font><br/>
+	種類：操作<br/>
+	性向：Chaotic<br/>
+	消耗MP/HP：15/0<br/>
+	材料：魔力の石1個<br/>
+	持続時間：32秒<br/>
+	対象：術者から3セル内のPCまたはNPCの1人<br/>
+	効果：対象プレイヤーの視界を完全に消します。キャンセレーションで解除できます。<br/></p>
+	<p><img src="331" link="helpmag"/><br/><br/></p>
+	</dialog>
+</npcdialog>

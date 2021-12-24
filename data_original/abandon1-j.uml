@@ -18,6 +18,6 @@
 		<panel type="Panel_Field_Abandoned_Bt">
 				<button action="a"/>
 				<button action="b"/>
-        </panel>	
+        </panel>
 	</dialog>
 </npcdialog>

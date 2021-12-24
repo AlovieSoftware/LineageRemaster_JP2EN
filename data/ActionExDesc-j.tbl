@@ -24,9 +24,9 @@
 22 \fHAction:\f> Auto Poe Slayers^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>When the target's weakness exposure is activated^      Auto use Poe Slayer.
 23 \fHAction:\f> Auto Dragon Diamond^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>If Einhasad's blessing level goes down to 99 or less,^      To keep Einhasad's blessing^      Used automatically.
 24 \fHAction:\f> Equipment Set Change^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Change the set of equipment worn.
-25 \fHAction:\f> Pet Attack^\fHType: \f>Target^\fHTarget: \f>Drinker^\fHEffect: \f>Pet attack target designation.
-26 \fHAction:\f> Pet Retreat^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Pet retreat order
-27 \fHAction:\f> Video REC^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Play screen video recording.
-28 \fHAction:\f> PSS^\fHType: \f>Toggle^\fHTarget: \f>Drinker^\fHEffect: \f>PSS can be run/stopped.
-29 \fHAction:\f> Party Assist^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Attacks the party leader's target. (In the case of the party leader, the target is shared with the party members.)
-30 \fHAction:\f> Monster Release (Shift)^\fHType: \f>Action^\fHTarget: \f>Drinker^\fHEffect: \f>Monster selection and name display can be on/off.
+25 \fHAction:\f> Video Recording^\fHType: \f>Action^\fHTarget: \f>Operator^\fHEffect: \f>Record play video.
+26 \fHAction:\f> PSS^\fHType: \f>Switch^\fHTarget: \f>Operator^\fHEffect: \f>Execute/stop PSS.
+27 \fHAction:\f> Party Assist^\fHType: \f>Action^\fHTarget: \f>Surgeon^\fHEffect: \f>Attacks the party leader's target. In the case of the party leader, the target is shared with the party members.
+28 \fHAction:\f> Monster Release (Shift twice)^\fHType: \f>Action^\fHTarget: \f>Operator^\fHEffect: \f>Monster selection and name display can be turned on/off.
+29 \fHAction:\f> Summon Monster Attack^\fHType: \f>Action^\fHTarget: \f>Summon monster^\fHEffect: \f>Summon monster attack posture can be turned on/off.
+30 \fHAction:\f> Summon Cancellation (Shift)^\fHType: \f>Action^\fHTarget: \f>Summon monster^\fHEffect: \f>Summon monster summon cancellation.

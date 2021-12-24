@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>shop</icon>
+  <title>商店</title>
+  <npc>
+  <portrait>PO_003</portrait>
+    <name>赤き騎士団</name>
+    <job>[補給品管理]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	勇士様、こんにちは！<br/>
+	<br/>
+	話せる島で勇士様に初めてお会いした時が昨日のようなのに、 
+	こうして立派に成長され、新たな戦場でお目にかかれるとは感無量です。<br/>
+	<br/>
+	私は<font fg="ffafff">赤き騎士団</font>の勝利を応援します！
+	必要な物がありましたら、いつでも私のところにお越しください。<br/>
+	<br/>
+	そうだ、本土に戻られましたら時々私がいる話せる島にも遊びにきてください。<br/>
+	いつでも大歓迎です。<br/>
+	<br/>
+	赤き騎士団、ファイト！<br/>
+	<br/>
+	<br/></p>
+	<panel type="Panel_Shop_Bt_Buy">
+		<button action="buy"/>
+	</panel>
+  </dialog>
+</npcdialog>
