@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>強化ウィザード</title>
+	<npc>
+  <portrait>PO_015</portrait>
+		<name><var src="name"/></name>
+		<job>[強化ウィザード]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		やあ、ようこそ。<br/>
+		見知らぬ土地でこうして会えてうれしいよ。<br/>
+		<br/>
+		ここでも変わらず<font fg="ffffaf">バフコイン</font>で役立つバフをかけているから、いつでも来てくれ。<br/>
+		 <br/>
+		 <br/>
+		 <br/>
+		 </p>
+		<p><font fg="afffff">[強化魔法を受ける]</font></p>
+		<panel type="Panel_Enchant_Bt_Strength">
+				<button action="d"/>
+        </panel>
+	</dialog>
+</npcdialog>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アデル</name>
+		<job>[神秘の狩り場]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		私は皆さんを神秘の狩り場にお送りしています。<br/>
+		しかし、何か条件が合わないようですね。<br/>
+		入場料が足りていないか、もしくは悪い人か…<br/>
+		それかあまりに強すぎて私が魔法をかけられないか…<br/>
+		でなければ時間をすべて使ってしまっていないか、確認してください。<br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>

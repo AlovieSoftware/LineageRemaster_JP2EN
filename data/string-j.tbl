@@ -903,7 +903,7 @@ Private Shop: The price per item is only permitted to be 1 ~ %d adena.
 Private Shop: The number of %s cannot exceed %d.
 Private Shop: Personal shop mode has started.
 Private Shop: Personal shop mode has stopped.
-Private Shop: The total sales price cannot exceed %d adena.
+Private Shop: The total selling price cannot be set above %d Adena.
 Private Shop: You cannot sell items that you are wearing.
 Private Shop: The item you are trying to sell does not match the items that you have.
 Shop
@@ -7211,10 +7211,10 @@ dummy9299
 Refill Einhasad Blessing up to %d%%
 Einhasad Blessing Bonus
 Ultimate Battle
-Participate every day and instantly receive Einhasad Blessing Bonus when defeating Boss Monsters
-Valrog
-Grim Reaper
-Instance Dungeons
+Participate every day to get rid of boss monsters and get Ein Hazard's blessing bonus
+3-5 army boss
+Secret Boss
+Fierce Battle Coliseum
 Participate every day and instantly receive Einhasad Blessing Bonus when defeating Boss Monsters
 Crocodile King Ross
 Cursed Ariok
@@ -7552,8 +7552,8 @@ Instant dungeons are not available at this time.
 I already have a Halphas Raid open.
 You can no longer create raid rooms.
 You can no longer earn Einhasad points.
-100%
-100%
+100% each
+200%
 200%
 300%
 300%
@@ -7801,9 +7801,9 @@ Read the Atonement Bible once
 Read the Atonement Bible three times
 Hear about spirit magic
 The Land of the Abandoned
-dummy
-dummy
-dummy
+Ein Hazard blessing has been booked.
+The reservation for Ein Hazard's blessing has been cancelled.
+No additional reservations can be made as it has already been reserved.
 Land of the Abandoned (PC)
 Discount ticket
 Please enter the name of the link you want to convey.
@@ -7819,7 +7819,7 @@ Instance dungeon automatic matching
 Open the Ein Hazard Point Information pop-up
 Read the Atonement Bible 5 times
 Read the Atonement Bible 10 times
-dummy
+(1 reservation in progress)
 Once
 10 times
 100 times
@@ -8018,7 +8018,7 @@ Weekly personal contribution
 Add it to your hunting ground list.
 The number of monsters to be defeated is initialized. Do you want to initialize it?
 Purchase is only possible in the Safety Zone.
-Meditation [Beyond]: MP recovery +5 (gradual amplification when taking MP recovery potion) \nMeditation effect is maintained during battle / movement
+Meditation [Beyond]: Meditation effect is maintained during battle / movement\nWhen using mana recovery potion, 2% additional recovery of maximum MP
 The meditation [Beyond] effect ends.
 Liberation: Apply after reducing the time of abnormal skill by a certain amount
 The effect of Liberation disappears.
@@ -8072,17 +8072,17 @@ Verification
 system
 title
 Contents
-dummy
-dummy
+Reward
+remaining time
 Acquisition completed
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Bulk receipt
+Bulk deletion
+Receipt
+Delete
+Immediate use
+maximum
 Lancer
-dummy
+Go to homepage
 dummy
 dummy
 Clan dignity! The hero's clan is a legendary clan. The clan mark cannot be changed during the event.
@@ -8235,14 +8235,31 @@ dummy
 dummy
 Staged status
 Unlock when all 3 statuses of the previous stage are strengthened by 25
-dummy
-dummy
+Color
+All character creation slots are filled. No more can be added.
 I played for %d hours. Excessive use of games may interfere with normal daily activities.
 dummy
+Quest completed
+Equipment set 3
+Equipment set 4
+edit
 dummy
+Death penalty recovery
+Experience point
+item
+Money change
 dummy
 dummy
+Items can only be acquired in the Safety Zone
+Exceeded weight
+Insufficient inventory
+The target for immediate use is already charged to MAX
+Failed to receive the item. Please try again after a while.
 dummy
+Experience points
+Item
+Will Adena recover %s?
+Will you recover %s with %d of petition?
 dummy
 dummy
 dummy
@@ -8261,10 +8278,14 @@ dummy
 dummy
 dummy
 dummy
+[Recover experience points / items]
 dummy
 dummy
 dummy
+Death penalty:\nExperience recovery %d \nItem recovery %d
 dummy
+Stationery for the new system has arrived
+You can register up to 100 item bookmarks.
 dummy
 dummy
 dummy
@@ -8290,6 +8311,9 @@ dummy
 dummy
 dummy
 dummy
+Purchase registration
+Item search
+attribute
 dummy
 dummy
 dummy
@@ -8297,31 +8321,7 @@ dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Not available on Interserver.
 dummy
 Halphas Curse: Evil
 Halphas Curse: Pain
@@ -8331,57 +8331,98 @@ dummy 8330
 dummy 8331
 dummy 8332
 dummy 8333
-dummy 8334
-dummy 8335
-dummy 8336
-dummy 8337
-dummy 8338
-dummy 8339
-dummy 8340
-dummy 8341
-dummy 8342
-dummy 8343
-dummy 8344
-dummy 8345
-dummy 8346
-dummy 8347
+You cannot enter in the low full state.
+You cannot enter in the neutral state.
+You cannot enter in the chaotic state.
+5 stages (general)
+5 stages (blessing)
+5 stages (dragon)
+Synthetic
+Synthesize
+exchange
+Exchange
+[Advanced synthesis]
+[Advanced synthesis automatic registration]
+If you want the strongest magic doll, try advanced synthesis.\nThe result is perfect because of the special material.
+If you are worried about the performance of another magic doll, you can exchange it for \n100 million Adena. \nThe effect of the potential you were using will be maintained.
 dummy 8348
 dummy 8349
 dummy 8350
 dummy 8351
 dummy 8352
-dummy 8353
-dummy 8354
-dummy 8355
-dummy 8356
-dummy 8357
-dummy 8358
-dummy 8359
-dummy 8360
-dummy 8361
-dummy 8362
-dummy 8363
-dummy 8364
-dummy 8365
-dummy 8366
-dummy 8367
-dummy 8368
-dummy 8369
-dummy 8370
-dummy 8371
-dummy 8372
-dummy 8373
-dummy 8374
-dummy 8375
-dummy 8376
-dummy 8377
-dummy 8378
-dummy 8379
-dummy 8380
+The competition will start in 10 seconds.
+The competition will start in 5 seconds.
+First Army rush!
+The rush of the 1st Army monster is complete.
+Soon the First Army boss will rush.
+After 30 seconds, the Second Army will begin to enter.
+Enter the Second Army!
+The rush of the 2nd Army monster is complete.
+Soon the Second Army boss will rush.
+After 30 seconds, the Third Army will begin to enter.
+3rd Army rushes!
+The rush to the 3rd Army has been completed.
+Soon the 3rd Army boss will rush.
+After 30 seconds, the 4th Army will begin to enter.
+4th Army rush!
+The rush to the 4th Army has been completed.
+Soon the 4th Army boss will rush.
+After 30 seconds, the Fifth Army will begin to enter.
+Enter the 5th Army!
+The rush to the 3rd Army has been completed.
+Soon the 5th Army boss will rush.
+There is 1 minute left until the end of the competition.
+The competition will end after 30 seconds.
+The competition will end in 20 seconds.
+The competition will end in 10 seconds.
+The competition will end in 5 seconds.
+After 30 seconds, the secret boss will rush.
+Please select all settings.
 dummy 8381
 dummy 8382
-dummy 8383
+:%d stage
 dummy 8384
+I can't update because I don't have enough Adena.
+dummy
+The blessing value of Ein Hazard will be charged as many as the testimony of the Ultimate Hero.
+Kerenis's Wrath 1st Stage ^ PVP Magic Damage Increase
+Kerenis's Wrath 2 Stages ^ PVP Magic Damage Increase
+Kerenis's Wrath 3 Stages ^ PVP Magic Damage Increase
+Kerenis's Wrath 4 Stages ^ PVP Magic Damage Increase
+Kerenis's Wrath 5 Stages ^ PVP Magic Damage Increase
+You can unlock the slot with the ancient ball.
+Do you use ancient tamaji?
+I unlocked the slot with an ancient ball.
+There is no ancient ball.
+\nCharacter name used:%s
+Space where dimensions are entwined (local)
+Space where dimensions are entwined (all servers)
+--%d position: %s (%d)
+--%d position: %s
+dummy
+dummy
+Bookmark / Unbookmark-Right-click the icon and keep it for about 1 second
+Eva's Blessing: I feel mysterious.
+Divine protection: HP protection for a certain period of time or a certain amount of damage
+Class transformation: Challenge the battle with your true appearance.
+The Divine protection effect disappears.
+dummy
+dummy
+Fatal Potion: Potion not available (probability)
+The fatal potion effect disappears.
+Holy Walk [Evolution]: Move, increase attack speed
+The Holy Walk [Evolution] effect disappears.
+dummy
+dummy
+No monsters have been summoned.
+dummy
+dummy
+dummy
+dummy
+dummy
+Summon monsters cannot be summoned in this area.
+dummy
+I don't have enough Adena.
 dummy
 dummy
 dummy
@@ -8389,62 +8430,21 @@ dummy
 dummy
 dummy
 dummy
+Magic doll exchange completed
+dummy
+Eldritch Blessing: HP + 100, AC-2, MR + 5, All Resistance +2, PVP Damage Reduction +2
+dummy
+It consumes 100 million Adena as a replacement cost. \nWould you like to replace it?
 dummy
 dummy
 dummy
 dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
+Mission remaining time
+Blessing of the North Tower: \nGreatly increases vitality and spiritual strength.
+Blessing of the East Tower: \nResilience is greatly increased.
+West Tower Blessing: \nNullifies your opponent's damage reduction effect.
+The hideout tax has not been paid and sales registration is not possible.
+Blessing of the South Tower: \nExceed the speed limit.
 dummy
 dummy
 dummy
@@ -8634,3 +8634,31 @@ dummy
 dummy
 dummy
 Cool Defensive Runes: AC-3
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Level 90
+Level 88
+Level 86

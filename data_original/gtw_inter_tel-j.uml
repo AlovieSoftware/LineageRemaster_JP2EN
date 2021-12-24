@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>dialog</icon>
+  <title>会話</title>
+  <npc>
+      <portrait>PO_002</portrait>
+    <name><var src="name"/></name>
+    <job>[次元のテレポーター]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	勇士様、<br/>
+	お怪我はありませんか？<br/>
+	<br/>
+	<br/>
+	<font fg="afffff">次元の渦</font>を通っての冒険はいつも新鮮ですが、熾烈でもあります。<br/>
+	<br/>
+	<font fg="afffff">本土に戻る</font>のであれば、私が力をお貸しします。<br/>
+	<br/>	
+	<br/>
+	<br/></p>	
+	<panel type="Panel_AntHouse_03_Bt">
+		<button action="a"/>
+    </panel>
+  </dialog>
+</npcdialog>

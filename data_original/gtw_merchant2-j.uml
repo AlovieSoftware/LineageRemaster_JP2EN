@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+  <icon>shop</icon>
+  <title>商店</title>
+  <npc>
+  <portrait>PO_044</portrait>
+    <name>ブラックナイト</name>
+    <job>[補給品管理]</job>
+  </npc>
+  <dialog>
+	<p><br/>
+	こんにちは。<br/>
+	私はタラス様の命で補給品をお渡ししに来ました。<br/>
+	<br/>
+	アデンで一番騒がしいギラン村からやっと抜け出せると思って喜んでいたのに、ここの方が騒がしいですね。<br/>
+	<br/>
+	それでも<font fg="fffaff">ブラックナイト</font>の方が物静かですと？<br/>
+	確かに真の実力者は口ではなく剣で争いますからね。<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/></p>
+	<panel type="Panel_Shop_Bt_Buy">
+		<button action="buy"/>
+	</panel>
+  </dialog>
+</npcdialog>

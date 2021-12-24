@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npcdialog>
+	<icon>dialog</icon> <!-- dialog, shop, enchant, warehouse -->
+	<title>ドラゴンハンターの証</title>
+
+	<dialog align="center">
+		<p>ドラゴンの棲息地探検に成功した勇士に</p>
+		<p>与えられる証</p>
+		<p>
+		<br/>
+		</p>
+	</dialog>
+
+	<dialog>
+		<p>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		</p>
+		<p>[注意事項]</p>
+		<p>ハンターの証は次週水曜日に<font fg="ffffaf">削除</font>されます。</p>
+	</dialog>
+</npcdialog>

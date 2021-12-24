@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>会話</title>
+	<dialog>
+		<p><font fg="ffffff"><var src="name"/>：</font><br/><br/></p>
+		<p><br/>どうやら君のプライドが許さないようだな…<br/>
+		アデナをもっと集めてくれば、君の面子をもう一度立ててあげられるのだが…<br/><br/>
+		<br/></p>
+  </dialog>
+</npcdialog>

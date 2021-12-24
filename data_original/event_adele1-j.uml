@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcdialog>
+	<icon>dialog</icon>
+	<title>イベント</title>
+	<npc>
+		<portrait>PO_002</portrait>
+		<name>アデル</name>
+		<job>[神秘の狩り場]</job>
+		<text></text>
+	</npc>
+	<dialog>
+		<p><br/>
+		私は皆さんを神秘の狩り場にお送りしています。<br/>
+		<br/>
+		一日1時間利用でき、<br/>
+		すべてのダンジョンは時間が共有されます。<br/>
+		<br/>
+		また、とてもお強い方(レベル89まで利用)と<br/>
+		悪い人は入ることができません。<br/>
+		<br/>
+		</p>
+		<p>
+		<a action="a">[神秘のエヴァ王国水路1階、1万アデナ]</a><br/><br/>
+		<a action="b">[神秘のエヴァ王国水路2階、1万5千アデナ]</a><br/><br/>
+		<a action="c">[神秘のエヴァ王国水路3階、2万アデナ]</a><br/><br/>
+		<a action="d">[神秘のアトゥバ オークの隠れ処1階、2万アデナ]</a><br/><br/>
+		<br/>
+		</p>
+	</dialog>
+</npcdialog>
